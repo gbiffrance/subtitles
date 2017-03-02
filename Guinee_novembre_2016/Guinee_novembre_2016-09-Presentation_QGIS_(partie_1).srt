@@ -1,0 +1,1317 @@
+1
+00:00:10,820 --> 00:00:13,440
+Fabien Caviere : Je vais vous présenter QGIS
+
+2
+00:00:14,260 --> 00:00:16,600
+un logiciel qui vous sera
+
+3
+00:00:17,120 --> 00:00:22,140
+je l'espère, très utile par la suite et qui vous permettra de maximiser vos données.
+
+4
+00:00:26,620 --> 00:00:29,680
+Tout d'abord un petit sommaire sur ce que l'on va voir.
+
+5
+00:00:29,900 --> 00:00:32,300
+Je vais vous donner des informations pratique sur QGIS.
+
+6
+00:00:33,180 --> 00:00:37,740
+Après, je vais vous donner les indications pour l'installer.
+
+7
+00:00:39,280 --> 00:00:43,400
+Sachant qu'il est dans le contenu que vous avez récupérez sur les clés USB.
+
+8
+00:00:44,340 --> 00:00:46,340
+On va faire une démonstration.
+
+9
+00:00:47,260 --> 00:00:54,260
+Je vais vous montrez les différentes fonctionnalités intéressantes de QGIS.
+
+10
+00:00:54,880 --> 00:00:58,440
+Un aperçu seulement car QGIS est énorme et complet et que nous n'aurions pas le temps de tout voir.
+
+11
+00:00:59,340 --> 00:01:03,520
+A la fin, je vous dirais pourquoi utiliser QGIS.
+
+12
+00:01:04,380 --> 00:01:06,380
+Les informations pratiques :
+
+13
+00:01:06,760 --> 00:01:13,280
+QGIS est un logiciel SIG, sigle pour Système d'information Géographique
+
+14
+00:01:14,340 --> 00:01:21,260
+qui est libre et multi-plateforme, cela veut dire qu'il marchera sur Windows, sur Linux et sur Mac.
+
+15
+00:01:23,640 --> 00:01:32,580
+Il gère les principaux formats qui sont utilisés par les logiciel de cartographie, c'est-à-dire les format RASTER et Vecteur.
+
+16
+00:01:33,300 --> 00:01:36,320
+Je vous le montrerai durant la démonstration.
+
+17
+00:01:39,280 --> 00:01:42,420
+QGIS a de nombreuses interactions avec de nombreux autres logiciels,
+
+18
+00:01:43,080 --> 00:01:46,020
+notamment avec les bases de données :
+
+19
+00:01:47,780 --> 00:01:52,820
+les bases de données doivent être des bases d'objets spatiaux comme PostGIS
+
+20
+00:01:53,020 --> 00:01:56,600
+qui est l'équivalent spatial du SGBD (Système de Gestion de Bases de Données) PostgreSQL.
+
+21
+00:01:59,600 --> 00:02:03,480
+On peut alimenter QGIS avec de nombreux jeux de données
+
+22
+00:02:04,380 --> 00:02:06,480
+au format CSV par exemple.
+
+23
+00:02:07,900 --> 00:02:11,760
+Actuellement, nous sommes à la version 2.18,
+
+24
+00:02:12,480 --> 00:02:18,360
+sachant qu'il a une grosse communauté, donc régulièrement, il y a des mises à jour qui sont faites,
+
+25
+00:02:18,520 --> 00:02:22,220
+des correctifs, c'est un logiciel qui évolue avec sa communauté.
+
+26
+00:02:24,940 --> 00:02:26,940
+Comment l'installer ?
+
+27
+00:02:29,460 --> 00:02:33,180
+Pour tout un chacun, ce serait d'aller sur le site de QGIS,
+
+28
+00:02:33,900 --> 00:02:37,980
+d'aller dans la catégorie de téléchargement, de choisir sa version,
+
+29
+00:02:38,420 --> 00:02:41,680
+entre Windows, Linux ou Mac.
+
+30
+00:02:42,640 --> 00:02:46,880
+Là, vous avez tous des Windows, donc ce serait cette opération :
+
+31
+00:02:47,700 --> 00:02:53,960
+télécharger l’exécutable, le lancer, sachant qu'il y a plusieurs versions pour Windows,
+
+32
+00:02:54,320 --> 00:02:59,940
+il y a la version 32 et 64, comme on l'a vu mercredi.
+
+33
+00:03:00,460 --> 00:03:05,660
+C'est la méthode que je vous avais montré : ouvrir le menu,
+
+34
+00:03:07,200 --> 00:03:12,160
+faire un clic-droit sur "Ordinateur", allez dans "Propriétés",
+
+35
+00:03:12,420 --> 00:03:14,780
+Et voir si c'est un 32 bits ou 64 bits.
+
+36
+00:03:15,280 --> 00:03:20,680
+Vous n'avez pas besoin d'aller sur le site car vous avez déjà le logiciel
+
+37
+00:03:21,600 --> 00:03:23,600
+qui est sur le contenu des clés USB.
+
+38
+00:03:24,040 --> 00:03:31,960
+Juste, regardez la version de Windows que vous avez : si vous avez la 32 ou 64, et vous l'installez.
+
+39
+00:03:33,120 --> 00:03:39,360
+Vous pouvez le faire maintenant, en attendant que cela s'installe, je vais faire la démonstration de QGIS.
+
+40
+00:03:45,000 --> 00:03:50,180
+Dans votre dossier QGIS, qui est ici, il y a beaucoup de fichier.
+
+41
+00:03:50,880 --> 00:03:55,400
+Mais ceux que vous devez utiliser, c'est ces deux-là :
+
+42
+00:03:55,720 --> 00:04:00,320
+le premier, c'est pour les Windows qui fonctionnent sur 32 bits,
+
+43
+00:04:00,800 --> 00:04:03,960
+et le second, sur les Windows sur 64 bits.
+
+44
+00:04:07,100 --> 00:04:11,500
+Un petit récapitulatif des informations que vous avez dans vos dossiers,
+
+45
+00:04:12,240 --> 00:04:19,420
+les fichiers .shp, ce sont des fichiers qui vont être utilisé par QGIS.
+
+46
+00:04:20,440 --> 00:04:23,420
+Là, ce sont des données que j'ai récupéré sur la Guinée,
+
+47
+00:04:24,960 --> 00:04:31,220
+des données qui proviennent du GBIF par le procédé que j'ai montré avant la pause (voir vidéo n°08)
+
+48
+00:04:32,060 --> 00:04:38,580
+là, c'est une image que l'on va utiliser comme fond de carte pour la Guinée.
+
+49
+00:04:40,020 --> 00:04:43,360
+Ici, c'est pour Linux et Mac, on ne s'en occupe pas.
+
+50
+00:04:44,660 --> 00:04:47,180
+Et celui-là, cela va être le Travaux Pratique (TP) de base.
+
+51
+00:04:48,560 --> 00:04:49,860
+Je vais le prendre.
+
+52
+00:04:50,460 --> 00:04:54,740
+Sur mon ordinateur, j'ai déjà QGIS qui est installé.
+
+53
+00:04:55,160 --> 00:05:01,060
+Je vais ouvrir le projet qui est directement sur la clé.
+
+54
+00:05:17,200 --> 00:05:22,680
+Ici, on a l'interface classique de QGIS, lorsqu'on l'ouvre.
+
+55
+00:05:23,380 --> 00:05:29,860
+Ici (en haut) vous avez de multiple barre d'outils, que l'on peut rajouter,
+
+56
+00:05:33,380 --> 00:05:35,560
+via le menu correspondant.
+
+57
+00:05:37,160 --> 00:05:39,160
+qui est
+
+58
+00:05:41,320 --> 00:05:43,320
+dans le menu "Vue"
+
+59
+00:05:44,740 --> 00:05:52,460
+Ensuite, à gauche, on a un onglet de visualisation, avec en haut, un explorateur pour aller chercher les données,
+
+60
+00:05:54,380 --> 00:05:59,640
+au centre, une zone qui vous montre les différentes couches,
+
+61
+00:06:01,200 --> 00:06:05,080
+car dans tous logiciel SIG, cela fonctionne par couche.
+
+62
+00:06:05,520 --> 00:06:09,300
+On va avoir, par exemple, la couche 0 qui est un fond de carte
+
+63
+00:06:09,680 --> 00:06:16,800
+la couche 1 qui va regrouper les points et objet qui représente les rivières,
+
+64
+00:06:17,100 --> 00:06:20,560
+ensuite on aura une autre couche qui représentera les villes, etc.
+
+65
+00:06:21,240 --> 00:06:24,300
+Je vais vous le montrez plus en détails tout à l'heure.
+
+66
+00:06:26,000 --> 00:06:31,320
+Tout à gauche du logiciel, nous avons une barre d'outil qui permet de faire des raccourcis,
+
+67
+00:06:32,160 --> 00:06:36,280
+que l'on retrouve ici (dans les différents menu, en haut)
+
+68
+00:06:36,660 --> 00:06:39,160
+toutes les actions qui sont ici (menu "Vue")
+
+69
+00:06:40,260 --> 00:06:42,260
+"Ajoutez une couche",
+
+70
+00:06:42,620 --> 00:06:47,360
+Vous le voyez, c'est
+ah je n'aurais pas dû cliquer
+
+71
+00:06:47,960 --> 00:06:51,680
+on (les options des menu) les retrouve ici (dans la barre d'outils de gauche) où c'est plus facile d’accès.
+
+72
+00:06:53,580 --> 00:06:59,340
+Au centre du logiciel, c'est le canevas, c'est là où va s’afficher les cartes et les couches.
+
+73
+00:07:00,280 --> 00:07:04,280
+Et en bas, sous le canevas, on a les informations géographiques.
+
+74
+00:07:07,640 --> 00:07:13,380
+Ce que l'on va faire, c'est récupérer le fond de carte.
+
+75
+00:07:14,380 --> 00:07:17,220
+On va rajouter une couche RASTER.
+
+76
+00:07:19,040 --> 00:07:24,160
+Donc on retourne (via l'explorateur) dans le dossier,
+
+77
+00:07:27,660 --> 00:07:31,400
+Je mets le dossier QGIS en raccourcis (car je reviendrais souvent dans ce dossier par la suite, via l'explorateur de fichier de QGIS).
+
+78
+00:07:37,340 --> 00:07:40,040
+Comme cela, je pourrais rechercher plus facilement (par la suite).
+
+79
+00:07:40,480 --> 00:07:42,480
+Je vais prendre la carte.
+
+80
+00:07:44,160 --> 00:07:46,440
+Voilà, j'ai la carte du monde qui s'est affichée.
+
+81
+00:07:48,500 --> 00:07:50,500
+On va aller zoomer sur la Guinée.
+
+82
+00:07:54,740 --> 00:08:01,080
+A noter que, selon les informations que vous mettez
+
+83
+00:08:01,440 --> 00:08:05,260
+dans le logiciel, lorsque vous zoomez, ce sera plus ou moins long (le rafraîchissement de la carte)
+
+84
+00:08:05,320 --> 00:08:07,820
+selon les informations qui sont déjà dedans,
+
+85
+00:08:07,840 --> 00:08:10,700
+et si elles sont lourdes ou pas.
+
+86
+00:08:16,220 --> 00:08:18,220
+Là, je vais dé-zoomer.
+
+87
+00:08:19,480 --> 00:08:26,160
+Pour déplacer la carte, tout ce que vous avez à faire, c'est un clic glisser-déposer.
+
+88
+00:08:26,600 --> 00:08:30,780
+On va zoomer sur la Guinée. Voilà. On est dans la zone.
+
+89
+00:08:31,200 --> 00:08:37,500
+Avoir un fond de carte, c'est bien mais avoir des données, c'est mieux.
+
+90
+00:08:37,780 --> 00:08:40,260
+Ce que l'on va faire, c'est que l'on va rajouter les données.
+
+91
+00:08:43,780 --> 00:08:47,900
+Il y a plusieurs moyens pour ajouter des données, soit par une base de données,
+
+92
+00:08:47,900 --> 00:08:49,900
+en cliquant ici (bouton de PostGIS dans la barre d'outils de gauche)
+
+93
+00:08:50,220 --> 00:08:53,200
+on peut ajouter (des données) à partir d'une table PostGIS
+
+94
+00:08:54,260 --> 00:08:58,100
+on peut aussi ajouter (des données) à partir d'un fichier CSV ou d'un fichier texte.
+
+95
+00:08:58,460 --> 00:09:00,460
+C'est cette dernière option que je vais vous montrer.
+
+96
+00:09:01,380 --> 00:09:06,200
+Par exemple, "couche" > "Ajouter une couche"
+
+97
+00:09:07,300 --> 00:09:10,240
+puis "Ajouter une couche de texte délimité"
+
+98
+00:09:15,980 --> 00:09:17,980
+On a une boite de dialogue,
+
+99
+00:09:18,360 --> 00:09:21,680
+qui va nous permettre de récupérer les données qui sont ici.
+
+100
+00:09:25,020 --> 00:09:27,020
+On certifie bien
+
+101
+00:09:29,400 --> 00:09:31,400
+que la délimitation
+
+102
+00:09:32,160 --> 00:09:34,720
+se fait par "personnel".
+
+103
+00:09:35,400 --> 00:09:39,060
+Là, on a le choix : soit on fait par virgule, pour les fichiers CSV,
+
+104
+00:09:39,520 --> 00:09:42,000
+ou soit on fait un délimiteur personnalisé.
+
+105
+00:09:42,560 --> 00:09:46,000
+Juste je vais vous montrer à quoi ressemble le fichier.
+
+106
+00:09:48,780 --> 00:09:52,260
+on voit que c'est un fichier qui a pour séparateur des tabulations,
+
+107
+00:09:53,240 --> 00:09:56,260
+donc ce que l'on va faire, c'est
+
+108
+00:09:57,280 --> 00:10:00,680
+utiliser un délimitateur personnalisé,
+
+109
+00:10:00,960 --> 00:10:02,960
+et on coche "tabulation".
+
+110
+00:10:04,920 --> 00:10:12,120
+Plus bas, tout va bien, il nous montre ce qu'il récupèrera,
+on a bien
+
+111
+00:10:12,120 --> 00:10:14,460
+les informations qui sont dans les bonnes colonnes.
+
+112
+00:10:15,300 --> 00:10:21,380
+On appuie sur "Ok", et avant de nous laisser enregistrer les données dans le logiciel,
+
+113
+00:10:21,920 --> 00:10:30,060
+il nous demande le système de coordonnées que l'on va utiliser, ce dont Sophie vous a parlé mercredi (voir vidéo n°5).
+
+114
+00:10:31,720 --> 00:10:37,120
+on vérifie bien que c'est WGS84.
+
+115
+00:10:40,540 --> 00:10:42,540
+On voit ici qu'il a rajouté les données,
+
+116
+00:10:43,120 --> 00:10:45,540
+c'est des données qui sont réparties sur deux zones,
+
+117
+00:10:46,280 --> 00:10:48,540
+mais là honnêtement,
+
+118
+00:10:49,700 --> 00:10:52,680
+on voit le fond de carte, on voit les données mais on ne sait pas
+
+119
+00:10:52,920 --> 00:10:56,800
+si c'est proche d'un montagne, proche d'une route, etc.
+
+120
+00:10:57,020 --> 00:11:00,960
+Ce que l'on va faire, c'est rajouter des couches, pour rajouter de l'informations.
+
+121
+00:11:02,720 --> 00:11:05,260
+Ici (sur l'option correspondante sur la barre d'outil) vous pouvez rajoutez une couche vecteur.
+
+122
+00:11:05,720 --> 00:11:11,220
+Vous avez la même option dans "Couches" > "Ajoutez une couche" > "Ajoutez une couche vecteur".
+
+123
+00:11:14,420 --> 00:11:18,600
+On vérifie bien que c'est un fichier que l'on va rajouter (option en haut de la fenêtre de dialogue)
+
+124
+00:11:20,020 --> 00:11:24,180
+on fait "Parcourir" pour récupérer le dossier.
+
+125
+00:11:25,220 --> 00:11:31,500
+Et on va alors récupérez tous les fichiers SHP que l'on a dans notre dossier QGIS.
+
+126
+00:11:32,360 --> 00:11:34,360
+On va faire les bâtiments.
+
+127
+00:11:54,180 --> 00:11:57,200
+Je vais reprendre à partir d'ici.
+
+128
+00:11:59,240 --> 00:12:34,780
+a supprimer
+
+129
+00:12:36,220 --> 00:12:41,800
+On a intégré des données à la carte, c'est ce que j'ai essayé de vous montrer,
+
+130
+00:12:42,060 --> 00:12:45,980
+on ajoute une couche vecteur.
+
+131
+00:12:46,680 --> 00:12:49,960
+Très important : c'est une couche Vecteur, pas RASTER.
+
+132
+00:12:50,560 --> 00:12:55,840
+Les vecteurs, cela va être des objets géographique et RASTER cela va être des points.
+
+133
+00:12:57,400 --> 00:13:05,280
+On a la couche vecteur, l'option fichier sélectionné, le codage en UTF8, et la source.
+
+134
+00:13:06,000 --> 00:13:12,120
+En cliquant sur "Ok", ce que j'aurais dû normalement obtenir, c'est le nom des couches qui se rajoutent.
+
+135
+00:13:15,540 --> 00:13:59,260
+A supprimer
+
+136
+00:13:59,960 --> 00:14:05,740
+Une fois que l'on a toutes les couches qui sont rajoutées,
+
+137
+00:14:07,480 --> 00:14:11,780
+Ce que l'on peut faire, c'est
+
+138
+00:14:12,740 --> 00:14:14,740
+modifier les propriétés des couches.
+
+139
+00:14:15,000 --> 00:14:19,700
+Car QGIS va vous donner des attributs standard pour chaque couche.
+
+140
+00:14:21,340 --> 00:14:26,620
+Et nous, ce que l'on voudra peut-être faire, c'est peut-être personnaliser
+
+141
+00:14:27,180 --> 00:14:33,160
+les couches pour avoir une carte qui reflète plus d'informations.
+
+142
+00:14:33,720 --> 00:14:39,460
+C'est-à-dire, QGIS, par défaut, peut vous mettre les mers en rouge.
+
+143
+00:14:40,400 --> 00:14:44,880
+Sauf que les mers, elles sont surtout bleues.
+
+144
+00:14:45,600 --> 00:14:49,520
+Idem pour les cours d'eau, donc ce que l'on voudra faire, c'est les mettre en bleu.
+
+145
+00:14:50,000 --> 00:14:54,400
+pour cela, on vient récupérer
+
+146
+00:14:55,060 --> 00:15:01,580
+dans la partie couche, donc la partie ici (à gauche au centre dans QGIS).
+
+147
+00:15:03,760 --> 00:15:09,760
+Qui vous permet, lorsque vous accéder aux propriétés
+
+148
+00:15:10,040 --> 00:15:14,800
+en faisant un clic-droit sur le nom de la couche, vous pouvez récupérer ces propriétés.
+
+149
+00:15:15,640 --> 00:15:20,600
+Vous avez normalement une fenêtre qui s'affiche, qui ressemble à celle-ci.
+
+150
+00:15:21,520 --> 00:15:25,720
+Vous avez différentes informations :
+
+151
+00:15:26,400 --> 00:15:31,960
+tout d'abord, un volet à gauche, qui représente toutes les espaces,
+
+152
+00:15:32,580 --> 00:15:38,660
+on ira dans l'espace style, le second en partant du haut.
+
+153
+00:15:39,320 --> 00:15:43,760
+Il va nous mettre tout le style qui est appliqué à la couche.
+
+154
+00:15:44,560 --> 00:15:46,560
+Donc on choisira les couleurs.
+
+155
+00:15:47,380 --> 00:15:51,080
+Ici on aura les couches du style
+*le micro cravate tombe, le son devient moins fort*
+
+156
+00:15:51,360 --> 00:15:54,820
+avec leurs unités, en général en mètre,
+
+157
+00:15:55,140 --> 00:15:56,700
+et la couleur.
+
+158
+00:15:57,120 --> 00:16:04,880
+En descendant la barre déroulante, on aura le choix des couleurs.
+
+159
+00:16:07,540 --> 00:16:13,280
+Du coup, en changeant ses valeurs, on aura changé le style de la couche.
+*le micro cravate a été remis*
+
+160
+00:16:15,280 --> 00:16:18,020
+A supprimer
+
+161
+00:16:18,740 --> 00:16:25,180
+On peut, pardon, rajouter plusieurs éléments de style sur une même couche.
+
+162
+00:16:25,480 --> 00:16:27,940
+Je prends l'exemple d'une route.
+
+163
+00:16:28,560 --> 00:16:35,240
+Pour une route, par défaut, QGIS va nous mettre par défaut une ligne noire
+
+164
+00:16:35,360 --> 00:16:39,720
+ou rouge, peu importe la couleur qu'il aura choisi pour symboliser les routes
+
+165
+00:16:40,360 --> 00:16:45,200
+Mais une ligne sur une carte, cela peut très bien symboliser une rivière aussi.
+
+166
+00:16:45,620 --> 00:16:48,880
+Ce que l'on pourrait vouloir faire,
+
+167
+00:16:49,260 --> 00:16:53,360
+c'est avoir une ligne creuse.
+
+168
+00:16:54,100 --> 00:16:56,100
+Pour symboliser une route.
+
+169
+00:16:56,660 --> 00:17:03,320
+Par exemple, ce que l'on voudrait faire, c'est ajouter deux lignes,
+
+170
+00:17:03,980 --> 00:17:09,240
+une ligne noire qui fait 5 millimètres de largeur,
+
+171
+00:17:09,660 --> 00:17:14,600
+et une autre ligne, blanche cette fois ci qui ferais 3 millimètres de largeur.
+
+172
+00:17:15,160 --> 00:17:18,920
+Et du coup, on aurait une ligne creuse
+
+173
+00:17:19,280 --> 00:17:21,780
+*toux*
+
+174
+00:17:21,780 --> 00:17:23,580
+qui symboliserait la route pardon.
+
+175
+00:17:24,880 --> 00:17:30,020
+Donc on peut rajouter plusieurs éléments sur une seule (couche).
+
+176
+00:17:31,180 --> 00:17:35,760
+Comme je vous le disais (liste des modifications à faire sur la couche route) : créez deux lignes,
+
+177
+00:17:35,760 --> 00:17:39,700
+modifiez ces paramètres pour avoir une route qui est symbolisé
+
+178
+00:17:40,080 --> 00:17:42,360
+*toux*
+
+179
+00:17:42,840 --> 00:17:43,740
+Désolé.
+
+180
+00:17:45,200 --> 00:17:48,300
+On aurait une carte comme ceci, avec
+
+181
+00:17:49,820 --> 00:17:50,940
+les éléments ici.
+
+182
+00:17:51,740 --> 00:17:59,780
+Les lignes qui représentent bien des routes, vu que ce sont des lignes creuses.
+
+183
+00:18:00,580 --> 00:18:04,380
+On ne risque pas de les confondre avec les rivières qui sont des lignes simples.
+
+184
+00:18:08,340 --> 00:18:15,660
+Récupérer le fond de carte : comme on l'a vu, on peut le faire à partir d'une image.
+
+185
+00:18:15,760 --> 00:18:18,860
+L'image doit être au format .tiff
+
+186
+00:18:20,120 --> 00:18:24,660
+A supprimer
+
+187
+00:18:25,440 --> 00:18:33,360
+Ou sinon, la deuxième solution ; elle demande une grosse connexion internet,
+
+188
+00:18:33,860 --> 00:18:44,280
+a supprimer
+
+189
+00:18:44,940 --> 00:18:52,880
+Cela sera via OpenStreetMaps : c'est un site qui affiche la carte du monde
+
+190
+00:18:53,540 --> 00:18:56,080
+auquel on peut récupérer des données gratuitement.
+
+191
+00:18:58,540 --> 00:19:00,540
+D’ailleurs, je vais vous le montrer.
+
+192
+00:19:02,340 --> 00:19:28,380
+a supprimer
+
+193
+00:19:31,060 --> 00:19:37,460
+Voilà OpenStreetMaps qui est un site similaire à Google Maps.
+
+194
+00:19:38,140 --> 00:19:46,200
+Sauf que OpenStreetMaps est gratuit et libre pour tous, vous pouvez récupérer les données facilement.
+
+195
+00:19:50,780 --> 00:19:55,440
+C'est un site où l'on peut récupérer des données cartographiques.
+
+196
+00:19:55,920 --> 00:20:01,660
+Pour récupérer les données, on a deux possibilités.
+
+197
+00:20:03,260 --> 00:20:06,940
+Je vais revenir sur le diaporama.
+
+198
+00:20:10,040 --> 00:20:13,400
+Soit vous sélectionnez une zone précise,
+
+199
+00:20:15,960 --> 00:20:21,260
+ou soit vous récupérez intégralement toutes les données de OpenStrretMaps.
+
+200
+00:20:22,260 --> 00:20:28,740
+Dans le menu "Internet" > "OpenLayers Plugin" vous aurez une option "OpenStreetMaps"
+(vérifiez que l'option OpenLayers Plugin est installé dans le menu "Extension")
+
+201
+00:20:29,600 --> 00:20:37,060
+et vous pourrez avoir OpenStreetMap comme fond de carte.
+
+202
+00:20:37,540 --> 00:20:43,220
+Par contre, c'est un fond dynamique, lorsque vous zoomerez, la carte s'adaptera,
+
+203
+00:20:43,320 --> 00:20:49,220
+mais il faudra être connecter à internet de manière permanente.
+
+204
+00:20:53,860 --> 00:20:59,980
+Sinon, il y a la version que je vous ai montré tout à l'heure, avec un fichier .tiff
+
+205
+00:21:01,600 --> 00:21:08,740
+Participant 1 : Est-ce qu'on peut pas exporter juste une zone précise pour faire le fond de carte ?
+
+206
+00:21:08,860 --> 00:21:11,700
+Fabien Caviere : Sur OpenStreetMaps, oui on peut. Je vais vous le montrer.
+
+207
+00:21:17,200 --> 00:21:20,320
+En cliquant sur le bouton "Exporter",
+
+208
+00:21:21,540 --> 00:21:28,180
+vous aurez les coordonnées de la zone en question, et ces coordonnées,
+
+209
+00:21:29,060 --> 00:21:32,320
+devront être rentré ici (dans QGIS).
+
+210
+00:21:33,660 --> 00:21:56,480
+A supprimer
+
+211
+00:21:59,820 --> 00:22:02,920
+Normalement, vous avez une option,
+
+212
+00:22:06,660 --> 00:22:14,320
+vous avez "Vecteur" > "OpenStreetMaps" > "Télécharger des données OSM", et il faudra renseigner les quatre champs
+
+213
+00:22:15,720 --> 00:22:19,460
+qui se trouvent ici (sur la gauche sur le site d'OpenStreetmaps).
+
+214
+00:22:19,580 --> 00:22:24,440
+Mais par contre, cela n'ira pas plus loin, le fond de carte ne sera que cette zone.
+
+215
+00:22:25,020 --> 00:22:29,340
+Si vous voulez à côté, vous ne pourrez pas.
+
+216
+00:22:30,180 --> 00:22:32,180
+Je reviens sur les diapos.
+
+217
+00:22:43,700 --> 00:22:49,460
+Là, c'est un fond de carte avec toutes les couches
+
+218
+00:22:49,760 --> 00:22:52,800
+qui sont rentrées : tous les petit points que vous voyez,
+
+219
+00:22:53,760 --> 00:22:55,760
+ce sont des zones et des bâtiments.
+
+220
+00:23:00,340 --> 00:23:08,220
+C'est bien beau d'avoir ces couches mais on voudrait voir les données qui a dans ces couches.
+
+221
+00:23:08,560 --> 00:23:15,100
+Rien de plus simple, dans la barre des tâches, vous avez une icône qui ressemble à une table (de base de données)
+
+222
+00:23:15,620 --> 00:23:18,400
+qui s'appelle la table d'attribut.
+
+223
+00:23:19,200 --> 00:23:26,780
+En sélectionnant une couche et en cliquant sur ce bouton,
+
+224
+00:23:27,320 --> 00:23:33,280
+Vous aurez l'ensemble des données de cette couche.
+
+225
+00:23:33,680 --> 00:23:40,160
+par exemple, pour les routes, il y aura leur noms, leur identifiants, leur numéros,
+
+226
+00:23:40,460 --> 00:23:48,200
+peut-être celui qui l'a construite, son usage ou sa limitation de vitesse, etc.
+
+227
+00:23:51,300 --> 00:23:58,560
+A noter que vous pouvez modifier ces informations, vous avez une icône crayon, en haut de la fenêtre,
+
+228
+00:23:59,780 --> 00:24:04,680
+que l'on ne voit pas très bien sur la capture d'image, qui vous permet de passer en mode édition.
+
+229
+00:24:05,060 --> 00:24:13,320
+Là, vous pourrez modifier directement les données dans cette table-là.
+
+230
+00:24:17,600 --> 00:24:23,300
+Modifier les couches pour qu'elles correspondent à nos besoins, c'est bien,
+
+231
+00:24:23,880 --> 00:24:28,200
+mais on veut aussi peut-être rajouter de l'information en plus.
+
+232
+00:24:28,340 --> 00:24:30,820
+Pour cela, on va utiliser ce que l'on appelle des étiquettes.
+
+233
+00:24:32,340 --> 00:24:37,680
+C'est pareil que tout à l'heure, vous sélectionnez une couche, dans le volet de gauche (sur QGIS),
+
+234
+00:24:38,680 --> 00:24:44,740
+ensuite vous faite un clic-droit puis cliquez sur "Propriétés",
+
+235
+00:24:45,580 --> 00:24:51,260
+et au lieu d'allé dans la catégorie  "Style", qui était à gauche de la fenêtre,
+
+236
+00:24:51,260 --> 00:24:53,000
+vous allez dans la catégorie "Etiquette".
+
+237
+00:24:54,500 --> 00:25:00,360
+Là, vous avez cet espace qui s'affiche, avec
+
+238
+00:25:02,160 --> 00:25:06,800
+un exemple de ce à quoi va ressembler votre étiquette, avec le lorem ipsum.
+
+239
+00:25:07,820 --> 00:25:13,100
+Et vous avez les différents attributs, je vais vous les dire à l'oral car on ne les voit pas bien :
+
+240
+00:25:13,460 --> 00:25:17,460
+un attribut texte, qui est  d'ailleurs sélectionné, dans lequel
+
+241
+00:25:18,760 --> 00:25:24,340
+vous sélectionnez le style qui sera appliqué au texte, comme dans un éditeur de texte classique, c'est-à-dire : sa police
+
+242
+00:25:24,900 --> 00:25:28,840
+sa couleur, sa taille
+
+243
+00:25:29,340 --> 00:25:34,520
+si cela doit être transparent, plus d'autres options.
+
+244
+00:25:35,960 --> 00:25:44,260
+Vous avez ici, le tampon : c'est un fond sur l'étiquette.
+
+245
+00:25:44,740 --> 00:25:49,960
+Par exemple, là on n'en a pas mis mais on pourrais vouloir que nos étiquettes
+
+246
+00:25:50,180 --> 00:25:53,140
+ont un fond couleur parchemin.
+
+247
+00:25:53,560 --> 00:25:56,040
+Dans ce cas-là, on irait dans "tampon" pour en rajouter un.
+
+248
+00:25:57,420 --> 00:26:00,980
+Pardon, ce que j'ai dit sur "tampon", c'était pour le "fond"
+
+249
+00:26:01,660 --> 00:26:06,700
+Le tampon, c'est un aspect gras et noir qui est autour du texte.
+
+250
+00:26:07,460 --> 00:26:10,960
+Et le fond est comme son nom l'indique, si vous voulez rajouter un fond.
+
+251
+00:26:11,800 --> 00:26:16,480
+ici, vous avez l'emplacement : c'est-à-dire où le placer par rapport à l'objet.
+
+252
+00:26:16,820 --> 00:26:19,980
+Par exemple : si votre couche,
+
+253
+00:26:20,580 --> 00:26:24,640
+est celle des bâtiment, cela va être des polygones.
+
+254
+00:26:25,060 --> 00:26:30,240
+Cela va être des structures ovales, carrés ou bien rondes.
+
+255
+00:26:30,380 --> 00:26:32,380
+Cela ne va pas être des lignes ou des traits.
+
+256
+00:26:32,540 --> 00:26:36,680
+Donc on peut vouloir nos étiquettes au-dessus des bâtiments.
+
+257
+00:26:36,800 --> 00:26:41,520
+Pour définir cela, il faudra allez dans la section "etiquette", catégorie "emplacement".
+
+258
+00:26:42,300 --> 00:26:48,040
+Après, nous avons la catégorie "Fond" qui permet de
+
+259
+00:26:48,700 --> 00:26:50,600
+non pardon
+
+260
+00:26:51,040 --> 00:26:56,100
+la catégorie "rendu" qui permet de rajouter des effets sur l’étiquette.
+
+261
+00:26:57,140 --> 00:27:03,340
+Là, on a l'espace "Texte", maintenant, je montre l'espace "Tampon".
+
+262
+00:27:04,480 --> 00:27:10,140
+Tout d'abord, QGIS n'ajoute pas de tampon par défaut aux étiquettes,
+
+263
+00:27:10,420 --> 00:27:13,800
+donc il faudra cliquer ici pour le rajouter.
+
+264
+00:27:14,600 --> 00:27:20,600
+On peut mettre la taille, c'est-à-dire la taille de 'gras' qui va être rajouté au texte.
+
+265
+00:27:21,540 --> 00:27:26,300
+On a la couleur : on voit bien que la couleur
+
+266
+00:27:26,300 --> 00:27:29,560
+vert pomme que nous avions utilisé ici,
+
+267
+00:27:29,840 --> 00:27:32,820
+est bien la couleur du texte.
+
+268
+00:27:33,300 --> 00:27:36,220
+Et on voit que ce qui a autour, c'est bien cette couleur.
+
+269
+00:27:37,300 --> 00:27:42,760
+Pareil que le texte, on a les mêmes options : la taille, la couleur, etc.
+
+270
+00:27:43,880 --> 00:27:47,880
+Une fois que l'on a fait cela, on a un résultat qui ressemble à ceci.
+
+271
+00:27:48,140 --> 00:27:52,380
+Là par exemple, ce que j'ai fait, j'ai pris les zones
+
+272
+00:27:53,280 --> 00:28:00,980
+naturelles, il y a une couche qui s'appelle "zone_naturelle" et je lui ai demandé de créer une couche sur le nom.
+
+273
+00:28:01,480 --> 00:28:11,540
+Comment j'ai fait cela : ici dans "étiquetez avec", on doit choisir l'attribut qui sera utilisé comme étiquette.
+
+274
+00:28:12,060 --> 00:28:18,280
+Vous avez une liste déroulante avec tous les attributs de la couche : sur les zones naturelles,
+
+275
+00:28:18,620 --> 00:28:24,360
+il y avait les coordonnées x, les coordonnées y, le nom, l'identifiant, etc.
+
+276
+00:28:24,440 --> 00:28:27,720
+En général, on choisit "nom" pour les étiquettes.
+
+277
+00:28:28,360 --> 00:28:33,540
+mais on peut choisir une autre catégorie : par exemple, imaginons que nous ayons des espaces publics,
+
+278
+00:28:33,740 --> 00:28:38,200
+et on veut étiqueter les espaces qui ont
+
+279
+00:28:38,360 --> 00:28:40,360
+une piscine.
+
+280
+00:28:41,280 --> 00:28:45,520
+il y aurait un attribut dans la couche qui dirais,
+
+281
+00:28:45,800 --> 00:28:49,740
+"possède un piscine" ; dans ce cas-là, on créera une étiquette avec cet attribut.
+
+282
+00:28:52,760 --> 00:29:01,800
+Là, on a choisi le nom des espaces naturel : "cliff" les falaises, "beach" les plages,
+
+283
+00:29:02,120 --> 00:29:04,120
+et c'est tout.
+
+284
+00:29:06,960 --> 00:29:08,960
+Voici a quoi correspond
+
+285
+00:29:12,780 --> 00:29:18,880
+une carte dans laquelle j'ai gardé mes étiquettes mais j'ai aussi rajouté des étiquettes sur les données du GBIF.
+
+286
+00:29:19,020 --> 00:29:23,440
+Là, j'ai décidé de faire une étiquette avec le scientificName (nom scientifique).
+
+287
+00:29:23,880 --> 00:29:31,480
+Donc on voit que chaque occurrence, les points rouges, ont le nom scientifique,
+
+288
+00:29:32,220 --> 00:29:34,860
+qui est utilisé comme étiquette.
+
+289
+00:29:41,860 --> 00:29:45,820
+On peut vouloir colorier les couches.
+
+290
+00:29:46,320 --> 00:29:50,900
+Mais peut-être que l'on veut aussi colorier à l'intérieur des couches.
+
+291
+00:29:51,360 --> 00:29:56,680
+Je m'explique : imaginez l'attribut zone naturelle par exemple
+
+292
+00:29:57,040 --> 00:30:05,820
+il a peut-être un attribut dans cette couche qui permet de les différencier : par exemple, on a vu qu'il y avait à la fois des falaises
+
+293
+00:30:05,820 --> 00:30:07,640
+et des plages.
+
+294
+00:30:08,160 --> 00:30:12,700
+On a la possibilité de colorier à l'intérieur des couches.
+
+295
+00:30:13,640 --> 00:30:18,320
+Je prends comme exemple la couches des bâtiments.
+
+296
+00:30:19,520 --> 00:30:25,960
+Où il y a les bâtiments publics, les bâtiments privés, les administrations, les hôpitaux...
+
+297
+00:30:26,120 --> 00:30:30,540
+ce que l'on va faire, c'est colorier chacun avec une couleur différente.
+
+298
+00:30:34,300 --> 00:30:39,780
+Dans l'espace "Style", toujours dans les propriétés d'une couche,
+
+299
+00:30:44,200 --> 00:30:50,060
+Je rappelle, vous allez dans l'espace à gauche au milieu, vous faite clic-droit sur la couche
+
+300
+00:30:50,140 --> 00:30:52,140
+actuellement, j'en ai pas donc je ne peux pas vous le montrer
+
+301
+00:30:52,240 --> 00:30:54,240
+vous faite "Propriétés"
+
+302
+00:30:55,000 --> 00:30:59,180
+Vous aurez cette fenêtre qui s'affiche.
+
+303
+00:31:02,680 --> 00:31:09,860
+Vous allez dans l'espace "Style" comme tout à l'heure, sauf que l'on va changer le style,
+
+304
+00:31:09,940 --> 00:31:17,180
+c'est-à-dire, dans la zone déroulante tout en haut de la fenêtre,
+
+305
+00:31:18,320 --> 00:31:27,660
+au lieu de faire un style "remplit", qui est de base, on va faire un style qui est
+
+306
+00:31:30,100 --> 00:31:32,100
+"classé".
+
+307
+00:31:37,160 --> 00:31:42,140
+On choisit l'attribut par lequel on va classer la couche.
+
+308
+00:31:42,740 --> 00:31:50,620
+Ici, cela va être le type, et on a, en dessous, les espaces naturels qui sont classés par type
+
+309
+00:31:50,700 --> 00:31:58,200
+on a de l'herbe, des forêts, des fermes, etc.
+
+310
+00:31:58,200 --> 00:32:02,380
+Chacun aura une couleur qui est défini par défaut par QGIS.
+
+311
+00:32:02,680 --> 00:32:08,940
+Pareil, vous cliquez sur la couleur, vous pouvez la modifier pour que cela réponde à vos besoins.
+
+312
+00:32:09,640 --> 00:32:17,060
+Vous pouvez aussi renommer les légendes car juste à côté de la couleur, vous avez l'attribut
+
+313
+00:32:17,240 --> 00:32:22,060
+pour la valeur type : forêt, fermes, etc.
+
+314
+00:32:22,160 --> 00:32:25,660
+Et vous avez aussi ce que QGIS va utiliser comme légende.
+
+315
+00:32:26,940 --> 00:32:27,820
+Désolé.
+
+316
+00:32:29,120 --> 00:32:33,620
+Vous pouvez modifier ça : par exemple, vous avez dans votre base de données un type
+
+317
+00:32:33,860 --> 00:32:38,840
+de zone naturelles où il y a marqué "A1", "A2", "A3", "A4", etc.
+
+318
+00:32:39,480 --> 00:32:46,540
+que vous savez que "A1" c'est des forêts, que "A2", c'est des mers et que "A3", c'est des montagnes,
+
+319
+00:32:46,720 --> 00:32:49,220
+vous pouvez renommer au niveau des légendes.
+
+320
+00:32:49,540 --> 00:32:53,800
+En validant tout cela, vous avez quelque chose qui ressemble à ceci.
+
+321
+00:32:54,260 --> 00:32:58,980
+Ici, on voit bien les forêts qui sont en vert foncé,
+
+322
+00:32:59,260 --> 00:33:02,820
+les zones d'eau qui sont en vert clair
+
+323
+00:33:03,240 --> 00:33:06,620
+et en violet tous les bâtiments.
+
+324
+00:33:06,740 --> 00:33:12,440
+Tous les exemples que je montre, c'est sur la carte, c'est dans la Guinée.
+
+325
+00:33:12,920 --> 00:33:17,760
+J'ai souvent changé de point de vue pour avoir les données de façon parlante,
+
+326
+00:33:18,060 --> 00:33:21,040
+c'est pour cela que les cartes ne sont pas semblables les unes aux autres.
+
+327
+00:33:21,540 --> 00:33:28,860
+Mais tous les exemples qui sont pris ici, sont pris à partir des exemples des couches
+
+328
+00:33:29,060 --> 00:33:34,540
+qui sont dans votre dossier QGIS et à partir des données GBIF.
+

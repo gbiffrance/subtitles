@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:02,900
+Fabien Caviere : Je vais à présent vous mettrer comment télécharger des données.
+
+2
+00:00:02,900 --> 00:00:05,800
+donc là je vais allez faire une recherche classique,
+
+3
+00:00:06,980 --> 00:00:10,780
+Par exemple, je voudrais des données géo-référencées, donc je vais cliquez ici (sur le nombre total d'occurrence géo-référencées).
+
+4
+00:00:16,120 --> 00:00:21,520
+Et je veux des données qui sont sur notre ami de tout à l'heure, c'est-à-dire,
+
+5
+00:00:23,720 --> 00:00:26,160
+"crocodylus niloticus" (voir vidéo n°7).
+
+6
+00:00:32,820 --> 00:00:34,820
+nilo-ticus
+
+7
+00:00:38,500 --> 00:00:40,500
+On applique.
+
+8
+00:00:43,780 --> 00:00:47,200
+Là on a pas de chance, il n'y a aucunes données qui sont géo-référencés sur ça.
+
+9
+00:00:49,180 --> 00:00:55,920
+Je vais retirer la géolocalisation, donc ces deux filtres.
+
+10
+00:00:57,860 --> 00:01:00,840
+A chaque fois que l'on retire un filtre, il recharge la page.
+
+11
+00:01:05,260 --> 00:01:07,260
+Ah bizarre.
+
+12
+00:01:10,140 --> 00:01:12,140
+On va refaire.
+
+13
+00:01:14,800 --> 00:01:16,800
+On va allez directement sur un filtre.
+
+14
+00:01:21,160 --> 00:01:25,420
+croco-dy-lus ni-lo-ti-cus
+
+15
+00:01:31,700 --> 00:01:33,700
+On va sélectionner la première (proposition).
+
+16
+00:01:40,480 --> 00:01:42,480
+Appliquer.
+
+17
+00:01:44,620 --> 00:01:53,420
+Là, j'ai les 1 642 résultats, c'est un peu beaucoup donc je vais demander à ce que cela soit uniquement ceux de la Guinée, comme tout à l'heure.
+
+18
+00:01:58,440 --> 00:02:00,440
+Donc j'applique (le filtre par pays).
+
+19
+00:02:00,860 --> 00:02:04,880
+On a les deux résultats de tout à l'heure ; j’appuie sur le bouton "Download".
+
+20
+00:02:07,900 --> 00:02:14,520
+Il me demande si je veux un fichier csv ou une archive DarwinCore ; on va demander le fichier csv qui est ici.
+
+21
+00:02:15,740 --> 00:02:17,740
+Et on va demander le téléchargement.
+
+22
+00:02:18,500 --> 00:02:24,640
+Là, il faut que je me logue (connecte), donc je vais le faire avec mon compte.
+
+23
+00:02:31,680 --> 00:02:33,680
+Je me souviens plus de mon mot de passe.
+
+24
+00:02:36,980 --> 00:02:40,540
+Là, ce qui va se passer, c'est que comme je l'ai montré tout à l'heure,
+
+25
+00:02:45,260 --> 00:02:51,740
+c'est que vous avez une page qui s'ouvre et qui vous dit que votre téléchargement est en attente et qu'il va bientôt arriver.
+
+26
+00:02:52,240 --> 00:02:54,240
+Ce que je vous propose,
+
+27
+00:02:54,640 --> 00:03:01,040
+c'est de faire durant les 20 minutes qui nous reste le dernier exercice ; il y a deux questions :
+
+28
+00:03:02,520 --> 00:03:10,460
+- je voudrais connaitre le nombre de données géo-référencées issues de l’Afrique du Sud,
+
+29
+00:03:10,680 --> 00:03:12,680
+il va y avoir deux filtres.
+
+30
+00:03:14,080 --> 00:03:18,180
+La seconde question, c'est : Combien y a-t-il de données géo-référencées
+
+31
+00:03:18,860 --> 00:03:21,280
+sur la France issues de l’Afrique du Sud?
+
+32
+00:03:21,660 --> 00:03:24,880
+il y aura trois filtres et un petit piège.
+

@@ -1,0 +1,540 @@
+1
+00:00:07,240 --> 00:00:09,860
+Sophie Pamerlon : Comment faire des contrôles de validation et de qualité.
+
+2
+00:00:10,340 --> 00:00:18,720
+On va commencer simple, on va utiliser un fichier texte simple, pas une base de données.
+
+3
+00:00:19,400 --> 00:00:25,640
+C'est un fichier qui a déjà été remplit avec des données, avec des coordonnées géographiques, des noms d'espèces
+
+4
+00:00:25,640 --> 00:00:27,980
+et diverses autres informations.
+
+5
+00:00:29,000 --> 00:00:35,000
+Ce fichier comporte volontairement quelques erreurs que vous allez devoir retrouver et corriger.
+
+6
+00:00:35,640 --> 00:00:44,360
+D'abord, comme introduction, on va faire un bref récapitulatif des différents type d'erreurs que l'on peut rencontrer dans les données.
+
+7
+00:00:47,560 --> 00:00:51,440
+La première catégorie d'erreur : erreur technique.
+
+8
+00:00:52,260 --> 00:00:56,420
+Les erreurs techniques sont souvent relativement simples à corriger.
+
+9
+00:00:56,540 --> 00:01:03,520
+La correction est par conséquent souvent automatisable : on peut la faire via un logiciel.
+
+10
+00:01:04,180 --> 00:01:08,280
+Ce sont les contrôles pour l'intégrité des données.
+
+11
+00:01:09,080 --> 00:01:14,200
+Les contrôles peuvent indiquer si des données ont été portés au mauvais format.
+
+12
+00:01:14,700 --> 00:01:21,140
+S'il y a des problèmes de mapping c'est-à-dire de correspondance entre le nom des champs et les terme d'un standard.
+
+13
+00:01:21,760 --> 00:01:27,100
+S'il y a des problèmes de copier-coller d'une colonne à l'autre,
+
+14
+00:01:27,380 --> 00:01:29,380
+ou s'il manque des données.
+
+15
+00:01:29,760 --> 00:01:33,360
+On a différentes sous-catégorie d'erreur technique,
+
+16
+00:01:34,020 --> 00:01:39,840
+il y a la catégorie "Intégralité" : est-ce que toutes les données et métadonnées sont disponibles ?
+
+17
+00:01:40,220 --> 00:01:44,080
+Est-ce que tous les champs sont présent ? Si oui, est-ce qu'ils sont tous rempli ?
+
+18
+00:01:44,520 --> 00:01:48,280
+C'est une des erreurs les plus facile à repérer et à corriger,
+
+19
+00:01:48,980 --> 00:01:56,400
+il suffit de regarder si votre tableau Excel ou autre tableur assimilé contient tous les champs que vous souhaitez diffuser,
+
+20
+00:01:56,640 --> 00:02:00,740
+et si ces colonnes sont bien remplies avec les informations que vous souhaitez partager.
+
+21
+00:02:01,860 --> 00:02:06,660
+Ensuite, on a les bornes (Ce sont souvent des bornes numériques).
+
+22
+00:02:07,240 --> 00:02:13,980
+Par exemple : les jours d'un mois, qui sont donné dans la gamme 1-31, 1-30 ou 1-28 (ou 29 selon le mois).
+
+23
+00:02:14,800 --> 00:02:22,880
+Si vous avez dans la colonne "jour" le nombre "42", il y aura une erreur car il n'y a aucun mois qui comporte au moins 42 jours.
+
+24
+00:02:24,500 --> 00:02:29,240
+Ensuite on a le type de donnée.
+
+25
+00:02:29,840 --> 00:02:35,440
+C'est une erreur courante : il faut vérifier que le champ "date" contienne une date ou un numéro.
+
+26
+00:02:35,840 --> 00:02:40,920
+Si vous avez 4612 dans le champ "date", cela veut dire qu'il y a eu une erreur,
+
+27
+00:02:41,460 --> 00:02:46,080
+il faut faire attention, notamment avec Excel, car vous savez sans doute qu'avec Excel, si vous mettez
+
+28
+00:02:46,440 --> 00:02:51,180
+le mauvais format de date dans la colonne, vous pouvez avoir des problèmes de conversion
+
+29
+00:02:51,600 --> 00:02:53,920
+il faut faire attention à ce genre de chose.
+
+30
+00:02:54,420 --> 00:02:58,320
+Et enfin, la dernière catégorie d'erreur technique : le format des données.
+
+31
+00:02:58,600 --> 00:03:05,340
+J'en ai brièvement parlé tout à l'heure : est-ce que les dates sont au bon format ISO ?
+
+32
+00:03:05,780 --> 00:03:09,380
+Ou est-ce qu'elles sont écrite d'une autre façon ?
+
+33
+00:03:11,360 --> 00:03:19,140
+Vous voyez des exemples de dates qui peuvent posez problèmes, lorsque vient l'exploitation des données.
+
+34
+00:03:20,620 --> 00:03:27,120
+Une fois que l'on a décelé et corrigé les erreurs techniques, on va pouvoir s'attaquer aux erreurs de cohérences
+
+35
+00:03:27,620 --> 00:03:33,120
+celles-ci sont un peu plus difficile à vérifier ; mais c'est quand même possible.
+
+36
+00:03:38,520 --> 00:03:41,120
+Les erreurs de cohérences :
+
+37
+00:03:41,520 --> 00:03:47,380
+elles permettent d'indiquer les erreurs dans la saisie des données à partir d'enregistrements anciens.
+
+38
+00:03:47,800 --> 00:03:52,820
+Elles permettent de déceler des erreurs de transcription ou dans le post-traitement des données.
+
+39
+00:03:54,220 --> 00:04:00,520
+Il y a certains types d' erreurs qui sont assez complexe et qui nécessite une vérification
+
+40
+00:04:01,000 --> 00:04:04,280
+à l'aide d'autre jeux de données de référence ou à l'aide de
+
+41
+00:04:04,520 --> 00:04:08,620
+listes de références ou bien même l'aide d'expert.
+
+42
+00:04:10,800 --> 00:04:17,320
+Par exemple : si vous avez une liste des collecteurs connus, une liste des personnes qui sont allés sur le terrain
+
+43
+00:04:17,620 --> 00:04:23,140
+vous pouvez vérifier l'orthographe de leurs nom de famille, ou leur prénom
+
+44
+00:04:23,660 --> 00:04:31,160
+c'est particulièrement utile, pardon, si vous avez des collecteurs qui ont le même nom de famille mais qui ont des prénoms différents
+
+45
+00:04:31,440 --> 00:04:36,780
+une erreur est vite arrivé dans ce cas-là, cela peut-être bien d'avoir une liste de référence
+
+46
+00:04:36,820 --> 00:04:40,080
+pour être sûr que c'est tel personne qui est allé sur le terrain et pas une autre.
+
+47
+00:04:41,660 --> 00:04:48,340
+Ensuite, je vais détailler, là encore, les différents types d'erreur de cohérence.
+
+48
+00:04:48,740 --> 00:04:51,000
+Le premier type, ce sont les erreurs taxonomiques.
+
+49
+00:04:53,320 --> 00:05:00,480
+Là vous voyez que, si un taxon a été identifié au niveau de l'espèce,
+
+50
+00:05:00,940 --> 00:05:06,320
+est-ce que l'on a un nom scientifique binomial, qui est donné dans le champs du genre et de l'espèce ?
+
+51
+00:05:06,940 --> 00:05:10,080
+Ce sont les deux champs obligatoires pour le GBIF.
+
+52
+00:05:11,260 --> 00:05:18,820
+La dissimilation : est-ce que les dates de collecte, d'identification, de mise à jour et de numérisation sont cohérentes ?
+
+53
+00:05:19,060 --> 00:05:23,280
+Si vous avez une date de collecte, en juillet 2003 (disons)
+
+54
+00:05:23,460 --> 00:05:28,840
+et que la date de saisie dans la base de données, c'est janvier 2010, là il y a un problème.
+
+55
+00:05:29,040 --> 00:05:33,760
+Pardon, 2001 par exemple, c'est un problème.
+
+56
+00:05:35,240 --> 00:05:39,460
+Ensuite les valeurs aberrantes : détecter les valeurs aberrantes
+
+57
+00:05:39,600 --> 00:05:46,660
+c'est aussi quelque chose d'essentiel et qui peut-être long à faire mais qui est primordial.
+
+58
+00:05:46,940 --> 00:05:52,900
+Par exemple, comparez les coordonnées géographiques que vous avez avec certains points
+
+59
+00:05:52,900 --> 00:05:55,980
+avec les aires de distributions  de l'espèce, si vous la connaissez.
+
+60
+00:05:59,320 --> 00:06:04,080
+Il faut aussi se rappeler que les valeurs aberrantes peuvent aussi être une erreur d'identification de l'espèce
+
+61
+00:06:04,340 --> 00:06:06,340
+et non pas une erreur géographique.
+
+62
+00:06:06,640 --> 00:06:12,160
+Donc si vous avez un point qui est vraiment placé bizarrement par rapport à l'aire de répartition de l'espèce,
+
+63
+00:06:12,460 --> 00:06:18,580
+vous pouvez soit vérifier les coordonnées , vérifier les paramètres du GPS, il y a peut-être eu un problème là-dedans,
+
+64
+00:06:19,080 --> 00:06:21,600
+si vous êtes sûr de l'identification,
+
+65
+00:06:22,000 --> 00:06:28,560
+et au contraire, si vous êtes sûr que les coordonnées sont bonnes, cela veut pouvoir dire que l'identification a été incorrecte.
+
+66
+00:06:30,260 --> 00:06:36,520
+Les valeurs géographiques : les coordonnées sont-elles bien placés dans la localité ou dans la région identifiée ?
+
+67
+00:06:37,000 --> 00:06:42,220
+Là encore, lorsque vous revenez de sortie de terrains,
+
+68
+00:06:42,420 --> 00:06:46,640
+et que vous visualisez vos données avec les coordonnées géographique,
+
+69
+00:06:46,640 --> 00:06:49,800
+essayez de vous assurer que les points que vous avez récupérez
+
+70
+00:06:50,160 --> 00:06:53,560
+correspondent bien à la zone d'étude auquel vous êtes allée.
+
+71
+00:06:54,420 --> 00:06:57,240
+C'est assez facile à faire avec des logiciels de cartographie.
+
+72
+00:06:59,360 --> 00:07:08,400
+Un exemple très facile à vérifier : est-ce qu'il y a des occurrences d'espèces terrestre dans la mer ?
+
+73
+00:07:09,220 --> 00:07:18,060
+Et inversement : y-a t'il des requins en plein milieu de la Guinée ? Là, ça pourrait vouloir dire qu'il y a un problème de géolocalisation.
+
+74
+00:07:25,140 --> 00:07:28,960
+Au niveau des types d'échantillonnage,
+
+75
+00:07:29,640 --> 00:07:35,940
+on peut essayer de regarder si les détails de l’occurrence correspondent au caractéristique de collecte,
+
+76
+00:07:36,460 --> 00:07:40,620
+qui sont utilisées dans l'institution ou par la personne en particulier.
+
+77
+00:07:43,740 --> 00:07:50,000
+Là, cela rejoins la question que l'on avait tout à l'heure sur l'intérêt de diffuser le protocole de collecte (voir vidéo n°4)
+
+78
+00:07:50,480 --> 00:07:55,460
+si vous avez, par exemple, des données qui sont marquées comme ayant été
+
+79
+00:07:55,660 --> 00:08:01,580
+acquise grâce à un protocole assez moderne alors que le collecteur est quelqu'un qui est mort au 19ème siècle,
+
+80
+00:08:01,820 --> 00:08:05,040
+cela peut montrer une erreur de cohérence et cela peut valoir la peine de se pencher sur
+
+81
+00:08:05,040 --> 00:08:08,280
+ces données pour savoir qui exactement les as collectés et quand.
+
+82
+00:08:10,020 --> 00:08:15,280
+On a l'exactitude et la précision :
+
+83
+00:08:15,740 --> 00:08:19,120
+(voir les diapositives de la vidéo n°3)
+
+84
+00:08:19,700 --> 00:08:27,860
+est-ce qu'il y a des occurrences géo-référencées avec une très haute précision qui date d'avant l'invention des GPS ?
+
+85
+00:08:28,240 --> 00:08:34,760
+Si oui, cela peut vouloir dire qu'il y aura, là encore, quelque chose de pas très clair,
+
+86
+00:08:35,100 --> 00:08:37,680
+quelque chose à élucider, puisque ,
+
+87
+00:08:38,000 --> 00:08:42,620
+avant l'invention des GPS, c'était compliqué d'avoir des coordonnées géographique de très haute précision.
+
+88
+00:08:43,640 --> 00:08:48,280
+Enfin, les méthodes de collectes : les différentes méthodes d'échantillonnage
+
+89
+00:08:48,340 --> 00:08:52,320
+présentent des caractéristique particulières qui sont propres à chaque méthode de collecte.
+
+90
+00:08:53,020 --> 00:08:57,320
+Il faut donc vérifier que les occurrences sont conformes à la méthode identifiée
+
+91
+00:08:58,000 --> 00:09:02,420
+cela dépend des jeux de données : si vous avez un jeux de données assez récent,
+
+92
+00:09:02,960 --> 00:09:08,680
+généralement, quasiment tous les détails sont bien connus et donc les erreurs de cohérences sont facile à corriger.
+
+93
+00:09:09,020 --> 00:09:14,920
+Après si vous faites des jeux de données avec des données anciennes ou qui viennent de plusieurs personnes ou institutions,
+
+94
+00:09:15,380 --> 00:09:20,920
+là, cela peut valoir le coup de passer du temps à bien vérifier la cohérence pour être bien sûr
+
+95
+00:09:21,240 --> 00:09:25,000
+de faire une base de données correcte et intéressante.
+
+96
+00:09:26,740 --> 00:09:31,360
+Sur la clé USB que nous vous avons transmis (dans le fichier archive disponible sur ce cours)
+
+97
+00:09:31,460 --> 00:09:36,220
+vous allez trouver un dossier "document tableur".
+
+98
+00:09:37,900 --> 00:09:42,700
+Dans ce dossier, vous allez trouver deux documents PDF et un document texte.
+
+99
+00:09:43,180 --> 00:09:46,820
+Alors le document texte contient les données qui va falloir corriger,
+
+100
+00:09:47,340 --> 00:09:53,280
+et les deux documents PDF : le premier est celui qui est affiché actuellement,
+
+101
+00:09:53,420 --> 00:09:57,520
+c'est un résumé des différents types d'erreurs et les consignes.
+
+102
+00:10:01,500 --> 00:10:05,220
+Et le deuxième, que je vous invite à consulter après avoir fait l'exercice,
+
+103
+00:10:05,220 --> 00:10:07,840
+c'est ce tableau mais complété avec la correction.
+
+104
+00:10:09,880 --> 00:10:14,420
+Le but de l'exercice est de vous entraîner à repérer les erreurs et à les corriger.
+
+105
+00:10:14,800 --> 00:10:18,480
+Si vous avez un problème, une interrogation ou des doutes, vous pouvez
+
+106
+00:10:19,280 --> 00:10:26,980
+nous appeler ; on passera dans les rangs pour voir sur quels points vous avez besoin de précision,
+
+107
+00:10:27,520 --> 00:10:33,420
+et ensuite, si vous souhaitez refaire l'exercice chez vous, en parler avec vos collègues ou diffuser cet exercice
+
+108
+00:10:33,700 --> 00:10:42,180
+vous avez la correction pour pouvoir regarder  les résultats et essayer de repérer toutes les erreurs.
+
+109
+00:10:43,160 --> 00:10:46,920
+On va prendre le premier fichier : le fichier non corrigé.
+
+110
+00:10:47,400 --> 00:10:50,340
+Vous allez avoir ce tableau qui n'est pas complété.
+
+111
+00:10:50,880 --> 00:10:55,960
+Malheureusement, c'est un PDF, je ne sais pas si beaucoup d'entre vous peuvent modifié les PDFs
+
+112
+00:10:56,240 --> 00:11:04,260
+sinon vous pouvez refaire rapidement, sous Word, les questions puis y répondre point par point.
+
+113
+00:11:10,340 --> 00:11:15,940
+Pour chaque erreur, vous avez une indication de la colonne sur laquelle se trouve l'erreur.
+
+114
+00:11:16,700 --> 00:11:23,660
+Vous avez un indice qui va vous aiguiller pour retrouver l'erreur à corriger.
+
+115
+00:11:24,380 --> 00:11:32,300
+Ici, on a la colonne erreur où vous allez pouvoir marquer ce que vous avez trouvez et ce que vous pensez pouvoir corriger.
+
+116
+00:11:34,220 --> 00:11:37,480
+Ensuite, il y a le type d'erreur : erreur technique
+
+117
+00:11:38,660 --> 00:11:44,080
+Toutes les erreurs sont des erreurs techniques, donc la première catégorie.
+
+118
+00:11:48,240 --> 00:11:53,860
+C'est-à-dire des erreurs sur l'intégralité, les bornes de données ou le format de données.
+
+119
+00:11:56,940 --> 00:12:04,260
+Dans la dernière colonne, vous allez pouvoir préciser quels type d'erreur technique il s'agit :
+
+120
+00:12:04,720 --> 00:12:08,880
+Est-ce que c'est une erreur de format de donnée ? Une erreur de borne ?
+
+121
+00:12:09,160 --> 00:12:16,440
+Il vous suffit juste de remonter au début du document où vous avez les quatre sous-catégories d'erreurs techniques à choisir.
+
+122
+00:12:17,020 --> 00:12:21,580
+Le but de l'exercice, c'est de remplir la colonne "erreur", et la colonne "sous type".
+
+123
+00:12:22,420 --> 00:12:27,640
+Si vous avez tous réussi à copier le contenu des clés USB,
+
+124
+00:12:28,120 --> 00:12:30,960
+je vous invite à ouvrir le document texte :
+
+125
+00:12:31,020 --> 00:12:34,400
+on peut l'ouvrir sous Excel, on va vous indiquer comment faire.
+
+126
+00:12:36,200 --> 00:12:42,020
+Si vous savez comment faire sous Excel, utilisez la fonction de séparateur par caractère spécial
+
+127
+00:12:42,440 --> 00:12:49,100
+on va passez dans les rangs pour vous indiquer comment ouvrir le document texte sous Excel si vous avez des difficultés.
+
+128
+00:12:49,940 --> 00:12:55,700
+Ensuite, une fois que vous aurez ouvert le document texte contenant les données, avec les colonnes,
+
+129
+00:12:55,920 --> 00:13:01,100
+vous retournez sur ce tableau, que vous essayez de compléter au fur et à mesure.
+
+130
+00:13:01,560 --> 00:13:04,640
+Donc on n'aura peut-être pas le temps de finir avant la pause déjeuner,
+
+131
+00:13:05,020 --> 00:13:08,620
+on aura une période en début d'après-midi pour continuer,
+
+132
+00:13:08,900 --> 00:13:12,140
+et en fin d'après-midi,
+
+133
+00:13:13,120 --> 00:13:16,800
+on vous aidera à installer les autres logiciel qui sont sur la clé USB (toujours dans l'archive présente dans ce cours)
+
+134
+00:13:16,880 --> 00:13:18,880
+et dont on aura besoin demain et vendredi (voir vidéos n°6, 9, 10 et 11)
+
+135
+00:13:19,380 --> 00:13:22,260
+cela permettra de gagner du temps pour les jours suivants.
+

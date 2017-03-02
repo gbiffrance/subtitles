@@ -1,0 +1,1433 @@
+1
+00:00:01,720 --> 00:00:07,360
+Sophie Pamerlon : Comme vous le voyez, j'ai mis le logiciel sur le bureau de mon ordinateur, il est ici.
+
+2
+00:00:07,560 --> 00:00:13,420
+Vous, vous aurez sans doute à l'installer dans le dossier GBIF sur vos ordinateurs également.
+
+3
+00:00:14,000 --> 00:00:18,280
+Je vais cliquer sur le dossier.
+
+4
+00:00:18,940 --> 00:00:26,840
+Comme on a fait hier, je vais cliquez sur l’icône du logiciel (le diamant bleu) pour vérifier qu'il est bien installé.
+
+5
+00:00:29,960 --> 00:00:33,720
+Une fenêtre d'invité de commande (ou de Terminal si vous êtes sur MAC ou Linux) s'ouvre alors,
+
+6
+00:00:33,720 --> 00:00:37,320
+et le logiciel se lance dans mon navigateur web par défaut.
+
+7
+00:00:38,160 --> 00:00:43,060
+En l’occurrence, c'est Google Chrome. Chez vous, cela peut-être Mozilla Firefox ou bien un autre navigateur internet.
+
+8
+00:00:43,280 --> 00:00:46,640
+On a vu qu'il y avait quelques petits soucis avec Internet Explorer,
+
+9
+00:00:46,840 --> 00:00:51,640
+si jamais vous rencontrez un problème, changez votre navigateur par défaut pour Mozilla ou Chrome,
+
+10
+00:00:51,640 --> 00:00:53,640
+on viendra vous aider si c'est le cas.
+
+11
+00:00:54,980 --> 00:01:00,900
+Lorsqu'on arrive sur la page d'accueil du logiciel, on a trois sous-catégories.
+
+12
+00:01:01,580 --> 00:01:10,620
+Malheureusement, c'est un logiciel qui est en anglais, c'est un logiciel qui a été développé par Google et s'appelais à l'origine Google Refine.
+
+13
+00:01:11,120 --> 00:01:17,920
+Et puis l'équipe de développeur de Google a décidé de le mettre en open-source, libre de droits.
+
+14
+00:01:18,320 --> 00:01:20,320
+Maintenant il s'appelle OpenRefine.
+
+15
+00:01:21,380 --> 00:01:28,220
+Je vais essayez d'expliquer clairement à quoi correspond chaque
+
+16
+00:01:28,500 --> 00:01:32,800
+catégorie, mais n'hésitez pas à m’interrompre  si vous avez des questions sur la signification de terme.
+
+17
+00:01:33,900 --> 00:01:37,140
+C'est une démonstration interactive.
+
+18
+00:01:38,640 --> 00:01:43,960
+La première catégorie que l'on peut avoir, c'est "create project" ou "créer un projet" en français.
+
+19
+00:01:44,620 --> 00:01:50,320
+Ensuite, vous avez "open project" (ou "ouvrir un projet" en français) : si vous avez déjà un projet créé préalablement,
+
+20
+00:01:50,620 --> 00:01:54,260
+vous pouvez en importer un, qui a été créé par vous ou une autre personne.
+
+21
+00:01:54,980 --> 00:02:05,460
+Les projets, ce sont des fichiers, souvent au format Excel, .csv ou .txt que vous voulez nettoyer.
+
+22
+00:02:06,000 --> 00:02:10,300
+Donc "create project" veut simplement dire que vous allez créer une sorte de
+
+23
+00:02:10,540 --> 00:02:17,680
+coquille vide pour pouvoir importer dedans votre fichier à nettoyer pour ensuite faire toutes les modifications et opérations de nettoyage que vous voulez.
+
+24
+00:02:18,420 --> 00:02:24,460
+C'est ce que l'on va utiliser. Sachez seulement que si vous avez déjà ouvert un fichier pour commencer à le nettoyer,
+
+25
+00:02:24,460 --> 00:02:26,820
+et que vous n'avez pas fini mais que vous souhaitez revenir dessus,
+
+26
+00:02:27,060 --> 00:02:29,940
+vous pouvez l'ouvrir, l'enregistrer, et ensuite
+
+27
+00:02:30,600 --> 00:02:39,160
+le réouvrir ici : on a ici une liste de fichiers ; ici ce sont des fichiers que j'ai créé pour diverses formations antérieures.
+
+28
+00:02:39,960 --> 00:02:42,300
+Je vais ici partir du début : je vais créer un projet.
+
+29
+00:02:43,700 --> 00:02:47,980
+Vous voyez ici, dans la première ligne, tous les formats que OpenRefine accepte,
+
+30
+00:02:48,020 --> 00:02:55,740
+vous avez les formats .tsv qui sont des fichiers séparé par des tabulations.
+
+31
+00:02:56,360 --> 00:03:00,120
+Les fichiers .csv qui sont séparé par des virgules.
+
+32
+00:03:01,260 --> 00:03:07,540
+Tout type de fichier Excel : .xls ou .xlsx (nouvelle version d'Excel).
+
+33
+00:03:08,020 --> 00:03:14,500
+JSon ou XML : ce sont des formats qui sont familiers aux informaticiens.
+
+34
+00:03:15,360 --> 00:03:20,100
+Il y a beaucoup d'autre type de fichiers qui sont acceptés,
+
+35
+00:03:20,220 --> 00:03:25,160
+mais nous allons nous concentrer sur les fichiers .csv et Excel.
+
+36
+00:03:26,080 --> 00:03:28,660
+Participant 1 : .csv et Excel ?
+Sophie Pamerlon : voilà.
+
+37
+00:03:29,440 --> 00:03:34,600
+Ce sont généralement le type de fichier que l'on manipule dans la biodiversité,
+
+38
+00:03:34,920 --> 00:03:39,800
+et c'est également le type de fichier que l'on peut obtenir en faisant une extraction d'une base de données par exemple.
+
+39
+00:03:46,440 --> 00:03:54,300
+Sur cette colonne ici, vous pouvez aller chercher les données là où elles se trouvent, là où vous les avez stockés.
+
+40
+00:03:54,720 --> 00:03:59,000
+Généralement, elles sont sur votre ordinateur.
+
+41
+00:03:59,560 --> 00:04:06,520
+Vous pouvez également mettre des adresses web si vous avez un fichier qui est stocké en ligne sur un site internet ou un serveur.
+
+42
+00:04:07,120 --> 00:04:14,940
+Vous avez d'autre type d'endroit où vous pouvez aller chercher les données mais qui sont moins souvent utilisées
+
+43
+00:04:15,380 --> 00:04:19,680
+ce sont des options plus tournés vers les informaticiens,
+
+44
+00:04:20,260 --> 00:04:22,540
+c'est un petit peu plus complexe à utiliser.
+
+45
+00:04:22,640 --> 00:04:25,680
+Nous allons chercher le fichier dans notre ordinateur.
+
+46
+00:04:26,680 --> 00:04:28,680
+Je clique sur "select fichier"
+
+47
+00:04:32,260 --> 00:04:36,540
+Ce qui s'affiche sur l'écran est ce que vous allez avoir vous, puisque c'est le contenu de la clé USB.
+
+48
+00:04:37,580 --> 00:04:40,500
+On va ouvrir le dossier OpenRefine.
+
+49
+00:04:43,700 --> 00:04:48,740
+Vous voyez un fichier Excel qui s'appelle "exercice_Guinée_a_corriger".
+
+50
+00:04:50,520 --> 00:04:52,460
+Je le sélectionne.
+
+51
+00:04:53,920 --> 00:04:55,920
+Et je clique sur suivant.
+
+52
+00:05:02,640 --> 00:05:08,380
+Je vais ouvrir le fichier pour vous montrer à quoi il ressemble.
+
+53
+00:05:23,060 --> 00:05:25,060
+C'est un fichier Excel qui ressemble à ça.
+
+54
+00:05:31,840 --> 00:05:33,840
+C'est un fichier qui contient trois pages :
+
+55
+00:05:34,680 --> 00:05:40,340
+- première page : ce sont des informations pratique sur le GBIF ; on ne va pas trop s'en occuper pour ce TP
+
+56
+00:05:41,040 --> 00:05:44,220
+- deuxième page : page de métadonnées
+
+57
+00:05:44,700 --> 00:05:48,180
+c'est une description des jeux de données  dont j'ai un peu parlé hier.
+
+58
+00:05:48,740 --> 00:05:51,180
+Comme vous pouvez le voir, c'est un jeu de données qui provient du Bénin
+
+59
+00:05:51,280 --> 00:05:56,260
+Sophie Pamerlon : oui ?
+Participant 2 : Et on ne peut pas utiliser un jeu de donnée de Guinée ?
+Eric Chenin : oui, c'est celui-là.
+
+60
+00:05:56,680 --> 00:06:04,400
+Sophie Pamerlon : Le jeu de donnée concerne le Bénin mais on va l'utiliser pour cette formation.
+
+61
+00:06:04,540 --> 00:06:08,240
+Participant 2 : On n'a pas le fichier.
+Sophie Pamerlon : Vous ne l'avez pas ?
+
+62
+00:06:13,820 --> 00:06:19,860
+Participant 3 : Il faut aller dessous.
+Participant 4 : Il faut aller en dessous.
+Sophie Pamerlon : En tout cas, le fichier est sur la clé.
+
+63
+00:06:21,640 --> 00:06:28,760
+Sophie Pamerlon : Attendez, je vais continuez la démonstration et lors de l'exercice pratique de tout à l'heure, on verra s'il manque des documents.
+
+64
+00:06:28,760 --> 00:06:29,360
+Participant 1 : ok.
+
+65
+00:06:30,400 --> 00:06:35,460
+Sophie Pamerlon : Voilà à quoi cela ressemble : donc comme je le disais, c'est la page des métadonnées, donc une page importante,
+
+66
+00:06:35,460 --> 00:06:39,820
+comme je le disais hier, les métadonnées sont obligatoire pour pouvoir partager des données.
+
+67
+00:06:40,100 --> 00:06:43,460
+Puisque c'est le contexte, la description du jeu de données.
+
+68
+00:06:44,000 --> 00:06:47,560
+Vous avez le titre, la citation,
+
+69
+00:06:47,980 --> 00:06:54,260
+un bref résumé du jeu de données ; ici c'est en anglais, mais vous pouvez le faire en français.
+
+70
+00:06:55,340 --> 00:06:58,800
+Ensuite, ce qui est important, c'est de mettre des contacts
+
+71
+00:06:59,380 --> 00:07:02,980
+c'est à dire des personnes qui pourront répondre à des questions sur ce jeu de données.
+
+72
+00:07:03,380 --> 00:07:08,500
+Pour ceux qui était là mardi, à la session de sensibilisation sur le GBIF,
+
+73
+00:07:08,740 --> 00:07:11,100
+on a déjà demandé des contacts pour les institutions,
+
+74
+00:07:11,120 --> 00:07:15,020
+c'est-à-dire des personnes qui peuvent  répondre à des questions au niveau institutionnel.
+
+75
+00:07:15,540 --> 00:07:20,700
+Là, les personnes que nous allons mettre en contacts du jeu de données, cela va être la personne qui a créé la base de données,
+
+76
+00:07:20,700 --> 00:07:25,200
+la personne qui a alimenté le fichier Excel ou la base de données,
+
+77
+00:07:25,680 --> 00:07:29,580
+et qui connait bien les données, qui peut y répondre de manière très précise.
+
+78
+00:07:31,720 --> 00:07:35,200
+On peut ajouter des informations facultatives :
+
+79
+00:07:35,840 --> 00:07:45,560
+la couverture géographique, la couverture taxonomique, des mots-clés, des latitudes et longitudes globales pour l'ensemble du jeu de données,
+
+80
+00:07:46,260 --> 00:07:54,100
+des référence bibliographiques : si vous avez utilisé des référentiels des flores et des faunes pour
+
+81
+00:07:54,100 --> 00:07:56,680
+valider vos données, par exemple, vous pouvez les citer ici,
+
+82
+00:07:57,240 --> 00:08:04,920
+si ces données ont servi à rédiger une thèse ou un rapport quel qu’il soit, vous pouvez le citer là.
+
+83
+00:08:05,220 --> 00:08:07,500
+C'était donc la fiche de métadonnée.
+
+84
+00:08:07,600 --> 00:08:12,620
+On va se pencher plus en détail dessus cet après-midi mais pour OpenRefine, on ne va pas s'en servir.
+
+85
+00:08:14,480 --> 00:08:21,500
+- troisième page : les données elles-mêmes, les occurrences.
+
+86
+00:08:23,860 --> 00:08:32,120
+Vous voyez actuellement un jeu de donnée avec des numéros d'occurrences, le nom de l'institution qui les détient,
+
+87
+00:08:35,440 --> 00:08:37,440
+le nom de la collection
+
+88
+00:08:40,620 --> 00:08:53,020
+le numéro de catalogue, toutes les informations taxonomique (le règne, l'embranchement, la classe, l'ordre, la famille, le genre),
+
+89
+00:08:57,580 --> 00:09:03,820
+on a le nom scientifique qui est très important car obligatoire de le partager dans les données,
+
+90
+00:09:05,320 --> 00:09:10,600
+le nom de l’auteur du nom scientifique.
+
+91
+00:09:13,580 --> 00:09:16,920
+Comme vous pouvez le voir, il y a des colonnes qui reste vides
+
+92
+00:09:17,200 --> 00:09:22,440
+car la personne qui a publiée les données n'a pas souhaité partager les informations dans cette colonne.
+
+93
+00:09:22,680 --> 00:09:25,880
+Tant que ce n'est pas une colonne d'un attribut obligatoire, on peut les laisser vides.
+
+94
+00:09:26,120 --> 00:09:31,020
+Bien sûr, il est recommandé de partager le plus d'informations possible, mais si vous n'avez pas le temps
+
+95
+00:09:31,040 --> 00:09:35,660
+ou que vous n'avez pas les informations, vous pouvez les laissez vides ; puis plus tard, éventuellement, vous pouvez les mettre à jour.
+
+96
+00:09:42,820 --> 00:09:47,880
+Sophie Pamerlon : pardon ?
+Participant 1 : quelles sont les colonnes qui faut partager et donc obligatoires ?
+
+97
+00:09:48,240 --> 00:09:52,460
+Sophie Pamerlon : Il y a 5 colonnes obligatoires à partager.
+
+98
+00:09:55,760 --> 00:10:01,180
+Je vais vous les afficher.
+
+99
+00:10:15,920 --> 00:10:18,400
+Vous les avez ici, encadrées en rouge.
+
+100
+00:10:28,440 --> 00:10:31,520
+Ce sont les colonnes avec : 
+ - le numéro de l'occurrence (occurenceId)
+
+101
+00:10:31,620 --> 00:10:39,180
+c'est un identifiant unique pour chaque occurrence, c'est vraiment très important que chaque ligne ai un numéro différent
+
+102
+00:10:41,460 --> 00:10:48,880
+le numéro de l'observation ou du spécimen : cela peut correspondre au numéro de catalogue dans une collection
+
+103
+00:10:49,060 --> 00:10:56,780
+ou un numéro d'inventaire sur le terrain ; il faut vraiment que chaque ligne soit unique, sinon cela risque de créer des doublons,
+
+104
+00:10:57,240 --> 00:11:00,740
+et vos données ne pourront pas être partagées.
+
+105
+00:11:01,700 --> 00:11:07,040
+- eventDate : cela correspond à la date de l'observation ou de la collecte
+
+106
+00:11:07,440 --> 00:11:10,360
+Participant 1 : la date de récolte
+Sophie Pamerlon : la date de récolte, voilà.
+
+107
+00:11:10,920 --> 00:11:14,800
+Cela peut-être aussi une date d'observation si on n'a pas récolté le spécimen.
+
+108
+00:11:15,920 --> 00:11:23,800
+- countryCode : c'est le code pays, comme on l'a vu hier avec le Guatemala (gt), la Guinée (gn)
+
+109
+00:11:24,820 --> 00:11:32,400
+c'est pour que le GBIF puisse reconnaître le pays et vérifier que les données tombent bien dans le territoire du pays.
+
+110
+00:11:33,600 --> 00:11:36,640
+- le nom scientifique (scientificName) est obligatoire, bien sûr.
+
+111
+00:11:37,680 --> 00:11:41,840
+- basisofRecord : c'est quelque chose dont je vais parler tout à l'heure
+
+112
+00:11:42,000 --> 00:11:46,360
+c'est spécifique au GBIF ; vous n'avez pas trop à vous en souciez car
+
+113
+00:11:46,780 --> 00:11:50,520
+le point nodal du pays peut le déterminer en regardant vos données,
+
+114
+00:11:50,920 --> 00:11:58,140
+c'est le type de données que vous partagez : plutôt des observations ? Plutôt des spécimens ? Des fossiles ?
+
+115
+00:11:58,940 --> 00:12:03,260
+Vous pouvez le renseigner si vous connaissez les valeurs
+
+116
+00:12:03,580 --> 00:12:10,500
+mais ne vous en soucier pas si vous ne les connaissait pas ; avec les métadonnées et la description, on peut le déduire facilement.
+
+117
+00:12:11,300 --> 00:12:14,080
+Ce sont les termes obligatoires.
+
+118
+00:12:14,380 --> 00:12:16,380
+Je reviens à OpenRefine.
+
+119
+00:12:21,640 --> 00:12:24,360
+Ou plutôt, je vais d'abord revenir au tableau Excel.
+
+120
+00:13:21,260 --> 00:13:26,600
+Participant 1 : Pourquoi les coordonnées ne sont pas parties des 5 points les plus important ?
+
+121
+00:13:26,960 --> 00:13:32,500
+Sophie Pamerlon : Bonne question : Les coordonnées ne font pas parti des termes obligatoires
+
+122
+00:13:32,600 --> 00:13:39,700
+elles font parties des termes fortement recommandés parce que malheureusement, on ne peut pas être sûr d'avoir des coordonnées géographiques
+
+123
+00:13:39,800 --> 00:13:44,180
+pour tous les jeux de données ; par exemple, dans des collections anciennes,
+
+124
+00:13:44,580 --> 00:13:48,420
+on a souvent uniquement des informations sur l'étiquette du spécimen,
+
+125
+00:13:48,840 --> 00:13:54,920
+et parfois sur l'étiquette, il y a juste marqué "Guinée" ou même parfois "Afrique de l'Ouest"
+
+126
+00:13:55,320 --> 00:14:00,180
+et avec ce genre d'information, on ne peut pas extrapoler les coordonnées.
+
+127
+00:14:00,620 --> 00:14:09,020
+Moussa Diabaté : Il y a un logiciel dans RIHA qui, quand on connait la géographie de l'espèce,
+
+128
+00:14:09,060 --> 00:14:13,600
+permet d'avoir des informations relatives à la position de l'endroit où on est dans la station.
+
+129
+00:14:14,200 --> 00:14:20,220
+Pourquoi est-ce qu'on ne met pas les coordonnées de la station ?
+
+130
+00:14:21,480 --> 00:14:23,480
+la récolte de la collection arrive là
+
+131
+00:14:23,600 --> 00:14:25,600
+quelque soit l'endroit du RIHA
+
+132
+00:14:25,640 --> 00:14:29,320
+et vous avez les coordonnées du RIHA qui s'affiche
+
+133
+00:14:40,040 --> 00:14:42,040
+Eric chenin : effectivement ces dégâts de localités
+
+134
+00:14:42,080 --> 00:14:46,000
+tout ce qui concerne les localités, les toponymes,
+
+135
+00:14:46,240 --> 00:14:48,240
+des coordonnées géographique
+
+136
+00:14:51,160 --> 00:14:56,820
+Sophie Pamerlon : Effectivement, quand on a la possibilité d'avoir ce type d'information, c'est très important de pouvoir les mettre.
+
+137
+00:14:57,040 --> 00:15:01,480
+Après, malheureusement tout le monde n'utilise pas ce type de logiciel
+
+138
+00:15:01,640 --> 00:15:06,000
+ce n'est pas encore obligatoire mais je pense que ce le sera sans doute
+
+139
+00:15:06,420 --> 00:15:08,820
+dans les mois ou année à venir.
+
+140
+00:15:33,380 --> 00:15:38,760
+Pour revenir au fichier Excel, vous voyez les diverses informations géographiques
+*sonnerie de téléphone*
+
+141
+00:15:40,420 --> 00:15:43,680
+Ici, nous avons bien les latitudes et longitudes.
+
+142
+00:15:44,740 --> 00:15:47,960
+Nous avons aussi une colonne qui est très importante,
+
+143
+00:15:47,960 --> 00:15:52,640
+qui n'est pas obligatoire non plus mais qui est recommandé pour pouvoir retourner à la source des données
+
+144
+00:15:53,040 --> 00:16:00,080
+c'est la colonne "recordedBy" : c'est la personne qui a collectée ou observée la donnée.
+
+145
+00:16:00,560 --> 00:16:07,380
+Vous voyez qu'il y a eu des personnes différentes qui était sur le terrain en même temps qui ont collectés des données.
+
+146
+00:16:08,440 --> 00:16:15,400
+Enfin, ici, c'est le protocole de collecte qui a été spécifié.
+
+147
+00:16:15,740 --> 00:16:23,360
+Ici, en l'occurrence, ce sont des données sur des poissons, ce sont des techniques de pêches artisanale qui ont été utilisées.
+
+148
+00:16:24,780 --> 00:16:29,340
+Vous avez un aperçu du fichier Excel, vous pouvez le consulter plus en détail tout à l'heure,
+
+149
+00:16:29,580 --> 00:16:32,600
+et je vais vous montrez comment le charger dans OpenRefine.
+
+150
+00:16:34,420 --> 00:16:40,200
+On a déjà été le chercher tout à l'heure, on a le nom du fichier en haut à droite.
+
+151
+00:16:40,740 --> 00:16:45,680
+On peut le renommer sous OpenRefine, pour le rendre plus clair.
+Ou on peut aussi le laisser tel quel.
+
+152
+00:16:46,520 --> 00:16:53,860
+Par défaut, OpenRefine ouvre la première page qui est celle des informations générales.
+
+153
+00:16:54,280 --> 00:17:00,400
+Nous, on ne va pas avoir besoin de cette page, on va vouloir corriger la page occurrence, la page qui contient les données.
+
+154
+00:17:00,740 --> 00:17:06,640
+On va décocher le "Read me" et cocher le "occurrence".
+
+155
+00:17:10,500 --> 00:17:16,600
+Il y a juste cette manipulation à faire, on vous remontrera à quel niveau cela se trouve.
+
+156
+00:17:17,300 --> 00:17:23,840
+Et vous pouvez, dès lors, créer le projet, et donc accéder aux fonctionnalitées de nettoyage.
+
+157
+00:17:30,040 --> 00:17:34,420
+Ici, vous avez un aperçu : comme le jeu de données fait plus de 100 lignes,
+
+158
+00:17:34,780 --> 00:17:40,100
+elles ne sont pas toutes affichées, le logiciel affiche seulement les 99 premières lignes
+
+159
+00:17:40,120 --> 00:17:45,420
+mais le jeu de données est complet et toute modification que vous allez faire sur une colonne
+
+160
+00:17:45,740 --> 00:17:50,860
+vont s'appliquer à toute les lignes de la colonne et non pas seulement aux 99 premières.
+
+161
+00:17:52,060 --> 00:17:55,920
+Une fois que nous avons ouvert OpenRefine,
+
+162
+00:18:00,140 --> 00:18:04,300
+là aussi, il y a un ascenseur horizontal qui vous permet de faire défiler toutes les colonnes.
+
+163
+00:18:06,000 --> 00:18:13,680
+Cela ressemble au logiciel Excel, avec le nom des colonnes, les lignes et le contenu des cellules.
+
+164
+00:18:14,580 --> 00:18:18,160
+Mais contrairement à Excel, là vous voyez une partie qui ressemble aux filtres d'Excel
+
+165
+00:18:18,160 --> 00:18:21,640
+mais au lieu d'avoir des valeurs, vous allez avoir plusieurs possibilités
+
+166
+00:18:22,640 --> 00:18:24,640
+ce qu'on appelle les facets.
+
+167
+00:18:25,500 --> 00:18:32,140
+Ce que nous allons surtout utiliser, ce sont les facets ou sinon les filtres de textes.
+
+168
+00:18:32,340 --> 00:18:36,880
+après, il y a beaucoup d'autre fonctionnalités : éditer les cellules, éditer les colonnes,
+
+169
+00:18:37,420 --> 00:18:39,740
+les trier, les visualiser, etc.
+
+170
+00:18:40,020 --> 00:18:45,820
+Il y a aussi des fonctionnalités avancées, qui sont plus pour les développeurs informatique, par exemple.
+
+171
+00:18:46,160 --> 00:18:54,740
+Mais si vous avez des questions sur ces fonctionnalités, posez-les nous et on pourra y répondre ou vous envoyer de la documentation.
+
+172
+00:18:57,020 --> 00:19:02,720
+On a un jeu de données qui contient des erreurs,
+*sonnerie de téléphone*
+
+173
+00:19:03,920 --> 00:19:09,780
+par exemple, ce que je veux faire, c'est vérifier que tous mes champs scientifiques sont
+
+174
+00:19:10,000 --> 00:19:12,000
+bien écrit de la même façon,
+
+175
+00:19:12,340 --> 00:19:18,760
+c'est-à-dire que tous les noms de la même espèce sont écrit de la même façon, qu'il n'y a pas de faute de frappe,
+
+176
+00:19:19,000 --> 00:19:21,000
+ou d'erreur dans les noms.
+
+177
+00:19:21,260 --> 00:19:23,680
+Je vais allez dans la colonne "scientific name"
+
+178
+00:19:25,700 --> 00:19:28,640
+et là, je fais "facet" > "text facets"
+
+179
+00:19:28,640 --> 00:19:34,220
+puisque c'est une colonne qui contient des données de texte, c'est pas une colonne qui contient des chiffres
+
+180
+00:19:34,260 --> 00:19:36,260
+donc je fais "texte facet".
+
+181
+00:19:36,720 --> 00:19:40,500
+Là, cela correspond aux filtres d'Excel, vous voyez toutes les valeurs
+
+182
+00:19:41,200 --> 00:19:47,380
+classés par ordre alphabétique, avec juste en face, en gris, je sais pas si vous voyez bien,
+
+183
+00:19:47,580 --> 00:19:50,140
+il y a le nombre de ligne qui contient cette valeur,
+
+184
+00:19:50,460 --> 00:19:54,160
+donc cela veut dire que, dans tout le fichier, il y a 3 lignes qui ont ce nom d'espèce,
+
+185
+00:19:54,500 --> 00:19:58,720
+3 occurrences qui ont ce nom d'espèce.
+
+186
+00:19:59,200 --> 00:20:02,740
+Et là, vous voyez qu'il y a déjà des similitudes, il y a au moins
+
+187
+00:20:02,900 --> 00:20:07,780
+4 valeurs qui sont très semblables, très similaires : hydrosinus vitatus
+
+188
+00:20:08,100 --> 00:20:12,300
+qui est écrit de différente façons, donc on a  avec un "h" après le "c"
+
+189
+00:20:12,440 --> 00:20:16,820
+sans "h" après le "c", avec deux "t"
+
+190
+00:20:17,120 --> 00:20:21,920
+et là, on suppose qu'il manque un "i" devant le "t".
+
+191
+00:20:23,100 --> 00:20:28,780
+Donc là, on sent qu'il va y avoir une erreur au niveau orthographique à corriger.
+
+192
+00:20:30,680 --> 00:20:35,120
+Donc là, on peut allez voir jusqu'à la fin
+
+193
+00:20:35,120 --> 00:20:39,980
+Pareil pour "tylapia" par exemple, "tylapia zilie", il y a une ligne
+
+194
+00:20:40,220 --> 00:20:44,660
+dans laquelle "tylapia zilie" est orthographié de cette façon
+
+195
+00:20:45,280 --> 00:20:50,120
+19 lignes où le nom d'espèce est orthographié avec deux "l",
+
+196
+00:20:50,900 --> 00:20:56,340
+et une ligne où le nom espèce est orthographié avec deux "p" à "tylapia".
+
+197
+00:20:58,720 --> 00:21:01,560
+Il y a différentes techniques pour corriger.
+
+198
+00:21:02,860 --> 00:21:09,680
+Quand vous passez la souris sur chaque nom, vous pouvez cliquer sur "edit" ici (en bleu)
+
+199
+00:21:11,400 --> 00:21:14,360
+et vous pouvez modifier directement le nom scientifique.
+
+200
+00:21:16,680 --> 00:21:19,700
+Je vais quand même allez vérifier (l'orthographe correcte).
+
+201
+00:21:46,940 --> 00:21:51,220
+tilapia zillii
+
+202
+00:21:56,300 --> 00:21:59,840
+donc sur FishBase par exemple,
+
+203
+00:22:00,520 --> 00:22:05,300
+ou sur AquaBase ici, j'ai le nom "tilapia zillii".
+
+204
+00:22:08,960 --> 00:22:16,080
+Donc là, je vois que cela s'écrie t-i-l-a-p-i-a z-i-l-i-i
+Participant 1 : deux "l"
+
+205
+00:22:16,840 --> 00:22:19,800
+Sophie Pamerlon :l-l-i-i, pardon, vous avez de meilleurs yeux que moi.
+
+206
+00:22:19,940 --> 00:22:27,200
+Donc tilapia zillii avec deux "l" et deux "i" et un seul "p" à tilapia.
+
+207
+00:22:28,240 --> 00:22:31,620
+Je reviens sur OpenRefine, je vais fermer cette page,
+
+208
+00:22:34,340 --> 00:22:37,500
+là par exemple, on se rend compte qu'il manque le deuxième "i" à la fin,
+
+209
+00:22:38,000 --> 00:22:43,040
+donc on peut le corriger ici : je tape juste un deuxième "i" et clique sur "Apply" pour appliquer la correction.
+
+210
+00:22:45,060 --> 00:22:49,840
+Et voilà, j'ai mis deux "i" à la fin.
+
+211
+00:22:53,900 --> 00:22:58,920
+C'est une première technique ; cela peut-être un peu laborieux si vous avez beaucoup d'erreur orthographique
+
+212
+00:22:58,920 --> 00:23:02,840
+vous allez devoir corriger valeur par valeur.
+
+213
+00:23:03,660 --> 00:23:09,460
+Ce qu'on va essayez de faire sinon, c'est un cluster, c'est-à-dire un regroupement automatique
+
+214
+00:23:09,460 --> 00:23:14,380
+par OpenRefine de tous les noms qui se ressemble beaucoup et qu'OpenRefine va nous proposer de fusionner ou pas.
+
+215
+00:23:15,060 --> 00:23:17,060
+Si vous faite "Cluster" ici
+
+216
+00:23:18,140 --> 00:23:23,880
+vous voyez qu'il a détecté qu'il y avait deux noms qui se ressemblait beaucoup.
+
+217
+00:23:24,660 --> 00:23:28,980
+Pour les clusters, utilisez toujours la méthode "nearlest neighbourg" (plus proche voisin en anglais).
+
+218
+00:23:31,340 --> 00:23:36,200
+OpenRefine a détecté tout seul qu'il y avait des noms qui se ressemblait énormément.
+
+219
+00:23:38,280 --> 00:23:41,320
+On reprend l'exemple de "tilapia zillii", qui est en bas.
+
+220
+00:23:42,200 --> 00:23:46,400
+Il y détecté 19 lignes avec deux "l" et deux "i",
+
+221
+00:23:47,140 --> 00:23:49,980
+donc celle que je viens de corriger, je pense.
+
+222
+00:23:50,840 --> 00:23:56,520
+Et il a aussi remarqué que l'orthographe avec deux "p" ressemblait beaucoup et me propose de fusionner
+
+223
+00:23:56,580 --> 00:24:01,060
+la case "merge" (fusion en anglais) ici, et si vous la cocher, cela veut dire que
+
+224
+00:24:01,440 --> 00:24:03,440
+il va fusionner ces deux valeurs
+
+225
+00:24:03,860 --> 00:24:07,860
+et les appliquer aux 19+1 = 20 lignes concernées.
+
+226
+00:24:08,860 --> 00:24:15,920
+ici, dans cette dernière colonne, c'est la nouvelle valeur qui va être attribué à toutes les cellules corrigées, donc c'est assez important.
+
+227
+00:24:16,460 --> 00:24:18,820
+Vous pouvez soit choisir une des deux valeurs
+
+228
+00:24:19,340 --> 00:24:25,540
+soit, si il y a des erreurs dans toutes les propositions, vous pouvez mettre une nouvelle valeur dans la dernière colonne.
+
+229
+00:24:27,160 --> 00:24:34,360
+Par défaut, il choisit la première valeur : "tilapia" avec un "p", et "zillii" avec deux "l" et deux "i", donc c'est bon.
+
+230
+00:24:34,760 --> 00:24:38,960
+Tant qu'on n'y est, on peut en profiter pour aller chercher les autres similitudes.
+
+231
+00:24:39,760 --> 00:24:44,840
+"hydrocynus vittatus" est orthographié ici avec deux "t",
+
+232
+00:24:45,820 --> 00:24:48,860
+ici il manque un "i" avant les deux "t",
+
+233
+00:24:50,600 --> 00:24:52,960
+et là, il manque un "t" après le "i".
+
+234
+00:24:53,960 --> 00:25:01,900
+Je connais la bonne orthographe car j'ai déjà vérifié l'espèce avant, donc je sais que la première solution est la bonne.
+
+235
+00:25:02,360 --> 00:25:08,220
+Il suffit de cliquer dessus et cela sélectionne automatiquement la case fusionner avec la valeur
+
+236
+00:25:08,760 --> 00:25:11,220
+que l'on souhaite appliquer à toutes les cellules.
+
+237
+00:25:11,940 --> 00:25:15,980
+Il y a 12 cellules qui ont déjà la bonne valeur, 12 lignes donc.
+
+238
+00:25:16,480 --> 00:25:25,700
+Et il y a deux lignes qui ont une faute de frappe et qui vont avoir cette nouvelle valeur attribuée.
+
+239
+00:25:27,240 --> 00:25:31,820
+Ici, il a détecté d'autre similitudes,
+
+240
+00:25:32,120 --> 00:25:40,680
+cette fois-ci cela ne concerne pas le nom d'espèce mais le nom de genre, on voit qu'il y avait une interrogation : est-ce qu'il y a un "h" après le "c" ?
+
+241
+00:25:41,520 --> 00:25:47,880
+Dans ce cas-là, on sait qu'il n'y a pas de "h" après le premier "c" donc on va également fusionner.
+
+242
+00:25:48,960 --> 00:25:56,600
+Cela veut dire que cette ligne qui avait un "h" avant le "c" va aussi
+
+243
+00:25:56,600 --> 00:26:00,820
+se voir attribuer la valeur "hydrocynus vittatus" sans le "h" après le premier "c".
+
+244
+00:26:05,260 --> 00:26:08,720
+Je vais laissez celui-ci sans le cocher.
+
+245
+00:26:09,460 --> 00:26:11,460
+tilapia
+
+246
+00:26:13,520 --> 00:26:19,700
+je ne sais pas ce qu'il a détecté pour ce cas-ci car les deux propositions sont orthographiés de la même façon, mais on va les fusionner quand même.
+
+247
+00:26:20,680 --> 00:26:24,020
+Ensuite il y a cette espèce "synodontis tisi"
+
+248
+00:26:24,680 --> 00:26:31,040
+avec ou sans "h" après le "t".
+
+249
+00:26:31,480 --> 00:26:36,100
+est-ce que vous connaissez cette espèce ?
+Participant 1 : c'est la deuxième proposition.
+
+250
+00:26:36,100 --> 00:26:37,880
+Sophie Pamerlon : C'est la deuxième voilà.
+
+251
+00:26:38,020 --> 00:26:45,540
+On est dans un cas de figure où les deux propositions ont le même nombre de ligne
+
+252
+00:26:45,800 --> 00:26:50,200
+le logiciel, par défaut, propose la première proposition
+
+253
+00:26:50,800 --> 00:26:54,420
+mais attention, c'est pas toujours la valeur par défaut, puisque là, en l’occurrence c'est
+
+254
+00:26:54,800 --> 00:26:57,320
+la deuxième, avec le "h" après le "t".
+
+255
+00:26:58,800 --> 00:27:06,100
+On a ensuite deux options : soit on fusionne tout ce que l'on a sélectionné, et on refait un cluster pour être sûr de n'avoir rien oublié,
+
+256
+00:27:06,820 --> 00:27:10,460
+soit on fusionne et on ferme la fenêtre (uniquement si on est sûr de n'avoir rien oublié).
+
+257
+00:27:11,000 --> 00:27:16,380
+Là, je vais fusionner puis vérifier que l'on n'a pas oublié de
+
+258
+00:27:17,840 --> 00:27:22,740
+Participant 2 : je voudrais savoir, si le logiciel, pour proposer les choix qu'il fait,
+
+259
+00:27:23,340 --> 00:27:31,560
+s'aide d'une liste d'espèce ?
+Sophie Pamerlon : Oui. Oui.
+
+260
+00:27:31,900 --> 00:27:38,180
+Il propose mais ce n'est pas par rapport à une liste d'espèce, il va juste choisir une des deux valeurs,
+
+261
+00:27:38,740 --> 00:27:46,020
+par défaut, je pense qu'il prend la première valeur ou bien la valeur pour laquelle il y a le plus de ligne
+
+262
+00:27:46,360 --> 00:27:48,900
+la proposition qui a le plus de cellules où elle est présente.
+
+263
+00:27:49,780 --> 00:27:59,300
+Le logiciel ne réfléchit pas en matière de taxonomie, il pourrait y avoir écrit "pomme" et "poire", il va en choisir une,
+
+264
+00:27:59,740 --> 00:28:03,960
+Participant 1 : Donc c'est à nous de renseigner le vrai nom de l'espèce
+
+265
+00:28:04,040 --> 00:28:07,740
+si il n'est pas présent dans le logiciel, dans ces propositions.
+Sophie Pamerlon : Exactement
+
+266
+00:28:07,880 --> 00:28:12,780
+On a fait une correction dans la colonne "scientificName" nom scientifique), donc
+
+267
+00:28:13,080 --> 00:28:15,680
+par défaut, il y a déjà des noms scientifiques dans la colonne,
+
+268
+00:28:16,080 --> 00:28:22,800
+le logiciel va donc simplement prendre les valeurs qui se trouvent dans cette colonne et va en proposer une d'entre elles (il peut y en avoir plus de deux).
+
+269
+00:28:23,780 --> 00:28:29,100
+C'est juste une proposition dans ce qu'il y a déjà dans la colonne.
+
+270
+00:28:32,380 --> 00:28:35,140
+J'ai fait une première fusion,
+
+271
+00:28:36,240 --> 00:28:43,160
+et je vois que là, le logiciel a repéré une autre erreur
+
+272
+00:28:43,220 --> 00:28:48,300
+en apparence, il n'y a pas de différence entre les deux,
+
+273
+00:28:48,520 --> 00:28:52,900
+il y a le même nombre de "p", de "l" et de "i",
+
+274
+00:28:53,120 --> 00:28:58,380
+donc cela correspond sans doute à un espace blanc (" ") après l'une des deux valeurs.
+
+275
+00:28:58,700 --> 00:29:02,120
+Les espaces blanc ne se voit pas à l’œil nu mais le logiciel les détecte,
+
+276
+00:29:02,220 --> 00:29:06,380
+et cela peut éviter des problèmes après, lors du traitement des données.
+
+277
+00:29:07,520 --> 00:29:11,460
+Dans le doute, on va les fusionner, c'est exactement la même chose.
+
+278
+00:29:12,240 --> 00:29:18,120
+Je sais qu'après cette fusion, il n'y aura plus rien à fusionner, donc je prends la deuxième option : fusionner et fermer.
+
+279
+00:29:20,320 --> 00:29:23,760
+Voilà, on a corrigé les noms scientifiques.
+
+280
+00:29:24,260 --> 00:29:30,780
+J'ai pris un peu de temps pour la démonstration mais avec un peu d'habitude, cela devient plus facile et rapide, il suffit juste de vérifier
+
+281
+00:29:31,120 --> 00:29:36,260
+que la nouvelle valeur proposé est bien la bonne, et cela vous permet même pour des gros jeux de données
+
+282
+00:29:36,440 --> 00:29:42,620
+de dizaine de milliers d'occurrence, de voir les similitudes et de les corriger.
+
+283
+00:29:46,300 --> 00:29:57,120
+On peut faire des vérifications aussi dans les autres colonnes : vérifier que le nom du pays est bien orthographié par exemple.
+
+284
+00:29:57,420 --> 00:30:01,460
+Dans la colonne "country", je vais refaire un facet
+
+285
+00:30:01,660 --> 00:30:05,000
+je fais "facet", puis je clique sur la flèche pour cliquer sur "text facet" après.
+
+286
+00:30:05,500 --> 00:30:08,780
+Toutes vos corrections se font sur la gauche de l'écran.
+
+287
+00:30:11,000 --> 00:30:18,620
+Et donc on voit pour ce jeu de données, toutes les lignes contiennent bien le nom du pays "Benin".
+
+288
+00:30:21,340 --> 00:30:25,660
+Il n'y a pas de problème ici, pas de doublon.
+
+289
+00:30:27,080 --> 00:30:33,860
+Quelque chose d'important aussi : tout à l'heure, j'insistais sur le fait que chaque ligne doit avoir un identifiant unique,
+
+290
+00:30:34,240 --> 00:30:40,020
+avec OpenRefine, il est très facile de vérifier que les identifiants sont bien tous unique, qu'il n'y a pas de doublons,
+
+291
+00:30:40,480 --> 00:30:42,480
+donc on fait encore un "text facet".
+
+292
+00:30:46,500 --> 00:30:49,780
+Le résultat du text facet va se mettre sous les autres résultats précédents, il faut penser à descendre pour le consulter.
+
+293
+00:30:51,020 --> 00:30:57,580
+Ici par exemple, les valeurs des lignes,
+
+294
+00:30:58,380 --> 00:31:01,320
+peuvent être trié, soit par nom,
+
+295
+00:31:02,140 --> 00:31:07,160
+soit par nombre de ligne qui ont cette valeur.
+
+296
+00:31:07,600 --> 00:31:12,740
+Pour certaines colonnes, ce n'est pas grave du tout : pour la colonne pays ("country") par exemple,
+
+297
+00:31:13,140 --> 00:31:18,760
+c'est normal que toutes les lignes ont la même valeur : "Benin", ou que pour le code pays ("countryCode"), toutes les lignes
+
+298
+00:31:18,900 --> 00:31:20,900
+aient le même code pays.
+
+299
+00:31:21,300 --> 00:31:26,700
+Après pour certaines colonnes comme "occurrenceId", il ne faut surtout pas que plusieurs lignes est le même numéro.
+
+300
+00:31:27,500 --> 00:31:35,440
+Car cela voudrait dire qu'il y a le même numéro d'occurrence pour plusieurs spécimens différents, ce qui n'est pas bon.
+
+301
+00:31:35,920 --> 00:31:40,160
+Que ce soit par ordre alphabétique ou par nombre de ligne,
+
+302
+00:31:40,240 --> 00:31:48,860
+on voit que l'on a des numéro d'occurrences qui sont en doublons, voire en triplet ; il faudra les corriger.
+
+303
+00:31:50,760 --> 00:31:55,480
+Quand on clique sur une valeur,
+
+304
+00:31:56,480 --> 00:32:06,620
+les lignes concernées apparaissent, ici il y en a trois. Si on clique sur celle-ci où il n'y a que deux ligne concernées, les deux lignes vont apparaître.
+
+305
+00:32:08,120 --> 00:32:13,500
+Il faut ici retourner voir le gestionnaire du jeu de données ou revoir la base de données,
+
+306
+00:32:13,880 --> 00:32:23,140
+et on va modifier le numéro de catalogue, le numéro d'occurrence.
+*sonnerie de téléphone*
+
+307
+00:32:24,100 --> 00:32:29,540
+Là par exemple, je vais mettre n'importe quoi à la fin, comme "az"
+
+308
+00:32:31,300 --> 00:32:37,800
+Je l'applique : vous voyez qu'il y a deux options, soit "appliquez" ou "appliquez à toutes les cellules identique".
+
+309
+00:32:39,040 --> 00:32:44,220
+Dans ce cas de figure, je vais juste faire "appliquez" à cette ligne car si j'applique à toutes les cellules identiques,
+
+310
+00:32:44,220 --> 00:32:46,720
+je vais juste recréer un deuxième doublon,
+
+311
+00:32:46,740 --> 00:32:50,400
+ce qui ne serait pas une bonne correction.
+
+312
+00:32:50,800 --> 00:32:54,760
+Donc applique ceci ici.
+
+313
+00:32:56,040 --> 00:33:00,540
+Quand j'appuie sur la flèche, cela met à jour.
+
+314
+00:33:02,180 --> 00:33:05,940
+Vous voyez le doublon avec deux lignes différentes à disparut.
+
+315
+00:33:06,460 --> 00:33:13,540
+Et cela veut dire qu'il y a deux numéro d'occurrence différents pour les deux lignes qui étaient précédemment un doublon.
+
+316
+00:33:15,060 --> 00:33:20,000
+Je peux faire la même chose pour les autres : soit éditer directement ici,
+
+317
+00:33:21,880 --> 00:33:26,820
+oubliez ce que je viens de dire car si j’édite ici, cela fera la même chose que "appliquez à toutes les cellules"
+
+318
+00:33:26,820 --> 00:33:32,620
+on va juste changer le nom de la valeur mais cela restera la même valeurs pour les trois lignes.
+
+319
+00:33:33,240 --> 00:33:34,600
+Donc c'est pas bon.
+
+320
+00:33:36,740 --> 00:33:43,100
+Je vais faire comme tout à l'heure : sélectionner puis changer les numéros qui doivent être changés
+
+321
+00:33:43,180 --> 00:33:50,000
+après vérification bien sûr, on va pas s'amusez à changer les numéros de catalogues ou d'inventaires  comme ça,
+
+322
+00:33:50,840 --> 00:33:58,160
+il faut avoir une référence : le carnet de terrain ou la base de données ou les étiquettes ; quelque chose sur quoi se baser.
+
+323
+00:33:59,740 --> 00:34:05,480
+C'est vraiment un aperçu très léger de ce que l'on peut faire sous OpenRefine.
+
+324
+00:34:06,080 --> 00:34:10,740
+Et vous allez me dire :
+
+325
+00:34:10,920 --> 00:34:16,120
+"Comment les modifications sont-elles enregistrées sur nos ordinateurs ?"
+
+326
+00:34:16,420 --> 00:34:21,180
+Vous avez fait des modifications, non pas sous Excel mais sur OpenRefine,
+
+327
+00:34:21,820 --> 00:34:26,320
+et vous pouvez donc tout simplement, exporter votre fichier corrigé
+
+328
+00:34:27,000 --> 00:34:33,160
+sous plusieurs options : vous pouvez l'exporter au format .csv
+
+329
+00:34:33,460 --> 00:34:36,500
+au format Excel bien sûr,
+
+330
+00:34:36,980 --> 00:34:42,200
+ou dans un format tableur open source libre si vous avez OpenOffice par exemple.
+
+331
+00:34:42,940 --> 00:34:44,720
+Donc là, on va l'exporter au format Excel (.xls)
+
+332
+00:34:57,820 --> 00:35:00,960
+Ceci est mon fichier corrigé.
+
+333
+00:35:05,220 --> 00:35:08,700
+Je vais le renommer en exercice_Guinée_corriger.xls
+
+334
+00:35:11,700 --> 00:35:13,700
+Et après, si je l'ouvre,
+
+335
+00:35:17,680 --> 00:35:22,880
+J'ai eu un petit oubli :
+
+336
+00:35:24,260 --> 00:35:32,500
+vous voyez que j'ai sélectionné trois lignes avec trois numéros, donc j'ai uniquement téléchargé les trois lignes concernées.
+
+337
+00:35:33,840 --> 00:35:40,380
+Donc une fois que vous avez fini vos corrections, supprimer les facets (sur la gauche de votre écran)
+
+338
+00:35:40,740 --> 00:35:45,100
+pour avoir de nouveau toutes les lignes (99) qui sont affichées 10 par 10.
+
+339
+00:35:46,280 --> 00:35:49,440
+et je vais donc de nouveau l'exporter au format Excel.
+
+340
+00:35:54,380 --> 00:35:57,860
+Je vais remplacer l'ancien fichier (qui n'est pas bon car il n'a que 3 lignes).
+
+341
+00:36:09,100 --> 00:36:14,920
+Bon un petit soucis technique mais en théorie, vous pouvez télécharger le jeu de données corrigé sans problèmes.
+
+342
+00:36:16,020 --> 00:36:18,740
+Je ne sais pas ce qui se passe avec le navigateur.
+
+343
+00:36:20,980 --> 00:36:23,720
+Donc voilà, c'était un premier aperçu de OpenRefine,
+
+344
+00:36:24,240 --> 00:36:30,100
+je vous invite à présent à ouvrir le fichier Excel pour
+
+345
+00:36:30,100 --> 00:36:34,360
+avoir un aperçu, étudier les colonnes, etc.
+
+346
+00:36:34,360 --> 00:36:41,320
+Et ensuite, vous pouvez lancer OpenRefine, on va passer dans les rangs pour vous remontrer comment lancer le logiciel
+
+347
+00:36:41,320 --> 00:36:44,540
+normalement, comme on a tout testé hier soir, cela devrait marcher.
+
+348
+00:36:45,280 --> 00:36:53,180
+Et vous pouvez essayer de refaire cet exercice, il faut juste aller vérifier dans les noms des colonnes, je vais les afficher au tableau,
+
+349
+00:36:53,560 --> 00:36:57,640
+Les noms des colonnes c'est : nom scientifique ("scientificName")
+
+350
+00:36:58,040 --> 00:37:01,740
+et "recordedBy", c'est-à-dire le nom du collecteur.
+
+351
+00:37:03,160 --> 00:37:07,680
+Et le numéro de catalogue, je vais les afficher.
+
+352
+00:38:04,400 --> 00:38:06,400
+Voilà. Tout le monde voit bien ?
+
+353
+00:38:08,960 --> 00:38:15,020
+Maintenant, c'est à vous de jouer : ouvrez le dossier OpenRefine, tout y est normalement.
+
+354
+00:38:15,800 --> 00:38:19,580
+Avec Fabien, on va passer dans les rangs pour vous aider.
+

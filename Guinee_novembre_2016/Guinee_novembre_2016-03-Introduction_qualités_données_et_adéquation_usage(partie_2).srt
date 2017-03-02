@@ -1,0 +1,1369 @@
+1
+00:00:02,480 --> 00:00:07,220
+Sophie Pamerlon : Je vais faire une petite digression sur l'exactitude et la précision.
+
+2
+00:00:07,800 --> 00:00:15,420
+Ce sont des termes que l'on utilise souvent et que vous allez retrouver dans la gestion des données, dans les documents qui parle de la qualité des données.
+
+3
+00:00:16,020 --> 00:00:23,700
+Ce sont deux termes que l'on pourrait considérer comme interchangeable alors qu'ils recouvrent des choses différentes.
+
+4
+00:00:24,360 --> 00:00:30,400
+L'exactitude : c'est la véracité de l'information, savoir si l'information est correcte ou pas.
+
+5
+00:00:31,140 --> 00:00:38,740
+Précision : cela décrit à quel point la valeur est proche de la vraie valeur de l'information.
+
+6
+00:00:39,420 --> 00:00:46,060
+Cela peut-être flou dit comme cela mais vous avez ici un exemple illustré par des cibles et des fléchettes.
+
+7
+00:00:46,960 --> 00:00:55,360
+Si vous lancez les fléchettes et qu'elles arrivent toutes groupés mais en dehors du cœur de cible,
+
+8
+00:00:55,820 --> 00:01:01,740
+vous allez avoir une exactitude faible car les données ne seront pas
+
+9
+00:01:01,740 --> 00:01:06,880
+au cœur de la cible, cela veut dire qu'elles ne seront pas correctes mais elles auront une haute précision
+
+10
+00:01:07,060 --> 00:01:11,240
+si on applique ce premier cas de figure à la biodiversité,
+
+11
+00:01:11,400 --> 00:01:15,120
+cela peut-être une identification qui peut-être très précise
+
+12
+00:01:15,340 --> 00:01:20,760
+donc vous allez avoir le genre, la famille, l'espèce, et éventuellement la sous-espèce,
+
+13
+00:01:20,900 --> 00:01:24,940
+mais la personne qui a identifiée s'est trompé dès la famille.
+
+14
+00:01:25,380 --> 00:01:31,160
+Toutes les sous-catégorie de Taxonomie vont être complétés mais il y a une erreur dès le début
+
+15
+00:01:31,440 --> 00:01:35,400
+et donc les données sont fausses mais très précises.
+
+16
+00:01:35,560 --> 00:01:38,780
+Donc c'est vraiment un cas de figure qui peut arriver, il faut faire attention.
+
+17
+00:01:39,920 --> 00:01:42,980
+Un deuxième cas de figure qui est déjà un peu mieux :
+
+18
+00:01:43,080 --> 00:01:46,960
+c'est quand on a une haute exactitude mais une basse précision.
+
+19
+00:01:47,180 --> 00:01:51,940
+Cela veut dire, si je reprends mon exemple de taxonomie,
+
+20
+00:01:52,860 --> 00:01:59,120
+on aura un spécimen qui sera bien identifié, au niveau du genre par exemple,
+
+21
+00:01:59,400 --> 00:02:06,180
+mais l'identification n'ira pas plus loin, on sait  déjà qu'au niveau du genre, cela est correct, cela a été validé par un expert.
+
+22
+00:02:06,460 --> 00:02:09,940
+On aura une haute exactitude mais une basse précision.
+
+23
+00:02:10,660 --> 00:02:14,620
+Et enfin le dernier cas de figure qui est celui à atteindre, car étant le meilleur des trois :
+
+24
+00:02:14,720 --> 00:02:18,860
+c'est quand on a, à la fois, une haute exactitude et une haute précision.
+
+25
+00:02:19,360 --> 00:02:25,820
+Si on reprend l'exemple de la taxonomie : on a tous les groupes taxonomiques qui sont bien
+
+26
+00:02:26,100 --> 00:02:32,180
+remplit, on a le genre, la famille, l'espèce, la sous-espèce, la variété par exemple.
+
+27
+00:02:32,520 --> 00:02:38,720
+et cette identification a été validée à tous les niveaux , on est sûr et certain que c'est la bonne identification.
+
+28
+00:02:39,340 --> 00:02:42,700
+Dans ce cas, c'est vraiment parfait.
+
+29
+00:02:43,880 --> 00:02:50,080
+Il faut essayer d’éviter le premier cas de figure où tout est bien remplit mais avec une erreur
+
+30
+00:02:50,400 --> 00:02:53,720
+dans l'identification ou la coordonnée géographique.
+
+31
+00:02:54,020 --> 00:02:59,880
+Le deuxième cas de figure, c'est un bon début car on peut toujours améliorer la précision.
+
+32
+00:03:00,260 --> 00:03:03,340
+Et le troisième cas de figure, c'est l'idéal à atteindre.
+
+33
+00:03:09,040 --> 00:03:11,520
+Pour continuer
+
+34
+00:03:11,900 --> 00:03:17,640
+sur l'erreur et l'incertitude : l'erreur peut englober les imprécisions et les données inexactes,
+
+35
+00:03:17,940 --> 00:03:24,300
+elle peut être aléatoire ou systématique. Aléatoire, cela peut-être une faute de frappe dans un nom scientifique
+
+36
+00:03:24,520 --> 00:03:29,820
+on a pas prêté attention et un nom scientifique a été mal orthographié.
+
+37
+00:03:30,300 --> 00:03:39,040
+Systématique : cela peut-être une faute de frappe dans une valeur qui a été attribuée à toute la base de données par exemple.
+
+38
+00:03:39,420 --> 00:03:42,240
+Si vous avez un champs "institution",
+
+39
+00:03:42,640 --> 00:03:47,860
+et que vous avez fait une erreur dans le nom de l'institution, cette erreur va être répercutée sur toutes les données de l'institution.
+
+40
+00:03:48,080 --> 00:03:50,080
+Il faut donc faire attention.
+
+41
+00:03:50,420 --> 00:03:56,540
+Comme je le disais tout à l'heure (vidéo n°2), dans les grosses bases de données, il est inutile de vouloir échapper à l'erreur
+
+42
+00:03:56,540 --> 00:03:58,820
+puisque il y en aura malheureusement.
+
+43
+00:03:59,180 --> 00:04:07,440
+Mais on peut essayer de la minimiser, de la réduire en faisant attention.
+
+44
+00:04:09,200 --> 00:04:11,860
+L'incertitude est aussi toujours présente,
+
+45
+00:04:13,300 --> 00:04:17,020
+puisqu'on peut avoir, comme je le disais tout à l'heure (voir partie 1), à chaque étape de la gestion des données
+
+46
+00:04:17,020 --> 00:04:21,740
+on peut avoir des problèmes pour interpréter des carnets de terrains par exemple,
+
+47
+00:04:22,080 --> 00:04:25,820
+ou pour comprendre un protocole, ou pour saisir des données.
+
+48
+00:04:26,720 --> 00:04:34,040
+Et donc parfois, l'incertitude nous en dit plus sur l'observateur, le collecteur que sur la donnée elle-même.
+
+49
+00:04:35,220 --> 00:04:40,260
+L'incertitude est un peu moins grave que l'erreur, donc faite surtout attention à diminuer l'erreur
+
+50
+00:04:40,560 --> 00:04:45,460
+et ensuite, une fois que vous êtes sûr que les données soient correctes, essayez de réduire l’incertitude.
+
+51
+00:04:49,980 --> 00:04:52,460
+On va parler maintenant des métadonnées.
+
+52
+00:04:52,460 --> 00:04:55,120
+Les métadonnées : qu'est-ce que c'est exactement ?
+
+53
+00:04:55,420 --> 00:04:58,320
+C'est ce que on peut appeler les données sur les données,
+
+54
+00:04:58,860 --> 00:05:01,360
+c'est-à-dire la description des données.
+
+55
+00:05:02,160 --> 00:05:08,040
+Dans le réseau GBIF, on demande des métadonnées pour chaque jeu de données,
+
+56
+00:05:08,380 --> 00:05:13,420
+sachant que un jeu de données peut-être : une collection, une base de données, etc.
+
+57
+00:05:15,180 --> 00:05:21,900
+C'est un ensemble de données cohérent et qui regroupe, généralement, soit des données qui ont été récoltés au même endroit et en même temps,
+
+58
+00:05:22,420 --> 00:05:27,360
+ou alors des données sur une même espèce,  c'est vous qui décidez
+
+59
+00:05:27,360 --> 00:05:29,360
+le contenu de votre jeu de données.
+
+60
+00:05:29,360 --> 00:05:36,340
+Une fois que vous avez fixé ce qui va y avoir dans votre jeu de données, vous devez le décrire.
+
+61
+00:05:37,360 --> 00:05:43,900
+Pour le décrire, on va d'abord en décrire le contenu, on le verra plus tard (voir vidéo n°05), c'est dans la partie
+
+62
+00:05:44,240 --> 00:05:49,300
+dans les métadonnées du logiciel que l'on va utiliser ; comment décrire un jeu de données.
+
+63
+00:05:49,540 --> 00:05:54,700
+Vous pouvez décrire son contenu : dans la partie description, vous pourrez mettre "ce jeu de données
+
+64
+00:05:55,300 --> 00:06:00,140
+"c'est l'Herbier national de Guinée qui contient
+
+65
+00:06:01,320 --> 00:06:04,820
+plusieurs centaine de millier de spécimens
+
+66
+00:06:05,380 --> 00:06:12,980
+et qui a été élaboré en telle année ; là vous pouvez mettre une description générale de votre jeu de données.
+
+67
+00:06:13,540 --> 00:06:19,760
+Son accessibilité : c'est-à-dire où on peut le consulter, où on peut le télécharger éventuellement.
+
+68
+00:06:20,160 --> 00:06:28,380
+Et sa complétude : c'est le fait de savoir si le jeu de données est complet ou pas, cela peut-être
+
+69
+00:06:28,500 --> 00:06:34,400
+une collection assez ancienne qui n'est plus alimentée, c'est-à-dire que si vous avez une collection
+
+70
+00:06:35,000 --> 00:06:38,080
+d'insecte par exemple qui date du 19ème siècle
+
+71
+00:06:38,320 --> 00:06:42,000
+il y a peu de chance que cette collection soit encore alimentée de nos jours.
+
+72
+00:06:42,340 --> 00:06:47,660
+A l'inverse, vous pouvez avoir des collections actuelles qui sont alimentés à chaque sortie de terrain,
+
+73
+00:06:47,660 --> 00:06:52,180
+vous faites des collectes et puis la collection grandit de jour en jour, de mois en mois,
+
+74
+00:06:52,780 --> 00:06:57,420
+et dans les métadonnées, vous pouvez dire : "ce jeu de données est complet et ne sera
+
+75
+00:06:57,580 --> 00:07:04,360
+"plus jamais modifié" ou bien "ce jeu de données est vivant et va devoir être mis à jour régulièrement".
+
+76
+00:07:05,620 --> 00:07:12,900
+Ensuite, dans les métadonnées, on peut envoyer plein d'informations sur le dataset (jeux de données en anglais)
+
+77
+00:07:13,220 --> 00:07:20,340
+dont la surface géographique qu'il recouvre, l'ère temporelle
+
+78
+00:07:20,440 --> 00:07:23,660
+à quel moment ont commencé les collectes et à quel moment elles ont finies.
+
+79
+00:07:24,700 --> 00:07:31,440
+Documenter l'erreur : si vous avez décelez des erreurs que vous n'avez pas encore eu le temps ou les moyens de corriger,
+
+80
+00:07:31,660 --> 00:07:36,720
+vous pouvez les mettre dans les métadonnées, en disant : "on a repéré telle erreur ici, à tel niveau".
+
+81
+00:07:36,880 --> 00:07:40,040
+Prenez-en compte.
+
+82
+00:07:41,380 --> 00:07:46,240
+Les métadonnées permettent également de documenté toutes les procédures de validation
+
+83
+00:07:46,240 --> 00:07:50,280
+donc si vous avez fait appel à un expert taxonomique, vous pouvez le mettre ici.
+
+84
+00:07:50,520 --> 00:07:57,780
+Si vous avez utilisez un logiciel de cartographie pour vérifier les coordonnées, vous pouvez également l'indiquer, avec le nom du logiciel.
+
+85
+00:07:59,120 --> 00:08:05,680
+Les procédures de validation, de nettoyage, de correction et les protocoles de collecte sur le terrain
+
+86
+00:08:05,680 --> 00:08:08,760
+pour tout ça, vous pouvez les mettre à ce niveau-là.
+
+87
+00:08:10,060 --> 00:08:15,880
+En théorie, dans l'idéal, les métadonnées doivent être suffisamment riche
+
+88
+00:08:16,000 --> 00:08:22,080
+pour permettre l'usage des données par des utilisateurs tiers, qui ne connaisse pas du tout le contexte,
+
+89
+00:08:22,360 --> 00:08:25,180
+sans devoir se référer à la source de donnée
+
+90
+00:08:25,440 --> 00:08:30,740
+Un utilisateur lambda doit pouvoir utiliser vos données, sans avoir besoin de vous contacter
+
+91
+00:08:30,740 --> 00:08:37,240
+rien qu'avec les métadonnées où il y aura toutes les informations nécessaires pour la réutilisation de ces données.
+
+92
+00:08:43,120 --> 00:08:50,140
+Je vais rentrer dans le détail des différentes parties que l'on peut remplir dans les métadonnées.
+
+93
+00:08:50,140 --> 00:08:55,000
+J'ai déjà parlé des métadonnées et je vais aborder les données taxonomiques.
+
+94
+00:08:55,440 --> 00:09:01,380
+Quand on partage des données, ces données ont souvent une composante taxonomique,
+
+95
+00:09:01,380 --> 00:09:03,380
+*sonnerie de téléphone* 
+une composante géographique
+
+96
+00:09:03,840 --> 00:09:07,140
+une composante sur les conditions de collecte
+
+97
+00:09:07,340 --> 00:09:13,660
+et des composantes descriptives ; par exemple, si vous collectez un spécimen de plante à fleur
+
+98
+00:09:14,260 --> 00:09:19,200
+vous allez avoir toute la partie taxonomique : identification jusqu'à l'espèce
+
+99
+00:09:19,880 --> 00:09:27,220
+toute la partie géographie où vous avez récolté ce spécimen, et dans quelle région (si possible avec les coordonnées).
+
+100
+00:09:27,920 --> 00:09:36,860
+Ensuite, la composante de collecte, cela va être toutes les informations sur l'habitat, la météorologie, les plantes associés
+
+101
+00:09:37,560 --> 00:09:43,000
+vraiment toutes les informations qui concerne tout le contexte de la collecte, le protocole également.
+
+102
+00:09:43,420 --> 00:09:51,980
+Et enfin, les composantes descriptives : la hauteur de la plante, la couleur des fleurs, le nombre de fleurs, à quelle période elle fleurie, etc.
+
+103
+00:09:52,580 --> 00:09:59,740
+On peut détailler une donnée d'occurrence, une espèce vue à un endroit donné, à un moment donné
+
+104
+00:09:59,860 --> 00:10:02,560
+on peut la décomposer en plusieurs sous-catégories.
+
+105
+00:10:03,520 --> 00:10:06,200
+Je vais d'abord regarder la sous-catégorie "taxonomie".
+
+106
+00:10:07,000 --> 00:10:13,540
+Dans une base de données ou un fichier Excel, c'est souvent le nom qui est le point d'entrée pour la donnée
+
+107
+00:10:13,540 --> 00:10:17,280
+cela va être par le nom scientifique que nous allons rechercher la donnée.
+
+108
+00:10:18,560 --> 00:10:25,320
+Si on fait une erreur dans le nom scientifique, on risque de propager cette erreur dans le processus de publication.
+
+109
+00:10:26,220 --> 00:10:30,920
+Voici quelques solutions possibles et les solutions que l'on peut y apporter.
+
+110
+00:10:31,640 --> 00:10:35,700
+L'erreur principale, c'est une identification incorrecte,
+
+111
+00:10:36,180 --> 00:10:44,600
+pour cela, il faut allez chercher l'aide d'un taxonomiste, si vous disposez d'un taxonomiste dans votre bureau ou votre laboratoire
+
+112
+00:10:44,820 --> 00:10:46,440
+ou dans votre institution même ;
+
+113
+00:10:46,640 --> 00:10:53,120
+vous pouvez demander aussi de l'aide à des taxonomistes qui ne font pas partis de votre institution
+
+114
+00:10:53,160 --> 00:10:58,760
+souvent les personnes sont prête à répondre à des questions.
+
+115
+00:10:59,760 --> 00:11:06,640
+Sinon, il existe beaucoup de documentation : des flores, des listes de références, qui peuvent aussi servir pour
+
+116
+00:11:06,720 --> 00:11:08,720
+valider les identifications.
+
+117
+00:11:09,540 --> 00:11:13,580
+Ensuite une autre erreur courante, c'est l'erreur orthographique
+
+118
+00:11:13,620 --> 00:11:17,100
+des fautes de frappes tout simplement ; même si on a fait une bonne identification
+
+119
+00:11:17,100 --> 00:11:20,540
+il suffit que l'on ait oublié une lettre et la base de données ne retrouve plus l'espèce.
+
+120
+00:11:21,160 --> 00:11:27,580
+Pour cela, on va voir demain ou bien cet après-midi avec le logiciel OpenRefine (voir vidéo n°6)
+
+121
+00:11:27,620 --> 00:11:32,060
+comment faire pour retrouver ces erreurs d'orthographe, ces fautes de frappes et les corriger.
+
+122
+00:11:32,680 --> 00:11:35,420
+Enfin, un mauvais format.
+
+123
+00:11:35,740 --> 00:11:41,940
+Au niveau des dates, 
+je prends l'exemple des dates car il est assez parlant,
+
+124
+00:11:42,100 --> 00:11:46,140
+quand on publie des données dans le GBIF,  il faut respecter la norme ISO.
+
+125
+00:11:46,780 --> 00:11:53,540
+Si on diffuse des dates en écrivant 23 mai 1992,
+
+126
+00:11:53,960 --> 00:11:59,780
+cela ne respecte pas la norme ISO qui est : 1992-05-23
+
+127
+00:11:59,980 --> 00:12:05,640
+Tout simplement, si on diffuse les dates de cette façon-là, elles ne vont pas pouvoir être exploités
+
+128
+00:12:05,760 --> 00:12:09,640
+par le portail GBIF, et donc peut conduire à des pertes d'informations.
+
+129
+00:12:11,060 --> 00:12:20,580
+Un mauvais format peut également être corrigé et nettoyé lors du nettoyage des données par des logiciels spécifiques comme OpenRefine.
+
+130
+00:12:21,480 --> 00:12:25,400
+Les erreurs peuvent concerner les noms scientifiques et les noms commun,
+
+131
+00:12:25,400 --> 00:12:33,360
+là je reviens aux données taxonomique : les erreurs taxonomiques peuvent concernés les noms scientifiques et vernaculaires, à tous les niveaux de taxonomie.
+
+132
+00:12:37,280 --> 00:12:44,520
+Pour un peu plus sur les données taxonomiques, pour les personnes qui ne sont pas familière avec les données taxonomiques
+
+133
+00:12:44,660 --> 00:12:49,340
+on parle de nom scientifique, vernaculaire, de rang et de hiérarchie
+
+134
+00:12:49,660 --> 00:12:56,400
+des statuts également : est-ce que c'est un nom scientifique qui est synonyme d'un autre ? Est-ce que c'est un nom valide ?
+
+135
+00:12:56,880 --> 00:13:03,260
+Les références bien sûr : l'auteur de la description de l'espèce, la date et éventuellement le lieu.
+
+136
+00:13:03,740 --> 00:13:08,480
+La détermination : par qui et quand a été faite la détermination ?
+
+137
+00:13:08,920 --> 00:13:14,920
+Et enfin les champs relatifs à la qualité : est-ce que la détermination a été validé par un expert ?
+
+138
+00:13:18,360 --> 00:13:22,300
+D'autres erreurs courantes au niveau taxonomique : ce sont des données manquantes.
+
+139
+00:13:22,820 --> 00:13:28,740
+Il faut faire attention également : dans un tableau, dans une base de données, on peut avoir des cas où
+
+140
+00:13:28,740 --> 00:13:31,880
+par exemple une sous-espèce qui est renseignée, ou une variété
+
+141
+00:13:32,040 --> 00:13:36,280
+mais l'espèce est manquante : cela veut dire que l'on a un problème.
+
+142
+00:13:36,920 --> 00:13:43,840
+Des valeurs incorrectes : des fautes de frappes, une valeur qui a été remplit dans la mauvaise colonne
+
+143
+00:13:43,840 --> 00:13:48,900
+cela peut arriver lorsqu’on remplit des tableau à longueur de journée, on peut vite se tromper de colonne.
+
+144
+00:13:49,440 --> 00:13:55,720
+Des symboles aussi : il faut faire attention, que ce soit au niveau de la taxonomie ou de toutes les autres sous-catégories :
+
+145
+00:13:55,720 --> 00:13:58,800
+géographique, descriptive et collecte,
+
+146
+00:13:59,440 --> 00:14:06,940
+si vous n'avez pas l'information, laissez la case vide, ne mettez pas des points d'interrogations
+
+147
+00:14:07,200 --> 00:14:11,700
+ou un zéro, ou quoique ce soit comme n'importe quel symbole
+
+148
+00:14:11,700 --> 00:14:15,500
+parce que cela va créer des problèmes au niveau informatique
+
+149
+00:14:15,500 --> 00:14:19,340
+au niveau du partage des données,
+c'est pas forcément une bonne idée.
+
+150
+00:14:20,740 --> 00:14:26,540
+Laissez la case vide plutôt que de mettre des symboles ou des caractères spéciaux.
+
+151
+00:14:28,180 --> 00:14:33,020
+On peut également avoir des problèmes de valeur non-atomique dans un seul champ.
+
+152
+00:14:33,240 --> 00:14:39,240
+Par exemple, ici nous avons "sous-espèce Bicostasa"
+
+153
+00:14:39,380 --> 00:14:46,340
+il faut alors crée une colonne taxon, on pourra mettre que c'est une sous-espèce
+
+154
+00:14:46,640 --> 00:14:50,920
+et une autre colonne avec la valeur de ce taxon donc dans ce cas "biscostasa".
+
+155
+00:14:51,180 --> 00:14:55,720
+Comme ça, cela évitera les erreurs d'interprétations de la base.
+
+156
+00:14:56,700 --> 00:15:02,020
+On peut également avoir une incertitude sur un des noms de la nomenclature dénominale.
+
+157
+00:15:02,780 --> 00:15:09,300
+Là encore, c'est de faire appel à un expert ou à une liste de référence pour s'assurer
+
+158
+00:15:09,500 --> 00:15:13,600
+que le genre et l'espèce sont correct.
+
+159
+00:15:14,380 --> 00:15:20,880
+On peut avoir des valeurs dupliquées : c'est quelque chose auquel il faut faire attention.
+
+160
+00:15:21,440 --> 00:15:26,340
+Notamment dans la gestion et la fusion de base de donnée ; donc on peut avoir
+
+161
+00:15:26,920 --> 00:15:32,060
+des données qui se retrouvent en double car une ligne avec l'ancien nom scientifique
+
+162
+00:15:32,280 --> 00:15:36,320
+et une deuxième nom qui est en fait le même spécimen mais avec le nouveau nom scientifique.
+*son de notification de l'antivirus d'avast*
+
+163
+00:15:36,700 --> 00:15:42,180
+Donc faite attention lorsque vous mettez à jour des bases de données ou que vous fusionnez deux bases de données,
+
+164
+00:15:42,280 --> 00:15:47,400
+d'utiliser bien la même nomenclature et la même référence pour éviter ce genre d'erreur.
+
+165
+00:15:49,180 --> 00:15:56,400
+Il y a certaines données qui peuvent être inconsistante suite à la fusion de deux bases de données utilisant deux référentiels différents.
+
+166
+00:15:56,580 --> 00:16:00,200
+Assurez-vous d'utiliser toujours le référentiel le plus à jour
+
+167
+00:16:00,320 --> 00:16:07,080
+et de changer tous les anciens noms scientifique pour le nouveau nom valide.
+
+168
+00:16:08,700 --> 00:16:12,340
+Voilà tout ce que je pouvais dire sur les données taxonomiques.
+
+169
+00:16:12,700 --> 00:16:20,220
+Bien sûr, on va diffuser ces PowerPoints, et on est en train de filmer également : vous aurez accès au vidéos
+
+170
+00:16:20,580 --> 00:16:24,620
+et aux présentations de la formations, 
+n'hésitez pas à nous envoyer des messages
+
+171
+00:16:24,700 --> 00:16:28,940
+si vous avez la moindre question sur ces diapositives ou même en général.
+
+172
+00:16:31,540 --> 00:16:34,180
+Je vais ensuite passer aux données spatiales.
+
+173
+00:16:34,380 --> 00:16:38,280
+Les données spatiales couvrent tout ce qui est information géographique.
+
+174
+00:16:38,920 --> 00:16:50,180
+Elles peuvent être soit textuelles : le nom de la commune, le nom du district, le nom de la sous-préfecture par exemple.
+
+175
+00:16:50,920 --> 00:16:56,640
+Ou géo-référencé. Le mieux c'est lorsqu'on a à la fois l'information textuelle et l'information
+
+176
+00:16:56,720 --> 00:16:59,640
+de GPS : les données de latitude et longitude.
+
+177
+00:17:00,380 --> 00:17:07,840
+Comme cela, on peut vérifier que les données sont bien correctes et correspondent bien à l'endroit où l'on a été sur le terrain.
+
+178
+00:17:09,840 --> 00:17:17,300
+Ces données spatiales, si elles sont partagées, permettent de modéliser des distribution d'espèces par exemple,
+
+179
+00:17:17,300 --> 00:17:20,300
+c'est ce que l'on verra vendredi avec Maxent (voir vidéo n°11),.
+
+180
+00:17:20,880 --> 00:17:22,880
+Elles permettent aussi de sélectionner des zones à protéger,
+
+181
+00:17:23,120 --> 00:17:30,420
+avec un logiciel de cartographie : si vous voyez qu'il y a quelques espèces protégées sur la même zone,
+
+182
+00:17:30,680 --> 00:17:34,360
+cela va apporter du poids dans un dossier de
+
+183
+00:17:35,440 --> 00:17:39,740
+décision sur les aires protégés ; au niveau des ministères,
+
+184
+00:17:39,820 --> 00:17:45,080
+cela peut servir : "Dans cette zone, on a beaucoup d'espèce menacé ou rare
+
+185
+00:17:45,480 --> 00:17:48,760
+"cela peut être intéressant de créer une zone protégée à cet endroit".
+
+186
+00:17:48,860 --> 00:17:53,840
+Sans les coordonnées géographiques, on ne pourrait pas démontrer l'utilité de protéger cette zone.
+
+187
+00:17:55,920 --> 00:18:01,800
+Les données spatiales, au sens plus large, permettent de gérer l'environnement et ses ressources.
+
+188
+00:18:02,360 --> 00:18:07,560
+Puisque, par exemple, on peut les faire apparaître sur fond de carte, avec les rivières
+
+189
+00:18:08,540 --> 00:18:10,540
+avec l'occupation des sols.
+
+190
+00:18:10,740 --> 00:18:17,980
+Cela peut permettre de mieux gérer les ressources hydrologique ou de mieux gérer
+
+191
+00:18:18,460 --> 00:18:22,360
+*sonnerie de téléphone*
+l'occupation des sols en fonctions des espèces qui poussent dessus.
+
+192
+00:18:26,820 --> 00:18:30,740
+Quand on parle de données spatiales : de quoi s'agit-il exactement ?
+
+193
+00:18:30,820 --> 00:18:35,280
+On parle souvent, la plupart du temps, de latitude et longitude.
+
+194
+00:18:35,280 --> 00:18:37,440
+On peut également évoquer une aire.
+
+195
+00:18:37,800 --> 00:18:43,360
+Si vous dite que telle espèce a été observée dans un parc ou dans une réserve naturelle protégée,
+
+196
+00:18:43,640 --> 00:18:46,060
+cela peut être suffisant pour la localiser.
+
+197
+00:18:46,540 --> 00:18:51,200
+On peut également parler d'un point, avec autour de lui un rayon.
+
+198
+00:18:51,820 --> 00:18:58,240
+De boîte englobantes (appelés aussi "bounding box" en anglais), que l'on va retrouver dans les métadonnées descriptives du jeu de données.
+
+199
+00:18:58,600 --> 00:19:03,580
+Une boîte englobante est un rectangle crée à partir des coordonnées de deux points.
+
+200
+00:19:04,180 --> 00:19:09,580
+Généralement, c'est le point qui est situé au Nord-Ouest et le point au Sud-Est,
+
+201
+00:19:09,580 --> 00:19:13,080
+comme cela, vous pouvez faire un rectangle avec ces deux points
+
+202
+00:19:14,100 --> 00:19:19,060
+On peut également parler de Polyline : ce sont des polygones particuliers,
+
+203
+00:19:19,060 --> 00:19:22,380
+si vous avez décidé de faire une étude de terrain sur
+
+204
+00:19:22,780 --> 00:19:27,520
+une région donnée, vous pouvez avoir délimité la surface par un polygone.
+
+205
+00:19:27,840 --> 00:19:30,960
+Ou une référence de grille.
+
+206
+00:19:32,080 --> 00:19:37,220
+Cela ressemble à cela ; vous avez découpé un territoire donné
+
+207
+00:19:37,820 --> 00:19:41,640
+sous forme de grille, et que vous allez dire
+
+208
+00:19:42,360 --> 00:19:46,500
+dans telle ou telle case de la grille, cette espèce est présente ou non.
+
+209
+00:19:46,920 --> 00:19:52,780
+Les grilles sont plus souvent utilisées au niveau régional ou national.
+
+210
+00:19:53,060 --> 00:19:57,300
+Cela permet de facilité la lecture de l'information,
+
+211
+00:19:57,520 --> 00:20:02,040
+mais ce n'est pas non plus une obligation, vous n'êtes pas obligé d'utiliser des grilles.
+
+212
+00:20:02,380 --> 00:20:07,780
+la taille des cellules dépend de la précision de la grille,
+
+213
+00:20:07,960 --> 00:20:13,800
+vous pouvez avoir des mailles, 
+des cellules de 1 km  x 1 km ou de 10 km x 10 km
+
+214
+00:20:13,980 --> 00:20:15,980
+*sonnerie de téléphone * 
+ou même plus,
+
+215
+00:20:15,980 --> 00:20:20,740
+plus vous agrandissez la maille, plus la précision diminue en conséquence.
+
+216
+00:20:25,180 --> 00:20:29,300
+Quelques définitions qui peuvent être utile pour les données spatiales.
+
+217
+00:20:29,740 --> 00:20:35,680
+On a les coordonnées qui sont des codes qui documente une position sur la surface de la Terre,
+
+218
+00:20:36,200 --> 00:20:40,040
+et qui sont exprimées sur un système spatial de référence.
+
+219
+00:20:40,460 --> 00:20:44,460
+En pratique, les coordonnées, ce sont les latitudes et longitudes.
+
+220
+00:20:44,980 --> 00:20:53,440
+On reviendra dessus lorsqu'on va manipuler les données, mais dans le GBIF, on demande les longitudes et latitudes au format décimal.
+
+221
+00:20:53,700 --> 00:20:57,700
+Si vous avez des longitudes et latitudes en degré:minute:seconde,
+
+222
+00:20:57,920 --> 00:21:04,040
+il faut les convertir en format décimal, sinon cela va donner des points incorrects.
+
+223
+00:21:05,760 --> 00:21:13,040
+Géo-référencement : procédé qui consiste à assigner une référence géographique à un enregistrement donné.
+
+224
+00:21:13,420 --> 00:21:17,520
+C'est quelque chose qui peut être fait, soit sur le terrain, si vous avez des GPS
+
+225
+00:21:17,520 --> 00:21:21,020
+pour relever les coordonnées , cela peut-être fait automatiquement sur le terrain,
+
+226
+00:21:21,220 --> 00:21:26,120
+avec des téléphones portables par exemple ou avec des GPS de type "Trimbel".
+
+227
+00:21:27,300 --> 00:21:33,200
+Cela peut aussi se faire à postériori : si vous avez une étiquette avec un nom de commune
+
+228
+00:21:33,260 --> 00:21:36,780
+et une référence géographique textuelle très précise,
+
+229
+00:21:36,960 --> 00:21:41,800
+cela peut-être dans la commune de Conakry,
+
+230
+00:21:42,180 --> 00:21:49,520
+sur la plage, à l'intersection du pont et de la digue comme exemple, vous voyez le principe.
+
+231
+00:21:50,060 --> 00:21:55,040
+Là, avec ces informations qui sont très précises, vous allez pouvoir retrouver le point exact,
+
+232
+00:21:55,160 --> 00:21:59,080
+et donner une latitude et longitude à l'observation.
+
+233
+00:22:00,120 --> 00:22:05,340
+Si vous avez oubliez votre GPS, de le prendre sur le terrain,
+
+234
+00:22:05,460 --> 00:22:10,920
+vous pouvez quand même attribuer les coordonnées géographique à posteriori ,
+
+235
+00:22:11,140 --> 00:22:15,280
+en analysant, par exemple, des photos aériennes, pour retrouver où vous étiez,
+
+236
+00:22:15,540 --> 00:22:19,220
+si vous avez bien pris des notes de terrains, vous pouvez assez facilement retrouvez
+
+237
+00:22:19,560 --> 00:22:23,940
+au moins les coordonnées assez globales de votre observation.
+
+238
+00:22:25,620 --> 00:22:29,480
+Il ne faut pas oubliez quand on diffuse des coordonnées
+
+239
+00:22:29,520 --> 00:22:34,840
+on diffuse la longitude et la latitude, mais également le Datum : le système Géodésique.
+
+240
+00:22:35,760 --> 00:22:40,760
+Pour le GBIF, généralement par défaut, le Datum est WGS484,
+
+241
+00:22:40,860 --> 00:22:46,520
+mais vérifiez sur vos GPS pour être sûr que votre système géodésique correspond
+
+242
+00:22:46,940 --> 00:22:48,940
+bien aux coordonnées que vous avez prises.
+
+243
+00:22:52,320 --> 00:22:55,860
+Quelques erreurs courantes au niveau des coordonnées géographiques :
+
+244
+00:22:56,520 --> 00:23:02,580
+On peut avoir une inversion des coordonnées avec la longitude à la place de la latitude, et vice-versa.
+
+245
+00:23:03,060 --> 00:23:06,260
+C'est quelque chose qui est très courant, cela arrive très fréquemment.
+
+246
+00:23:06,600 --> 00:23:11,420
+Vous voyez sur cette carte en bas, une ancienne carte du GBIF,
+
+247
+00:23:12,080 --> 00:23:18,880
+sur les données des Etats-Unis d'Amérique, vous voyez que la plupart des données sont bien sur le territoires des USA,
+
+248
+00:23:19,280 --> 00:23:25,780
+mais il y a un effet miroir que vous voyez sur la Chine, et qui correspond à une inversion des coordonnées.
+
+249
+00:23:26,480 --> 00:23:29,640
+On a également un léger effet miroir
+
+250
+00:23:30,700 --> 00:23:32,700
+ici, au large du Chili,
+
+251
+00:23:33,140 --> 00:23:36,920
+qui correspond à un effet miroir au niveau des latitudes.
+
+252
+00:23:37,780 --> 00:23:46,520
+Enfin, vous voyez, au milieu de la carte, il y a une ligne droite qui passe par Greenwich, qui est le méridien de Greenwich.
+
+253
+00:23:47,080 --> 00:23:53,120
+Et on a également, au large de l'Amérique du Sud, une ligne droite qui correspond à l'équateur.
+
+254
+00:23:53,620 --> 00:23:59,280
+Ces erreurs correspondent à des cases qui ont été remplit avec les coordonnées (0, 0).
+
+255
+00:23:59,740 --> 00:24:04,380
+C'est pour cela que je disais tout à l'heure : si vous n'avez pas d'informations, ne mettez rien.
+
+256
+00:24:04,380 --> 00:24:07,180
+Car si vous mettez (0, 0) dans les coordonnées géographiques,
+
+257
+00:24:07,360 --> 00:24:11,120
+vous allez avoir tous les points qui vont arriver sur le méridien de Grennwich et sur l'équateur.
+
+258
+00:24:12,780 --> 00:24:18,560
+C'est un exemple d'une ancienne carte GBIF, car maintenant, ce que je voulais dire, c'est que le GBIF
+
+259
+00:24:18,680 --> 00:24:23,360
+détecte et corrige automatiquement certaines erreurs courantes,
+
+260
+00:24:24,720 --> 00:24:26,720
+sur les données spatiales.
+
+261
+00:24:26,860 --> 00:24:32,920
+Si par exemple, les coordonnées longitude et latitude ne correspondent pas au pays
+
+262
+00:24:32,920 --> 00:24:34,440
+qui a été indiqué dans les données,
+
+263
+00:24:34,840 --> 00:24:38,560
+le GBIF va le détecter et le corriger, ou au moins le signaler en disant
+
+264
+00:24:38,560 --> 00:24:41,740
+que quelque chose ne va pas et qu'il faudrait vérifier les données.
+
+265
+00:24:42,440 --> 00:24:48,100
+Cela peut-être un premier retour, pour pouvoir corriger les données par la suite.
+
+266
+00:24:49,100 --> 00:24:52,680
+Ensuite, d'autre erreur courante se sont
+
+267
+00:24:53,240 --> 00:24:56,780
+le système géodésique qui n'est pas renseigné.
+
+268
+00:24:57,140 --> 00:25:00,800
+d'où l'intérêt de le mettre : c'est pas obligatoire mais c'est fortement recommandé.
+
+269
+00:25:01,520 --> 00:25:03,920
+Et des problèmes de conversion : comme je le disais tout à l'heure,
+
+270
+00:25:03,960 --> 00:25:13,860
+des problèmes de coordonnée en minutes secondes en degré décimaux.
+
+271
+00:25:19,160 --> 00:25:24,460
+Je vais passer à l'avant dernière catégorie, qui sont les données de collecte et de collecteurs
+
+272
+00:25:24,460 --> 00:25:31,620
+c'est à dire toute les informations qui concernent les circonstances, le contexte de l'acquisition des données.
+
+273
+00:25:32,420 --> 00:25:39,040
+Donc on va déjà renseigner le nom de la personne qui a effectué l'observation ou qui a récolté le spécimen,
+
+274
+00:25:39,340 --> 00:25:41,340
+si elle est d'accord bien sûr,
+
+275
+00:25:41,500 --> 00:25:44,000
+la date de collecte est également très importante
+
+276
+00:25:44,120 --> 00:25:48,180
+surtout si vous êtes sur le terrain pendant plusieurs jours d'affilés, donc c'est vraiment important
+
+277
+00:25:48,340 --> 00:25:51,800
+si vous avez bien détaillé le jour exact où vous avez fait telle observation
+
+278
+00:25:52,040 --> 00:25:54,040
+ou telle collecte.
+
+279
+00:25:54,460 --> 00:25:56,720
+Et enfin, il y a beaucoup d'informations supplémentaires,
+
+280
+00:25:56,720 --> 00:26:01,320
+là, cela dépend du type de donnée que vous récoltez ou que vous observez.
+
+281
+00:26:01,800 --> 00:26:08,220
+Mais généralement, ce qui est important à diffuser, c'est le type d'habitat, la nature du sol, les conditions météorologique.
+
+282
+00:26:08,720 --> 00:26:17,820
+Si vous faites des recherches et leurs plantes hautes, vous pouvez préciser que les espèces sont associés.
+
+283
+00:26:19,540 --> 00:26:23,240
+La pertinence de ces informations dépend du jeu de données.
+
+284
+00:26:23,400 --> 00:26:29,640
+Si vous cherchez à alimenter une collection statique, une collection de Musée,
+
+285
+00:26:30,560 --> 00:26:36,180
+ce qui va être important, c'est de bien détailler le nom et l'identité du collecteur.
+
+286
+00:26:36,540 --> 00:26:40,340
+la date de collecte, l'habitat, les méthodes de captures.
+
+287
+00:26:41,020 --> 00:26:45,620
+A l'inverse, si vous faites uniquement des observations sans collecte des spécimens par la suite,
+
+288
+00:26:46,120 --> 00:26:53,620
+là vous allez pouvoir détailler la durée d'observation, la zone, la période de la journée, l'activité, le sexe du spécimen observé.
+
+289
+00:26:54,540 --> 00:27:02,620
+Pour les animaux, cela va plutôt être des observations d'étymologie, qui vont permettre d'analyser le comportement de l'espèce.
+
+290
+00:27:04,260 --> 00:27:10,920
+Pour les échantillonnages et les inventaires exhaustifs, là vous pouvez, en plus des informations précédentes,
+
+291
+00:27:11,180 --> 00:27:17,380
+détailler les méthodes : si vous avez utilisez des quadras, quelle est la surface couverte,
+
+292
+00:27:18,240 --> 00:27:21,400
+la taille de la grille, la fréquence aussi si vous avez fait
+
+293
+00:27:21,760 --> 00:27:24,340
+des quadras plusieurs fois dans l'année.
+
+294
+00:27:24,940 --> 00:27:30,140
+Et également si des spécimens de références, ou des types, ont été collectés.
+
+295
+00:27:35,520 --> 00:27:40,640
+Au niveau de ces données de collections, de collecte des informations,
+
+296
+00:27:41,480 --> 00:27:46,580
+il va être important de vérifier l'exactitude du nom du ou des collecteurs ; des dates également,
+
+297
+00:27:47,000 --> 00:27:53,520
+on verra avec le logiciel OpenRefine comment on peut vérifier que le nom du collecteur est bien orthographié.
+
+298
+00:27:54,460 --> 00:27:56,920
+Ensuite, la cohérence également.
+
+299
+00:27:57,040 --> 00:28:01,840
+Si possible, si vous avez déjà des listes de termes
+
+300
+00:28:02,280 --> 00:28:05,780
+des vocabulaires pour les sols ou les habitats,
+
+301
+00:28:05,880 --> 00:28:11,000
+si au sein de votre institutions, vous avez déterminé une liste de terme à utiliser pour les habitats,
+
+302
+00:28:11,400 --> 00:28:17,200
+utilisez tout le temps dans toutes vos sorties de terrains,
+
+303
+00:28:17,480 --> 00:28:21,740
+comme cela, cela sera plus facile de savoir à quoi vous faite référence.
+
+304
+00:28:23,320 --> 00:28:28,740
+Enfin, la complétude est importante aussi : certains champs qui sont très rarement renseigné,
+
+305
+00:28:29,060 --> 00:28:34,260
+comme la période de floraison de fleur ou les espèces associées.
+
+306
+00:28:34,880 --> 00:28:38,080
+Ce qui peut limiter la réutilisation des données.
+
+307
+00:28:38,380 --> 00:28:45,020
+Cela rejoint ce que je disais tout à l'heure : même si vous pensez que ce ne sont pas des informations pas forcément importantes
+
+308
+00:28:45,660 --> 00:28:51,080
+ou pas très intéressantes, si vous avez le temps et que vous pouvez le faire, publiez-les.
+
+309
+00:28:51,100 --> 00:28:55,440
+Cela pourra toujours servir à quelqu'un, il y a toujours des gens qui vont faire des recherches sur des
+
+310
+00:28:55,560 --> 00:29:01,540
+aspects assez originaux des données, et cela pourra toujours servir à quelqu'un.
+
+311
+00:29:07,460 --> 00:29:14,320
+Enfin, je passe à la dernière partie de la qualité des données, cela concerne la qualité des données descriptives
+
+312
+00:29:14,840 --> 00:29:20,360
+c'est tout ce qui reste une fois retirés la taxonomie, la géographie et les informations de collectes.
+
+313
+00:29:20,920 --> 00:29:27,780
+En gros, c'est tout ce qui concerne la description du ou des spécimens observés et /ou collectés.
+
+314
+00:29:28,200 --> 00:29:31,620
+Donc cela peut-être des données morphologiques, phrénologiques,
+
+315
+00:29:32,000 --> 00:29:37,640
+qui peuvent être de qualité très variable, puisqu'on a, par exemple, des données historiques qui sont impossible à vérifier.
+
+316
+00:29:37,980 --> 00:29:43,360
+Donc des données qui ne se trouvent uniquement que sur des étiquettes ou sur de très vieux carnet de terrains.
+
+317
+00:29:43,840 --> 00:29:48,060
+Là, il faut faire confiance au collecteur et puis espérer qu'il ne s'est pas trompé.
+
+318
+00:29:48,960 --> 00:29:57,080
+Malheureusement, c'est le type de données qui peuvent être assez longue à générer.
+
+319
+00:29:57,500 --> 00:30:02,620
+S'il faut faire des descriptions des espèces par exemple, cela peut-être coûteux en temps et en argent.
+
+320
+00:30:03,700 --> 00:30:11,780
+Essayez de faire le maximum dans la mesure de vos moyens temporels et financiers.
+
+321
+00:30:12,160 --> 00:30:20,220
+Ce sont des données qui sont assez subjectives : l'estimation de la couleur d'une fleur ou d'un oiseau par exemple
+
+322
+00:30:20,520 --> 00:30:25,700
+peut-être sujette à la vision de l'observateur.
+
+323
+00:30:26,520 --> 00:30:30,160
+L’abondance relative d'une espèce parmi d'autres, est dans le même cas,
+
+324
+00:30:30,240 --> 00:30:37,180
+maintenant il y a des protocole mais c'est vrai que des abondances qui ont été notés sur des données assez anciennes,
+
+325
+00:30:37,380 --> 00:30:39,980
+peuvent être également difficile à interpréter.
+
+326
+00:30:41,240 --> 00:30:45,220
+Ce sont souvent des données qui s'appliquent au niveau taxonomique :
+
+327
+00:30:45,560 --> 00:30:48,480
+on peut avoir une description d'une espèce, par exemple,
+
+328
+00:30:49,020 --> 00:30:52,460
+mais qui ne va pas forcément correspondre au spécimen en question,
+
+329
+00:30:52,640 --> 00:30:56,100
+si par exemple, vous avez un spécimen leucique ou albinos,
+
+330
+00:30:57,580 --> 00:31:02,780
+la description générale du taxon ne va pas forcément s'appliquer sur votre spécimen.
+
+331
+00:31:03,740 --> 00:31:11,460
+La complétude est généralement impossible à atteindre sur un même spécimen : si vous observez ou collectez des plantes,
+
+332
+00:31:13,320 --> 00:31:17,980
+vous n'aurez que très rarement, sur le même spécimen, des fruits, des feuilles en bon états, des fleurs
+
+333
+00:31:18,380 --> 00:31:24,500
+il faut souvent récolter plusieurs individus pour avoir toutes les composantes de la même espèce.
+
+334
+00:31:25,420 --> 00:31:33,380
+Il faut faire attention à la cohérence, au niveau des attributs, si vous utilisez des attributs dans un tableur ou une base de données,
+
+335
+00:31:33,800 --> 00:31:36,940
+essayez d'utiliser toujours les mêmes pour décrire la même chose.
+
+336
+00:31:37,540 --> 00:31:42,820
+Là, on a l'exemple d'une base de données, où la couleur des fleurs
+
+337
+00:31:43,200 --> 00:31:49,020
+était décrite avec plusieurs valeurs, dont deux similaire : "Mauve" et "Violet clair".
+
+338
+00:31:49,280 --> 00:31:52,720
+Là, il faut faire un choix, et utilisez toujours "Mauve" ou bien utilisez toujours "Violet clair"
+
+339
+00:31:52,780 --> 00:31:58,300
+comme cela, il n'y a pas de doute et cela élimine des répétitions.
+
+340
+00:32:00,120 --> 00:32:06,340
+Je vous remercie pour votre attention. Avez-vous des questions ?
+*applaudissements*
+

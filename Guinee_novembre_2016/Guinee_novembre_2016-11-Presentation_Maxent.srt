@@ -1,0 +1,1055 @@
+1
+00:00:12,020 --> 00:00:18,200
+Sophie Pamerlon : Pour finir cette formation, on va vous présenter un autre logiciel. Pardon ?
+
+2
+00:00:18,260 --> 00:00:22,300
+Participant : On aura ces diapos ?
+Sophie Pamerlon : Oui, toutes les présentations sont dans les dossiers.
+
+3
+00:00:23,600 --> 00:00:30,480
+C'est un logiciel, non pas de cartographie, mais de modélisation de niche écologique.
+
+4
+00:00:30,680 --> 00:00:35,080
+Juste pour savoir : qui d'entre vous dans la salle connait déjà Maxent ?
+
+5
+00:00:35,720 --> 00:00:37,720
+Le logiciel, est-ce que vous l'utilisez ?
+
+6
+00:00:38,640 --> 00:00:43,840
+Non ? Personne ? C'est un logiciel qui est assez répandu dans la communauté scientifique
+
+7
+00:00:44,000 --> 00:00:52,580
+et qui permet de modéliser des niches écologiques, donc c'est un logiciel qui est assez puissant,
+
+8
+00:00:52,680 --> 00:00:57,560
+il peut être simple d'utilisation et complexe lorsqu'on va dans les fonctionnalités avancées.
+
+9
+00:00:58,000 --> 00:01:01,440
+Quand vous avez des données géo-référencées,
+
+10
+00:01:01,680 --> 00:01:07,940
+et des couches environnementales : hydrométrie, occupation du sol, altitude,
+
+11
+00:01:08,320 --> 00:01:14,540
+vous pouvez faire analyser ces couches environnementales par le logiciel,
+
+12
+00:01:14,980 --> 00:01:22,220
+et avec les points que vous lui avait fourni, les données sur une espèces dont vous souhaitez modéliser la niche écologique,
+
+13
+00:01:22,620 --> 00:01:29,100
+le logiciel va analyser les données et vous fournir des cartes et
+
+14
+00:01:29,360 --> 00:01:32,920
+des représentation statistique de modèle possible.
+
+15
+00:01:35,060 --> 00:01:40,120
+Voici un petit sommaire de la présentation : quelques informations pratiques pour commencer.
+
+16
+00:01:40,780 --> 00:01:48,500
+Ensuite, je passerais vite sur les diapos d'installation mais comme cela vous les aurez pour chez vous si vous souhaitez installer Maxent sur un autre ordinateur.
+
+17
+00:01:48,900 --> 00:01:54,340
+Utilisation / Démonstration : là je vais vous montrer comment utiliser le logiciel.
+
+18
+00:01:54,640 --> 00:01:59,940
+Enfin, quelques lignes sur "Pourquoi utiliser Maxent", on verra ces avantages.
+
+19
+00:02:02,840 --> 00:02:08,840
+Maxent est un logiciel de bureau, donc vous n'avez pas besoin d'avoir une connexion internet pour pouvoir l'utiliser.
+
+20
+00:02:08,920 --> 00:02:14,220
+Par contre, vous pouvez avoir besoin d'internet pour aller chercher les couches environnementales dont vous avez besoin.
+
+21
+00:02:14,520 --> 00:02:21,060
+Mais une fois que vous avez récupérés les données et les couches environnementales, vous pouvez l'utiliser sans problèmes, même sans internet.
+
+22
+00:02:21,680 --> 00:02:26,000
+La version actuelle est la 3.3.3k,
+
+23
+00:02:26,620 --> 00:02:33,780
+qui date d'octobre 2011, donc c'est un logiciel qui a été développé par l'université de Princeton au Etats-Unis d'Amérique.
+
+24
+00:02:34,720 --> 00:02:37,920
+Après, vous pouvez contacter directement les
+
+25
+00:02:39,940 --> 00:02:43,820
+créateurs du logiciel pour avoir plus de renseignement au niveau technique.
+
+26
+00:02:44,520 --> 00:02:47,560
+Les prérequis de votre ordinateur pour pouvoir l'installer :
+
+27
+00:02:47,600 --> 00:02:53,340
+c'est d'avoir une version de Java ; durant les jours précédents, on s'est assuré que vous avez tous Java.
+
+28
+00:02:53,700 --> 00:02:57,020
+Et 512 Mb (Méga-byte) de mémoire.
+
+29
+00:02:59,000 --> 00:03:06,800
+Comment l'installer : cela ne nous concerne pas car vous l'avez déjà installé
+
+30
+00:03:07,780 --> 00:03:15,500
+enfin, vous l'avez déjà sur vos clés dont il suffit de le lancer à partir du dossier Maxent que l'on vous a fourni.
+
+31
+00:03:15,580 --> 00:03:22,300
+Après, si vous voulez le récupérer pour l'installer sur un autre ordinateur, vous pouvez soit copier le dossier que l'on vous a fourni,
+
+32
+00:03:22,320 --> 00:03:28,600
+soit aller sur le site officiel dont vous avez l'adresse ici ; il vous suffira de copier-coller cette adresse,
+
+33
+00:03:29,040 --> 00:03:33,840
+et ensuite, on a détaillé les étapes pour obtenir le logiciel,
+
+34
+00:03:34,160 --> 00:03:37,920
+c'est un logiciel qui a été créé par et pour des scientifiques,
+
+35
+00:03:38,000 --> 00:03:48,260
+donc le seul prérequis pour avoir le logiciel de façon gratuite, c'est de renseigner les champs "nom", "institution" et "e-mail".
+
+36
+00:03:49,160 --> 00:03:55,180
+Ensuite, il suffit de cocher l'option 'version actuelle' ("current version")
+
+37
+00:03:55,960 --> 00:03:59,340
+et puis cliquez sur le bouton 'Accepter les termes' puis télécharger.
+
+38
+00:03:59,640 --> 00:04:04,280
+Je vous préviens : c'est un logiciel américain qui a été fait uniquement en anglais,
+
+39
+00:04:04,540 --> 00:04:10,360
+après les boutons du logiciel sont assez explicite, c'est assez facile de
+
+40
+00:04:10,780 --> 00:04:12,780
+comprendre à quoi ils correspondent.
+
+41
+00:04:13,800 --> 00:04:20,240
+Toujours sur la page dont j'ai mis l'adresse en haut, vous pouvez télécharger un tutoriel, en anglais,
+
+42
+00:04:20,240 --> 00:04:24,680
+c'est un tutoriel qui est très long, donc on a pas eu le temps de le traduire.
+
+43
+00:04:25,100 --> 00:04:30,640
+C'est quelque chose que l'on va essayer de faire dans les mois à venir mais cela va prendre un peu de temps.
+
+44
+00:04:31,620 --> 00:04:40,500
+Sur la page, vous pouvez télécharger le logiciel, le tutoriel et les jeux de données dont vous aurez besoin pour prendre en main le logiciel.
+
+45
+00:04:44,300 --> 00:04:50,440
+Là, vous voyez la page que vous avez lorsque vous avez renseignez vos nom, institution et adresse mail,
+
+46
+00:04:51,060 --> 00:04:58,340
+Quand vous cliquez sur le dossier zip, c'est un lien bleu, qui est au bout de la flèche,
+
+47
+00:04:58,920 --> 00:05:05,780
+vous téléchargez un fichier zip, qui est assez léger, qui n'est pas compliqué à télécharger et à ouvrir.
+
+48
+00:05:06,140 --> 00:05:14,020
+Il suffit de le dé-zipper et d'ouvrir le fichier maxent.bat pour Windows ou maxent.jar pour Mac et Linux.
+
+49
+00:05:14,580 --> 00:05:19,700
+Donc ici, vu que vous avez tous Windows, ce sera maxent.bat.
+
+50
+00:05:21,960 --> 00:05:24,940
+Voilà, ce qui se passe lorsqu'on lance Maxent,
+
+51
+00:05:24,980 --> 00:05:32,000
+ceci est la fenêtre d'accueil, c'est assez spartiate, il n'y a pas de belle photo pour illustrer mais c'est efficace.
+
+52
+00:05:32,340 --> 00:05:35,660
+Tout simplement une fenêtre qui se lance.
+
+53
+00:05:36,200 --> 00:05:39,880
+Et vous allez voir que finalement, c'est assez intuitif,
+
+54
+00:05:40,120 --> 00:05:44,220
+sur la gauche de l'image, vous voyez qu'il y a marqué "Sample" en haut,
+
+55
+00:05:44,440 --> 00:05:49,060
+donc sur la gauche, ce seront les données, les points géo-référencés,
+
+56
+00:05:49,300 --> 00:05:52,920
+si possible sur une seule espèce ; donc la modélisation de niche
+
+57
+00:05:53,060 --> 00:05:58,460
+cela peut se faire sur plusieurs espèces mais le mieux, c'est d'avoir beaucoup de données géo-référencé sur une espèce,
+
+58
+00:05:58,460 --> 00:06:00,840
+pour que le logiciel puisse travailler avec,
+
+59
+00:06:01,160 --> 00:06:07,980
+et générer une prédiction de la répartition de cette espèce en fonction de données environnementales.
+
+60
+00:06:08,720 --> 00:06:14,180
+Dans "samples" à gauche, on va chercher les points géo-référencés,
+
+61
+00:06:14,360 --> 00:06:19,520
+et dans "environnmentals layers", à droite, on va charger les couches environnementales,
+
+62
+00:06:19,760 --> 00:06:24,880
+là encore, cela dépend des couches que vous voulez utiliser pour vos prédictions,
+
+63
+00:06:25,160 --> 00:06:30,980
+par exemple, si vous faite une modélisation de niche pour une espèce aquatique,
+
+64
+00:06:31,420 --> 00:06:37,100
+vous allez plutôt vouloir charger des couches marines ou sur
+
+65
+00:06:37,540 --> 00:06:41,360
+la température de l'eau douce ou salée par exemple.
+
+66
+00:06:41,960 --> 00:06:47,180
+Inversement, si vous souhaitez prédire une répartition d'une espèce terrestre,
+
+67
+00:06:47,360 --> 00:06:53,580
+là, vous allez plutôt charger des couches d'occupation du sol, de température minimale ou maximales au niveau du sol, etc.
+
+68
+00:06:56,840 --> 00:07:00,000
+*toux* Pardon.
+
+69
+00:07:00,600 --> 00:07:05,460
+C'est un exemple de carte que l'on peut obtenir avec Maxent,
+
+70
+00:07:05,820 --> 00:07:11,400
+de prédiction de répartition d'espèce en fonction de certaines conditions environnementales.
+
+71
+00:07:16,400 --> 00:07:19,740
+Là, je reviens sur la fenêtre d'accueil de Maxent.
+
+72
+00:07:21,320 --> 00:07:27,020
+La première étape, c'est de sélectionner le fichier CSV qui contient les données,
+
+73
+00:07:27,260 --> 00:07:33,680
+il me semble que Maxent accepte d'autre format mais il est assez facile de convertir d'autre formats en CSV,
+
+74
+00:07:33,840 --> 00:07:37,060
+et cela sera plus léger et plus simple pour le logiciel.
+
+75
+00:07:38,520 --> 00:07:43,640
+Donc là, ce sont les données d'espèces, les points de présence d'espèces géo-référencés.
+
+76
+00:07:45,840 --> 00:07:54,300
+voilà un aperçu des données sur l'espèce, pour ce test, j'ai pris des données du saumon de rivière,
+
+77
+00:07:54,820 --> 00:08:03,760
+en fait, Maxent a besoin de trois informations : l'espèce que l'on voit à gauche, la latitude et la longitude au format décimal toujours.
+
+78
+00:08:04,540 --> 00:08:10,740
+Comme je disais le format du fichier d'occurrence doit être en CSV, donc séparateur virgule,
+
+79
+00:08:11,080 --> 00:08:18,820
+contrairement à ce que l'on a vu jusqu'à présent, où on avait des séparateurs tabulation, où chaque colonne était bien séparée,
+
+80
+00:08:19,160 --> 00:08:23,020
+là, c'est mieux si tout est dans la même colonne mais séparé par des virgules.
+
+81
+00:08:23,080 --> 00:08:26,100
+Le logiciel lira mieux les données comme cela.
+
+82
+00:08:27,560 --> 00:08:34,020
+Ensuite, comme je le disais, on a uniquement besoin de l'espèce, de la latitude et de la longitude,
+
+83
+00:08:34,320 --> 00:08:37,660
+par exemple, si vous récupérez des données sur le GBIF,
+
+84
+00:08:37,780 --> 00:08:42,220
+vous allez télécharger l'archive DarwinCore qui contient les données,
+
+85
+00:08:42,640 --> 00:08:44,820
+mais il y aura beaucoup d'autre informations.
+
+86
+00:08:45,000 --> 00:08:51,360
+Ce que l'on vous conseille de faire, c'est d'ouvrir le fichier de données que vous avez récupéré, sur le GBIF par exemple,
+
+87
+00:08:51,780 --> 00:08:57,640
+d'en faire une copie, est de supprimer sur cette copie tout ce qui n'est pas espèce, longitude et latitude.
+
+88
+00:08:57,860 --> 00:09:01,240
+Comme ça, vous ne risquerez pas de perdre des informations
+
+89
+00:09:01,480 --> 00:09:07,220
+il vaut mieux toujours travailler sur une copie, comme cela, on est sûr d'avoir l'original en cas de problème.
+
+90
+00:09:08,760 --> 00:09:11,460
+Et les coordonnées doivent être au format décimal.
+
+91
+00:09:14,040 --> 00:09:19,260
+Ceci est ce que l'on obtient quand on a chargé le fichier de données,
+
+92
+00:09:19,460 --> 00:09:24,840
+donc là, je n'avais sélectionné un fichier qui ne contenait que des données sur le saumon,
+
+93
+00:09:25,240 --> 00:09:28,700
+comme je l'ai dit, on peut faire des modélisation de niches avec plusieurs espèces
+
+94
+00:09:28,800 --> 00:09:34,660
+mais évitez les fichiers où il y a quasiment une espèce par ligne car là, le logiciel va
+
+95
+00:09:34,860 --> 00:09:38,360
+va vraiment ramer pour produire quoique ce soit.
+
+96
+00:09:38,600 --> 00:09:43,760
+Donc si avez besoin d'avoir des modèles de prédictions pour plusieurs espèces différentes,
+
+97
+00:09:43,820 --> 00:09:50,660
+séparez les espèces et vous faites tourner le logiciel une fois pour chaque espèce, cela sera plus pratique.
+
+98
+00:09:53,320 --> 00:09:59,000
+Deuxième étape : la recherche des couches environnementales,
+
+99
+00:09:59,540 --> 00:10:00,720
+qui est sur la droite.
+
+100
+00:10:00,840 --> 00:10:04,700
+Là encore vous allez cliquer sur "Browse", (parcourir en anglais).
+
+101
+00:10:04,760 --> 00:10:09,520
+Et c'est là que vous allez sélectionner le ou les fichiers qui contiennent les couches environnementales.
+
+102
+00:10:09,940 --> 00:10:15,820
+Donc là, j'ai mis quelque exemple comme la température, l'altitude, l'occupation du sol, l'hydrométrie, etc.
+
+103
+00:10:16,060 --> 00:10:22,320
+Cela dépend de l'espèce dont vous souhaitez modéliser la répartition.
+
+104
+00:10:22,840 --> 00:10:31,020
+Cela dépend aussi des couches que vous avez trouvées pour la région concernée.
+
+105
+00:10:31,380 --> 00:10:34,740
+Comme je vais le montrer dans la diapositive suivante,
+
+106
+00:10:35,740 --> 00:10:40,880
+il y a plusieurs sources de couche environnementale qui existe sur Internet,
+
+107
+00:10:41,220 --> 00:10:47,240
+dont je vous ai mis quelques liens pour vous aider à trouver des couches au moins à l'échelle mondiale.
+
+108
+00:10:47,460 --> 00:10:55,520
+Après, malheureusement, cela dépend des pays, il y a certains pays qui sont avancés en cartographie et en écologie on va dire,
+
+109
+00:10:55,760 --> 00:11:00,840
+qui propose des couches très détaillées pour des couches de plus en plus fines.
+
+110
+00:11:01,760 --> 00:11:09,000
+Après, vous pouvez déjà essayer d'utiliser ces couches-là qui sont à l'échelle globale, à l'échelle mondiale,
+
+111
+00:11:09,320 --> 00:11:14,500
+donc sur le site http://www.worldclim.org, vous allez trouver des couches climatique
+
+112
+00:11:14,840 --> 00:11:23,380
+c'est-à-dire des prédictions du climat à 10 ans, 50 ans, 100 ans ; avec différents scénarios d'évolution des températures.
+
+113
+00:11:23,540 --> 00:11:28,440
+Ces prédictions du climat peuvent être très utiles pour prédire les niches écologiques.
+
+114
+00:11:28,920 --> 00:11:33,920
+Donc si vous avez une espèce qui ne survie pas au-delà de 30°C par exemple,
+
+115
+00:11:34,140 --> 00:11:39,980
+et que les annonces climatiques annonce un réchauffement très important,
+
+116
+00:11:40,300 --> 00:11:46,760
+le logiciel va s'en servir pour dire : cette espèce ne sera plus présente
+
+117
+00:11:47,160 --> 00:11:49,420
+avec cette estimation climatique.
+
+118
+00:11:51,520 --> 00:11:57,160
+Ensuite, sur le site de Maxent donc sur le site de l'université de Princeton,
+
+119
+00:11:57,240 --> 00:12:01,780
+vous allez trouver des jeux de données avec des couvertures diverses,
+
+120
+00:12:02,020 --> 00:12:06,860
+Quand je dis couverture, ce sont des couches écologiques diverses
+
+121
+00:12:07,040 --> 00:12:10,280
+qui peuvent vous aider pour vous faire la main sur le logiciel.
+
+122
+00:12:10,480 --> 00:12:14,380
+Après, c'est loin d'être exhaustif,
+
+123
+00:12:14,680 --> 00:12:20,940
+c'est en fonction des cas, donc c'est à vous de chercher des couches existantes pour vos modélisations.
+
+124
+00:12:23,960 --> 00:12:28,220
+Là, j'ai utilisé les couches climatiques de worldClim,
+
+125
+00:12:28,460 --> 00:12:34,460
+quand je les ai sélectionnées, voilà ce que cela affiche  :
+
+126
+00:12:34,560 --> 00:12:39,940
+on a des couches qui correspondent aux couches minimales et maximales selon certains scénarios climatiques.
+
+127
+00:12:42,480 --> 00:12:48,160
+On a rempli les deux catégories : les données géo-référencés et les couches environnementales.
+
+128
+00:12:50,220 --> 00:12:54,140
+Ensuite, un peu plus bas, vous avez des options de visualisation des résultats :
+
+129
+00:12:54,420 --> 00:13:02,100
+vous pouvez créer des courbes de réponses, des images des prédictions : si vous voulez obtenir des cartes, c'est cela qui faut cocher,
+
+130
+00:13:02,820 --> 00:13:07,740
+et faire des analyses pour mesurer l'importance relative de chaque variables.
+
+131
+00:13:07,960 --> 00:13:15,720
+Ça, cela peut-être utile ; on verra dans le résultats final que le logiciel va analyser chaque couche environnementale,
+
+132
+00:13:15,960 --> 00:13:22,440
+et il va dire pour chaque couche : 'cette couche est vraiment très utile pour prédire la distribution future d'une espèce', ou
+
+133
+00:13:22,720 --> 00:13:27,000
+'cette couche-là n'a aucune incidence, on peut l'oublier pour la prochaine fois'.
+
+134
+00:13:27,220 --> 00:13:33,740
+Donc si vous n'êtes pas sûr de l’utilité de certaines couches environnementales, vous pouvez toutes les mettre,
+
+135
+00:13:33,800 --> 00:13:38,580
+faire tournez le logiciel qui va vous dire : 'cette couche ne sert à rien, enlevez-là'.
+
+136
+00:13:43,200 --> 00:13:49,520
+Ensuite, il suffit juste de sélectionner le dossier dans lequel Maxent va stocker les cartes
+
+137
+00:13:49,520 --> 00:13:52,600
+et tous les documents qu'il va produire grâce à vos données.
+
+138
+00:13:52,920 --> 00:13:58,380
+là, vous pouvez le mettre n'importe où sur votre ordinateur, c'est vous qui choisissez.
+
+139
+00:14:01,720 --> 00:14:08,020
+Une fois que l'on a choisi les données, les couches environnementales, les options de visualisations,
+
+140
+00:14:08,400 --> 00:14:13,220
+et les dossier de destination, on va cliquer sur
+
+141
+00:14:14,220 --> 00:14:18,640
+"Run" en bas à gauche, cela active la modélisation.
+
+142
+00:14:19,540 --> 00:14:24,580
+Je vous préviens cela peut prendre plusieurs minutes, c'est assez long, il faut qu'il fasse couche par couche
+
+143
+00:14:24,660 --> 00:14:30,140
+surtout à l'échelle mondiale, cela peut-être assez fastidieux mais le résultat en vaut la peine.
+
+144
+00:14:33,560 --> 00:14:39,740
+Voilà, les résultats ; tous les cadres sont dans la même page qui est très longue,
+
+145
+00:14:39,760 --> 00:14:44,140
+et qui peut s'ouvrir avec un navigateur web, donc il va vous proposer une
+
+146
+00:14:44,420 --> 00:14:53,260
+page HTML, donc quand vous cliquez dessus, c'est votre navigateur web par défaut qui va s'ouvrir, et la page va s'ouvrir sur le navigateur.
+
+147
+00:14:53,860 --> 00:14:57,400
+Vous voyez en haut des représentations graphiques,
+
+148
+00:14:57,980 --> 00:15:07,080
+au milieu, comme je vous le disais, c'est l'analyse des variables, c'est là que vous allez pouvoir regarder l'intérêt relatif de chaque couche.
+
+149
+00:15:07,680 --> 00:15:15,180
+Et enfin, ce qui peut-être intéressant pour des articles scientifiques, pour illustrer un rapport ou un data papers par exemple,
+
+150
+00:15:15,600 --> 00:15:18,960
+ou pour n'importe quelle publication scientifique, ce sont des cartes.
+
+151
+00:15:19,180 --> 00:15:26,540
+Là vous avez des photos, des représentations visuelles du modèle de prédiction de niches.
+
+152
+00:15:27,160 --> 00:15:32,240
+Qui peut-être plus parlant que des chiffres.
+
+153
+00:15:33,580 --> 00:15:36,080
+Voilà ce que propose le résultat.
+
+154
+00:15:37,440 --> 00:15:39,440
+Le logiciel pardon.
+
+155
+00:15:40,360 --> 00:15:45,980
+Et donc ensuite, je vais finir en listant quelques avantages de Maxent, comme Fabien l'a fait pour QGIS :
+
+156
+00:15:46,440 --> 00:15:55,580
+Pourquoi l'utiliser ? Parce que, là encore un logiciel multi-plateforme, on peut l'utiliser sous Windows, sous Linux et Mac.
+
+157
+00:15:56,260 --> 00:15:59,820
+C'est une grande communauté, le logiciel à 12 ans,
+
+158
+00:16:00,100 --> 00:16:02,840
+qui est régulièrement soutenu et mis à jour.
+
+159
+00:16:02,840 --> 00:16:04,800
+C'est un logiciel libre aussi.
+
+160
+00:16:05,280 --> 00:16:11,180
+Les interactions sont possibles avec d'autres logiciel de statistiques ou
+
+161
+00:16:11,820 --> 00:16:14,060
+d'analyse des données comme R, par exemple.
+
+162
+00:16:16,480 --> 00:16:21,660
+En ce qui concerne l'aide et les tutoriels, on a l'aide officielle qui est en anglais,
+
+163
+00:16:21,820 --> 00:16:27,120
+et on a pas mal de forum d'aide, en anglais, donc si vous voulez avoir
+
+164
+00:16:27,120 --> 00:16:30,700
+des réponses à certaines questions, n'hésitez pas à nous contacter.
+
+165
+00:16:31,320 --> 00:16:39,040
+Et on essayera soit de vous répondre directement soit de se renseigner pour obtenir des réponses claires et applicable.
+
+166
+00:16:40,360 --> 00:16:45,100
+Je vous remercie pour votre attention et pour votre participation en général,
+
+167
+00:16:45,420 --> 00:16:51,940
+dans cette formation, ce fut vraiment un plaisir de travailler avec vous et d'avoir des participants aussi réactif et motivé,
+
+168
+00:16:52,420 --> 00:16:56,040
+merci encore et si vous avez des questions, n'hésitez pas.
+
+169
+00:16:56,220 --> 00:17:00,400
+*applaudissement*
+
+170
+00:17:07,600 --> 00:17:10,720
+Participant 1 : Merci pour cette dernière intervention.
+
+171
+00:17:11,340 --> 00:17:15,940
+Participant 1 : Par rapport à l'organisation des niches écologique,
+
+172
+00:17:17,580 --> 00:17:21,160
+si nous prenons des écosystèmes,
+Sophie Pamerlon : oui.
+
+173
+00:17:21,460 --> 00:17:26,060
+Participant 1 : si nous prenons des niches écologiques
+
+174
+00:17:26,200 --> 00:17:31,480
+avec un certains nombres d'espèces qui sont interrogé via certaines conditions,
+
+175
+00:17:31,720 --> 00:17:40,220
+en Guinée, nous avons des espèces que nous trouvons qu'à un seul endroit
+
+176
+00:17:41,040 --> 00:17:44,600
+je peux utiliser des données avec celles d'autres séquences ?
+
+177
+00:17:54,200 --> 00:18:02,900
+Comment je peux faire une estimation avec trois niches écologique, comment cela se passe ?
+Sophie Pamerlon : D'accord.
+
+178
+00:18:03,380 --> 00:18:11,020
+Ce que vous pouvez faire, c'est charger dans la partie 'données sur l'espèce'
+
+179
+00:18:11,180 --> 00:18:17,600
+vous allez mettre les données géo-référencés, donc cela va mettre déjà une indication de lieu au logiciel.
+
+180
+00:18:18,140 --> 00:18:21,940
+Et ensuite, si vous avez des données sur l'altitude,
+
+181
+00:18:22,640 --> 00:18:27,640
+vous pouvez charger cette couche dans les informations environnementales,
+
+182
+00:18:28,080 --> 00:18:32,080
+et cela, le logiciel va s'en servir pour calculer
+
+183
+00:18:32,280 --> 00:18:36,500
+il faudra sans doute allez chercher une couche d'altitude à l'échelle du pays,
+
+184
+00:18:37,120 --> 00:18:44,480
+et le logiciel va s'en servir pour calculer les probabilités que votre espèce apparaisse aux altitudes similaires.
+
+185
+00:18:45,500 --> 00:18:52,480
+Après il faut faire des tests, donc je ne pourrais pas vous dire exactement
+
+186
+00:18:52,660 --> 00:18:54,660
+essayer de faire comme
+
+187
+00:18:55,840 --> 00:18:58,680
+excusez moi, c'est la fin de la journée, je suis un peu fatigué,
+
+188
+00:18:59,720 --> 00:19:03,880
+si vous essayez de charger ce genre d'informations dans les couches environnementales,
+
+189
+00:19:03,960 --> 00:19:07,880
+normalement, le logiciel s'en sert pour générer des
+
+190
+00:19:07,980 --> 00:19:13,400
+modèles en fonction de ce qu'on lui a fourni comme informations.
+
+191
+00:19:16,800 --> 00:19:18,800
+Participant : Merci.
+
+192
+00:19:20,620 --> 00:19:25,440
+Participant : Je voulais savoir, les niches écologiques,
+
+193
+00:19:25,900 --> 00:19:31,380
+avec les propriétés d'adaptation pour certains de ces animaux,
+
+194
+00:19:32,060 --> 00:19:40,100
+c'est des estimations que vous faites, c'est des estimations que le logiciel va nous permettre de voir,
+
+195
+00:19:41,740 --> 00:19:51,820
+Sophie Pamerlon : oui
+Participant : on dit à peu près : 'cette niche, elle peut être similaire' et on prend quand même beaucoup d'attention
+
+196
+00:19:52,000 --> 00:19:57,120
+par rapport aux appréciations du logiciel de Maxent,
+
+197
+00:19:57,600 --> 00:20:00,620
+Le logiciel Maxent fait des corrélations sur toutes les niches,
+
+198
+00:20:00,880 --> 00:20:05,780
+Je veux savoir s'il y a des estimations où les résultats sont exact.
+
+199
+00:20:06,200 --> 00:20:10,160
+Sophie Pamerlon : Alors oui, il faut prendre les résultats avec beaucoup de pincette,
+
+200
+00:20:10,320 --> 00:20:13,400
+cela reste une estimation, cela reste une modélisation,
+
+201
+00:20:13,460 --> 00:20:18,260
+donc cela peut vous aider à identifier de nouvelles zones à prospecter,
+
+202
+00:20:18,280 --> 00:20:21,940
+si vous cherchez une espèce menacée ou très rare,
+
+203
+00:20:21,940 --> 00:20:26,080
+qui pousse dans des conditions données, à un endroit donné,
+
+204
+00:20:28,500 --> 00:20:36,560
+le logiciel va vous dire : 'en théorie, cette autre zone du pays rassemble les mêmes conditions écologique
+
+205
+00:20:36,780 --> 00:20:40,520
+donc il y a de fortes chances que cette espèce soit présente là-bas'.
+
+206
+00:20:40,740 --> 00:20:44,220
+Mais ce n'est pas une certitude, et cela n'empêche pas de faire des
+
+207
+00:20:44,520 --> 00:20:49,240
+inventaires de terrain pour infirmer ou valider le prédiction.
+Participant : Tout à fait.
+
+208
+00:20:49,740 --> 00:20:53,460
+Sophie Pamerlon : Il y avait une question au fond.
+
+209
+00:20:53,460 --> 00:21:04,420
+Participante : Par rapport à la modélisation, est-ce que on peut la faire avec chaque type de paramètres ?
+
+210
+00:21:05,740 --> 00:21:11,020
+Sophie Pamerlon : Oui, donc là par exemple, la modélisation que j'ai effectué,
+
+211
+00:21:11,400 --> 00:21:17,400
+j'avais chargé plusieurs paramètres, de températures et d'hydrométrie,
+
+212
+00:21:17,480 --> 00:21:21,000
+donc vous pouvez charger des paramètres différents,
+
+213
+00:21:21,180 --> 00:21:26,100
+Il faut juste s'assure qu'ils concernent bien la zone où vous avez trouvé l'espèce.
+
+214
+00:21:26,680 --> 00:21:31,880
+Sinon, le logiciel va avoir du mal à
+
+215
+00:21:32,260 --> 00:21:36,880
+faire l'extrapolation, mais vous pouvez charger différents types de paramètres.
+
+216
+00:21:40,960 --> 00:21:43,760
+Eric Chenin : Juste un petit commentaire explicatif,
+
+217
+00:21:43,980 --> 00:21:52,140
+sur le principe : c'est essentiellement probabiliste, donc que le calcul soit exact ou pas, ça n'a pas vraiment de sens en fait.
+
+218
+00:21:52,580 --> 00:22:00,280
+Le principe, c'est de voir quelles sont les occurrences et quelles sont les conditions climatiques de ces occurrences,
+
+219
+00:22:00,340 --> 00:22:05,320
+donc qu'elle est la température et l’hydrométrie pour ces occurrences,
+
+220
+00:22:05,680 --> 00:22:09,680
+et en déduire pour l'espèce,
+
+221
+00:22:09,880 --> 00:22:12,820
+la distribution de probabilité de la température
+
+222
+00:22:13,100 --> 00:22:16,440
+et la distribution de probabilité de l'hydrométrie.
+
+223
+00:22:16,660 --> 00:22:20,580
+Après, dans l'espace des paramètres environnementaux,
+
+224
+00:22:20,960 --> 00:22:27,880
+avec par exemple, en ordonnées la température et en abscisse l'hydrométrie,
+
+225
+00:22:28,000 --> 00:22:33,420
+on peut établir la distribution de probabilité de présence
+
+226
+00:22:33,420 --> 00:22:35,400
+de l'espèce dans cet espace.
+
+227
+00:22:35,760 --> 00:22:43,880
+En chaque point de température et d'hydrométrie, on peut déduire quelle est la probabilité de trouver l'espèce.
+
+228
+00:22:43,980 --> 00:22:48,540
+Et après, pour chaque point que l'on voit dans une zone d'intérêt,
+
+229
+00:22:48,720 --> 00:22:53,140
+on regarde comment il se positionne dans cet espace et quelle est la probabilité de présence de l'espèce.
+
+230
+00:22:53,300 --> 00:22:57,940
+Ce qu'on a, en fait, c'est une carte de probabilité de présence de l'espèce,
+
+231
+00:22:57,940 --> 00:23:02,260
+après, on peut mettre la somme sur la probabilité, là c'est 90%
+
+232
+00:23:02,320 --> 00:23:08,920
+et là, cela permet de démontrer que l'on a la probabilité  à 90% que l'espèce soit à un certain endroit,
+
+233
+00:23:09,020 --> 00:23:11,460
+c'est ça que fait l'analyse probabiliste.
+
+234
+00:23:11,460 --> 00:23:15,720
+Ensuite, sur le point de la capacité d'adaptation des espèces,
+
+235
+00:23:16,280 --> 00:23:20,380
+qui font que dans le temps, cela évolue et leur niche écologique
+
+236
+00:23:20,380 --> 00:23:23,580
+évoluent aussi.
+
+237
+00:23:23,940 --> 00:23:32,240
+A supprimer
+
+238
+00:23:32,860 --> 00:23:34,860
+Eric Chenin : Et je voudrais juste rajouter un petit truc
+
+239
+00:23:34,920 --> 00:23:39,580
+c'est que quand on dit pluviométrie et hydrométrie ou température par exemple,
+
+240
+00:23:40,040 --> 00:23:43,020
+il n'y a pas que ça, ce n'est pas que la moyenne annuelle,
+
+241
+00:23:43,200 --> 00:23:48,320
+je sais plus avec qui on parlait du problème du fait que il y a des régions
+
+242
+00:23:48,440 --> 00:23:51,860
+où avec la même pluviométrie sur l'ensemble de l'année,
+
+243
+00:23:52,020 --> 00:23:56,520
+cela tombe très régulièrement sur cette zone, celle de Conakry,
+
+244
+00:23:56,640 --> 00:24:02,340
+après 6 mois de pluie, il y a dix mois de pluie dans l'année,
+
+245
+00:24:02,380 --> 00:24:07,140
+on a une zone qui est globalement arrosé sur l'ensemble de l'année,
+
+246
+00:24:07,500 --> 00:24:10,180
+alors qu'il y a des régions où
+
+247
+00:24:10,380 --> 00:24:13,720
+la même chute annuelle, le même nombre de millimètre d'eau annuel,
+
+248
+00:24:13,720 --> 00:24:14,900
+va tomber en deux mois.
+
+249
+00:24:15,200 --> 00:24:19,460
+Et le reste du temps, ce sera vide, donc il ne faut pas que la
+
+250
+00:24:20,500 --> 00:24:25,780
+salve de pluviométrie, c'est compliqué, on peut prendre la moyenne annuelle mais cela ne suffit pas,
+
+251
+00:24:25,840 --> 00:24:30,920
+il faut prendre les variations saisonnières, les relevés de températures, etc.
+Sophie Pamerlon : oui.
+
+252
+00:24:32,280 --> 00:24:36,920
+Le modèle de Maxent est relativement simple mais
+
+253
+00:24:37,080 --> 00:24:40,440
+à utilisé avec beaucoup de précautions en tenant bien compte
+
+254
+00:24:40,700 --> 00:24:43,320
+du fonctionnement des espèces.
+
+255
+00:24:43,560 --> 00:24:49,640
+Sophie Pamerlon : C'est facile à manipuler sur la forme, mais sur le fond, il faut bien réfléchir à quel paramètre on veut analyser.
+
+256
+00:24:49,640 --> 00:24:52,180
+Participant : Etant donné que cette fois cela prend Conakry
+
+257
+00:24:52,440 --> 00:24:58,620
+et que juste après, il pleut ;  c'est suffisant, la pluviométrie.
+
+258
+00:25:00,300 --> 00:25:06,580
+Eric Chenin : Si le climat change, avec la même pluviométrie, on peut avoir une perturbation importante.
+
+259
+00:25:06,800 --> 00:25:10,940
+Participant : Cette fois ci, il a plu plus que prévu.
+
+260
+00:25:12,980 --> 00:25:17,220
+Sophie Pamerlon : On avait une autre question, vous avez une question ?
+
+261
+00:25:17,400 --> 00:25:20,220
+Participant : Il a répondu.
+Sophie Pamerlon : d'accord, parfait.
+
+262
+00:25:21,700 --> 00:25:24,840
+Sophie Pamerlon : Je vais donc clôturer la formation.
+
