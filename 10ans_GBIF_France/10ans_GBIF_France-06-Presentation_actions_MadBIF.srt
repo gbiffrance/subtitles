@@ -1,0 +1,878 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bonjour à tous.
+
+2
+00:00:06,020 --> 00:00:13,500
+Je dirais tout d'abord :
+je remercie GBIF France de m'avoir invité
+
+3
+00:00:13,620 --> 00:00:18,160
+et de pouvoir participer à cet anniversaire,
+de cette 10ème année,
+
+4
+00:00:18,320 --> 00:00:24,480
+et que Madagascar fait partie,
+un peu, de tout ça,
+
+5
+00:00:24,480 --> 00:00:28,400
+et ce serait vraiment la raison
+de ma présence.
+
+6
+00:00:29,980 --> 00:00:36,220
+En tant que point focal, du GBIF Madagascar
+
+7
+00:00:36,460 --> 00:00:43,380
+j'ai le plaisir de présenter cette collaboration,
+je dirais de longue date,
+
+8
+00:00:43,600 --> 00:00:48,640
+et une collaboration qui est vraiment fructueuse.
+
+9
+00:00:52,420 --> 00:01:03,340
+Madagascar, qui porte comme nom GBIF, 
+GBIF Mada
+
+10
+00:01:03,920 --> 00:01:12,980
+et membre votant du GBIF International
+appartient au groupe région africaine.
+
+11
+00:01:13,300 --> 00:01:19,060
+Historiquement, il est bien de souligner
+que je suis ici en tant que point focal
+
+12
+00:01:19,420 --> 00:01:24,320
+et en tant que directeur du CNRE :
+Centre National de Recherche sur l'Environnement,
+
+13
+00:01:24,580 --> 00:01:32,440
+rattaché au ministère de la recherche 
+scientifique et de l'enseignement supérieur
+
+14
+00:01:32,920 --> 00:01:40,620
+et en tant que point focal, 
+nommé de la délégation malgache.
+
+15
+00:01:42,060 --> 00:01:47,000
+Comme vision, 
+je vais pas rentrer dans les détails,
+
+16
+00:01:47,580 --> 00:01:50,460
+mais en fin de compte, le GBIF Mada
+
+17
+00:01:51,700 --> 00:01:58,360
+a été crée aussi par rapport 
+à cet objectif international
+
+18
+00:01:58,720 --> 00:02:04,800
+du fait que, comme vous le savez tous,
+Madagascar est classé parmi
+
+19
+00:02:04,840 --> 00:02:09,260
+les pays à méga-biodiversité mondial,
+
+20
+00:02:10,300 --> 00:02:15,060
+mais avec, le revers de la médaille,
+
+21
+00:02:15,500 --> 00:02:21,160
+une destruction à grande vitesse de la
+biodiversité de Madagascar.
+
+22
+00:02:21,600 --> 00:02:26,400
+Malgré cela, il y a énormément d’endémicité
+au niveau de la flore et de la faune,
+
+23
+00:02:26,580 --> 00:02:31,200
+et une grand richesse de 
+la biodiversité à Madagascar.
+
+24
+00:02:32,160 --> 00:02:37,960
+Pour la plupart, ces données de la recherche,
+de la biodiversité,
+
+25
+00:02:38,640 --> 00:02:43,660
+ne sont pas documentées, 
+elles sont inaccessible,
+
+26
+00:02:44,020 --> 00:02:48,940
+la recherche existe mais l'accès, ou je dirais,
+
+27
+00:02:48,980 --> 00:02:53,660
+le point de rattachement de ces recherches
+manque encore,
+
+28
+00:02:54,360 --> 00:03:01,380
+si bien que, la venue du GBIF constitue
+une opportunité de mettre un panier
+
+29
+00:03:01,820 --> 00:03:04,160
+on le dit comme ça à Madagascar,
+
+30
+00:03:04,440 --> 00:03:08,800
+un panier de la biodiversité, 
+un panier GBIF à Madagascar.
+
+31
+00:03:09,540 --> 00:03:15,420
+De plus, il y a un manque de 
+politique des données,
+
+32
+00:03:15,460 --> 00:03:19,180
+au sein même des institutions malgache.
+
+33
+00:03:19,800 --> 00:03:26,280
+GBIF apporte donc une solution à un
+référentiel d'information
+
+34
+00:03:26,580 --> 00:03:31,240
+et surtout que cela est dans
+un objectif de large diffusion.
+
+35
+00:03:32,460 --> 00:03:37,740
+MadBIF donc, ou GBIF Madagascar
+visais à la promotion
+
+36
+00:03:37,820 --> 00:03:44,980
+et surtout, à la publication de ces 
+données via GBIF international.
+
+37
+00:03:46,200 --> 00:03:51,500
+Comme résultat, j'ai fait exprès de ne 
+pas donner des détails
+
+38
+00:03:51,720 --> 00:03:57,220
+parce que, vous savez très bien qu'il y a
+le portail MadBIF qui est a consulter.
+
+39
+00:03:57,380 --> 00:04:03,180
+Je voudrais juste souligner que, 
+dans ce portail GBIF Mada
+
+40
+00:04:03,180 --> 00:04:05,180
+sur la biodiversité de Madagascar,
+
+41
+00:04:06,300 --> 00:04:11,940
+il y a : - les données locales, 
+- les données collectées au niveau de
+
+42
+00:04:12,120 --> 00:04:16,320
+différents organismes ou institutions,
+
+43
+00:04:16,320 --> 00:04:19,760
+mais en plus de ça, en même temps,
+comme cela a été dit ce matin
+
+44
+00:04:19,920 --> 00:04:24,520
+il y a cette rapatriation des données,
+
+45
+00:04:24,920 --> 00:04:30,300
+et dans le panier GBIF Mada, 
+il y a 36 pays qui fournissent
+
+46
+00:04:30,560 --> 00:04:38,500
+ou qui ont fournis des données sur le 
+panier du GBIF Mada.
+
+47
+00:04:40,800 --> 00:04:47,100
+Comme c'est en rapport avec cet anniversaire,
+du GBIF France,
+
+48
+00:04:47,800 --> 00:04:52,960
+je dirais pour un premier point que,
+il y avait une collaboration
+
+49
+00:04:53,160 --> 00:04:57,380
+entre GBIF Mada et GBIF France,
+et cela de longue date.
+
+50
+00:04:58,640 --> 00:05:03,300
+Car en juin 2004, 
+bien avant même la constitution officielle,
+
+51
+00:05:03,980 --> 00:05:11,340
+GBIF France a organisé avec GBIF International,
+GBIF Belgium et GBIF Canada,
+
+52
+00:05:11,840 --> 00:05:16,220
+une formation sur 
+les interface d'échange web
+
+53
+00:05:16,480 --> 00:05:26,120
+au niveau de tous les outils et les informations
+à savoir par rapport aux intervenants locaux.
+
+54
+00:05:26,360 --> 00:05:31,500
+Il y avait également des réunions, 
+je cite par exemple,
+
+55
+00:05:31,520 --> 00:05:35,060
+des réunions qui ont été faites ici,
+au Muséum,
+
+56
+00:05:35,840 --> 00:05:41,640
+et MadBIF a été invité, avec quelques collègues
+des pays africains
+
+57
+00:05:42,020 --> 00:05:50,200
+et de cela, les participants été,
+vers l'année 2004,
+
+58
+00:05:50,600 --> 00:05:56,260
+les personnels ou 
+les intervenants node des pays ;
+
+59
+00:05:56,460 --> 00:06:03,260
+il y avait notamment Ranaivo Jaona,
+que tout le monde connait au MadBIF,
+
+60
+00:06:03,560 --> 00:06:07,240
+qui est notre node gestionnaire.
+
+61
+00:06:10,540 --> 00:06:17,340
+Deuxième point : c'était une opportunité aussi
+de raffermir la collaboration
+
+62
+00:06:17,460 --> 00:06:22,840
+et en novembre 2009, MadBIF a obtenu 
+un financement du CEPDEC,
+
+63
+00:06:23,140 --> 00:06:28,900
+pour l'organisation d'une formation régionale
+sur la bio-informatique,
+
+64
+00:06:28,900 --> 00:06:32,360
+cela a été appelé bioinformatique 1
+
+65
+00:06:32,580 --> 00:06:37,540
+car il y avait une autre formation appelé 
+bioinformatique II après,
+
+66
+00:06:38,020 --> 00:06:43,640
+qui était centré sur les standards d'échange,
+de formatage et la publication des données
+
+67
+00:06:43,860 --> 00:06:49,340
+et je souligne que c'était avec l'appui
+de GBIF France.
+
+68
+00:06:49,700 --> 00:06:56,520
+Dans la même lignée, GBIF France a organisé
+la formation bioinformatique II
+
+69
+00:06:56,520 --> 00:06:59,820
+pour les pays africains toujours,
+par l'intermédiaire du CEPDEC,
+
+70
+00:07:00,040 --> 00:07:02,940
+et Madagascar était également invité.
+
+71
+00:07:04,240 --> 00:07:10,440
+L'atelier a surtout porté sur l'utilisation
+des données primaires sur la biodiversité.
+
+72
+00:07:13,660 --> 00:07:24,120
+Ici, j'ai pris pour illustrer, une photo
+de la formation bioinformatique 1
+
+73
+00:07:24,820 --> 00:07:28,640
+qui a été menée à Antananarive,
+à l'université d'Ankatso
+
+74
+00:07:28,860 --> 00:07:35,540
+et avec de nombreux participants
+dont des participants malgache.
+
+75
+00:07:35,700 --> 00:07:38,040
+C'était en novembre 2009.
+
+76
+00:07:38,740 --> 00:07:43,400
+Toujours est-il, et c'est pour ça que je disais
+que c'était une collaboration
+
+77
+00:07:43,520 --> 00:07:45,980
+qui va vraiment dans un bon sens,
+
+78
+00:07:46,180 --> 00:07:49,720
+de partenariat vraiment fini,
+
+79
+00:07:49,960 --> 00:07:59,860
+et en septembre 2001, il y avait la formation
+Bioinformatique II, qui a été faite ici, au MNHN.
+
+80
+00:08:01,080 --> 00:08:07,220
+En 2010, un autre atelier, toujours par 
+l'intermédiaire de Sud Expert Plantes,
+
+81
+00:08:07,860 --> 00:08:11,640
+réunissait les pays d'Afrique et d'Asie,
+
+82
+00:08:12,140 --> 00:08:15,960
+et cela a été également organisé 
+par GBIF France
+
+83
+00:08:16,140 --> 00:08:19,800
+et Madagascar était représenté 
+par deux membres.
+
+84
+00:08:20,380 --> 00:08:24,760
+Cette manifestation nous a permis
+de nous mettre au niveau
+
+85
+00:08:24,760 --> 00:08:27,420
+avec les autres collègues du sud,
+
+86
+00:08:27,920 --> 00:08:35,380
+et a également été une occasion de penser
+à la continuation du projet GBIF-SEP
+
+87
+00:08:36,060 --> 00:08:43,740
+on parlais à l'époque du SEP2,
+mais c'est SEP-2D maintenant
+
+88
+00:08:44,340 --> 00:08:55,700
+et j'espère que cet acquis du GBIF Mada
+serait en continuation dans SEP2D.
+
+89
+00:08:55,960 --> 00:09:02,100
+Dans ces formations, a chaque fois, 
+il faut souligner que
+
+90
+00:09:02,300 --> 00:09:07,660
+l'emploi du temps a été très chargé avec des 
+formations intensives et des concertations
+
+91
+00:09:07,840 --> 00:09:11,140
+c'était vraiment enrichissant 
+pour les participants.
+
+92
+00:09:11,800 --> 00:09:18,420
+Avec toutefois, même si c'était vraiment
+un condensé intensif,
+
+93
+00:09:18,800 --> 00:09:24,140
+les participants avaient toujours quelque
+moment récréatifs,
+
+94
+00:09:24,140 --> 00:09:26,500
+et se sont tissés des relations amicales
+
+95
+00:09:26,880 --> 00:09:32,600
+relations amicales que j'ai continué 
+et que j'ai pris en cours
+
+96
+00:09:32,900 --> 00:09:38,200
+au environ de l'année 2012 où je prenais
+la direction du CNRE.
+
+97
+00:09:41,020 --> 00:09:47,260
+D'autres formations, en novembre 2010
+et la manifestation, ces activités-là,
+
+98
+00:09:47,380 --> 00:09:50,780
+je dirais scientifique, ont également permis
+de faire un lobbying pour
+
+99
+00:09:50,960 --> 00:09:55,540
+la continuation du programme GBIF-SEP.
+
+100
+00:09:56,400 --> 00:10:03,160
+Troisième point : c'est de souligner le projet
+de partenariat ou de parrainage
+
+101
+00:10:03,360 --> 00:10:08,820
+du GBIF France sur une autre occasion
+de renforcer les liens entre
+
+102
+00:10:08,880 --> 00:10:10,880
+Madagascar et le France ;
+
+103
+00:10:11,440 --> 00:10:18,800
+Et ce projet-là, de parrainage, à permit à 
+MadBIF d'améliorer ces performances
+
+104
+00:10:19,160 --> 00:10:25,260
+en vue de sa participation active et efficace
+aux activités de GBIF international.
+
+105
+00:10:25,820 --> 00:10:29,560
+Cela a été les deux points, 
+ici cités (dans les diapositives) :
+
+106
+00:10:29,900 --> 00:10:36,020
+- redynamisation du point nodal national 
+parce que, rappelez-vous,
+
+107
+00:10:36,020 --> 00:10:44,340
+on avait à un moment, une période de crise
+où cela n'a pas été bien calme,
+
+108
+00:10:44,420 --> 00:10:50,440
+et il a fallu reprendre, redynamiser 
+ce point nodal national ;
+
+109
+00:10:50,880 --> 00:10:56,460
+- augmenter la visibilité de MadBIF
+par la mise en place de son site web
+
+110
+00:10:56,580 --> 00:11:01,620
+et par l'augmentation du nombre de données
+publiés dans GBIF.
+
+111
+00:11:02,820 --> 00:11:08,740
+Et surtout, je voudrais souligner ici,
+dans ce programme de parrainage
+
+112
+00:11:08,820 --> 00:11:13,300
+et de partenariat, l’événement majeur qui
+s'est passé en 2015
+
+113
+00:11:13,520 --> 00:11:19,380
+où Madagascar s'est positionner pour accueillir
+la 22ème réunion GB22
+
+114
+00:11:19,380 --> 00:11:22,800
+du conseil d'administration 
+à Tananarive au mois d'octobre,
+
+115
+00:11:22,960 --> 00:11:26,760
+où était prévu la réunion 
+du conseil d'administration
+
+116
+00:11:27,040 --> 00:11:32,020
+mais que les malgache ont pensé
+maximiser et valoriser
+
+117
+00:11:32,020 --> 00:11:35,820
+la présence du GBIF mondial à Madagascar,
+
+118
+00:11:36,040 --> 00:11:41,880
+et à pris un programme, en parallèle avec 
+celui du GBIF,
+
+119
+00:11:41,900 --> 00:11:44,840
+qui est la tenue d'un symposium scientifique
+qui a eu lieu
+
+120
+00:11:44,840 --> 00:11:51,080
+au centre international de conférence d'Ivato
+à Tananarive du 08 au 10 octobre 2015
+
+121
+00:11:51,460 --> 00:11:57,460
+et où il y avait aussi une formation pour
+tous les nodes du GBIF.
+
+122
+00:11:57,980 --> 00:12:04,840
+Et la particularité de cette tenue du symposium
+spécial était de mettre
+
+123
+00:12:04,940 --> 00:12:10,140
+au vu et dans la visibilité mondiale
+la biodiversité de Madagascar.
+
+124
+00:12:11,680 --> 00:12:16,180
+Voilà, au grand complet,
+ le conseil d'administration
+
+125
+00:12:16,460 --> 00:12:19,140
+au GB22 à Tananarive.
+
+126
+00:12:20,220 --> 00:12:25,200
+Pour illustrer que cela était vraiment une
+réunion d'une grande importance,
+
+127
+00:12:25,620 --> 00:12:30,780
+pour la première fois, tous les membres
+du conseil d'administration
+
+128
+00:12:30,780 --> 00:12:32,500
+était presque au complet.
+
+129
+00:12:34,080 --> 00:12:38,860
+Voici quelques photos prises durant 
+le conseil d'administration.
+
+130
+00:12:40,120 --> 00:12:45,720
+Pendant les formations, où il y avait également
+le renforcement des capacités
+
+131
+00:12:45,720 --> 00:12:49,780
+des membres du GBIF Mada
+
+132
+00:12:49,780 --> 00:12:57,420
+donc ici, on avait donc une formation
+pour les membres dans les régions,
+
+133
+00:12:57,420 --> 00:12:59,720
+vous savez que Madagascar, 
+c'est une grande île,
+
+134
+00:13:00,000 --> 00:13:05,280
+et donc on a essayé d'aller 
+dans toutes les provinces
+
+135
+00:13:05,400 --> 00:13:11,700
+dans toutes les universités
+et ce furent donc des formations locales
+
+136
+00:13:12,000 --> 00:13:18,160
+où les universitaires, les chercheurs de tout
+Madagascar y prenait part.
+
+137
+00:13:18,380 --> 00:13:27,800
+Là aussi, avec l'appui du GBIF France,
+on a tenu aussi la formation des nodes.
+
+138
+00:13:28,780 --> 00:13:36,900
+Et pour, plus ou moins, terminer,
+dans ma brève intervention
+
+139
+00:13:37,400 --> 00:13:42,180
+il y avait un quatrième point 
+que je voulais souligner
+
+140
+00:13:42,400 --> 00:13:49,680
+c'est cette action continue entre 
+la collaboration GBIF France et GBIF Mada
+
+141
+00:13:49,780 --> 00:13:52,800
+toujours dans le cadre du GBIF International,
+
+142
+00:13:53,200 --> 00:13:59,740
+et cette année, on a essayé d'élargir
+ces actions là à travers toute l'île,
+
+143
+00:14:00,120 --> 00:14:03,820
+et nous avions organisé 
+trois ateliers de formation
+
+144
+00:14:04,200 --> 00:14:09,940
+deux à Tananarive, et un à Toamasina
+dans la région Est de Madagascar,
+
+145
+00:14:10,100 --> 00:14:14,460
+qui nous ont permis de mettre à jour
+l'équipe par rapport au développement
+
+146
+00:14:14,460 --> 00:14:17,020
+des outils de gestion.
+
+147
+00:14:19,560 --> 00:14:26,000
+Voilà quelques photos, des participants
+sur les deux atelier de formation
+
+148
+00:14:26,120 --> 00:14:29,120
+car comme je vous le disais, 
+c'est une grande île,
+
+149
+00:14:29,120 --> 00:14:32,720
+donc on avait une première formation
+qui était à Tamata (Toamasina)
+
+150
+00:14:33,040 --> 00:14:37,000
+et une deuxième formation à Tananarive.
+
+151
+00:14:37,240 --> 00:14:41,940
+Et on voit donc ici, 
+bon c'est pas très clair
+
+152
+00:14:42,260 --> 00:14:49,780
+mais je remercie au passage nos amis
+GBIF France qui était toujours présent
+
+153
+00:14:49,860 --> 00:14:57,240
+dans les besoins pour pouvoir mettre
+le GBIF Madagascar à son niveau supérieur.
+
+154
+00:14:58,060 --> 00:15:00,060
+Et en conclusion,
+
+155
+00:15:00,400 --> 00:15:04,800
+je dirais que l'appui de GBIF France 
+nous a été indispensable,
+
+156
+00:15:05,560 --> 00:15:08,300
+pour la mise en fonction de notre
+point nodal national
+
+157
+00:15:09,000 --> 00:15:12,760
+l'assistance et les appuis nous ont 
+été précieux
+
+158
+00:15:12,980 --> 00:15:16,640
+pour notre mise à jour par rapport 
+à l'évolution des outils GBIF
+
+159
+00:15:17,160 --> 00:15:20,860
+et surtout pour garder le dynamisme
+du groupe local.
+
+160
+00:15:21,900 --> 00:15:29,620
+Pour cela, je réitère mes remerciements
+et j'espère que cette collaboration
+
+161
+00:15:29,880 --> 00:15:35,600
+tiendra toujours pour que nous puissions
+aller de l'avant
+
+162
+00:15:36,140 --> 00:15:39,540
+et en perspective, pour terminer,
+
+163
+00:15:40,120 --> 00:15:45,820
+GBIF Madagascar reste toujours
+dans son objectif de développement local
+
+164
+00:15:46,680 --> 00:15:52,640
+et essai toujours de renforcer la recherche 
+par la recherche et
+
+165
+00:15:52,820 --> 00:15:58,100
+par la communication à travers 
+ses publications,
+
+166
+00:15:58,660 --> 00:16:06,620
+surtout que, en ce moment,
+Madagascar est dans la mise en place
+
+167
+00:16:07,120 --> 00:16:10,980
+du nouveau système LMD dans
+l'enseignement supérieur
+
+168
+00:16:11,560 --> 00:16:18,060
+et nous pensons que la place du
+GBIF Mada est vraiment
+
+169
+00:16:18,300 --> 00:16:24,460
+d’œuvrer vraiment à la mise en œuvre
+de ce nouveau système
+
+170
+00:16:24,720 --> 00:16:30,380
+surtout à travers les nouvelles écoles 
+doctorales mises en place
+
+171
+00:16:30,440 --> 00:16:34,700
+où la recherche au niveau des 
+étudiants et des doctorants
+
+172
+00:16:34,700 --> 00:16:40,400
+pourrais vraiment être appuyé  par  rapport 
+à ces outils de gestions de GBIF.
+
+173
+00:16:41,080 --> 00:16:44,500
+Et surtout, deuxième point,
+et je vais en rester là,
+
+174
+00:16:45,580 --> 00:16:51,200
+c'est de penser, car nous savons tous que 
+Madagascar en cette année 2016,
+
+175
+00:16:51,220 --> 00:16:55,420
+reçoit la grande réunion de 
+la grande famille francophone
+
+176
+00:16:55,780 --> 00:17:04,260
+et j'espère que le rayonnement du réseau
+dans le monde francophone
+
+177
+00:17:04,260 --> 00:17:09,120
+et les autres pays membre de la francophonie
+serait vraiment un souhait
+
+178
+00:17:09,300 --> 00:17:15,260
+et le rôle de GBIF Mada, dans ce rayonnement,
+dans la zone océane indienne,
+
+179
+00:17:15,660 --> 00:17:19,740
+je pense que ce serait vraiment 
+un souhait et encore une fois,
+
+180
+00:17:19,940 --> 00:17:23,040
+merci, je vais pas cité les noms pour
+ne pas oublier
+
+181
+00:17:23,140 --> 00:17:27,240
+mais en tout cas, merci beaucoup
+et on espère vous revoir à Madagascar.
+
+182
+00:17:27,240 --> 00:17:31,060
+Merci.
+Merci à tous.
+

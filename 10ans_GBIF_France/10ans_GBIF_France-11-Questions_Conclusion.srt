@@ -1,0 +1,107 @@
+1
+00:00:00,000 --> 00:00:05,140
+Remarque : Pour l'instant, on utilise les ingénieurs
+mais on a pas besoin d'ingénieur
+
+2
+00:00:05,140 --> 00:00:09,980
+on a besoin de techniciens qui soient dédiés à 100%
+
+3
+00:00:10,340 --> 00:00:18,000
+à la tache de gérer les données
+et bien entendu, le nombre de techniciens
+
+4
+00:00:18,040 --> 00:00:24,600
+doit être adapté à la taille de l'institution
+et un technicien n'est pas forcément
+
+5
+00:00:24,600 --> 00:00:33,100
+dédié à une seule unité de recherche,
+dépendant du nombre de données générés.
+
+6
+00:00:33,920 --> 00:00:43,920
+Tu n'as pas obtenu de nombre, de chiffre à ce propos
+mais à FishBase, il y avait deux chercheurs
+
+7
+00:00:44,640 --> 00:00:50,480
+pour, pendant 25 ans, entre 10 et 15 techniciens pour rentrer des données.
+
+8
+00:00:52,480 --> 00:00:54,480
+C'est ça la proportion.
+
+9
+00:00:55,360 --> 00:01:02,300
+Et il faut également changer notre façon d'envisager ce truc-là,
+
+10
+00:01:02,640 --> 00:01:08,760
+les bases de données, la gestion des données doit être évalué dans l'évaluation des carrières,
+
+11
+00:01:09,520 --> 00:01:14,920
+sinon les chercheurs ne feront pas l'effort de gérer proprement les données.
+
+12
+00:01:15,780 --> 00:01:23,000
+parce que c'est une chose de balancer un jeux de donnée dans un journal,
+
+13
+00:01:23,260 --> 00:01:32,940
+qui demande que le matériel ajouté soit mis mais il faut aussi qu'il soit bien documenté.
+
+14
+00:01:33,780 --> 00:01:40,040
+La gestion des données comporte aussi la documentation des données et
+
+15
+00:01:40,120 --> 00:01:45,460
+il y a, quand même, de nombreux cas où on se retrouve, 
+on ne sait pas quelle unité c'est
+
+16
+00:01:45,460 --> 00:01:49,280
+on sait pas comment cela a été calculé, etc.
+
+17
+00:01:51,040 --> 00:01:56,820
+Si on veut vraiment faire l'effort d'avoir un nombre de données massif
+
+18
+00:01:56,900 --> 00:02:02,100
+sur la biodiversité en un temps relativement court, 
+c'est par là qu'il faut passer.
+
+19
+00:02:06,940 --> 00:02:10,180
+Remarque : Juste un petit commentaire à faire aussi
+
+20
+00:02:10,180 --> 00:02:12,180
+j'étais pas là ce matin pour la présentation d'Elisabeth Vergès,
+
+21
+00:02:12,620 --> 00:02:15,600
+je fais partie de l'équipe ECOSCOPE à la Fondation pour la Recherche sur la Biodiversité (FRB)
+
+22
+00:02:15,600 --> 00:02:19,160
+si jamais, vous avez des questions et que vous voulez en savoir plus, que ce n'est pas clair pour vous,
+
+23
+00:02:19,540 --> 00:02:23,480
+on se fera un plaisir de vous expliquer un peu en quoi consiste le projet.
+
+24
+00:02:27,820 --> 00:02:30,960
+Intervention : Je ne sais pas si cela a déjà été dit mais joyeux anniversaire.
+
+25
+00:02:30,960 --> 00:02:33,540
+Anne-Sophie Archambeau : Merci !
+

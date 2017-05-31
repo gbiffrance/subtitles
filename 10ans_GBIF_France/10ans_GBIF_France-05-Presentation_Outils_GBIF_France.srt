@@ -1,0 +1,2305 @@
+1
+00:00:00,140 --> 00:00:08,800
+Bonjour, je suis Marie-Elise Lecoq
+la chef de projet informatique du GBIF France
+
+2
+00:00:09,260 --> 00:00:14,860
+et je suis ici, avec mon collègue Fabien Caviere, 
+l'autre ingénieur informatique du GBIF France
+
+3
+00:00:15,040 --> 00:00:19,980
+pour vous présenter les outils que l'on a mis
+en place pour améliorer la visibilité du GBIF France
+
+4
+00:00:20,160 --> 00:00:25,880
+mais aussi améliorer la visibilité de vos données
+que vous avez connectez au GBIF.
+
+5
+00:00:26,020 --> 00:00:30,200
+Je vais commencez par faire 
+la liste des outils principaux
+
+6
+00:00:30,420 --> 00:00:36,240
+le 1er, c'est le site internet du GBIF France
+que mon collègue va vous présenter.
+
+7
+00:00:37,180 --> 00:00:43,920
+Après, il y a l'IPT du GBIF France
+qui est un outil qui permet
+
+8
+00:00:44,100 --> 00:00:48,740
+d'effectuer la connexion des données 
+au GBIF international.
+
+9
+00:00:48,740 --> 00:00:51,900
+Je vais vous présenter par la suite 
+le portail français du GBIF.
+
+10
+00:00:52,500 --> 00:00:57,320
+Et enfin, Fabien terminera avec le site des formations
+que nous venons juste de mettre en place
+
+11
+00:00:57,680 --> 00:01:02,820
+afin de vous permettre de revoir et
+
+12
+00:01:02,980 --> 00:01:07,440
+réutiliser les présentations que 
+nous avons fait durant les présentations.
+
+13
+00:01:07,600 --> 00:01:13,160
+Bonjour à tous,
+je vais vous montrez la démonstration live du site
+
+14
+00:01:16,120 --> 00:01:20,060
+Nous sommes sur la page d'accueil 
+du GBIF France
+
+15
+00:01:20,140 --> 00:01:23,900
+comme vous pouvez le voir, si vous 
+connaissiez l'ancienne version du site,
+
+16
+00:01:24,160 --> 00:01:30,760
+l'interface graphique a été remanier pour
+correspondre au couleur du logo du GBIF France.
+
+17
+00:01:31,220 --> 00:01:34,620
+Je vais vous présentez essentiellement 
+4 nouvelles fonctionnalités
+
+18
+00:01:34,840 --> 00:01:36,840
+qui ont été implémentés 
+dans cette nouvelle version.
+
+19
+00:01:37,460 --> 00:01:43,960
+Tout d'abord, nous avons la page
+des partenaires
+
+20
+00:01:45,060 --> 00:01:48,920
+Elle a été remaniée en même temps
+que l'interface.
+
+21
+00:01:49,220 --> 00:01:54,940
+Je vais vous montrez une page d'un
+partenaire, disons le Muséum (MNHN).
+
+22
+00:01:57,140 --> 00:02:02,140
+On a une page avec les données 
+qui sont issues du GBIF.org
+
+23
+00:02:02,660 --> 00:02:08,780
+Avec la carte issue du GBIF.org, les données 
+étant représentés sous forme de points.
+
+24
+00:02:13,240 --> 00:02:18,480
+Nous avons également des liens qui nous
+amène sur le site du GBIF.org
+
+25
+00:02:18,740 --> 00:02:25,340
+et surtout sur la page de l'institution
+sur le portail du GBIF France
+
+26
+00:02:25,560 --> 00:02:28,160
+dont Marie vous montrera tout à l'heure.
+
+27
+00:02:28,540 --> 00:02:33,940
+Et un onglet "Contribution" qui permet d'avoir 
+une visualisation des jeux de données
+
+28
+00:02:33,940 --> 00:02:35,640
+pour cette institution.
+
+29
+00:02:35,840 --> 00:02:39,400
+C'était la 1ère fonctionnalité qui a été implémenté
+
+30
+00:02:41,520 --> 00:02:45,100
+Ce ne sont pas les seules informations
+que nous récupérons du GBIF.org
+
+31
+00:02:45,220 --> 00:02:48,920
+il y a aussi les publications qui ont été récupérés.
+
+32
+00:02:52,620 --> 00:02:55,420
+Nous avons ici, sur cette page, 
+l'ensemble des publications
+
+33
+00:02:55,420 --> 00:02:59,520
+en anglais évidemment, qui ont
+été récupérées du GBIF.org
+
+34
+00:02:59,880 --> 00:03:03,960
+Je ne vous les montre pas toutes car
+il y a beaucoup de présentation
+
+35
+00:03:03,960 --> 00:03:05,620
+mais elles y sont toutes.
+
+36
+00:03:05,820 --> 00:03:10,700
+Si vous avez un problème ou si 
+vous trouvez un bug,
+
+37
+00:03:11,040 --> 00:03:14,240
+nous avons installé un onglet de feedback,
+qui est présent sur toutes les pages,
+
+38
+00:03:14,240 --> 00:03:17,000
+et que vous avez peut-être remarqué 
+depuis tout à l'heure.
+
+39
+00:03:17,820 --> 00:03:21,440
+Il suffit juste de cliquer dessus,
+une fenêtre s'affichera
+
+40
+00:03:21,540 --> 00:03:27,680
+vous permettant de rentrer le type d'erreur
+que vous avez rencontré.
+
+41
+00:03:27,860 --> 00:03:31,060
+N'hésitez pas à détailler au maximum 
+les messages de feedback
+
+42
+00:03:31,180 --> 00:03:34,480
+pour que nous puissions corriger l'erreur
+le plus efficacement possible.
+
+43
+00:03:35,420 --> 00:03:41,680
+Ce qui m’amène à la dernière fonctionnalité
+ensuite je laisserai la parole à Marie-Elise Lecoq,
+
+44
+00:03:41,680 --> 00:03:43,640
+c'est les newsletters.
+
+45
+00:03:46,320 --> 00:03:51,180
+Comme vous l'avez dit Anne-Sophie Archambeau,
+ce matin, nous avons installé des newsletters
+
+46
+00:03:51,520 --> 00:03:55,960
+qui vous permettent d'être renseigné sur
+les dernières informations
+
+47
+00:03:56,100 --> 00:04:00,840
+concernant le GBIF et le GBIF France.
+
+48
+00:04:01,180 --> 00:04:06,780
+Là, c'est très simple, on sélectionne la newsletter
+auquel on veux s'inscrire
+
+49
+00:04:06,980 --> 00:04:10,660
+et vous devez renseigner l'adresse mail
+à laquelle vous souhaitez récupérer
+
+50
+00:04:10,840 --> 00:04:14,400
+les mails de newsletters.
+
+51
+00:04:14,580 --> 00:04:19,140
+C'est tout pour la présentation du site français,
+je laisse maintenant la parole à ma collègue
+
+52
+00:04:19,160 --> 00:04:21,160
+à Marie-Elise Lecoq.
+
+53
+00:04:22,720 --> 00:04:27,840
+Fabien vous a fait une démonstration sur
+le site internet du GBIF France
+
+54
+00:04:28,340 --> 00:04:34,940
+je sais pas s'il a mentionné que toutes les
+données que l'on récupère, sur la carte, les publications,
+
+55
+00:04:34,980 --> 00:04:40,780
+on utilise les APIs mises en place par le GBIF.org
+donc vous pouvez voir qu'on peut facilement
+
+56
+00:04:40,840 --> 00:04:45,940
+les utiliser et l'outil derrière notre site internet
+c'est un Drupal (CMS)
+
+57
+00:04:45,980 --> 00:04:48,980
+donc c'est facilement intégrable.
+
+58
+00:04:50,540 --> 00:04:53,700
+Je vais maintenant vous parlez du 
+portail français du GBIF.
+
+59
+00:04:55,780 --> 00:05:01,280
+Concrètement, c'est un portail qui est basé sur
+les modules développés par
+
+60
+00:05:01,500 --> 00:05:04,780
+le point nodal Australien : 
+Atlas of Living Australia (ALA).
+
+61
+00:05:05,160 --> 00:05:08,980
+Pourquoi avons-nous choisit ces outils ?
+
+62
+00:05:09,640 --> 00:05:13,500
+Tout d'abord, ces modules 
+fonctionnent dans d'autres pays,
+
+63
+00:05:13,760 --> 00:05:18,140
+ils ont été migrez en Espagne, en Ecosse.
+Il fonctionne au Portugal,
+
+64
+00:05:18,220 --> 00:05:22,080
+l'Allemagne commence à s’intéresser
+pour l'installer,
+
+65
+00:05:22,260 --> 00:05:24,720
+il fonctionne en France,
+
+66
+00:05:24,880 --> 00:05:33,420
+le point nodal Brésil a sorti son portail 
+en utilisant ALA,
+
+67
+00:05:33,580 --> 00:05:37,260
+c'est vraiment un projet qui fonctionne,
+dans plusieurs pays
+
+68
+00:05:37,500 --> 00:05:42,380
+et qui a une maintenance derrière, une équipe
+de développeurs
+
+69
+00:05:42,420 --> 00:05:46,280
+que ca soit en Australie, ou,
+comme maintenant, à travers le monde.
+
+70
+00:05:46,340 --> 00:05:50,420
+Le deuxième point : la communauté internationale.
+
+71
+00:05:50,640 --> 00:05:58,140
+Cela permet de pouvoir travailler avec 
+des informaticiens à travers le monde
+
+72
+00:05:58,180 --> 00:06:01,800
+sachant que souvent, dans les points nodaux
+comme par exemple : le GBIF France
+
+73
+00:06:01,880 --> 00:06:06,360
+on a que deux informaticiens, ce qui est
+déjà beaucoup pour un point nodal,
+
+74
+00:06:06,380 --> 00:06:09,460
+mais qui représente peu pour une 
+équipe informatique
+
+75
+00:06:09,620 --> 00:06:15,420
+et donc cet outil permet de créer une communauté
+avec beaucoup plus d'informaticiens.
+
+76
+00:06:16,780 --> 00:06:22,480
+D'autant plus que les informaticiens 
+au GBIF France
+
+77
+00:06:22,700 --> 00:06:27,120
+ont tendance à avoir une 
+durée de présence de 3 ans
+
+78
+00:06:27,240 --> 00:06:30,720
+parce qu'il trouvent des postes, qu'ils changent,
+ou ils retournent dans le privé
+
+79
+00:06:31,700 --> 00:06:36,200
+En utilisant ce genre de projet, 
+cela permet à la nouvelle personne
+
+80
+00:06:36,440 --> 00:06:41,800
+qui sera embauchée par le GBIF France, de
+juste partir 15 jours ou faire une mission en Australie
+
+81
+00:06:42,240 --> 00:06:48,700
+plus l'Espagne ou l'Ecosse, et monter 
+en compétence sur l'outil.
+
+82
+00:06:48,960 --> 00:06:53,480
+Ce qui rend le projet pérenne, 
+d'un point de vue fonctionnel
+
+83
+00:06:53,480 --> 00:06:55,440
+et humain.
+
+84
+00:06:55,620 --> 00:07:00,200
+Et aussi d'un point de vue technique,
+l'équipe australienne nous a bien confirmé
+
+85
+00:07:00,260 --> 00:07:02,880
+qu'ils ne vont pas du tout 
+changé leur infrastructure
+
+86
+00:07:02,880 --> 00:07:04,720
+dans les prochaines années.
+
+87
+00:07:05,860 --> 00:07:13,780
+Ils ont lancé leur portail en 2010-2011
+il a déjà 4-5 ans,
+
+88
+00:07:13,820 --> 00:07:16,920
+il fonctionne très bien, 
+il y a beaucoup de module
+
+89
+00:07:17,040 --> 00:07:21,400
+on peut voir que c'est un projet
+de longue durée.
+
+90
+00:07:22,540 --> 00:07:27,400
+Je vous ai parlé de la communauté,
+il y a différents outils pour
+
+91
+00:07:28,440 --> 00:07:33,500
+intégrer la communauté, 
+la manager, etc.
+
+92
+00:07:33,780 --> 00:07:38,600
+D'abord, tout le code des modules
+d'ALA sont
+
+93
+00:07:38,920 --> 00:07:44,820
+en open-source, sur le github ALA
+(https://github.com/AtlasOfLivingAustralia).
+
+94
+00:07:45,640 --> 00:07:49,380
+Les deux dossiers principaux
+c'est le ala-install
+
+95
+00:07:49,420 --> 00:07:52,760
+où là, vous allez pouvoir installer
+une version test du portail
+
+96
+00:07:52,840 --> 00:07:56,660
+en utilisant les outils Vagrant et Ansible,
+
+97
+00:07:57,140 --> 00:08:03,140
+et le dossier documentation qui vous permet 
+de prendre en main les premières étapes.
+
+98
+00:08:03,700 --> 00:08:06,360
+Ce que je n'ai pas ajouté
+mais qui peut être intéressant
+
+99
+00:08:06,480 --> 00:08:09,520
+c'est qu'ils ont aussi un dossier 
+spatial-documentation
+
+100
+00:08:09,940 --> 00:08:13,860
+qui vous permettra de comprendre 
+le module spatial
+
+101
+00:08:13,860 --> 00:08:16,160
+que je vais vous présenter,
+qu'on a mis en place en France.
+
+102
+00:08:16,880 --> 00:08:20,880
+Il y a une mailing-list à laquelle vous pouvez
+vous enregistrer sur l'adresse suivante
+
+103
+00:08:21,080 --> 00:08:26,440
+cette mailing-list sert d'un point de vue technique
+au sens où si on a des problèmes,
+
+104
+00:08:26,500 --> 00:08:30,400
+des bugs, on peut facilement poser 
+des questions et l'équipe d'Australie
+
+105
+00:08:30,580 --> 00:08:35,260
+et les équipes des autres nœuds
+peuvent nous répondre.
+
+106
+00:08:35,840 --> 00:08:39,060
+On peut aussi poser des questions 
+sur comment cela fonctionne
+
+107
+00:08:39,160 --> 00:08:42,500
+est-ce qu'on peut l'intégrer, etc.
+
+108
+00:08:42,700 --> 00:08:47,260
+Depuis 2 ans, on a fait différents workshops,
+ce qu'on appelle workshop,
+
+109
+00:08:47,420 --> 00:08:51,300
+c'est une semaine où tous les informaticiens
+se retrouvent pour découvrir l'outil
+
+110
+00:08:51,380 --> 00:08:54,300
+ou vraiment de travailler de 
+façon intensif sur l'outil.
+
+111
+00:08:54,540 --> 00:09:00,160
+Le 1er a eu lieu à Cambera en 2014
+et pendant une semaine,
+
+112
+00:09:00,420 --> 00:09:05,260
+nous avons travaillé avec l'équipe informatique
+de GBIF Australien
+
+113
+00:09:05,260 --> 00:09:07,400
+et cela a été très productif.
+
+114
+00:09:07,420 --> 00:09:09,900
+C'est à la suite de cette formation
+que nous avons décidé que
+
+115
+00:09:09,980 --> 00:09:13,200
+au GBIF France, nous avions installé 
+ce module.
+
+116
+00:09:13,640 --> 00:09:17,060
+Nous avons fait aussi une formation
+de 2 jours à Paris
+
+117
+00:09:17,160 --> 00:09:21,980
+plus dédié au point nodaux Européens
+pour présenter l'outil,
+
+118
+00:09:22,340 --> 00:09:27,180
+c'était juste avant le Europeen Node Meeting
+qui a été hébergé au Muséum.
+
+119
+00:09:28,240 --> 00:09:31,880
+Et enfin, nous avons fait une formation
+via le projet CoopBioPlat
+
+120
+00:09:32,380 --> 00:09:37,580
+à Madrid, où là aussi, cela a été 
+3-4 jours vraiment très intensif.
+
+121
+00:09:38,580 --> 00:09:42,100
+Finalement, le dernier point,
+c'est EncounterBay
+
+122
+00:09:42,840 --> 00:09:48,240
+qui est un mentoring entre la Belgique,
+le Portugal, l'Espagne et la France,
+
+123
+00:09:48,740 --> 00:09:54,500
+qui a permis de créer un document
+où on présente l'outil
+
+124
+00:09:54,700 --> 00:09:58,800
+de façon fonctionnel, c'est à dire,
+les différents fonctionnalités
+
+125
+00:09:58,920 --> 00:10:00,920
+qu'on peux trouver sur l'outil,
+
+126
+00:10:01,060 --> 00:10:05,460
+mais aussi avec un point de vue
+technique, donc c'est plus dédié
+
+127
+00:10:05,520 --> 00:10:08,580
+aux personnes qui envisagent
+d'installer l'outil.
+
+128
+00:10:09,180 --> 00:10:17,000
+Le document est en dernière phase 
+de relecture,
+
+129
+00:10:17,480 --> 00:10:23,460
+et il devrai être disponible 
+dans le courant de l'été.
+
+130
+00:10:23,680 --> 00:10:27,920
+On fera une news sur le site du
+GBIF France à ce moment-là.
+
+131
+00:10:28,240 --> 00:10:33,180
+Maintenant, je vais passer à la démonstration,
+je vais prendre le risque de faire
+
+132
+00:10:33,300 --> 00:10:37,060
+une démonstration live ; 
+on va voir comment ça marche.
+
+133
+00:10:41,600 --> 00:10:47,000
+Je ne sais pas si Fabien Caviere l'a dit 
+le site internet est aussi remodelé
+
+134
+00:10:47,380 --> 00:10:52,480
+pour qu'il soit complètement Responsive Design
+donc maintenant vous pouvez allez
+
+135
+00:10:52,480 --> 00:10:56,680
+sur votre mobile et voir si le site 
+de façon plus pratique.
+
+136
+00:10:57,100 --> 00:10:59,400
+Concrètement, comment cela se passe ?
+
+137
+00:10:59,740 --> 00:11:06,360
+Déjà, nous avons deux outils :
+le portail de recherche et le portail spatial.
+
+138
+00:11:06,640 --> 00:11:11,960
+Je vais commencer par parler du
+portail de recherche et de métadonnées.
+
+139
+00:11:12,240 --> 00:11:16,780
+L'idée de ce portail était de l'intégrer 
+complètement dans le site web
+
+140
+00:11:16,980 --> 00:11:19,580
+pour que cela soit complètement 
+transparent pour vous
+
+141
+00:11:19,800 --> 00:11:25,640
+donc il vous suffit d'aller sur le bouton
+"Consulter/Accès au portail français".
+
+142
+00:11:26,960 --> 00:11:31,760
+Là, vous tombez sur la page
+d'accueil du portail.
+
+143
+00:11:34,360 --> 00:11:38,620
+Vous pouvez voir que le portail 
+est divisé en 4 parties
+
+144
+00:11:39,440 --> 00:11:43,520
+La partie du haut : c'est une recherche
+directe sur le portail de recherche ;
+
+145
+00:11:43,920 --> 00:11:47,580
+la partie "Les Collections" c'est
+un moteur dédié aux collections
+
+146
+00:11:47,740 --> 00:11:51,380
+donc c'est des jeux de données qui 
+n'ont que des spécimens
+
+147
+00:11:51,600 --> 00:11:54,380
+donc vous ne retrouverais pas 
+les jeux de données d'observations ;
+
+148
+00:11:54,880 --> 00:12:00,560
+la partie "Jeux de données" c'est là où 
+il y aura la liste de tous les jeux de données
+
+149
+00:12:00,780 --> 00:12:02,700
+que ce soit d'observation ou
+de collection ;
+
+150
+00:12:02,700 --> 00:12:04,900
+et enfin la dernière partie : le portail spatial.
+
+151
+00:12:05,080 --> 00:12:08,380
+Vous pouvez voir qu'il y a 144 jeux
+de données
+
+152
+00:12:09,380 --> 00:12:15,320
+c'est le bon chiffre ; sur le portail 
+international, on a encore
+
+153
+00:12:15,600 --> 00:12:21,040
+des jeux de données à supprimer qui seront 
+réintégrer au portail par un autre chemin.
+
+154
+00:12:21,940 --> 00:12:29,260
+D'ici un mois ou deux, vous trouverez le même
+nombre sur le portail français et international.
+
+155
+00:12:30,060 --> 00:12:34,560
+Je vais commencer par faire 
+une petite recherche
+
+156
+00:12:35,460 --> 00:12:44,780
+par exemple : Orcinus orca
+qui est un orque.
+
+157
+00:12:45,620 --> 00:12:52,660
+Là vous tombez sur la page 
+des résultats de la recherche
+
+158
+00:12:53,080 --> 00:12:58,620
+concrètement, il y a deux parties :
+la première où vous pouvez filtrer les résultats,
+
+159
+00:12:58,880 --> 00:13:02,260
+et une autre où vous pouvez visualiser
+les résultats sur différentes formes.
+
+160
+00:13:02,640 --> 00:13:09,100
+D'abord il y a une carte, avec différents outils :
+vous pouvez augmenter la taille des points
+
+161
+00:13:09,400 --> 00:13:15,720
+les diminuer, vous pouvez augmenter ou 
+diminuer la taille des occurrences
+
+162
+00:13:16,600 --> 00:13:23,040
+vous pouvez retirer les contours, 
+les ajouter,
+
+163
+00:13:23,540 --> 00:13:27,140
+vous pouvez télécharger la carte
+
+164
+00:13:32,760 --> 00:13:38,300
+Une fenêtre pop-up s'affiche avec le format, 
+les qualités, les couleurs des points,
+
+165
+00:13:38,480 --> 00:13:44,140
+la couche de basse : 
+je vous invite à faire les contournements
+
+166
+00:13:44,140 --> 00:13:46,420
+car les autres couches sont australiennes.
+
+167
+00:13:46,680 --> 00:13:52,780
+Donc là, on les a laissés, car
+cela ferai trop de modification
+
+168
+00:13:52,860 --> 00:13:58,180
+et je ne voulais pas prendre le risque mais 
+cela sera modifié dans le courant de l'été
+
+169
+00:13:58,640 --> 00:14:03,940
+donc avec contournement car vous allez pouvoir
+charger la carte avec le focus
+
+170
+00:14:04,120 --> 00:14:07,520
+que vous avez choisi dans le zoom
+dans la page principale
+
+171
+00:14:07,520 --> 00:14:09,200
+et les points des occurrences.
+
+172
+00:14:09,360 --> 00:14:13,560
+Je vais pas télécharger car je ne sais pas
+si on peux le faire ici (ndlt : dans le GAM)
+
+173
+00:14:13,800 --> 00:14:18,740
+mais concrètement, cela fonctionne.
+
+174
+00:14:39,120 --> 00:14:45,620
+Vous avez la carte basique avec toutes 
+les occurrences que vous pouvez voir.
+
+175
+00:14:54,600 --> 00:14:58,720
+Si vous cliquez sur une occurrence,
+vous allez pouvoir accéder à la fiche
+
+176
+00:14:58,840 --> 00:15:03,380
+de l’occurrence avec les différentes
+informations.
+
+177
+00:15:03,580 --> 00:15:08,640
+L'indexation est faite 
+via le blackbone taxonomie
+
+178
+00:15:11,000 --> 00:15:14,140
+c'est la check-list crée par le GBIF international
+
+179
+00:15:14,240 --> 00:15:19,820
+qui regroupe toutes les autres 
+check-lists intégré au GBIF.
+
+180
+00:15:20,700 --> 00:15:24,680
+Donc les noms communs ne sont pas
+ forcément français ;
+
+181
+00:15:24,940 --> 00:15:28,240
+ici on a de l'espagnol par exemple.
+
+182
+00:15:28,640 --> 00:15:31,100
+C'est quelque chose qui 
+faudrait mettre en place :
+
+183
+00:15:31,140 --> 00:15:34,860
+de remplir les noms communs 
+dans toutes les langues.
+
+184
+00:15:38,620 --> 00:15:45,540
+Après, vous avez la liste des enregistrements
+que vous pouvez filtrer
+
+185
+00:15:45,720 --> 00:15:52,100
+par localisation, par attribution
+par exemple,
+
+186
+00:15:54,120 --> 00:16:04,340
+Ici, par exemple, on va choisir 
+la collection des mammifères du Muséum,
+
+187
+00:16:04,840 --> 00:16:09,500
+et on va avoir la liste complète
+
+188
+00:16:13,980 --> 00:16:18,600
+des orques dans ce jeux de donnée.
+
+189
+00:16:18,820 --> 00:16:21,180
+Vous pouvez télécharger 
+les jeux de données
+
+190
+00:16:21,960 --> 00:16:25,540
+Vous pouvez renseigné votre e-mail
+mais ce n'est pas obligatoire
+
+191
+00:16:25,640 --> 00:16:27,940
+vous pouvez changer le nom,
+le seul champs obligatoire
+
+192
+00:16:27,940 --> 00:16:30,480
+c'est la raison pour laquelle vous
+téléchargé les données
+
+193
+00:16:33,060 --> 00:16:37,680
+si on commence le téléchargement
+il faut savoir que ce sera un fichier .csv
+
+194
+00:16:37,940 --> 00:16:43,260
+avec les mêmes données que l'on peut récupérer
+sur le portail international.
+
+195
+00:16:44,860 --> 00:16:50,480
+Maintenant, nous allons passer sur
+la page d'une occurrence.
+
+196
+00:16:50,700 --> 00:16:55,560
+Sur la page d'une occurrence, on a : 
+- le logo de l'institution s’il est renseigné
+
+197
+00:16:55,720 --> 00:16:58,120
+- différents tests qui sont réalisés
+
+198
+00:16:58,180 --> 00:17:01,700
+on peux voir ici, qu'il n'y a aucun test
+qui n'a échoué sur cette occurrence,
+
+199
+00:17:02,400 --> 00:17:09,200
+différentes mise en garde, et
+différents tests qui sont validés
+
+200
+00:17:10,240 --> 00:17:17,020
+en cliquant sur "original vs traité"
+on peux voir les données d'origine
+
+201
+00:17:17,160 --> 00:17:20,340
+qui sont renseigné dans le Darwin Core,
+
+202
+00:17:20,340 --> 00:17:21,880
+et les valeurs traitées.
+
+203
+00:17:28,340 --> 00:17:31,960
+On a différentes informations :
+le jeux de donnée, la collection
+
+204
+00:17:33,580 --> 00:17:36,820
+on a les données de classification
+
+205
+00:17:37,000 --> 00:17:40,920
+si le jeux est géolocalisé, etc.
+
+206
+00:17:43,060 --> 00:17:48,700
+Le GBIF France a décidé d'installer
+un portail de recherche d'occurrence,
+
+207
+00:17:48,880 --> 00:17:52,120
+mais on a pas installer un portail
+de recherche d'espèce,
+
+208
+00:17:52,260 --> 00:17:56,360
+car il en existe déjà un à l'INPN,
+et que c'est plus intéressant
+
+209
+00:17:56,460 --> 00:17:58,780
+d'utiliser celui de l'INPN plutôt 
+qu'en recréer un.
+
+210
+00:17:58,980 --> 00:18:04,580
+On créer un lien, sur la page 
+d'une occurrence, qui donne accès
+
+211
+00:18:04,700 --> 00:18:08,860
+directement à la page d'espèce de l'INPN.
+
+212
+00:18:09,340 --> 00:18:13,900
+On a le même lien vers le GBIF international.
+
+213
+00:18:14,880 --> 00:18:18,520
+De cette page d'occurrence, on peut
+accéder au jeux de données.
+
+214
+00:18:22,080 --> 00:18:26,760
+Donc le jeu de donnée, c'est :
+la description du jeux de donnée,
+
+215
+00:18:26,800 --> 00:18:29,480
+les différents contacts,
+ici, il y a beaucoup de contacts,
+
+216
+00:18:29,820 --> 00:18:33,100
+comment citer le jeux de données, 
+le type de contenu, les droits.
+
+217
+00:18:34,880 --> 00:18:37,140
+On peut aussi accéder, 
+directement en bas,
+
+218
+00:18:37,360 --> 00:18:39,900
+sur la page du jeux de donnée
+du GBIF.
+
+219
+00:18:40,540 --> 00:18:47,820
+Enfin, en cliquant sur ce lien,
+on peux accéder à la page de résultats
+
+220
+00:18:47,820 --> 00:18:49,820
+que je vous ai montré précédemment.
+
+221
+00:18:49,820 --> 00:18:52,140
+Ce qui est intéressant,
+c'est de voir que chaque portail
+
+222
+00:18:52,180 --> 00:18:56,400
+ont des liens entre eux, entre les
+différents outils.
+
+223
+00:18:56,680 --> 00:19:00,740
+Là, si le nombre n'est pas identique
+à celui du GBIF international,
+
+224
+00:19:00,820 --> 00:19:02,820
+c'est que l'indexation est différente
+
+225
+00:19:03,140 --> 00:19:07,020
+il y a peut-être certains éléments 
+qui n'ont pas été indexé pour diverse raisons
+
+226
+00:19:07,160 --> 00:19:12,280
+mais on est en train de travailler 
+sur ça avec ALA.
+
+227
+00:19:12,700 --> 00:19:18,280
+Il y a aussi un module statistique
+où on peut voir les différents schémas,
+
+228
+00:19:18,600 --> 00:19:23,180
+où il y a des statistiques sur 
+la taxonomie ou la classe, etc.
+
+229
+00:19:23,300 --> 00:19:27,740
+Là il n'y en a qu'un seul mais vous
+pouvez aussi avoir des statistiques
+
+230
+00:19:27,820 --> 00:19:31,100
+sur les erreurs qui sont sur le jeux, etc.
+
+231
+00:19:31,300 --> 00:19:34,680
+C'est assez complet et très intéressant.
+
+232
+00:19:35,880 --> 00:19:39,680
+On peut aussi allez sur le page de l'institution
+qui est globalement la même page
+
+233
+00:19:39,780 --> 00:19:44,180
+que la page du jeux de données
+
+234
+00:19:44,280 --> 00:19:48,660
+sachant que toutes les descriptions,
+on les a récupéré au GBIF.org
+
+235
+00:19:48,680 --> 00:19:52,320
+et on vous invite, si vous voulez
+une description différente,
+
+236
+00:19:52,340 --> 00:19:55,780
+ou même une description en français,
+à nous envoyer votre description
+
+237
+00:19:55,780 --> 00:19:58,480
+que l'on changera sans problème.
+
+238
+00:19:59,380 --> 00:20:05,480
+On a la même chose : description, la situation
+géographique, les contacts,
+
+239
+00:20:05,560 --> 00:20:08,620
+la liste des collections lié à cette institution ;
+
+240
+00:20:08,640 --> 00:20:12,320
+pour l'instant, nous n'avons que les collections
+lié à cette institution mais, dans le futur,
+
+241
+00:20:12,320 --> 00:20:15,720
+on aura aussi la liste des jeux de données ;
+comme ça, les institutions qui ont des jeux de données
+
+242
+00:20:15,820 --> 00:20:20,400
+d'occurrence auront la liste de tout leur
+jeux de données.
+
+243
+00:20:21,600 --> 00:20:27,800
+Ici, on peut accéder au titre de l'institution
+et à la page du GBIF.org.
+
+244
+00:20:28,420 --> 00:20:38,100
+Maintenant, je vais passer à la 2ème partie :
+le portail de collection
+
+245
+00:20:39,900 --> 00:20:44,540
+Le portail de collection se présente comme suit.
+
+246
+00:20:44,660 --> 00:20:47,420
+Ici, vous avez la liste de tous les filtres.
+
+247
+00:20:47,540 --> 00:20:51,740
+Si vous faite un filtre, par exemple,
+vous ne voulez affichez que les collections
+
+248
+00:20:51,840 --> 00:20:58,620
+sur la Faune, vous allez avoir l'emplacement
+physique des collections sur la carte
+
+249
+00:20:58,900 --> 00:21:05,640
+ou sur les champignons,
+là, par exemple, vous en avez un seul.
+
+250
+00:21:05,740 --> 00:21:08,380
+Après vous avez la liste.
+
+251
+00:21:08,480 --> 00:21:12,120
+Si vous allez sur tous les collections,
+vous aurez la liste complète
+
+252
+00:21:12,120 --> 00:21:13,940
+des institutions et des collections,
+
+253
+00:21:14,020 --> 00:21:18,220
+ici, il y a une icône de la France barré
+cela veut dire que l'institution
+
+254
+00:21:18,220 --> 00:21:22,800
+ou la collection n'est pas géo-localisé.
+
+255
+00:21:24,040 --> 00:21:30,400
+Je vais vous montrer rapidement, 
+une page d'une collection
+
+256
+00:21:30,460 --> 00:21:33,820
+et comme les jeux de donnée,
+c'est le même concept :
+
+257
+00:21:33,820 --> 00:21:39,680
+il y a la description, le nombre de spécimen,
+le nombre de spécimen qui sont connectés,
+
+258
+00:21:39,800 --> 00:21:43,880
+en haut, vous pouvez accéder directement
+aux occurrences avec
+
+259
+00:21:43,880 --> 00:21:47,320
+la situation géographique, les contacts,
+etc.
+
+260
+00:21:49,080 --> 00:21:54,760
+Je vais passez rapidement sur ça,
+je vous invite à le découvrir,
+
+261
+00:21:55,460 --> 00:21:57,780
+à nous faire des retours 
+positif ou négatif
+
+262
+00:21:57,780 --> 00:22:01,400
+l'idée, c'est de faire un outil
+qui s'améliore avec le temps
+
+263
+00:22:01,860 --> 00:22:08,080
+donc on vous offre cet outil
+mais c'est vous qui l'utiliserai
+
+264
+00:22:08,080 --> 00:22:12,480
+donc vos retours qui seront important
+et intéressants pour nous.
+
+265
+00:22:14,820 --> 00:22:19,620
+Enfin, la 3ème partie de la partie occurrence :
+
+266
+00:22:19,720 --> 00:22:23,860
+C'est la recherche des jeux de données
+
+267
+00:22:23,920 --> 00:22:28,660
+Là vous avez une liste de tous les jeux de données
+avec différentes informations
+
+268
+00:22:30,680 --> 00:22:33,180
+vous pouvez voir la formation,
+
+269
+00:22:33,460 --> 00:22:39,180
+ce qui est inclus, le type : 
+enregistrement ou photo ou spécimen
+
+270
+00:22:39,320 --> 00:22:43,660
+la licence : ici c'est haute
+car on ne l'a pas encore mis à jour
+
+271
+00:22:43,820 --> 00:22:46,580
+toutes les licences ; 
+et la version de la licence.
+
+272
+00:22:48,220 --> 00:22:54,120
+Il y a actuellement 144 jeux de données
+
+273
+00:22:54,140 --> 00:22:59,000
+pour l'instant, on a un affichage de 20 par page
+mais vous pouvez tous les afficher d'un coup,
+
+274
+00:22:59,060 --> 00:23:03,460
+vous pouvez les trier par nom,
+par type ou par licence
+
+275
+00:23:03,460 --> 00:23:07,700
+faire un tri ascendant ou descendant,
+vous pouvez télécharger des informations
+
+276
+00:23:07,760 --> 00:23:11,720
+tel que le nom du jeux de données,
+le type de jeux de données, la licence
+
+277
+00:23:11,760 --> 00:23:15,980
+le contact principal, etc.
+
+278
+00:23:16,300 --> 00:23:20,860
+On peut faire une recherche
+directement, en filtrant,
+
+279
+00:23:27,380 --> 00:23:31,420
+On aura ici la collection des fossiles
+du MNHN.
+
+280
+00:23:31,700 --> 00:23:36,700
+en supprimant en utilisant la croix,
+on retourne avec la recherche sans filtre.
+
+281
+00:23:37,320 --> 00:23:41,220
+Je pense que j'ai fait le tour,
+
+282
+00:23:41,400 --> 00:23:46,440
+on peut faire différents tri, on peut récupérer 
+tous les jeux d'une institution
+
+283
+00:23:48,040 --> 00:23:50,040
+Donc voilà pour cette partie.
+
+284
+00:23:54,240 --> 00:23:56,960
+Je vais passez à la dernière étape :
+
+285
+00:23:57,000 --> 00:23:59,000
+le portail spatial.
+
+286
+00:23:59,120 --> 00:24:02,600
+Il faut savoir que le portail spatial,
+hormis l'Australie, il n'y a que deux pays
+
+287
+00:24:02,760 --> 00:24:06,520
+qu'il l'ont installé : l'Ecosse mais il
+a été installé par Dave Martin,
+
+288
+00:24:06,940 --> 00:24:13,160
+l'ancien node manager de l'Australie ;
+et la France.
+
+289
+00:24:13,920 --> 00:24:21,780
+On a un peu récolté toutes les erreurs,
+c'est une grosse machine
+
+290
+00:24:21,900 --> 00:24:25,260
+il y a beaucoup d'outils derrière
+nous ne sommes que deux (informaticiens),
+
+291
+00:24:25,460 --> 00:24:30,800
+et donc cela peut mettre un peu de temps
+pour faire les processus : c'est des gros processus
+
+292
+00:24:30,800 --> 00:24:33,480
+donc il faut être un peu patient.
+
+293
+00:24:35,040 --> 00:24:41,520
+Pour l'instant, c'est la version 1.0 du portail
+donc on a pas mis en place tous les outils,
+
+294
+00:24:41,880 --> 00:24:45,680
+mais ils seront rajoutés au fur et à mesure,
+par exemple, pour l'instant,
+
+295
+00:24:45,680 --> 00:24:49,960
+on ne peut utiliser que les couches contextuelles
+et pas encore des couches environnementales.
+
+296
+00:24:50,280 --> 00:24:57,380
+Mais dans le futur, on pourra utiliser les outils 
+qui utilisent les couches environnementales :
+
+297
+00:24:57,440 --> 00:25:00,880
+tel que la température, la pluie, etc.
+
+298
+00:25:02,400 --> 00:25:09,340
+Je vais commencer par juste ajouter 
+à ma carte des espèces.
+
+299
+00:25:09,820 --> 00:25:13,200
+Le 1er point, c'est que l’on n’a pas mis
+en place, comme je vous l'ai dit,
+
+300
+00:25:13,200 --> 00:25:17,560
+le moteur d'espèce, et donc  nous ne pouvons 
+pas faire de recherche sur une espèce
+
+301
+00:25:17,620 --> 00:25:21,560
+les seules espèces qui va trouver, c'est
+celles qui sont dans les enregistrements
+
+302
+00:25:22,520 --> 00:25:29,300
+il est obligatoire de cliquer sur cet outil.
+
+303
+00:25:29,920 --> 00:25:34,340
+Par exemple, si je recherche 
+le renard
+
+304
+00:25:41,120 --> 00:25:46,820
+donc là, vous allez voir qu'on a plus
+de 20 000 occurrences du renard
+
+305
+00:25:46,820 --> 00:25:49,940
+sachant que toutes les données
+ne sont pas encore intégré au portail
+
+306
+00:25:50,160 --> 00:25:55,480
+car c'est un processus très lent pour 
+tout ce qui est sampling
+
+307
+00:25:55,540 --> 00:25:58,580
+pour l'instant, nous avons aux alentours
+de
+
+308
+00:26:01,740 --> 00:26:04,280
+10 millions de données 
+qui sont référencés.
+
+309
+00:26:09,180 --> 00:26:14,580
+Là on peut choisir de restreindre
+la recherche au monde, à la France ou
+
+310
+00:26:14,840 --> 00:26:17,980
+à juste ce qu'on appelle 
+l'occurrence externe
+
+311
+00:26:17,980 --> 00:26:20,420
+c'est à dire ce que vous voyez actuellement.
+
+312
+00:26:21,100 --> 00:26:23,360
+On va faire à la France.
+
+313
+00:26:27,400 --> 00:26:31,980
+Et donc là, vous avez visualisé
+toutes les occurrences
+
+314
+00:26:31,980 --> 00:26:34,040
+du renard, en France.
+
+315
+00:26:35,580 --> 00:26:40,340
+Vous avez la possibilité d'utiliser la légende :
+vous pouvez changer la couleur
+
+316
+00:26:40,720 --> 00:26:44,300
+vous pouvez changer l'opacité,  la taille
+
+317
+00:26:48,000 --> 00:26:52,580
+vous pouvez trier par différent point
+là par exemple, on va trier par jeux de donnée
+
+318
+00:26:53,240 --> 00:26:59,260
+là vous aurez les occurrences affichés
+par type de jeux de données ;
+
+319
+00:27:04,300 --> 00:27:08,700
+vous pouvez affichez la densité
+
+320
+00:27:08,840 --> 00:27:13,920
+c'est différents outils que je vous invite
+à prendre en mains, à tester etc.
+
+321
+00:27:15,360 --> 00:27:21,080
+Après, il est possible de 
+télécharger la carte
+
+322
+00:27:21,660 --> 00:27:27,100
+c'est la même chose : 
+on a un fichier download
+
+323
+00:27:31,260 --> 00:27:33,260
+et donc là, vous avez la carte affichée.
+
+324
+00:27:42,620 --> 00:27:45,720
+Ce qu'on peut faire aussi,
+c'est supprimer la carte,
+
+325
+00:27:47,400 --> 00:27:51,700
+si vous avez plusieurs couches
+vous pouvez toutes les afficher
+
+326
+00:27:51,700 --> 00:27:53,280
+toutes les supprimer, etc.
+
+327
+00:27:53,520 --> 00:27:57,080
+Là, je vais supprimer la carte
+
+328
+00:27:57,360 --> 00:28:00,980
+et ajouter une carte par aire.
+
+329
+00:28:02,460 --> 00:28:09,600
+Je vais sélectionner une couche
+polygoniale
+
+330
+00:28:09,600 --> 00:28:11,680
+et vous voyez à présent les 4 couches.
+
+331
+00:28:11,680 --> 00:28:15,740
+Alors, on a eu des problèmes avec
+les accents, cela a été le gros
+
+332
+00:28:16,900 --> 00:28:24,500
+problème avec ALA : ça a était fait
+par une équipe anglaise
+
+333
+00:28:24,620 --> 00:28:27,780
+et qu'ils n'ont pas d'accent en anglais.
+
+334
+00:28:27,780 --> 00:28:30,460
+Donc on a eu beaucoup de soucis :
+que ce soit le portail français
+
+335
+00:28:30,460 --> 00:28:32,220
+ou le portail spatial avec les accents.
+
+336
+00:28:32,320 --> 00:28:34,740
+Sur le portail français, le problème
+est complètement réglé
+
+337
+00:28:35,220 --> 00:28:40,500
+mais comme je suis la première
+à avoir vraiment installé l'outil
+
+338
+00:28:40,660 --> 00:28:44,760
+c'est le genre de chose que 
+nous avons besoin de travailler,
+
+339
+00:28:44,860 --> 00:28:48,080
+mais c'est quelque chose qui sera
+améliorer très rapidement.
+
+340
+00:28:48,940 --> 00:28:51,300
+Là, je vais choisir les parcs nationaux,
+
+341
+00:28:54,100 --> 00:28:56,380
+et on a affiché tous les parcs nationaux.
+
+342
+00:28:56,880 --> 00:29:01,480
+Ce qu'on peut faire, c'est juste 
+sélectionner une aire
+
+343
+00:29:04,480 --> 00:29:08,560
+j'ai juste sélectionné une petite partie
+de la couche.
+
+344
+00:29:18,940 --> 00:29:22,640
+Sur cette couche, je peux intégrer 
+des informations
+
+345
+00:29:22,760 --> 00:29:25,440
+donc je peux intégrer des espèces par exemple.
+
+346
+00:29:26,320 --> 00:29:29,960
+Donc là, comme je vous l'ai dit,
+il faut cocher sur cette case,
+
+347
+00:29:31,500 --> 00:29:35,960
+et je vais intégrer un mollusque
+gastéropode.
+
+348
+00:30:14,420 --> 00:30:17,060
+Je suis obligé de choisir 
+(dans la liste déroulante)
+
+349
+00:30:17,120 --> 00:30:22,100
+parce que il faut une occurrence qui soit
+dans la partie.
+
+350
+00:30:44,620 --> 00:30:47,260
+Donc là, je choisi mon aire,
+
+351
+00:30:51,380 --> 00:30:55,340
+et si on clique sur ce petit bouton
+
+352
+00:30:57,340 --> 00:31:00,140
+on va zoomer sur mon aire,
+
+353
+00:31:00,140 --> 00:31:04,400
+donc vous pouvez voir qu'il y a 
+une occurrence , qu'on ne voit pas très bien
+
+354
+00:31:04,400 --> 00:31:06,740
+mais on peut changer la couleur 
+sans problème
+
+355
+00:31:06,920 --> 00:31:12,700
+j'ai changé la couleur derrière
+mais on peut aussi changer
+
+356
+00:31:13,060 --> 00:31:15,460
+la couleur et la taille (de l'occurrence).
+
+357
+00:31:16,200 --> 00:31:19,380
+On peut aussi télécharger la
+carte sans problème
+
+358
+00:31:21,740 --> 00:31:27,200
+Maintenant, ce que je vous ai expliqué,
+
+359
+00:31:30,880 --> 00:31:33,900
+par exemple, on ne peut afficher
+que deux couches
+
+360
+00:31:34,160 --> 00:31:38,340
+on peut afficher même qu'une seule
+couche, on peut toutes les sélectionner
+
+361
+00:31:38,700 --> 00:31:43,000
+on peut repartir sur quelque chose
+de plus large, etc.
+
+362
+00:31:45,020 --> 00:31:47,020
+Donc là je vais tout supprimer.
+
+363
+00:31:47,140 --> 00:31:49,920
+Maintenant, je vais vous parler
+des outils
+
+364
+00:31:49,920 --> 00:31:52,580
+je vais pas faire la démonstration
+de tous les outils car certains
+
+365
+00:31:52,580 --> 00:31:54,300
+qui peuvent prendre plus de temps
+que d'autre.
+
+366
+00:31:55,220 --> 00:32:01,680
+Ce qu'on appelle les area reports
+cela va être une liste de toutes les informations
+
+367
+00:32:02,160 --> 00:32:06,300
+sur une aire spécifiée.
+
+368
+00:32:07,100 --> 00:32:11,560
+Je vais vous montrer comment 
+on peut calculer
+
+369
+00:32:11,780 --> 00:32:18,060
+l'aire d'occupation et 
+l'aire étendue d'occupation
+
+370
+00:32:18,640 --> 00:32:21,500
+je vais mettre sur la France,
+
+371
+00:32:23,520 --> 00:32:28,260
+je vais utiliser une sous-espèce
+du renard, comme ça
+
+372
+00:32:28,860 --> 00:32:34,940
+vous verrez bien l'outil.
+
+373
+00:32:37,100 --> 00:32:40,580
+Donc là, je sélectionne une sous-espèce.
+
+374
+00:32:45,380 --> 00:32:52,160
+Là, ce que cela nous a chargé,
+c'est le récapitulatif de l'onglet qui s'est ouvert,
+
+375
+00:32:52,720 --> 00:32:58,160
+vous avez l'aire d'occupation qui fait
+64 Km carré
+
+376
+00:32:58,200 --> 00:33:05,520
+et l'étendue d'occupation qui fait
+un peu plus de 138 400 Km carré.
+
+377
+00:33:06,680 --> 00:33:08,680
+Et sur la carte,
+
+378
+00:33:14,320 --> 00:33:20,820
+vous pouvez voir l'aire étendue d'occupation
+et les petits points, sur chacun d'entre eux
+
+379
+00:33:20,960 --> 00:33:24,840
+vous allez avoir la liste de
+ toutes les espèces qui sont
+
+380
+00:33:24,980 --> 00:33:29,140
+au même endroit que l'espèce 
+que l'on a recherché, le renard ici.
+
+381
+00:33:37,720 --> 00:33:42,160
+Si vous cliquez, vous aurez toute la liste.
+
+382
+00:33:44,660 --> 00:33:50,100
+Sachant que si vous cliquez sur ce lien, 
+vous allez retomber la page occurrence
+
+383
+00:33:53,500 --> 00:33:55,940
+de l’occurrence.
+
+384
+00:33:56,260 --> 00:34:00,740
+Et si vous cliquez sur le lien au-dessous,
+vous allez tomber sur la page
+
+385
+00:34:00,980 --> 00:34:08,320
+de la liste de toutes les occurrences
+pour ce point.
+
+386
+00:34:09,940 --> 00:34:15,620
+C'est encore un lien vers le portail
+qui est quand même très intéressant.
+
+387
+00:34:16,940 --> 00:34:26,280
+Je vais maintenant passer à l'avant dernier
+outil que je vais vous présenter :
+
+388
+00:34:26,380 --> 00:34:29,460
+c'est le "Point to grid".
+
+389
+00:34:45,080 --> 00:34:50,660
+Donc là, je vais utiliser la mésange charbonnière.
+
+390
+00:35:03,900 --> 00:35:08,340
+Là, on peut choisir la
+taille de la grille souhaitée,
+
+391
+00:35:15,940 --> 00:35:19,700
+il nous dit que cela prend 3 minutes
+pour générer la carte,
+
+392
+00:35:19,880 --> 00:35:25,280
+si je clique sur "Next", cela va lancer l'outil.
+
+393
+00:35:25,420 --> 00:35:32,640
+Cela va afficher la grille sur la carte
+et cela va vous télécharger un fichier
+
+394
+00:35:32,760 --> 00:35:42,480
+où vous aurez le nom de l'espèce
+et tous les points géo-spatial de la carte.
+
+395
+00:35:42,800 --> 00:35:45,920
+Donc ici, sys.species.zip ???
+
+396
+00:35:46,520 --> 00:35:49,520
+Ce sera un fichier .csv avec 
+les longitudes et latitudes.
+
+397
+00:36:03,940 --> 00:36:11,140
+Enfin, on peut importer des listes d'espèces,
+mais il faut se connecter pour cela.
+
+398
+00:36:11,580 --> 00:36:17,980
+Pour se connecter, je vous invite à vous 
+connecter sur le site list.gbif.fr
+
+399
+00:36:18,140 --> 00:36:24,400
+où là, c'est juste des listes qui vous 
+permettront de faire vos calculs.
+
+400
+00:36:24,600 --> 00:36:28,360
+Et vous pouvez intégrer des aires
+mais je ne vais pas vous le montrer
+
+401
+00:36:28,380 --> 00:36:30,380
+car cela prendre un peu de temps.
+
+402
+00:36:31,040 --> 00:36:34,180
+Après, on peut exporter des cartes,
+comme je vous ai montrez,
+
+403
+00:36:34,280 --> 00:36:38,720
+on peut exporter des checklists mais 
+ce n'est pas forcément très intéressant
+
+404
+00:36:38,960 --> 00:36:44,920
+donc il est possible que l'outil soit retiré
+
+405
+00:36:45,000 --> 00:36:49,660
+parce que comme nous n'avons pas de 
+liste de moteur de recherche d'espèce
+
+406
+00:36:49,660 --> 00:36:55,940
+ce n'est pas forcément intéressant, et
+cela ne répondra pas à la demande.
+
+407
+00:36:56,060 --> 00:37:00,080
+Donc on a ce qu'on appelle 
+"Point sample" et "Aire".
+
+408
+00:37:00,300 --> 00:37:06,580
+En gros, je vais choisir la France
+
+409
+00:37:11,440 --> 00:37:17,200
+on est un peu en retard sur l'horaire,
+donc je vais vous laissez découvrir l'outil.
+
+410
+00:37:18,460 --> 00:37:23,400
+J'ai terminé de vous présenter les deux portails
+
+411
+00:37:25,220 --> 00:37:31,880
+nous attendons vos retours,
+c'est assez important pour nous.
+
+412
+00:37:33,660 --> 00:37:36,220
+Ceci conclut la démonstration.
+
+413
+00:37:36,360 --> 00:37:40,280
+Juste un dernier point assez rapide
+pour vous indiquer ce qu'on va améliorer :
+
+414
+00:37:40,460 --> 00:37:45,060
+- l'indexation : car on s'est aperçu que 
+certaines occurrences n'ont pas été indexés ;
+
+415
+00:37:45,340 --> 00:37:49,260
+- le lien entre les jeux de données,
+les collections, les institutions
+
+416
+00:37:49,260 --> 00:37:53,060
+ne fonctionnent pas tout le temps,
+car pour certaines jeux de données,
+
+417
+00:37:53,180 --> 00:37:57,320
+le collection code et l'institution code
+ne sont pas renseignés
+
+418
+00:37:57,460 --> 00:38:01,440
+car ce n'est plus obligatoire 
+depuis très récemment ;
+
+419
+00:38:01,520 --> 00:38:06,000
+- comme vous avez pu le voir
+le portail spatial n'est pas traduit
+
+420
+00:38:06,080 --> 00:38:08,080
+on va le mettre en place avec la communauté ;
+
+421
+00:38:08,780 --> 00:38:12,520
+- on va aussi mettre en place un outil
+qui permettra de stocker les images
+
+422
+00:38:12,680 --> 00:38:17,440
+parce que le GBIF, depuis très récemment,
+permet de faire visualiser les images
+
+423
+00:38:17,440 --> 00:38:20,460
+intégré au jeux de données 
+et nous, on a des jeux de données
+
+424
+00:38:20,600 --> 00:38:27,700
+que ce soit au Muséum, ou d'autre institutions
+qui ont des données dans leurs DarwinCore
+
+425
+00:38:27,740 --> 00:38:30,300
+l'idée, c'est aussi de les afficher sur le portail ;
+
+426
+00:38:30,640 --> 00:38:34,840
+- et d'ajouter différentes fonctionnalités
+sur le portail spatial ;
+
+427
+00:38:35,100 --> 00:38:38,900
+Maintenant, on va vous montrez, très rapidement,
+l'outil de formation.
+
+428
+00:38:39,300 --> 00:38:43,280
+Fabien Caviere : Je vais faire une 
+rapide démonstration en une minute et demi.
+
+429
+00:38:47,320 --> 00:38:55,960
+Vous avez une seule chose à savoir :
+l'adresse formation.gbif.fr
+
+430
+00:38:56,200 --> 00:38:59,580
+Vous tombez sur la page d'accueil,
+où il y a deux parties :
+
+431
+00:38:59,680 --> 00:39:02,380
+une partie pour se connecter 
+et une autre pour s'inscrire.
+
+432
+00:39:02,580 --> 00:39:07,740
+Vous avez aussi l'onglet "Parcourir les cours"
+en haut à droite, qui vous permet  d'accéder aux cours.
+
+433
+00:39:10,060 --> 00:39:14,300
+Ils existent plusieurs types de cours :
+- ceux publics qui peuvent être accessible à tous ;
+
+434
+00:39:14,300 --> 00:39:16,420
+- les cours privés où une inscription est nécessaire
+
+435
+00:39:17,260 --> 00:39:21,160
+Ici, je suis sur la liste des cours,
+je choisis le premier cours,
+
+436
+00:39:21,420 --> 00:39:26,240
+qui est le cours sur la formation du CIRAD
+dont Anne-Sophie Archambeau vous a parlé plus tôt.
+
+437
+00:39:26,780 --> 00:39:30,600
+Nous avons une table des matières en haut de la page,
+
+438
+00:39:30,660 --> 00:39:33,160
+que nous retrouvons dans le menu de gauche,
+
+439
+00:39:33,280 --> 00:39:36,880
+qui vous permet d’accéder 
+à toute les pages du cours.
+
+440
+00:39:37,600 --> 00:39:40,920
+Ici, par exemple, nous avons le programme
+complet de la formation,
+
+441
+00:39:41,020 --> 00:39:43,920
+avec les liens vers les différents documents.
+
+442
+00:39:45,220 --> 00:39:49,040
+A noter que l'on peut également naviguer,
+grâce aux flèches de navigation
+
+443
+00:39:49,140 --> 00:39:52,040
+situés en haut à droite de la page,
+entre les pages du cours ;
+
+444
+00:39:52,340 --> 00:39:56,020
+j'arrive à la dernière partie de ce cours :
+le contenu de la formation
+
+445
+00:39:56,020 --> 00:39:58,760
+avec les contenus multimédias :
+
+446
+00:39:59,500 --> 00:40:01,500
+qui sont les formations qui ont été filmés.
+
+447
+00:40:01,680 --> 00:40:05,080
+Petit aparté : cette journée est également filmée
+et les vidéos seront disponible
+
+448
+00:40:05,080 --> 00:40:07,860
+sur formation.gbif.fr dans un futur assez proche.
+
+449
+00:40:08,000 --> 00:40:11,500
+Chaque vidéo d'une présentation 
+est accompagnée des diapositives
+
+450
+00:40:11,540 --> 00:40:15,400
+les deux éléments sont mis côte-à-côte 
+pour que vous puisez les visualisez en même temps.
+
+451
+00:40:15,520 --> 00:40:21,040
+Sur ce, je repasse la parole à Marie-Elise Lecoq
+qui va clôturer cette présentation.
+
+452
+00:40:22,300 --> 00:40:25,380
+Donc je vais conclure très rapidement :
+
+453
+00:40:29,160 --> 00:40:32,220
+Je voulais juste dire quelque chose :
+
+454
+00:40:32,300 --> 00:40:35,560
+la plupart de nos outils ont 
+une communauté internationale
+
+455
+00:40:35,700 --> 00:40:38,860
+et c'est très intéressant :
+par exemple,  le site de formation utilise
+
+456
+00:40:39,040 --> 00:40:42,120
+l'outil ATutor qui a été mis en place
+en Espagne (par le GBIF Spain)
+
+457
+00:40:42,120 --> 00:40:44,740
+et c'est via l'Espagne que 
+nous l'avons mis en place.
+
+458
+00:40:45,260 --> 00:40:50,360
+L'IPT a été développé par le GBIF.org, 
+le GBIF secrétariat
+
+459
+00:40:50,360 --> 00:40:54,040
+et enfin, le portail par ALA.
+
+460
+00:40:54,500 --> 00:40:56,480
+Je vais maintenant faire la conclusion
+
+461
+00:40:56,500 --> 00:40:59,740
+en parlant au nom de 
+l'équipe informatique du GBIF France.
+
+462
+00:41:00,000 --> 00:41:02,140
+On voudrait remercier certaines personnes
+en particulier :
+
+463
+00:41:02,140 --> 00:41:04,100
+d'abord l'équipe du GBIF France  :
+
+464
+00:41:04,460 --> 00:41:09,580
+Sophie Pamerlon car elle m'a aidé, répondu
+à toutes mes questions, etc.
+
+465
+00:41:09,820 --> 00:41:14,780
+Anne-Sophie Archambeau, Régine Lebbe-Vigne
+et Eric Chenin car depuis le début,
+
+466
+00:41:15,060 --> 00:41:19,500
+ils nous ont fait confiance de A à Z
+et en tant qu'informaticienne,
+
+467
+00:41:19,620 --> 00:41:21,620
+en tant qu'employés, c'est vraiment très agréable.
+
+468
+00:41:22,300 --> 00:41:25,560
+Je voudrais aussi remercier aussi
+Dave Martin et l'équipe d'ALA
+
+469
+00:41:25,740 --> 00:41:30,280
+car eux aussi, ont répondu à mes centaines
+de questions, et très rapidement,
+
+470
+00:41:30,480 --> 00:41:36,160
+même maintenant, Dave Martin qui est en congé
+paternité a répondu à mes questions
+
+471
+00:41:36,160 --> 00:41:39,260
+c'est assez impressionnant.
+
+472
+00:41:39,320 --> 00:41:44,860
+Tim Robbertson, le CTO (Chief Technologie Officer) 
+du GBIF secrétariat
+
+473
+00:41:44,900 --> 00:41:48,380
+et toute l'équipe du GBIF secrétariat qui ont,
+eux aussi, poussé le projet
+
+474
+00:41:48,380 --> 00:41:49,860
+pour que cette communauté existe.
+
+475
+00:41:50,060 --> 00:41:54,820
+Cyrille Toulet et l'équipe de France Grille,
+car toutes nos machine virtuelle
+
+476
+00:41:54,920 --> 00:41:59,720
+sont hébergés chez France Grille,
+et ils ont été là aussi,
+
+477
+00:41:59,900 --> 00:42:05,560
+présent pour répondre à toutes nos questions,
+à toutes nos interrogations,
+
+478
+00:42:05,660 --> 00:42:07,860
+et surtout à toutes nos demandes
+un peu bizarre.
+
+479
+00:42:08,080 --> 00:42:11,740
+Et enfin, je voulais aussi remercier
+Adeline Kerner, Arthur Gautier & Mélanie Hachet
+
+480
+00:42:11,780 --> 00:42:17,780
+pour nous avoir aidé dans les tests,
+car on est qu'une équipe de six personnes,
+
+481
+00:42:17,940 --> 00:42:22,160
+et on ne peut pas tout faire, 
+on a trop le nez dans le guidon pour les tests
+
+482
+00:42:22,160 --> 00:42:26,560
+donc c'est des personnes extérieures qui 
+nous ont aidés pour les tests et le développement.
+
+483
+00:42:26,980 --> 00:42:33,120
+Je vous remercie pour votre attention
+et j'espère que vous allez tester ces quatre outils
+
+484
+00:42:33,240 --> 00:42:37,160
+que nous avons mis à votre disposition.
+Merci beaucoup.
+

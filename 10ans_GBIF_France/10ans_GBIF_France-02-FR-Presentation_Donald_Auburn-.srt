@@ -1,0 +1,957 @@
+1
+00:00:00,440 --> 00:00:03,500
+Donald Auburn : C'est un grand plaisir d'être ici aujourd'hui
+
+2
+00:00:03,800 --> 00:00:12,340
+La France a toujours été l'un des participants de la clé du GBIF
+
+3
+00:00:12,560 --> 00:00:19,540
+un contributeur important à chaque partie de notre travail et je suis très excité
+
+4
+00:00:19,740 --> 00:00:27,220
+d'être ici aujourd'hui et de voir tant de monde ici pour célébrer 10 ans de GBIF en France.
+
+5
+00:00:27,660 --> 00:00:35,880
+Cette présentation traitera de quelques sujets. Il y a beaucoup d'autres choses qui pourraient être mentionnées et je crois
+
+6
+00:00:36,080 --> 00:00:41,700
+beaucoup d'entre eux seront abordé à différents moments plus tard dans la journée.
+
+7
+00:00:42,860 --> 00:00:48,780
+Donc, GBIF est un partenariat international intergouvernemental
+
+8
+00:00:49,440 --> 00:00:54,960
+dont le but est de mobiliser l'information sur la biodiversité pour le plus grand nombre possible
+
+9
+00:00:55,060 --> 00:01:00,440
+principalement pour la recherche, mais ultimement, au travers de la recherche,
+
+10
+00:01:00,760 --> 00:01:08,320
+pour soutenir le développement durable et d'autres décisions clés autour de l'environnement.
+
+11
+00:01:09,060 --> 00:01:18,900
+Le GBIF a un nombre croissant de participants nationaux et, comme je l'ai mentionné
+
+12
+00:01:19,440 --> 00:01:23,980
+la France a été dans le GBIF dès le début et est un contributeur clé
+
+13
+00:01:24,760 --> 00:01:34,120
+dans la mission d'engagement avec d'autres Pays en particulier les pays francophones en Afrique et ailleurs.
+
+14
+00:01:36,860 --> 00:01:44,660
+Après 15 ans d'existence du GBIF en tant qu'activité collaborative internationale
+
+15
+00:01:45,220 --> 00:01:49,320
+on peut constater qu'un nombre significatif de
+
+16
+00:01:49,380 --> 00:01:55,000
+enregistrements de données ont été mobilisés, mais peut-être encore plus clairement, nous pouvons voir que, ensemble,
+
+17
+00:01:55,280 --> 00:01:57,820
+nous avons encore beaucoup à faire encore.
+
+18
+00:01:58,780 --> 00:02:07,560
+Si nous pensons à l'Europe de l'Ouest, à l'Amérique du Nord, à des régions d'Amérique latine, d'Afrique du Sud et d'Australie,
+
+19
+00:02:08,180 --> 00:02:13,560
+les volumes de données et le nombre d'espèces représentées dans ces ensembles de données
+
+20
+00:02:14,200 --> 00:02:18,920
+est déjà très important et un résultat majeur pour
+
+21
+00:02:19,920 --> 00:02:23,820
+de nombreuses institutions, de nombreuses agences et
+
+22
+00:02:24,340 --> 00:02:33,340
+de nombreux groupes publics qui partagent leurs données et nous aide à dresser une image plus complète.
+
+23
+00:02:34,280 --> 00:02:40,660
+Mais dans une grande partie de l'Europe de l'Est et de l'Asie, de l'Afrique du Nord et du Moyen-Orient en particulier,
+
+24
+00:02:41,280 --> 00:02:43,700
+et pour plusieurs parties des océans,
+
+25
+00:02:43,880 --> 00:02:47,160
+les lacunes sont encore très importantes.
+
+26
+00:02:48,000 --> 00:02:51,520
+Néanmoins, ce que nous voyons année après année est
+
+27
+00:02:52,140 --> 00:03:01,160
+que le GBIF est un outil de plus en plus important pour les chercheurs dans un large éventail de domaines.
+
+28
+00:03:01,340 --> 00:03:07,860
+Ceux qui étudient des espèces particulières ou des groupes taxonomiques particuliers
+
+29
+00:03:08,420 --> 00:03:14,880
+comme source d'information sur les spécimens détenus dans les collections mondiales
+
+30
+00:03:15,260 --> 00:03:19,780
+et d'autres données enregistrées sur la répartition de ces espèces.
+
+31
+00:03:20,440 --> 00:03:28,520
+Mais aussi pour beaucoup d'autres qui essayent d'appliquer des modèles certifié authentique de biodiversité
+
+32
+00:03:28,900 --> 00:03:35,160
+dans le cadre de leurs décisions concernant l'agro-biodiversité, la santé humaine
+
+33
+00:03:35,740 --> 00:03:40,740
+aménagement du territoire et des réponses au changement climatique.
+
+34
+00:03:43,320 --> 00:03:50,420
+J'ai fait ce qui est certainement une liste très partielle de certaines des nombreuses façons significatives dans lesquelles
+
+35
+00:03:50,820 --> 00:03:57,960
+la France a été l'un des principaux collaborateurs de cette activité.
+
+36
+00:03:58,320 --> 00:04:04,640
+La France a été un contributeur stable et significative au GBIF,
+
+37
+00:04:05,160 --> 00:04:13,700
+financièrement et par les structures gouvernementales. Un très grand nombre de points de données ont été mobilisés
+
+38
+00:04:14,220 --> 00:04:21,460
+par les institutions françaises, un soutien a été accordé à d'autres pays dans l'hébergement de leurs données
+
+39
+00:04:21,840 --> 00:04:29,940
+grâce à l'infrastructure physique, mais aussi une énorme activité a été menée par la France
+
+40
+00:04:30,600 --> 00:04:36,520
+en soutenant le développement de capacités et de compétences,
+
+41
+00:04:36,980 --> 00:04:39,920
+pas seulement dans ce pays, mais dans le monde entier.
+
+42
+00:04:40,220 --> 00:04:46,900
+La France a été l'un de nos contributeurs les plus réguliers aux activités de mentorat
+
+43
+00:04:47,640 --> 00:04:53,040
+le développement d'installations d'information sur la biodiversité dans d'autres parties du monde,
+
+44
+00:04:53,360 --> 00:05:00,300
+cela a été fait grâce au financement du programme Sud Expert Plants
+
+45
+00:05:01,200 --> 00:05:11,680
+cela a introduit une activité significative et a renforcé le GBIF en tant qu'activité internationale
+
+46
+00:05:12,260 --> 00:05:21,640
+en fournissant une grande partie de l'assistance pour la traduction de ressources matérielles d'information en matière de formation en français.
+
+47
+00:05:22,080 --> 00:05:30,380
+Et, dans cette salle, Anne-Sophie et Philippe GrandColas sont deux des membres de
+
+48
+00:05:31,020 --> 00:05:35,740
+nos membres actifs dans notre comité et nos structures de gouvernance
+
+49
+00:05:35,860 --> 00:05:47,480
+et d'autres ont été très actifs dans les groupes de travail et ont contribués de manière significative aux idées qui sous-tendent le GBIF.
+
+50
+00:05:48,940 --> 00:05:53,360
+Comme pour tous nos participants, le résultat est que
+
+51
+00:05:54,060 --> 00:06:00,240
+le travail qui a été porté ici au Musée et à travers vos agences et universités
+
+52
+00:06:00,420 --> 00:06:05,700
+et d'autres collections et groupes publics partout dans la France ont aidé
+
+53
+00:06:06,160 --> 00:06:12,740
+a contribuer à l'image globale de nombreux types de biodiversité de nombreux pays.
+
+54
+00:06:14,800 --> 00:06:19,300
+Je voulais donc revenir sur
+
+55
+00:06:19,520 --> 00:06:25,500
+juste à partir de certaines des choses dont nous parlerons aujourd'hui, juste pour dire quelques éléments sur l'image globale
+
+56
+00:06:25,840 --> 00:06:29,840
+et ce que je pense que nous essayons tous de faire ensemble ;
+
+57
+00:06:30,260 --> 00:06:36,620
+certains des développements les plus récents dans les outils, les services et les processus
+
+58
+00:06:36,980 --> 00:06:43,400
+que le GFIF a soutenu et je pense que c'est là où nous devrions essayer d'aller dans les cinq prochaines années.
+
+59
+00:06:44,000 --> 00:06:50,240
+Tout d'abord, juste pour résumer de mon point de vue ce que je pense que le GBIF est,
+
+60
+00:06:50,240 --> 00:06:54,380
+Je pense que le GBIF a trois rôle généraux
+
+61
+00:06:54,920 --> 00:06:59,280
+le premier, et celui qui sous-tend tout le reste,
+
+62
+00:06:59,820 --> 00:07:06,300
+est de supprimer les obstacles à la collaboration, au partage et à l'utilisation des données sur la biodiversité.
+
+63
+00:07:07,340 --> 00:07:08,740
+Partout dans le monde,
+
+64
+00:07:08,820 --> 00:07:14,780
+les chercheurs, le gouvernement, les agents et d'autres cherchent à accéder et à maintenir
+
+65
+00:07:15,060 --> 00:07:20,900
+des informations relatives à la biodiversité et qui les aide dans leur travail ou leurs études.
+
+66
+00:07:22,320 --> 00:07:30,020
+Et pourtant, il est très difficile pour eux de bénéficier de la connaissance, de l'expertise, des données collectées dans d'autres endroits.
+
+67
+00:07:30,560 --> 00:07:37,820
+Et plus que tout autre chose, et à toutes les échelles des institutions à travers les pays au niveau mondial,
+
+68
+00:07:38,200 --> 00:07:42,180
+notre travail consiste à essayer de s'assurer que cette information circule librement
+
+69
+00:07:42,900 --> 00:07:48,620
+et que les obstacles qui empêchent les individus d'accéder et de comprendre,
+
+70
+00:07:49,100 --> 00:07:53,920
+les limitations et le prix pour cette information sont supprimées.
+
+71
+00:07:54,640 --> 00:08:04,840
+L'amélioration de la capacité, la formation et les améliorations de base aux outils et logiciels sous-jacents sont essentiels.
+
+72
+00:08:05,960 --> 00:08:14,040
+Deuxièmement, et la raison pour laquelle je pense que la plupart des gens connaissent actuellement le GBIF,
+
+73
+00:08:14,700 --> 00:08:22,300
+est une base de preuves organisée pour leur apparition récente d'espèces dans le temps et dans l'espace.
+
+74
+00:08:23,440 --> 00:08:30,660
+C'est un rôle important pour essayer de veiller à ce que quel que soit le degré d'information que nous avons
+
+75
+00:08:31,300 --> 00:08:38,600
+qui nous aide à comprendre où les espèces ont été échantillonné dans le passé, où elles sont échantillonné maintenant,
+
+76
+00:08:39,660 --> 00:08:46,340
+et cela peut être réuni ensemble, que cela provienne de la littérature, des collections, du travail moléculaire,
+
+77
+00:08:46,660 --> 00:08:49,920
+ou bien en fin de compte de science citoyenne.
+
+78
+00:08:50,500 --> 00:08:55,420
+Toutes ces sources sont des sources, toutes avec leurs propres bases, toutes avec leurs propres faiblesses
+
+79
+00:08:55,900 --> 00:09:00,020
+mais nous sommes ensemble, ils peuvent nous aider à comprendre ces modèles critiques.
+
+80
+00:09:00,900 --> 00:09:07,080
+Et l'exploit marquant du GBIF a ce jour a été de mettre tout cela en commun
+
+81
+00:09:07,280 --> 00:09:16,420
+et de créer un jeu de données d'environ 650 millions d'observations de spécimens que nous voyons aujourd'hui.
+
+82
+00:09:17,620 --> 00:09:19,960
+Mais troisièmement et dans mon esprit
+
+83
+00:09:20,020 --> 00:09:30,440
+Il y a encore quelque chose, une tâche incomplète, mais venant du GBIF a été mis sur pied
+
+84
+00:09:30,800 --> 00:09:39,180
+un système pour aider les collections d'histoire naturelle à travailler ensemble pour fournir la plate-forme qui prend en charge la gestion de la collecte
+
+85
+00:09:39,660 --> 00:09:44,480
+et la recherche taxonomique pour le 21ème siècle et au-delà.
+
+86
+00:09:45,420 --> 00:09:49,460
+Ma vision ici est que nous avançons plus loin que
+
+87
+00:09:49,920 --> 00:09:55,440
+la caractérisation des spécimens par les lieux d'espèces et les dates
+
+88
+00:09:56,100 --> 00:10:00,140
+et essayez d'apporter l'information plus riche qui est
+
+89
+00:10:00,600 --> 00:10:09,980
+numérisé et géré par de nombreuses collections, y compris des images incluant des liens vers des séquences et des échantillons de tissus, etc.
+
+90
+00:10:10,780 --> 00:10:18,040
+Pour faire, ceci d'une manière qui facilite un chercheur taxonomique ou quelqu'un d'autre partout dans le monde
+
+91
+00:10:18,500 --> 00:10:24,460
+être en mesure de trouver ces matériaux et pouvoir interagir avec eux autant que possible
+
+92
+00:10:24,960 --> 00:10:31,500
+comme ils le feraient s'ils étaient dans l'institution concernée ; il y aura des limites à cela mais
+
+93
+00:10:31,620 --> 00:10:40,620
+Je crois qu'une infrastructure mondiale pour la biodiversité et les données de collecte devrait se concentrer sur la façon dont nous l'atteignons plus efficace.
+
+94
+00:10:43,160 --> 00:10:47,840
+Et tourner cela autour du paysage intergouvernemental
+
+95
+00:10:48,540 --> 00:10:53,800
+le GBIF joue un rôle essentiel dans le fondement
+
+96
+00:10:54,100 --> 00:10:58,020
+d'une partie du travail de la diversité biologique conventionnelle
+
+97
+00:10:58,760 --> 00:11:02,740
+ipbes et Group on Earth Observations (GEO)
+
+98
+00:11:03,360 --> 00:11:10,820
+comme une série de couches empilées essayant de soutenir l'activité gouvernementale à l'échelle mondiale
+
+99
+00:11:11,200 --> 00:11:19,320
+et à travers cela, cela a donné le type de résultat vu dans les objectifs de l'UE et les objectifs de développement durable.
+
+100
+00:11:19,640 --> 00:11:28,380
+Le GBIF est la source mondiale pour rassembler
+
+101
+00:11:28,680 --> 00:11:34,680
+des données provenant de tout son réseau qui peuvent soutenir la modélisation, les modèles de biodiversité
+
+102
+00:11:35,160 --> 00:11:42,980
+et fournissent donc des preuves véritables pour étayer des évaluations justes de la biodiversité et les engagements en matière de biodiversité.
+
+103
+00:11:44,680 --> 00:11:49,880
+Donc, quelques éléments ont été des progrès relativement récents dans notre réseau:
+
+104
+00:11:50,280 --> 00:11:57,260
+certains d'entre eux sont incroyablement ennuyeux mais sont en fait beaucoup plus importants
+
+105
+00:11:57,660 --> 00:12:00,480
+Voici le plus ennuyeux  de tous : les licences pour les données
+
+106
+00:12:01,140 --> 00:12:09,420
+Au moment où le GBIF a été lancé il y a 15 ans, nous n'avions pas de licences creative commons,
+
+107
+00:12:09,560 --> 00:12:20,100
+nous nous sommes appuyés sur des accords de données très spécialisés avec des éditeurs de données individuels,
+
+108
+00:12:20,320 --> 00:12:26,980
+nous l'avions laissé ouvert pour que toute institution comprenne les termes qu'il croit nécessaires,
+
+109
+00:12:27,460 --> 00:12:34,440
+pour les utilisateurs de données et, finalement, cela a eu des problèmes importants.
+
+110
+00:12:34,560 --> 00:12:41,300
+Cela signifiait qu'un chercheur était techniquement obligé de lire de nombreuses quantités de métadonnées
+
+111
+00:12:41,660 --> 00:12:47,100
+pour décider si oui ou non il était autorisés à utiliser les données pour ce qu'il voulais faire.
+
+112
+00:12:47,460 --> 00:12:50,800
+Cela n'interagit pas bien avec le nombre de données que nous avons maintenant
+
+113
+00:12:51,140 --> 00:12:59,380
+et nous nous sommes concentrés sur le fait de garantir que chaque enregistrement de données, chaque ensemble de données dans le réseau GBIF
+
+114
+00:12:59,720 --> 00:13:05,280
+est associé à une licence de données aussi libre et ouverte que possible.
+
+115
+00:13:05,820 --> 00:13:11,560
+Je suis heureux de dire qu'après environ un an de travail avec nos publicateurs de données, nous sommes maintenant au stade où
+
+116
+00:13:11,880 --> 00:13:16,860
+90% des jeux de données ont en effet été associés à une licence numérique
+
+117
+00:13:17,260 --> 00:13:26,460
+et plus de 90% de ces ensembles de données sont associés maintenant aux licences qui nécessitent
+
+118
+00:13:26,900 --> 00:13:31,020
+l'attribution des données lorsque nous fournissons des mécanismes pour la rendre aussi simple que possible.
+
+119
+00:13:31,740 --> 00:13:38,120
+Ceci est ennuyeux mais c'est un signe d'un grand mouvement
+
+120
+00:13:38,760 --> 00:13:43,800
+Pour faire de ces données une partie d'un espace public de données où nous pouvons
+
+121
+00:13:44,080 --> 00:13:47,200
+discuter, améliorer et travailler sur elles ensemble.
+
+122
+00:13:47,700 --> 00:13:58,840
+Je pense que cette approche va vraiment faciliter beaucoup plus l'exploration et la manipulation de ces données.
+
+123
+00:14:00,000 --> 00:14:03,760
+Relié à cela, nous avons beaucoup travaillé pour faire en sorte que
+
+124
+00:14:04,260 --> 00:14:09,140
+nous augmentons la visibilité des efforts de tous ceux qui ont contribué.
+
+125
+00:14:09,700 --> 00:14:14,320
+Tous les jeux de données au sein de GBIF sont maintenant associés à un DOI (Digital Object iIentifier : identificateur d'objet numérique) et
+
+126
+00:14:14,320 --> 00:14:17,000
+chaque fois que quelqu'un télécharge les données du GBIF,
+
+127
+00:14:17,440 --> 00:14:24,740
+ils reçoivent un identifiant d'objet numérique pour ce téléchargement qui se connecte à toutes les sources des jeux de données.
+
+128
+00:14:24,920 --> 00:14:31,640
+À la suite de cela, nous disposons maintenant des outils pour que, si quelqu'un publie un document de recherche
+
+129
+00:14:31,980 --> 00:14:35,980
+basé sur les données dont ils ont eu l'accès via le réseau GFIF
+
+130
+00:14:36,420 --> 00:14:40,320
+ils ont juste à citer cet identifiant d'objet numérique
+
+131
+00:14:40,660 --> 00:14:45,120
+et nous pouvons commencer à établir les connexions avec tous les jeux de données
+
+132
+00:14:45,360 --> 00:14:51,380
+qui ont contribué à ce travail qui, je l'espère, aidera à exposer beaucoup plus clairement
+
+133
+00:14:51,840 --> 00:14:53,720
+la valeur de notre activité partagée.
+
+134
+00:14:55,940 --> 00:15:00,820
+Le GBIF, historiquement n'a porté que sur
+
+135
+00:15:01,760 --> 00:15:05,920
+les données de présence, la preuve qu'une espèce
+
+136
+00:15:06,060 --> 00:15:13,500
+a été enregistré à un lieu donné et les liens vers les propriétés supplémentaires de l'échantillon ou de l'observation.
+
+137
+00:15:14,660 --> 00:15:17,800
+Nous sommes maintenant en mesure d'intégrer
+
+138
+00:15:18,220 --> 00:15:25,720
+un sous-ensemble plus riche des données provenant de nombreuses activités d'échantillonnage de surveillance écologique
+
+139
+00:15:26,080 --> 00:15:33,300
+y compris des limites et des sciences où nous obtenons une meilleure mesure de
+
+140
+00:15:33,360 --> 00:15:43,200
+la méthodologie de la co-occurrence d'espèces et, dans la mesure du possible, l'abondance relative d'espèces dans ces échantillons.
+
+141
+00:15:44,400 --> 00:15:50,280
+C'est encore quelque chose pour lequel le GBIF débute.
+
+142
+00:15:51,140 --> 00:15:57,080
+et je ne m'attends pas à ce qu'il nous soit facile de regrouper toutes ces données ensemble
+
+143
+00:15:57,720 --> 00:16:05,040
+mais c'est d'une grande importance pour nous d'avoir l'accès intégré à ces types de propriétés
+
+144
+00:16:05,380 --> 00:16:10,620
+parce cela nous aide à étalonner la signification de toutes les autres données
+
+145
+00:16:11,100 --> 00:16:16,300
+en termes d'abondance d'espèces dans le temps et l'espace.
+
+146
+00:16:19,020 --> 00:16:26,320
+Nous avons eu la chance de recevoir de l'Union européenne un financement important sur une période de 4 ans
+
+147
+00:16:26,740 --> 00:16:34,400
+pour promouvoir la mobilisation du contenu et le renforcement des capacités, en particulier en Afrique, dans les Caraïbes et dans le Pacifique.
+
+148
+00:16:34,860 --> 00:16:41,940
+Et nous sommes maintenant, dans la première étape de l'exécution des projets 
+qui y sont associés
+
+149
+00:16:44,000 --> 00:16:52,160
+avec environ 970 000 € dépensés au cours des deux prochaines années sur des projets dans des pays africains
+
+150
+00:16:52,480 --> 00:17:02,340
+dont beaucoup ont été soutenus par le GBIF France grâce à leurs activités d'amélioration de la capacité.
+
+151
+00:17:02,640 --> 00:17:14,220
+Nous attendons avec impatience cette manière de renforcer les liens, en particulier avec le programme Sud Expert Plant.
+
+152
+00:17:16,520 --> 00:17:18,880
+Une dernière chose.
+
+153
+00:17:19,720 --> 00:17:25,840
+Cela se poursuit et la France a été impliquée car
+
+154
+00:17:25,840 --> 00:17:31,100
+cela est une collaboration internationale autour d'outils et de logiciels.
+
+155
+00:17:33,580 --> 00:17:38,720
+L'exemple spécifique illustré ici et je crois que nous reviendrons à cela plus tard,
+
+156
+00:17:38,960 --> 00:17:43,460
+est la réutilisation des outils développés par l'Atlas of Living Australia (ALA)
+
+157
+00:17:43,660 --> 00:17:48,680
+dans plusieurs pays et les contributions de ces pays
+
+158
+00:17:48,760 --> 00:17:56,060
+dont  la France, l'Espagne, l'Ecosse et d'autres,
+
+159
+00:17:56,140 --> 00:18:01,040
+en modifiant ces outils et en les rendant plus généralement applicables.
+
+160
+00:18:01,140 --> 00:18:08,640
+Je crois que cela représente un véritable renforcement du réseau GFIF entraînant que beaucoup de pays
+
+161
+00:18:08,900 --> 00:18:14,400
+peuvent collaborer pour s'assurer que les parties prenantes au niveau national
+
+162
+00:18:14,920 --> 00:18:19,300
+et j'espère, à l'avenir, des régions comme le Pacifique et les Caraïbes
+
+163
+00:18:19,580 --> 00:18:28,140
+peuvent avoir des outils qui permettent vraiment à leurs chercheurs d'explorer les données qui se rapportent à leur biodiversité de manière efficace.
+
+164
+00:18:29,460 --> 00:18:36,440
+Ce ne sont que quelques-unes des choses dont je suis impatient comme les changements récents et les améliorations apportées à notre activité.
+
+165
+00:18:36,800 --> 00:18:44,400
+Je veux juste regarder très brièvement dans le futur,  le GBIF opère dans un cycle de cinq ans
+
+166
+00:18:44,860 --> 00:18:48,680
+nous arrivons juste à la fin de l'un de ces cycles et
+
+167
+00:18:49,080 --> 00:18:54,960
+à partir de 2017 entrera en jeu un nouveau plan stratégique, un nouveau modèle de financement
+
+168
+00:18:57,500 --> 00:19:01,420
+et essaye vraiment d'amener le GBIF à l'étape suivante
+
+169
+00:19:01,620 --> 00:19:09,060
+et nous avons identifié cinq priorités stratégiques pour cette période et je pense qu'elles sont celles où
+
+170
+00:19:09,460 --> 00:19:18,420
+nous avons vraiment besoin de soutient et de promotion et de bénéficier de la coopération partout dans le réseau mondial.
+
+171
+00:19:19,040 --> 00:19:23,200
+Juste quelques mots sur chacun d'entre eux ; tout d'abord,
+
+172
+00:19:23,520 --> 00:19:29,300
+Le GBIF existe pour assurer l'accès gratuit aux données partout, ce que nous faisons
+
+173
+00:19:29,960 --> 00:19:37,820
+est de s'assurer que nous fournissons le bon type de données pour répondre aux besoins des utilisateurs réels
+
+174
+00:19:38,380 --> 00:19:44,020
+nous nous sommes engagés dans beaucoup de renforcement des capacités,  activement engagés dans de nombreuses activités informatiques
+
+175
+00:19:44,480 --> 00:19:47,120
+mais ce ne sont pas là les objectifs du GBIF,
+
+176
+00:19:47,280 --> 00:19:50,940
+nous sommes là pour vous assurer que les données sont fournies dans le bon format.
+
+177
+00:19:51,360 --> 00:20:00,120
+Donc, une partie croissante de nos activités pour communiquer aussi clairement que possible avec les chercheurs
+
+178
+00:20:00,460 --> 00:20:06,500
+dans différents aire, domaines et points de discussion thématiques
+
+179
+00:20:07,180 --> 00:20:11,700
+pour comprendre exactement ce qu'ils recherchent dans les données sur la biodiversité,
+
+180
+00:20:12,020 --> 00:20:17,040
+pour comprendre s'il existe des propriétés supplémentaires que nous devons tenter de mobiliser,
+
+181
+00:20:17,240 --> 00:20:24,360
+la façon dont les métadonnées peuvent être améliorées, qui constituent les lacunes les plus critiques dans la mobilisation de données.
+
+182
+00:20:24,840 --> 00:20:29,080
+Cela devrait être  ce que l'on doit cibler si nous voulons soutenir leurs besoins.
+
+183
+00:20:29,600 --> 00:20:39,420
+Cela nous permettra aussi de comprendre le type de produits de données, les services de données qui sont les plus importants pour ces chercheurs.
+
+184
+00:20:41,060 --> 00:20:44,360
+D'abord et avant tout : une de nos priorités,
+
+185
+00:20:45,200 --> 00:20:49,640
+et certains gens dans cette salle ont été impliqués dans certains de nos groupes de travail en ce qui concerne les différents domaines,
+
+186
+00:20:50,960 --> 00:20:53,260
+est de fournir des données pertinentes.
+
+187
+00:20:54,480 --> 00:21:03,300
+Mais en attendant, nous devons réfléchir aux façons dont nos données ont besoin d'une attention accrue.
+
+188
+00:21:03,940 --> 00:21:07,820
+L'un de nos priorités les plus critiques est la qualité des données.
+
+189
+00:21:08,700 --> 00:21:19,720
+Nous avons toujours pris le parti de dire que la qualité des données n'est pas une facilité d'utilisation absolue pour les différents utilisateurs.
+
+190
+00:21:20,320 --> 00:21:29,260
+un spécimen qui représente le type d'une espèce peut ne pas avoir une localité précise, il peut ne pas avoir une date précise
+
+191
+00:21:29,520 --> 00:21:33,060
+mais est encore absolument essentiel pour de nombreuses utilisations clés.
+
+192
+00:21:34,060 --> 00:21:40,780
+D'autre part, pour les autres utilisateurs, nous devons nous assurer que nous avons la meilleure précision possible
+
+193
+00:21:41,400 --> 00:21:49,800
+pour le temps et l'espace, que nous comprenons le plus clairement possible la base de l'identification
+
+194
+00:21:50,060 --> 00:22:00,000
+du spécimen et une partie de ce que nous devons faire ensemble est de caractériser les enregistrements de données individuels
+
+195
+00:22:00,260 --> 00:22:06,760
+et l'ensemble de données globales afin que nous comprenions et communiquions
+
+196
+00:22:06,900 --> 00:22:14,480
+exactement ce que c'est: c'est une offre et nous pouvons travailler ensemble pour trouver des façons de l'améliorer au fil du temps.
+
+197
+00:22:16,660 --> 00:22:20,080
+Le GBIF doit traiter les lacunes dans les données, les plus visible sont
+
+198
+00:22:20,100 --> 00:22:25,320
+évidemment les cas spéciaux car nous aimons mettre des points sur les cartes
+
+199
+00:22:25,320 --> 00:22:29,540
+et alors ils deviendront clairs et même les incohérences et
+
+200
+00:22:29,680 --> 00:22:34,880
+les sources de données sous-jacentes commencent à devenir vraiment évidentes.
+
+201
+00:22:35,360 --> 00:22:40,140
+Néanmoins, nous devons faire davantage d'efforts pour
+
+202
+00:22:41,100 --> 00:22:47,200
+reconnaître les domaines où nous avons un besoin urgent d'apporter plus de données en ligne.
+
+203
+00:22:47,820 --> 00:22:50,920
+À l'heure actuelle, je dirais que
+
+204
+00:22:51,060 --> 00:22:55,680
+le GFIF a trois domaines prioritaires sur lesquels nous devons nous concentrer
+
+205
+00:22:55,740 --> 00:23:02,400
+l'une d'entre elle concerne les parties du globe où nous n'avons plus de données, clairement
+
+206
+00:23:02,660 --> 00:23:07,480
+la Russie, une grande partie de l'Europe de l'Est, l'Asie,  l'Afrique du Nord et le Moyen-Orient,
+
+207
+00:23:08,160 --> 00:23:18,480
+nous travaillons et sommes très enthousiastes à l'idée d'améliorer les liens avec les détenteurs de données en ce qui concerne
+
+208
+00:23:19,820 --> 00:23:24,140
+le meilleur moyen pour nous de penser aux lacunes géographiques.
+
+209
+00:23:24,380 --> 00:23:29,240
+Pour les écarts taxonomiques, je crois vraiment que notre objectif devrait être
+
+210
+00:23:29,480 --> 00:23:33,060
+de travailler encore plus étroitement avec les collections d'histoire naturelle.
+
+211
+00:23:33,380 --> 00:23:43,720
+Ils resteront notre meilleure source d'information sur de nombreuses espèces qui sont peu susceptibles d'être enregistrées par d'autre moyens.
+
+212
+00:23:44,080 --> 00:23:50,700
+Nous devons nous assurer que les collections sont bien protégées dans la tâche de mettre toutes ces données en ligne.
+
+213
+00:23:51,340 --> 00:23:59,700
+Et troisièmement, nous devons être mieux axés sur l'apport à certains événements d'échantillonnage d'informations chronologiques et d'abondance
+
+214
+00:24:00,000 --> 00:24:07,660
+qui nous permettent d'obtenir une meilleure image d'un changement non seulement dans l'espace mais aussi dans le temps.
+
+215
+00:24:08,960 --> 00:24:16,360
+Alors que nous allons arriver à la prochaine période de cinq ans, je pense que nous devrions penser encore plus à une bonne échelle pour la compréhension,
+
+216
+00:24:17,120 --> 00:24:26,120
+les endroits où les lacunes dans les discontinuités de données sont particulièrement significatives
+
+217
+00:24:26,440 --> 00:24:31,540
+pour réduire la précision et l'efficacité de l'analyse en fonction des données.
+
+218
+00:24:33,140 --> 00:24:36,960
+Deux autres priorités qui sous-entendent tout cela,
+
+219
+00:24:37,420 --> 00:24:44,640
+nous devons faire un meilleur travail que ce que nous avons fait à ce point de liaison par les meilleures infrastructures d'information.
+
+220
+00:24:44,880 --> 00:24:53,020
+Nous dépendons fortement du travail de Species 2000 et de Catalogue of Life et
+
+221
+00:24:53,020 --> 00:24:58,080
+plus d'activités régionales dans l'organisation des noms et des classifications des espèces
+
+222
+00:24:58,340 --> 00:25:04,340
+nous voulons faire un meilleur travail de liaison avec la littérature à travers la Biodiversity Heritage Library et d'ailleurs
+
+223
+00:25:04,880 --> 00:25:11,240
+et aux jeux de données sur les traits et les séquences et autres attributs environnementaux.
+
+224
+00:25:11,660 --> 00:25:20,660
+Le GBIF doit travailler en étroite collaboration avec d'autres infrastructures de recherche et doit s'assurer qu'il est bien préparé pour la gestion des données géospatiales.
+
+225
+00:25:21,040 --> 00:25:30,200
+Cela reste un défi majeur et important, et des choses comme les licences de données
+
+226
+00:25:30,460 --> 00:25:36,320
+et l'identifiant d'objet numérique (DOI) est une clé pour nous en étant précurseur dans ces domaines.
+
+227
+00:25:38,400 --> 00:25:46,120
+Et enfin, je reviens sur le cercle complet:  nous devons continuer à travailler pour renforcer notre réseau mondial
+
+228
+00:25:48,060 --> 00:25:54,640
+ces diagrammes représentent certains des modèles que nous essayons de mettre en place pour aider
+
+229
+00:25:54,840 --> 00:26:00,780
+ceux qui soutiennent les nœuds GBIF et les installations nationales d'information sur la biodiversité.
+
+230
+00:26:01,380 --> 00:26:08,800
+Plus un ensemble de directives ou une feuille de route dans lesquelles nous pouvons fournir de meilleurs outils de formation et de soutien
+
+231
+00:26:09,580 --> 00:26:16,740
+pour se concentrer sur la façon dont au niveau national on s'occupe de la mobilisation de données,
+
+232
+00:26:16,940 --> 00:26:24,220
+en soutenant les utilisateurs de données, en améliorant la qualité des données et en renforçant le réseau qui en est le cœur.
+
+233
+00:26:25,800 --> 00:26:32,240
+La plupart de nos activités, d'une manière ou d'une autre, visent à soutenir notre réseau mondial
+
+234
+00:26:32,680 --> 00:26:39,500
+et faire cela n'est pas quelque chose que nous pouvons faire uniquement en tant qu'entité financée centralement.
+
+235
+00:26:40,000 --> 00:26:49,580
+Cela dépend vraiment des gens présent dans cette salle, et dans des situations similaires dans le monde ou de la collaboration avec une vision partagée.
+
+236
+00:26:50,420 --> 00:26:53,860
+Je tiens donc à vous remercier encore une fois, merci pour cette opportunité,
+
+237
+00:26:53,980 --> 00:26:56,100
+je suis très heureux d'être ici.
+
+238
+00:26:56,400 --> 00:27:06,580
+Je suis très heureux d'avoir la France en tant que membre clé dans notre réseau et je vous souhaite une journée très réussie.
+
+239
+00:27:06,980 --> 00:27:09,460
+Je vous remercie. *applaudissement*
+

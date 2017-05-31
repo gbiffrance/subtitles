@@ -1,0 +1,1245 @@
+1
+00:00:00,000 --> 00:00:05,940
+Leen Vandepitte : Je m'appelle Leen Vandepitte, je travaille au Flanders Marine Institute à Oostende, en Belgique
+
+2
+00:00:06,100 --> 00:00:12,660
+Et je suis le gestionnaire de données pour le nœud européen de l'OBIS qui est le système d'information biogéographique de l'océan
+
+3
+00:00:12,840 --> 00:00:17,680
+et je suis impliqué dans le registre mondial des espèces marines.
+
+4
+00:00:18,400 --> 00:00:23,940
+D'accord, Anne-sophie m'a demandé de parler d'EurOBIS
+
+5
+00:00:24,180 --> 00:00:27,119
+et comment il est lié au GBIF, c'est ce que je vais faire.
+
+6
+00:00:27,120 --> 00:00:30,880
+Je vais esquisser un peu ce qu'est EurOBIS,
+l'histoire d'EurOBIS,
+
+7
+00:00:31,500 --> 00:00:34,160
+comment est-il lié à d'autres initiatives comme par exemple OBIS,
+
+8
+00:00:34,240 --> 00:00:38,040
+et ensuite comment OBIS et GBIF s'intègrent.
+
+9
+00:00:42,380 --> 00:00:50,520
+Il y a environ 15 ou 20 ans si nous regardions en Belgique à une donnée biologique, alors nous saurions qu'il est très dispersé
+
+10
+00:00:51,260 --> 00:00:56,160
+Tout le monde a un petit jeu de données quelque part, mais il n'y a aucun moyen de les rassembler
+
+11
+00:00:56,380 --> 00:01:01,140
+et des données biologiques ont également été collectées avec des barrières très limitées
+
+12
+00:01:01,580 --> 00:01:06,020
+et vous avez l'impression que si vousaviez fait ou si vous souhaitez faites des recherches sur un projet ou un doctorat
+
+13
+00:01:06,320 --> 00:01:10,920
+vous avez un délai de trois à cinq ans donc vos données sont limitées dans le temps
+
+14
+00:01:11,360 --> 00:01:19,120
+ellles seront également limitées dans l'espace surtout si vous restez sur une région pour votre doctorat ou votre échantillon
+
+15
+00:01:19,720 --> 00:01:22,680
+et vous auriez aussi
+
+16
+00:01:23,020 --> 00:01:28,560
+des limites financières, car il faut prendre en compte le budget pour faire votre échantillonnage.
+
+17
+00:01:31,320 --> 00:01:38,320
+Ce qui se passe, c'est que ce n'est pas seulement le cas en Belgique mais c'est partout en Europe et même dans le monde entier
+
+18
+00:01:38,320 --> 00:01:45,880
+Et la chose similaire qui se passe partout est que les données sont collectées, les données sont analysés, les personnes publient leurs données
+
+19
+00:01:46,120 --> 00:01:50,380
+et ensuite ils classent leurs données quelque part, essentiellement sur un CD,
+
+20
+00:01:50,520 --> 00:01:55,540
+dans un placard quelque part ,et après un moment, vous oubliez simplement le fait que vous les avez
+
+21
+00:01:55,760 --> 00:02:00,600
+et en plus, tout le monde travaille sur son propre groupe thématique spécifique
+
+22
+00:02:00,660 --> 00:02:04,840
+les gens travaillent sur les bentos mâles, vous avez des gens qui travaillent sur les poisson, sur les macro bentos,
+
+23
+00:02:04,940 --> 00:02:06,600
+donc c'est très très diversifié.
+
+24
+00:02:07,360 --> 00:02:12,160
+Donc, si vous regardez tout cela, alors vous ne pouvez vous empêcher de penser :
+
+25
+00:02:12,260 --> 00:02:18,500
+comment pouvons-nous voir les modèles globaux à grande échelle et tout cela si les données sont tellement dispersées partout ?
+
+26
+00:02:20,040 --> 00:02:24,320
+Et la réponse à cela réside essentiellement à rassembler vos données ensemble.
+
+27
+00:02:24,460 --> 00:02:33,920
+GBIF fait cela, mais en Belgique, nous avons EurObus, noeud européen d'OBIS, qui a rassemblé les données maritimes européennes.
+
+28
+00:02:34,060 --> 00:02:41,080
+Et tout cela a commencé dans le projet malabif avec lequel était un projet sur la biodiversité et le fonctionnement de l'écosystème
+
+29
+00:02:41,320 --> 00:02:43,700
+spécifiquement pour le milieu marin.
+
+30
+00:02:43,920 --> 00:02:49,580
+Et après cela, EuroBIS  poursuivi dans plusieurs autres projets
+
+31
+00:02:49,860 --> 00:02:55,880
+et, je ne sais pas combien de personnes connaissent la recherche marine ou le paysage marin,
+
+32
+00:02:56,180 --> 00:03:00,880
+mais deux projets très importants sont une biologie imminente qui
+
+33
+00:03:01,080 --> 00:03:06,280
+est financé par le gouvernement européen et Lifewatch, qui a été mentionné plus tôt aujourd'hui.
+
+34
+00:03:06,520 --> 00:03:14,520
+Donc, si nous regardons EurOBIS, l'objectif initial était d'avoir vos informations de distribution de taxons dans l'espace et le temps.
+
+35
+00:03:14,760 --> 00:03:19,180
+Donc, fondamentalement, qu'est ce que c'est, où c'est, et quand est-ce que c'est.
+
+36
+00:03:19,660 --> 00:03:24,980
+Cela commença en 2004, donc déjà plus de 10 ans maintenant que nous travaillons dessu
+
+37
+00:03:25,180 --> 00:03:28,220
+et durant ce temps, il a évolué dans ce qu'il est aujourd'hui
+
+38
+00:03:28,360 --> 00:03:33,280
+nous avons récemment étendu la base de données pour pouvoir également faire face aux
+
+39
+00:03:33,440 --> 00:03:37,820
+mesures ou faits qui sont essentiellement des informations sur la biomasse.
+
+40
+00:03:38,000 --> 00:03:44,600
+Les longueurs de poisson par exemple, les données d'analyse de l'estomac des oiseaux ou des poissons, et ainsi de suite.
+
+41
+00:03:45,700 --> 00:03:50,500
+Et aussi un lien avec les informations abiotiques car lorsque vous collectez un échantillon biologique,
+
+42
+00:03:50,900 --> 00:03:57,160
+vous mesurez également les sédiments, la composition de la salinité de la température des sédiments, etc.
+
+43
+00:03:57,420 --> 00:04:01,100
+Donc, tout cela peut maintenant être stocké ensemble dans la base de données.
+
+44
+00:04:01,600 --> 00:04:05,080
+Maintenant, les objectifs d'EurOBIS sont assez simples,
+
+45
+00:04:05,280 --> 00:04:09,640
+Il sera destiné à être un point d'accès pour toutes ces données.
+
+46
+00:04:09,780 --> 00:04:12,860
+Accès facile, accès gratuit, accès ouvert.
+
+47
+00:04:13,180 --> 00:04:16,700
+Pas de mots de passe, pas de restrictions sur l'accès aux données.
+
+48
+00:04:17,400 --> 00:04:23,800
+Et le deuxième but, bien sûr, est que si vous rassemblez toutes ces informations dispersées, c'est de pouvoir
+
+49
+00:04:24,060 --> 00:04:31,460
+aider les scientifiques à mieux comprendre la répartition et la biodiversité de la vie marine européenne.
+
+50
+00:04:31,760 --> 00:04:36,140
+À côté de cela, il aide et identifie les lacunes dans nos connaissances.
+
+51
+00:04:36,400 --> 00:04:43,280
+Si nous aurions une région spécifique qui n'est pas couverte dans les données, nous savons que nous avons une lacune et nous devrions examiner cela.
+
+52
+00:04:43,600 --> 00:04:47,660
+Et enfin, et c'est très important pour nous, c'est
+
+53
+00:04:48,140 --> 00:04:54,440
+Nous essayons de donner une indication de la condition d'utilisation des données, une indication sur la qualité
+
+54
+00:04:54,600 --> 00:04:58,420
+et l'exhaustivité des données, j'y reviendrai plus tard.
+
+55
+00:05:00,020 --> 00:05:04,000
+D'abord la base de données elle-même: c'est une base de données SQL,
+
+56
+00:05:04,220 --> 00:05:09,780
+qui est complètement compatible avec Darwin Core, utilisé par le GBIF et les IPT.
+
+57
+00:05:09,960 --> 00:05:15,940
+Il a des informations sur les métadonnées, nous avons également un système sur lequel on peut attribuer des DOI au niveau d'un jeu de données.
+
+58
+00:05:16,200 --> 00:05:25,340
+Ainsi, les DOI vous donne un moyen simple de citer un jeu de données lorsqu'il est utilisé et vous pouvez également suivre les citations.
+
+59
+00:05:25,660 --> 00:05:30,020
+Il contient des informations et des informations actuelles sur les mesures ou les faits.
+
+60
+00:05:30,280 --> 00:05:33,720
+Le contenu, je l'ai regardé plus tôt cette semaine,
+
+61
+00:05:34,100 --> 00:05:40,160
+nous avons presque 700 jeux de données venant d'un peu plus de 150 instituts en Europe
+
+62
+00:05:41,180 --> 00:05:44,280
+Il y a vingt-sept millions d'enregistrement de distribution là-bas
+
+63
+00:05:44,420 --> 00:05:47,920
+et 5,5 millions de valeurs de mesure ou de faits
+
+64
+00:05:48,060 --> 00:05:52,460
+qui sont principalement des informations sur la biomasse et l'abondance.
+
+65
+00:05:52,780 --> 00:06:00,360
+Et si vous regardez les noms d'espèces là-bas, il y a plus de 63 000 noms d'espèces qui ont été documentés jusqu'à présent.
+
+66
+00:06:01,020 --> 00:06:04,360
+Quarante et un pour cent d'entre eux sont des noms d'espèces acceptés,
+
+67
+00:06:04,720 --> 00:06:07,220
+mais j'y reviendrai plus tard parce que
+
+68
+00:06:07,960 --> 00:06:14,340
+beaucoup de fois, nous avons des vieux jeux de données qui utilisent des noms qui sont maintenant considérés comme synonymes des noms acceptés,
+
+69
+00:06:14,700 --> 00:06:18,480
+c'est pourquoi nous avons un grand nombre de noms d'espèces.
+
+70
+00:06:19,820 --> 00:06:26,560
+Juste pour vous donner une idée sur la croissance: nous avons donc les enregistrements de distribution et le nombre de jeux de données.
+
+71
+00:06:27,020 --> 00:06:33,700
+Tout a commencé au début des années 2000 et il continue de croître essentiellement.
+
+72
+00:06:35,280 --> 00:06:44,260
+Maintenant, EurOBIS en tant que base de données est vraiment utile pour nous au niveau européen : nous avons pu faire beaucoup de travail avec des projets européens.
+
+73
+00:06:44,600 --> 00:06:54,020
+Mais bien sûr, ce n'est qu'une base de données et sa valeur peut devenir beaucoup plus grande si elle peut être liée à une ou deux initiatives similaires
+
+74
+00:06:55,820 --> 00:06:59,420
+donc, cela fait partie d'une vision d'ensemble et c'est vraiment important.
+
+75
+00:07:00,700 --> 00:07:04,740
+Ainsi, EurOBIS reçoit ses données auprès de plusieurs fournisseurs,
+
+76
+00:07:05,020 --> 00:07:09,680
+j'en liste quelques-uns d'entre eux, mais les plus important en ce moment sont
+
+77
+00:07:09,940 --> 00:07:17,680
+les jeux de données à petite échelle et à court terme que les gens collectent dans le cadre de projets de recherche de doctorat.
+
+78
+00:07:18,120 --> 00:07:26,100
+Deuxièmement, les données nationales de suivi: chaque pays a normalement un programme de surveillance et ce que nous avons essayé de faire au cours de l'année dernière
+
+79
+00:07:26,160 --> 00:07:29,920
+est d'avoir accès à ces données de surveillance marine pour les rendre disponibles.
+
+80
+00:07:33,340 --> 00:07:40,280
+Nous prenons des données de plusieurs façons, nous ne sommes pas exigeants sur la façon dont les gens nous fournissent leurs données.
+
+81
+00:07:41,300 --> 00:07:43,860
+Le système le plus simple pour nous est l'IPT.
+
+82
+00:07:44,280 --> 00:07:49,480
+Certains systèmes de données comme Isis ont leurs propres services Web afin que nous puissions les parcourir.
+
+83
+00:07:50,440 --> 00:07:55,100
+Nous avons une collaboration avec SeaDataNet qui est également un projet maritime.
+
+84
+00:07:55,260 --> 00:08:04,980
+Nous acceptons également les fichiers texte, les fichiers Excel, les fichiers Acces, tout ce qui contient des informations sur une distribution d'espèces.
+
+85
+00:08:05,240 --> 00:08:11,420
+nous sommes prêts à traiter avec ces formats et à les formater afin qu'ils correspondent à notre base de données.
+
+86
+00:08:11,700 --> 00:08:20,420
+Ce que nous faisons: la collecte de données se produit en permanence, mais une fois par mois, nous effectuons un téléversement dans la base de données, puis les données sont disponibles.
+
+87
+00:08:22,180 --> 00:08:29,360
+Les données disponibles dans EurOBIS peuvent être consultées de plusieurs façons, celle de gauche est
+
+88
+00:08:29,560 --> 00:08:39,120
+le portail de données EurOBIS afin de vous donner un aperçu des jeux de données que nous avons et vous pouvez le consulter en fonction d'un nom d'espèce par exemple.
+
+89
+00:08:39,320 --> 00:08:44,000
+Le deuxième est le portail de EMODnet Biology qui est plus sophistiqué
+
+90
+00:08:44,080 --> 00:08:52,180
+parce que vous pouvez combiner des traits d'espèces spécifiques avec des noms d'espèces ou des groupes d'espèces.
+
+91
+00:08:52,180 --> 00:08:54,840
+Et puis le troisième est LifeWatch.
+
+92
+00:08:55,360 --> 00:09:01,120
+qui n'est pas vraiment un portail où vous parcourez, mais qui offre des services Web.
+
+93
+00:09:01,520 --> 00:09:07,360
+Il existe donc des moyens de combiner plusieurs services Web pour obtenir des informations pour vous.
+
+94
+00:09:08,780 --> 00:09:14,620
+Je vous invite donc vraiment à allez voir ces portails et à voir ce qui est disponible, voir ce qui est accessible,
+
+95
+00:09:14,920 --> 00:09:17,840
+Il me faudrait trop de temps pour les exposer en détails.
+
+96
+00:09:19,840 --> 00:09:23,820
+Donc, EurOBIS, une partie d'une vision d'ensemble : il obtient ses informations de bas en haut.
+
+97
+00:09:24,220 --> 00:09:30,680
+mais il fournit également ses informations à OBIS, qui est au niveau international, fondamentalement.
+
+98
+00:09:31,160 --> 00:09:38,120
+et OBIS, comme vous pouvez le voir sur la carte, couvre dans le monde entier toute les mers et océans.
+
+99
+00:09:39,120 --> 00:09:46,280
+Et OBIS lui-même n'obtient pas seulement ses données d'EurOBIS, mais l'obtient à partir d'un réseau entier de noeud, tous ces nœuds.
+
+100
+00:09:46,580 --> 00:09:50,040
+Ceux-ci peuvent être régionaux comme le
+
+101
+00:09:50,720 --> 00:09:53,280
+Est-ce que cela marche ? Okay.
+
+102
+00:09:54,000 --> 00:10:00,220
+Ainsi, on peut être atteint maintenant, par exemple les États-Unis, les africains; Il peut être thématique;
+
+103
+00:10:00,420 --> 00:10:09,720
+La carte OBIS, par exemple, se concentre sur les information de distribution des mammifères marins et des tortues marines afin que vous puissiez trouver des informations.
+
+104
+00:10:09,960 --> 00:10:16,080
+Et il y a aussi des régions plus petites dans ce cas, par exemple MedOBIS et Black Sea OBIS.
+
+105
+00:10:16,500 --> 00:10:24,560
+Donc, au total, il y a 29 noeuds qui fournissent des informations à OBIS, l'aidant à grandir.
+
+106
+00:10:25,200 --> 00:10:30,020
+Chacun de ces nœuds est dépendant de l'ensemble du réseau des fournisseurs locaux
+
+107
+00:10:30,180 --> 00:10:37,860
+tout comme EurOBIS, nous recueillons des données auprès d'instituts et de chercheurs européens; Il en va de même pour tous les autres nœuds
+
+108
+00:10:38,800 --> 00:10:50,240
+De cette façon, OBIS étant l'agrégateur de toute les informations, il peut créer une alliance mondiale et mettre en place une collaboration avec les communautés scientifiques.
+
+109
+00:10:50,540 --> 00:10:55,280
+Cela aide vraiment à obtenir un accès gratuit et ouvert par les données géographiques.
+
+110
+00:10:56,540 --> 00:10:59,180
+OBIS lui-même possède également un portail de données,
+
+111
+00:11:00,040 --> 00:11:06,040
+c'est le lien qu'ils ont récemment lancé vers un portail renouvelé, donc c'est toujours en version bêta
+
+112
+00:11:06,500 --> 00:11:14,100
+ais encore une fois, nous invitons tout le monde à regarder et même si vous avez des retours ou des commentaires sur le site Web lui-même,
+
+113
+00:11:14,460 --> 00:11:16,980
+s'il vous plait, faite-le.
+
+114
+00:11:17,120 --> 00:11:21,940
+Ce que vous pouvez faire, sur le portail OBIS, il existe plusieurs options
+
+115
+00:11:22,100 --> 00:11:28,800
+pour interroger les données et pour accéder aux statistiques afin que vous puissiez les regrouper ou vous pouvez rechercher des jeux de données par pays ou Institut
+
+116
+00:11:29,080 --> 00:11:35,220
+par espace marin : site du patrimoine mondial, par exemple et en fonction de ce que vous demandez, vous obtenez
+
+117
+00:11:35,440 --> 00:11:42,520
+différents résultats : si vous cherchez un exemple dans les jeux de données, vous obtenez un aperçu de l'endroit où cela se produit, de la façon dont vous pouvez le citer,
+
+118
+00:11:42,820 --> 00:11:47,180
+quel est le contexte de la donnée définie, son type de données etc.
+
+119
+00:11:50,680 --> 00:11:58,540
+Il est agréable de savoir que OBIS et EurOBIS sont essentiellement dans le même bâtiment à Oostende.
+
+120
+00:11:58,720 --> 00:12:03,660
+Ce sont deux instituts différents qui accueillent OBIS et EurOBIS, mais nous sommes dans le même bâtiment;
+
+121
+00:12:04,080 --> 00:12:08,600
+donc être à côté l'un de l'autre nous donne vraiment des occasions de travailler en étroite collaboration;
+
+122
+00:12:08,960 --> 00:12:12,280
+Une de ces occasions que nous avons saisie est de commencer
+
+123
+00:12:12,480 --> 00:12:21,080
+développer des outils de contrôle de qualité pour pouvoir évaluer à la fois la qualité et l'adéquation des données que nous avons dans les systèmes de données.
+
+124
+00:12:21,880 --> 00:12:24,340
+Je vais rentrer plus dans les détails.
+
+125
+00:12:24,880 --> 00:12:31,700
+L'objectif de ces procédures de contrôle de la qualité est évidemment d'aider les fournisseurs et les gestionnaires de données.
+
+126
+00:12:32,220 --> 00:12:37,800
+Parce que nous vérifions la qualité, nous vérifions l'intégralité, nous essayons de détecter les erreurs possibles.
+
+127
+00:12:38,160 --> 00:12:43,160
+et sur tous ces niveaux, nous donnons des commentaires à nos fournisseurs source, afin qu'ils puissent
+
+128
+00:12:43,520 --> 00:12:47,680
+si ce serait une erreur de corriger les données et de nous les renvoyer.
+
+129
+00:12:47,960 --> 00:12:53,560
+Ce que nous faisons, c'est que nous attribuons essentiellement un signal de qualité à chaque enregistrement disponible.
+
+130
+00:12:54,360 --> 00:13:00,540
+Mais il est important de constater que nous ne disons pas que le record est bon ou mauvais,
+
+131
+00:13:00,980 --> 00:13:06,400
+nous donnons juste une indication de l'aptitude à l'usage et de l'aptitude à l'emploi.
+
+132
+00:13:07,460 --> 00:13:14,300
+En attribuant ces signaux, nous aidons les gens à filtrer des enregistrements spécifiques avec certains standards de qualité.
+
+133
+00:13:14,760 --> 00:13:22,760
+Je vais simplement donner un exemple: un enregistrement pourrait être "abra alba", qui est une minuscule coquille, on a une photo ici
+
+134
+00:13:23,120 --> 00:13:27,380
+t vous connaissez la latitude et la longitude et vous savez l'année où elle a été recueillie.
+
+135
+00:13:27,880 --> 00:13:30,040
+Que pouvez-vous faire avec cet enregistrement ?
+
+136
+00:13:30,160 --> 00:13:36,740
+C'est un enregistrement parfaitement adapté à une analyse générale de la distribution car il s'agit d'une occurrence d'espèce.
+
+137
+00:13:37,000 --> 00:13:42,060
+Il convient également à une analyse temporelle si vous ne regardez que l'année,
+
+138
+00:13:42,300 --> 00:13:44,760
+parce que vous savez en quelle année il a été échantillon mais
+
+139
+00:13:45,120 --> 00:13:49,240
+il ne convient pas à l'analyse saisonnière car il vous manque le jour et le mois.
+
+140
+00:13:49,440 --> 00:13:53,040
+Ce n'est pas parce qu'il vous manque le jour et le mois que vous ne pouvez rien en faire,
+
+141
+00:13:53,100 --> 00:13:55,700
+c'est ce que nous essayons de faire, en attribuant ces signaux de qualité,
+
+142
+00:13:55,800 --> 00:14:00,720
+c'est pour vous donner une indication de ce qu'il peut et ne peut pas être utilisé.
+
+143
+00:14:01,320 --> 00:14:09,800
+Il ne sera pas non plus adapté à l'analyse de l'abondance parce que vous savez seulement qu'il est présent, vous ne savez pas combien ont été trouvé dans quelle région.
+
+144
+00:14:10,540 --> 00:14:11,600
+Okay.
+
+145
+00:14:11,880 --> 00:14:14,000
+Comment faisons-nous cela?
+
+146
+00:14:14,500 --> 00:14:17,600
+Nous faisons ces procédures de contrôle de la qualité de deux façons:
+
+147
+00:14:17,960 --> 00:14:22,220
+nous avons un processus automatisé qui fonctionne sur la base de données OBIS
+
+148
+00:14:22,540 --> 00:14:30,600
+qui attribue ces signaux de qualité à chaque enregistrement individuel et qui nous aide à donner des commentaires à tous nos fournisseurs.
+
+149
+00:14:32,000 --> 00:14:36,300
+Juste pour vous donner un peu de contexte : il y a 28 contrôles différents
+
+150
+00:14:36,940 --> 00:14:47,160
+subdivisé en cinq grands degrés: la taxonomie, la géographie, l'exhaustivité des enregistrements, le format des données et des informations sur les valeurs aberrantes.
+
+151
+00:14:47,500 --> 00:14:53,880
+La deuxième chose que nous faisons, c'est que nous offrons un certain nombre de ces contrôle de qualité en tant que services Web en ligne,
+
+152
+00:14:54,260 --> 00:14:58,880
+ce qui signifie que vous, en tant que chercheur, pouvez mettre vos données dans les services Web,
+
+153
+00:14:59,080 --> 00:15:06,740
+lancez le procéssus et obtenir les résultats, puis s'il y avait des incohérences ou des erreurs, vous pouvez immédiatement corriger vos propres données.
+
+154
+00:15:08,380 --> 00:15:12,260
+Pour LifeWatch, ce serait par l'URL que vous souhaiteriez empruntée,
+
+155
+00:15:12,460 --> 00:15:16,600
+c'est donc sur www.lifewatch.be et il y a une section sur les services de données (www.lifewatch.be/data-services)
+
+156
+00:15:16,840 --> 00:15:21,980
+et il y en a deux qui pourraient être très pertinents pour certains d'entre vous :
+
+157
+00:15:22,220 --> 00:15:25,200
+omme le premier,  vu qu'il est très basique, est montré sur la carte,
+
+158
+00:15:25,600 --> 00:15:28,920
+vous téléverser simplement la latitude et la longitude et vous les placez sur une carte pour
+
+159
+00:15:29,280 --> 00:15:35,200
+vérifiez immédiatement si toutes les coordonnées ou tous les lieux d'échantillonnage sont là où vous vous attendez à ce qu'ils soient.
+
+160
+00:15:35,560 --> 00:15:45,700
+Le second est un comparateur de taxon qui signifie que vous comparez vos noms de taxons avec les registres standard existants.
+
+161
+00:15:46,200 --> 00:15:49,740
+Par exemple: parce que nous sommes dans les instituts maritimes, nous avons WoRMS,
+
+162
+00:15:49,780 --> 00:15:53,400
+alors vous vérifiez votre nom avec le monde où il existe des espèces marines
+
+163
+00:15:53,700 --> 00:15:58,680
+mais nous offrons également des registres non-marins ; par exemple, nous avons Catalogue of Life aussi.
+
+164
+00:15:58,840 --> 00:16:06,160
+PESI est là aussi ; c'est une infrastructure européenne qui a des noms marins.
+
+165
+00:16:06,660 --> 00:16:09,040
+Beaucoup d'autres sont à venir.
+
+166
+00:16:11,540 --> 00:16:19,240
+Juste pour vous donner une idée de l'importance des procédures de contrôle de la qualité, l'une basique est la qualité taxonomique
+
+167
+00:16:19,500 --> 00:16:25,000
+ce que vous voyez à gauche, c'est le nombre de noms d'espèces et le nombre d'espèces rares
+
+168
+00:16:25,460 --> 00:16:30,180
+qui ont été comptés lorsque plusieurs jeux de données ont été combinés en un seul.
+
+169
+00:16:31,480 --> 00:16:39,320
+si on regarde un exemple, pour la Méditerranée,  vant le contrôle de la qualité,  il y avait onze cent vingt noms d'espèces
+
+170
+00:16:40,060 --> 00:16:47,160
+maintenant, après un contrôle de qualité, la vérification vérifie que chaque nom est correctement orthographié et est bien le nom synonyme déjà accepté.
+
+171
+00:16:47,480 --> 00:16:51,560
+Nous avons réduit le nombre d'espèces à un peu plus de huit cents.
+
+172
+00:16:52,300 --> 00:16:58,920
+Donc, cela montre vraiment que le contrôle de qualité sur votre taxonomie ou sur votre taxonomie est vraiment important.
+
+173
+00:17:01,440 --> 00:17:09,900
+Il est particulièrement nécessaire en particulier, pas nécessairement si vous travaillez sur votre propre jeux de données, mais si vous commencez à combiner les choses, cela devient vraiment important,
+
+174
+00:17:10,200 --> 00:17:16,380
+parce que si vous ne vérifiez pas votre taxonomie et que vous avez une erreur d'orthographe ou qu'un nom n'est plus utilisé,
+
+175
+00:17:16,600 --> 00:17:23,900
+alors vous voyez toujours cela comme important ; vous obtenez alors une gamme de biodiversité plus élevée dans le domaine que vous regardez
+
+176
+00:17:24,280 --> 00:17:26,520
+par rapport à ce qu'il est réellement.
+
+177
+00:17:28,640 --> 00:17:33,600
+Ce que nous faisons pour les jeux de données maritimes de WoRMS
+
+178
+00:17:33,960 --> 00:17:37,400
+nous le faisons avec EurOBIS et OBIS,
+
+179
+00:17:38,300 --> 00:17:40,260
+nous gardons une trace de l'identifiant unique
+
+180
+00:17:40,260 --> 00:17:42,400
+dans WoRMS pour chaque problème de nom.
+
+181
+00:17:42,700 --> 00:17:45,020
+Parce que OBIS et WoRMS sont liés,
+
+182
+00:17:45,420 --> 00:17:49,820
+cela signifie que si vous avez un synonyme et un nom accepté dans OBIS,
+
+183
+00:17:50,340 --> 00:17:52,400
+tous deux pointant vers la même espèce
+
+184
+00:17:52,960 --> 00:17:59,020
+grâce au lien avec WoRMS si vous interrogez l'un de ces noms, vous obtenez les enregistrements pour les deux noms
+
+185
+00:17:59,140 --> 00:18:03,120
+parce que le système sait que c'est fondamentalement le même, donc il les rassemble ensemble.
+
+186
+00:18:04,600 --> 00:18:09,160
+Une deuxième vérification comme je l'ai précédemment mentionné : la vérification de la qualité géographique,
+
+187
+00:18:09,440 --> 00:18:15,500
+nous examinons aussi des choses très simple : que la longitude et la latitude soit différente de 0; 0.
+
+188
+00:18:15,900 --> 00:18:21,360
+si vous mettez cet évenement dans OBIS avec comme coorodnnées 0;0 ; cela reste un point chaud sur la biodiversité de la carte,
+
+189
+00:18:21,600 --> 00:18:29,340
+car Il est juste au large de la côte ouest de  l'Afrique, donc c'est un lieu marin, mais qui est incorrect dans la plupart des cas que nous connaissons.
+
+190
+00:18:29,600 --> 00:18:35,020
+Nous nous assurons également que la latitude et la longitude soient entre 90 et 180
+
+191
+00:18:35,180 --> 00:18:41,080
+parce que nous savons que, quand vous transformez, par exemple, du texte au format Excel, des choses étranges peuvent se produire avec des points et des virgules
+
+192
+00:18:41,160 --> 00:18:44,920
+c'est un contrôle que nous faisons et vu que nous traitons avec des données maritimes
+
+193
+00:18:45,600 --> 00:18:48,920
+bien sûr, nous examinons
+
+194
+00:18:49,600 --> 00:18:53,700
+que les points soient bien dans la mer ou dans un océan
+
+195
+00:18:53,880 --> 00:18:58,660
+nous prenons en compte une marge d'erreur de 20 kilomètres parce que nous savons que
+
+196
+00:18:58,760 --> 00:19:03,480
+tout le monde ne précise pas ses coordonnées.
+
+197
+00:19:03,980 --> 00:19:09,080
+Nous avons également des jeux de données côtières, donc nous voulons éviter de
+
+198
+00:19:10,360 --> 00:19:14,740
+signalé les côtiers comme étant éventuellement incorrectes.
+
+199
+00:19:14,900 --> 00:19:16,080
+Juste un exemple :
+
+200
+00:19:17,020 --> 00:19:24,700
+Il s'agit d'un ensemble de données réelles que nous avons reçu sur les observations et les échouages de tortues marines au Royaume-Uni et len rlande.
+
+201
+00:19:25,460 --> 00:19:29,900
+Il suffit de regarder la carte pour savoir que quelque chose ne va pas.
+
+202
+00:19:30,000 --> 00:19:34,900
+C'est essentiellement une erreur très simple. C'est un changement de
+
+203
+00:19:35,100 --> 00:19:40,140
+non attendez, c'est un signe négatif manquant ici parce que nous travaillons en degrés décimaux.
+
+204
+00:19:40,320 --> 00:19:45,860
+Ce qui se produit très souvent est l'échange de latitude et de longitude, les colonnes sont interverties.
+
+205
+00:19:46,340 --> 00:19:51,940
+Donc, la cartographie ou l'utilisation d'une visualisation de vos coordonnées peut vraiment vous aider à
+
+206
+00:19:52,440 --> 00:19:56,500
+identifiez très rapidement ces erreurs et corrigez-les très facilement.
+
+207
+00:19:57,900 --> 00:20:09,280
+Ce que nous faisons spécifiquement sur OBIS ; cela pourrait se rapporter un peu à la conversation précédente sur les valeurs aberrantes ou les enregistrements qui sont éliminés de l'analyse spécifique,
+
+208
+00:20:09,900 --> 00:20:14,020
+donc, ce que nous faisons au niveau de l'OBIS, nous recherchons des valeurs aberrantes géographiques.
+
+209
+00:20:14,540 --> 00:20:17,660
+Des valeurs aberrantes géographiques dans des jeux de données.
+
+210
+00:20:19,660 --> 00:20:22,460
+Je vais juste vous montrer un exemple.
+
+211
+00:20:23,760 --> 00:20:26,700
+Il s'agit d'un jeu de données CIEM que nous avons reçu
+
+212
+00:20:27,440 --> 00:20:31,500
+et il semble un peu étrange : il pourrait être correct, mais à première vue, vous pensez que
+
+213
+00:20:31,800 --> 00:20:35,280
+les points en Afrique vont certainement être une erreur.
+
+214
+00:20:36,060 --> 00:20:37,140
+C'est comme cela.
+
+215
+00:20:37,420 --> 00:20:42,600
+Mais la deuxième chose que vous voyez, c'est que vous avez beaucoup de points dans le nord et que vous avez beaucoup de points dans le sud,
+
+216
+00:20:42,880 --> 00:20:45,440
+c'est peut-être bon, mais vous n'êtes pas tout à fait sûr.
+
+217
+00:20:47,820 --> 00:20:52,160
+D'abord revenons aux points qui sont sur les terres: ils sont ramassés
+
+218
+00:20:52,580 --> 00:20:59,640
+tout d'abord par le contrôle géographique, où nous traçons simplement les espèces et regardons la limite de 20 kilomètres du littoral
+
+219
+00:21:00,180 --> 00:21:03,100
+et ils apparaissent également dans l'analyse des anomalies,
+
+220
+00:21:03,560 --> 00:21:08,040
+vous savez simplement qu'ils sont faux, vous devez retourner voir votre fournisseur et vérifier cela.
+
+221
+00:21:08,360 --> 00:21:11,680
+Mais pour le deuxième groupe, ceux en orange,
+
+222
+00:21:13,560 --> 00:21:15,860
+ils sont bon parce qu'ils sont dans la mer.
+
+223
+00:21:16,400 --> 00:21:19,160
+Ils ne sont pas sur la terre, donc nous ne sommes pas sûrs,
+
+224
+00:21:19,660 --> 00:21:23,420
+mais si nous faisons cette analyse des aberrations, alors
+
+225
+00:21:24,380 --> 00:21:32,540
+ceux-là sortent toujours comme potentiellement incorrect car cela ne correspond pas tout à fait à la philosophie derrière l'analyse des anomalies.
+
+226
+00:21:32,960 --> 00:21:36,260
+Ce que nous faisons dans des cas comme celui-ci, c'est que nous retournons voir le fournisseur.
+
+227
+00:21:37,160 --> 00:21:41,260
+Ce que nous avons vu en effet c'est que, lorsque nous avons parlé au fournisseur,
+
+228
+00:21:41,840 --> 00:21:45,740
+Les points sur la terre étaient définitivement une erreur, donc ceux-ci ont été corrigés
+
+229
+00:21:45,920 --> 00:21:52,480
+et les localisation en Antarctique étaient également incorrects ; quelque chose a dysfonctionner lors du relevé de la latitude et longitude
+
+230
+00:21:52,720 --> 00:21:58,340
+tandis que ceux du nord sont corrects et sont apparus lors de l'analyse des aberrations
+
+231
+00:21:58,640 --> 00:22:01,880
+parce que c'est un peu un biais d'échantillonnage qui s'est produit au sein de ce jeu de données.
+
+232
+00:22:02,400 --> 00:22:09,060
+Ces analyses peuvent vraiment vous aider à avoir une bonne idée des données que vous avez qui sont disponibles
+
+233
+00:22:09,380 --> 00:22:13,400
+et peut vous aider un peu mieux à décider si vous devriez garder
+
+234
+00:22:13,400 --> 00:22:18,340
+certains enregistrements ou si vous devez les jeter lorsque vous faites une analyse.
+
+235
+00:22:19,480 --> 00:22:26,900
+Juste le dernier exemple sur les valeurs aberrantes: de sorte que le précédent était dans un jeu de données ; on ne regardait que les sites d'échantillonnage.
+
+236
+00:22:27,480 --> 00:22:34,160
+Ce que nous faisons également au niveau de l'OBIS, c'est que l'on examine les valeurs aberrantes environnementales au niveau des espèces.
+
+237
+00:22:34,580 --> 00:22:38,660
+OBIS a donc toutes ces bases de données ou tous ces jeux de données qui sont mis ensembles
+
+238
+00:22:38,860 --> 00:22:41,440
+et le système vérifie tout cela, espèces par espèce
+
+239
+00:22:41,720 --> 00:22:46,860
+et il combine toutes les observations de tous les jeux de données différent pour une espèce particulière
+
+240
+00:22:47,060 --> 00:22:49,480
+et il applique une analyse des aberrations sur ça.
+
+241
+00:22:49,820 --> 00:22:51,320
+Il prend en compte plusieurs choses:
+
+242
+00:22:51,320 --> 00:22:56,180
+il tient compte de la profondeur géographique, de la salinité et de la température.
+
+243
+00:22:56,620 --> 00:22:59,260
+Et encore la même chose que sur la carte précédente:
+
+244
+00:22:59,900 --> 00:23:02,660
+Donc, à gauche,  le système regarde la géographie et
+
+245
+00:23:02,660 --> 00:23:05,740
+à droite, il regarde la profondeur.
+
+246
+00:23:06,400 --> 00:23:15,180
+Vous voyez des différences dans l'analyse des valeurs aberrantes pour la géographie, quelque chose pourrait être acceptable alors que, pour une profondeur, cela pourrait apparaître comme un dépassement possible.
+
+247
+00:23:15,520 --> 00:23:18,820
+Ce sont ceux que vous voulez regarder plus en détail.
+
+248
+00:23:20,700 --> 00:23:22,820
+Nous avons déjà fait cela, nous avons consulté
+
+249
+00:23:22,820 --> 00:23:29,560
+avec de la documentation, avec des experts et avec des informations écologiques disponibles
+
+250
+00:23:29,960 --> 00:23:33,760
+et cela a montré que les points au nord sont corrects
+
+251
+00:23:34,040 --> 00:23:40,240
+tandis que les points dans la mer Méditerranée étaient en fait une mauvaise identification de cette espèce spécifique.
+
+252
+00:23:40,840 --> 00:23:47,840
+Donc, encore une fois, l'analyse des valeurs aberrantes peut vous aider à décider si vous voulez conserver un enregistrement ou le jeter.
+
+253
+00:23:49,160 --> 00:23:52,760
+Actuellement, les données OBIS sont très largement utilisées
+
+254
+00:23:53,360 --> 00:23:56,320
+de même que les données GBIF mentionnées précédemment,
+
+255
+00:23:56,540 --> 00:23:59,960
+il y a plusieurs publications qui citent OBIS
+
+256
+00:24:00,100 --> 00:24:04,840
+il existe plusieurs façons dont les gens utilisent le portail pour explorer OBIS, pour voir ce qui s'y trouve.
+
+257
+00:24:05,440 --> 00:24:09,520
+Par exemple, pour la France, vous pouvez simplement accéder au portail et
+
+258
+00:24:09,600 --> 00:24:14,940
+obtenir un aperçu de tous les ensembles de données maritimes de France actuellement disponibles dans le système.
+
+259
+00:24:15,260 --> 00:24:21,800
+Si nous faisons un clic sur un jeu de données spécifique, vous aurez une vue d'ensemble de toutes les métadonnées
+
+260
+00:24:22,100 --> 00:24:28,320
+et ici, à droite, vous obtenez également une indication, très basique, de la qualité des données :
+
+261
+00:24:28,600 --> 00:24:33,380
+parlons-nous d'espèces ? Une indication de temps est-elle présente ? Etc.
+
+262
+00:24:34,540 --> 00:24:39,860
+Encore une fois, je vous invite à aller sur le portail et voir par vous-même ce qu'il peut faire.
+
+263
+00:24:40,660 --> 00:24:43,620
+Maintenant, OBIS et GBIF : qu'elles sont leurs relations ?
+
+264
+00:24:43,800 --> 00:24:45,640
+Parce que c'est basiquement là où nous voulons aller.
+
+265
+00:24:47,700 --> 00:24:56,000
+Juste un résumé à nouveau: nous avons OBIS qui fournit des données via ses différents nœuds: régional et thématique.
+
+266
+00:24:56,540 --> 00:24:59,860
+Fondamentalement, GBIF a une approche très similaire,
+
+267
+00:25:00,060 --> 00:25:07,500
+de la façon dont cela fonctionne : avec les installations bi-niveau d'information sur la biodiversité ; le GBIF et les nœuds. C'est la même chose.
+
+268
+00:25:08,580 --> 00:25:16,080
+Alors, que c'est-il passé en 2014 ? Un accord a été signé entre OBIS et GBIF.
+
+269
+00:25:16,580 --> 00:25:24,640
+L'accord, très brièvement, indique que OBIS et GBIF sont des initiatives complémentaires avec des objectifs communs.
+
+270
+00:25:24,920 --> 00:25:27,320
+Il est logique de travailler ensemble.
+
+271
+00:25:27,620 --> 00:25:36,080
+Et ce qu'il doit être fait et que nous essaierons de faire, c'est de maximiser la qualité des données pour l'utilisation
+
+272
+00:25:36,420 --> 00:25:41,280
+de tous les jeux de données sur la biodiversité marine accessibles par les deux initiatives
+
+273
+00:25:42,180 --> 00:25:47,960
+Ceci est sur le, ce que j'aime appeler le flou au-dessus de nous, niveau de OBIS et du GBIF,
+
+274
+00:25:48,180 --> 00:25:57,080
+mais comment cela se traduit-il dans les faits pour les nœuds et ce que nous pouvons vraiment faire pour partager des données,
+
+275
+00:25:58,360 --> 00:26:00,060
+C'est ce que je vais expliquer.
+
+276
+00:26:01,400 --> 00:26:05,480
+Ce qui s'est passé l'année dernière, se situe au niveau de l'OBIS et du GBIF.
+
+277
+00:26:05,960 --> 00:26:11,720
+le GBIF a donné à OBIS une liste de tous ses jeux de données disponibles, par pays,
+
+278
+00:26:12,300 --> 00:26:16,460
+avec une indication du nombre d'espèces marines.
+
+279
+00:26:16,720 --> 00:26:21,800
+le GBIF a utilisé WoRMS pour faire correspondre toutes les espèces avec les  filtres des espèces marines.
+
+280
+00:26:22,020 --> 00:26:30,100
+Maintenant, OBIS a un aperçu des jeux de données qui représentent 100% des données marines ou, par exemple, 75% des données sont marines.
+
+281
+00:26:30,280 --> 00:26:34,620
+Ce sont ceux sur lesquels nous aimerions nous concentrer si nous ne les possédons pas déjà.
+
+282
+00:26:34,960 --> 00:26:39,600
+Donc, ce qui se passera dans la pratique, c'est que les noeuds OBIS,
+
+283
+00:26:39,940 --> 00:26:45,980
+à ce niveau, vont commencer à communiquer avec les nœuds GBIF pour voir si
+
+284
+00:26:46,240 --> 00:26:51,860
+les jeux de données maritimes des noeuds de GBIF peuvent alimenter les noeuds OBIS
+
+285
+00:26:52,680 --> 00:26:56,740
+Ensuite, à partir des différents noeuds OBIS, cela s'adaptera à OBIS ;
+
+286
+00:26:57,160 --> 00:27:04,180
+de sorte que OBIS vise un aperçu complet de tous les jeux de données marines dans le monde entier.
+
+287
+00:27:04,180 --> 00:27:09,400
+L'ensemble ou la configuration générale a pour but d'encourager la collaboration entre
+
+288
+00:27:09,400 --> 00:27:13,420
+les noeuds OBIS et les nœuds GBIF car nous avons le même objectif :
+
+289
+00:27:13,680 --> 00:27:18,280
+OBIS se concentre sur l'environnement marin, GBIF se concentre sur tous les environnements
+
+290
+00:27:18,440 --> 00:27:23,480
+mais il peut sans doute encore avoir des échanges parce que je parie que GBIF France a des contacts différents
+
+291
+00:27:23,640 --> 00:27:25,820
+dans le pays et nous nous avons
+
+292
+00:27:25,820 --> 00:27:30,520
+EurOBIS donc il faut continuer afin que nous puissions apprendre les uns des autres, nous pouvons vraiment faire avancer les choses.
+
+293
+00:27:31,580 --> 00:27:40,240
+Et il est important de savoir que nous ayons déjà beaucoup de travail, donc si nous pouvons éviter les doubles emplois, je pense que c'est très bienvenu,
+
+294
+00:27:40,440 --> 00:27:46,680
+donc nous devrions vraiment voir qui fait quoi et comment nous pouvons diviser le travail et partir de ça.
+
+295
+00:27:50,400 --> 00:27:53,700
+Diapositive finale : où nous dirigeons nous à présent ?
+
+296
+00:27:53,960 --> 00:28:03,100
+J'ai très rapidement, examinez EurOBIS cette semaine et voyez quels jeuxde données de France sont déjà disponibles, sur la marine.
+
+297
+00:28:03,740 --> 00:28:08,360
+Il y en a plus que ceux que j'ai énumérés ici, mais ce sont ceux qui ont vraiment attiré mon attention,
+
+298
+00:28:08,700 --> 00:28:16,800
+nous avons déjà des données de l'Ifremer, de l'IRD, du musée (où nous sommes) , de l'Observatoire océanologique.
+
+299
+00:28:17,200 --> 00:28:23,500
+Il y a déjà beaucoup de choses en mouvement, mais je suppose qu'il reste encore beaucoup de choses qui peuvent être partagées.
+
+300
+00:28:23,820 --> 00:28:26,380
+Je devrais vraiment examiner cela.
+
+301
+00:28:26,600 --> 00:28:29,440
+Encore une fois, les étapes futures sont :
+
+302
+00:28:29,980 --> 00:28:35,760
+les noeuds OBIS examineront la liste des jeux de données GBIF contenant des espèces marines
+
+303
+00:28:36,540 --> 00:28:42,000
+par pays, puis les nœuds responsables communiquent avec les nœuds GBIF responsables
+
+304
+00:28:42,260 --> 00:28:44,460
+pour voir comment nous pouvons travailler ensemble.
+
+305
+00:28:44,900 --> 00:28:51,700
+Et encore une fois, soulignons qu'il s'agit d'un échange de données bidirectionnel, nous voulons vraiment éviter une duplication d'effort.
+
+306
+00:28:52,180 --> 00:28:57,180
+Ceci étant dit, depuis le point de vue d'EurOBIS, j'ai vraiment hâte de
+
+307
+00:28:57,680 --> 00:29:02,300
+discuter avec le GBIF France et voir comment nous pouvons commencer cette collaboration.
+
+308
+00:29:02,640 --> 00:29:09,240
+C'est un long processus, qui sera toujours continue, mais il pourrait être bon d'établir un premier contact ici et
+
+309
+00:29:09,480 --> 00:29:12,040
+voir où on peut aller de là.
+
+310
+00:29:12,220 --> 00:29:16,540
+Je vous remercie beaucoup et je ne sais pas s'ils ont le temps de poser des questions.
+
+311
+00:29:16,540 --> 00:29:18,120
+*applaudissement*
+

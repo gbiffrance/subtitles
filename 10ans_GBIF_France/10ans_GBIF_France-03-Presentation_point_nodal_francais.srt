@@ -1,0 +1,1881 @@
+1
+00:00:00,000 --> 00:00:05,260
+Je vais vous parler du point nodal, GBIF France
+qui fête ces 10 ans aujourd'hui.
+
+2
+00:00:06,800 --> 00:00:14,220
+Comme Donald l'a présenté tout à l'heure,
+on fait partis des 54 pays membres du GBIF.
+
+3
+00:00:14,460 --> 00:00:18,780
+Il y a également une quarantaine d'association 
+et de consortium
+
+4
+00:00:18,960 --> 00:00:25,860
+comme Barcode of Life ou Species 2000
+ou OBIS qui participent au GBIF.
+
+5
+00:00:25,960 --> 00:00:29,100
+Et donc nous avons monté le point nodal en 2006.
+
+6
+00:00:30,500 --> 00:00:36,560
+Il a été donc lancé en juin 2006,
+on est financé par le ministère de la recherche,
+
+7
+00:00:36,740 --> 00:00:43,540
+et depuis 4 ans, on été financé via la NR E-Recolnat
+et nous sommes basé au Muséum
+
+8
+00:00:43,940 --> 00:00:50,580
+On a été intégré au Muséum presque dès le départ,
+et on est sous la direction des collections depuis 2013.
+
+9
+00:00:51,580 --> 00:00:58,560
+En général, on suit le plan stratégique du GBIF 
+qui est établit le dernier D pour 4 ans
+
+10
+00:00:58,760 --> 00:01:04,000
+de 2012 à 2016 ; et on est en train de préparer
+le plan stratégique 2017-2020.
+
+11
+00:01:04,400 --> 00:01:10,020
+La France contribue à ces réflexions et pour l'instant, l'organisation
+
+12
+00:01:10,120 --> 00:01:16,920
+c'est un comité de pilotage annuel dans lesquels 
+il y a les membres des différents ministères français
+
+13
+00:01:17,120 --> 00:01:21,700
+recherche, environnement, agriculture et affaires étrangères.
+
+14
+00:01:21,780 --> 00:01:28,160
+Et également des représentants des différentes grandes institutions de recherche en France.
+
+15
+00:01:29,720 --> 00:01:33,860
+Les missions du point nodal, c'est bien sûr, 
+au départ,  d'aidé à connecter les données
+
+16
+00:01:34,020 --> 00:01:36,480
+pour les partager ensuite sur le portail du GBIF,
+
+17
+00:01:37,000 --> 00:01:40,960
+en suivant les standards internationaux défini 
+notamment au TDWG
+
+18
+00:01:41,280 --> 00:01:45,920
+c'est également d'informer sur le GBIF 
+Qu'est ce que c'est, les actions,
+
+19
+00:01:45,920 --> 00:01:47,900
+les appels à projets menées.
+
+20
+00:01:48,040 --> 00:01:51,400
+D'assurer beaucoup d'actions de formations, 
+on en reparlera,
+
+21
+00:01:51,720 --> 00:01:58,160
+de collecter les métadonnées sur les collections
+et de promouvoir l'utilisation des données
+
+22
+00:01:58,380 --> 00:02:02,660
+et les outils GBIF par tous les utilisateurs 
+potentiel : dans la recherche,
+
+23
+00:02:02,860 --> 00:02:06,940
+dans les décideurs, pour un public assez large.
+
+24
+00:02:07,420 --> 00:02:13,260
+Et bien sûr, de collaborer avec les programmes
+et institutions française existantes
+
+25
+00:02:13,260 --> 00:02:15,200
+qui travaillent sur la biodiversité.
+
+26
+00:02:16,440 --> 00:02:25,100
+L'équipe actuelle du GBIF France, nous sommes 
+6 dont 4 permanents et deux à temps partiels
+
+27
+00:02:25,300 --> 00:02:29,780
+Eric Chenin qui est le chef de délégation du 
+GBIF France (qui est ici)
+
+28
+00:02:30,040 --> 00:02:32,920
+et qui représente le GBIF à l'international.
+
+29
+00:02:33,380 --> 00:02:37,100
+Régine Vigne qui est notre coordinatrice scientifique
+
+30
+00:02:37,420 --> 00:02:41,440
+Tous les deux sont à temps partiels sur le GBIF.
+
+31
+00:02:41,580 --> 00:02:45,780
+Moi-même qui suis la responsable du point nodal GBIF France.
+
+32
+00:02:45,880 --> 00:02:50,020
+Marie-Elise Lecoq et Fabien Caviere qui sont
+nos informaticiens.
+
+33
+00:02:50,280 --> 00:02:55,920
+Sophie Pamerlon, ceux qui ont publiés des données
+ont déjà dû la croiser,
+
+34
+00:02:56,000 --> 00:03:00,980
+elle vient pour aider à la connexion des données
+qui vient s’asseoir au bureau
+
+35
+00:03:01,060 --> 00:03:05,480
+avec vos bases de données et qui vous aide concrètement à les mettre en ligne.
+
+36
+00:03:08,360 --> 00:03:15,040
+En terme de mobilisation de données, la 1ère base
+de données qui a été connecté par le GBIF France
+
+37
+00:03:15,180 --> 00:03:19,320
+en 2005, c'était l'herbier de Cayenne de l'IRD
+avec 150 000 données.
+
+38
+00:03:19,580 --> 00:03:26,620
+Puis, au fur et à mesure des 10 ans voie la courbe
+qui a bien montée au fur et à mesure du temps,
+
+39
+00:03:26,980 --> 00:03:31,940
+et maintenant, nous en sommes à peu près
+150 jeux de données français,
+
+40
+00:03:32,260 --> 00:03:35,500
+actuellement connecté au portail international.
+
+41
+00:03:38,140 --> 00:03:44,820
+En terme de nombre d'occurrence, le 1er herbier de Cayenne, c'était au début 150 000 données
+
+42
+00:03:44,880 --> 00:03:50,040
+et maintenant, comme le disais Bruno David,
+nous en sommes maintenant à presque
+
+43
+00:03:50,200 --> 00:03:54,420
+40 millions de données, grâce à vous tous 
+en général, ici présent.
+
+44
+00:03:54,600 --> 00:04:01,760
+Et on s'aperçoit qu'il y a eu un gros effort en 2015
+de fait avec la FCBN qui s'est connectée.
+
+45
+00:04:03,100 --> 00:04:09,440
+Après on voit, quand on regarde ensuite par 
+classification, il y a beaucoup plus de plantes,
+
+46
+00:04:09,720 --> 00:04:16,420
+ce sont les plantes qui dominent les données
+partagées, mais il y a aussi d'autres catégories :
+
+47
+00:04:16,540 --> 00:04:25,400
+des animaux, on a quelques champignon, 
+des virus et des bactéries (pas beaucoup).
+
+48
+00:04:28,100 --> 00:04:33,120
+On n’a quand même pas mal de chose
+et 40 millions, c'est quand même conséquent.
+
+49
+00:04:33,820 --> 00:04:38,180
+Et voilà ce que cela donne maintenant quand 
+on regarde la carte de la répartition
+
+50
+00:04:38,300 --> 00:04:41,020
+de l'ensemble  des données connecté par 
+la France,
+
+51
+00:04:41,640 --> 00:04:47,920
+on s'aperçoit que la France publie des données 
+sur plus de 240 territoires
+
+52
+00:04:48,040 --> 00:04:57,780
+pays, ou îles différentes et donc incluant 
+plus de 39 899  000 données géo-référencées
+
+53
+00:04:57,840 --> 00:04:59,320
+car c'est important aussi,
+
+54
+00:04:59,480 --> 00:05:03,420
+et qui proviennent de plus de 
+152 jeux de données différents.
+
+55
+00:05:03,660 --> 00:05:07,080
+Ca c'est bien mais on va évidemment 
+essayer de continuer
+
+56
+00:05:07,240 --> 00:05:12,080
+Et comme Donald en a parler tout à l'heure,
+cette année, il y a eu un énorme travail
+
+57
+00:05:12,140 --> 00:05:18,380
+de fait sur les licences de ces jeux de données
+Sophie Pamerlon notamment
+
+58
+00:05:18,580 --> 00:05:25,360
+est venu reparler avec tous les éditeurs de données
+pour discuter avec eux de la meilleure licence
+
+59
+00:05:25,360 --> 00:05:27,520
+à adopter pour leur jeux de données.
+
+60
+00:05:27,720 --> 00:05:32,600
+C'est un travail qui est presque terminé,
+je pense pas tout à fait terminé
+
+61
+00:05:32,780 --> 00:05:39,900
+on a essayé de recontacté tous les éditeurs 
+de données, pour choisir avec eux les licences.
+
+62
+00:05:40,160 --> 00:05:44,220
+Alors c'est en cours, ce n’est pas encore terminé
+mais il y a déjà une grosse partie du travail
+
+63
+00:05:44,420 --> 00:05:49,100
+qui a été fait, cela a été une des activités 
+importante de 2016.
+
+64
+00:05:52,660 --> 00:05:57,160
+Si on regarde, avec les 40 millions de données
+fournit par la France,
+
+65
+00:05:57,300 --> 00:06:01,140
+cela nous place dans le top 10 des pays
+ contributeurs au GBIF,
+
+66
+00:06:01,320 --> 00:06:08,420
+derrière les Etats-Unis, la Suède et le Royaume Uni
+et finalement, si on regarde depuis le début
+
+67
+00:06:08,840 --> 00:06:15,500
+du GBIF France, on s'aperçoit que c'est resté
+assez stable, on a toujours été dans le top 10
+
+68
+00:06:15,680 --> 00:06:20,420
+des fournisseurs de données et même dans 
+le top 5 très régulièrement,
+
+69
+00:06:20,700 --> 00:06:22,700
+dès fois 6ème, d'autre fois 7ème.
+
+70
+00:06:22,920 --> 00:06:26,900
+Mais finalement, on voit que l'évolution du nombre 
+de données dans le GBI,
+
+71
+00:06:27,240 --> 00:06:32,280
+et ben, l'évolution du nombre de données publié
+ par la France était assez corrélé,
+
+72
+00:06:32,460 --> 00:06:35,380
+on a augmenté, on a grandi ensemble.
+
+73
+00:06:35,640 --> 00:06:40,900
+Maintenant, il y a plus de 600 millions de données
+ dans le GBIF, on est à 40 millions,
+
+74
+00:06:41,060 --> 00:06:45,160
+en terme de contribution, car après il y a aussi
+ les grands projets comme OBIS
+
+75
+00:06:45,360 --> 00:06:50,080
+il y aura une présentation sur ça cet après-midi,
+qui contribuent évidemment énormément
+
+76
+00:06:50,260 --> 00:06:53,960
+a la fourniture des données.
+
+77
+00:06:55,020 --> 00:06:57,800
+Qui sont les éditeurs de données français ?
+
+78
+00:06:57,920 --> 00:07:03,200
+On a évidemment plusieurs catégories,
+on a au niveau des collections,
+
+79
+00:07:03,360 --> 00:07:07,860
+on a énormément de données provenant du
+Muséum d'Histoire Naturelle ici à Paris,
+
+80
+00:07:08,080 --> 00:07:11,200
+c'est, en terme de collection, 
+le plus gros contributeur.
+
+81
+00:07:11,640 --> 00:07:18,460
+Mais on a également beaucoup d'autre muséum
+français qui connecte des données comme
+
+82
+00:07:18,680 --> 00:07:22,520
+Bourge, Clermont-Ferrand, etc...
+je vais pas citer tout le monde aujourd'hui
+
+83
+00:07:22,660 --> 00:07:26,560
+mais il y a tous les logos et toutes les institutions 
+qui publient (dans la diapo derrière moi).
+
+84
+00:07:26,620 --> 00:07:32,260
+On a pas mal de Muséum en France qui 
+connecte aussi des données de collections,
+
+85
+00:07:32,480 --> 00:07:37,420
+on a aussi beaucoup d'associations et de 
+conservatoire également.
+
+86
+00:07:37,600 --> 00:07:42,820
+On a aussi des associations de science 
+participatives comme DiveBoard
+
+87
+00:07:43,000 --> 00:07:48,720
+qui est une association de plongeur qui 
+ensuite, sur un site web, peuvent décrire
+
+88
+00:07:48,860 --> 00:07:54,260
+les plongées qui ont faites, ces données
+arrivent ensuite en ligne au GBIF.
+
+89
+00:07:54,460 --> 00:07:59,260
+On a aussi TelaBotanica qui est une grosse 
+association, une FGBN.
+
+90
+00:07:59,400 --> 00:08:02,940
+Il y a aussi les instituts de recherche qui 
+sont très présent aussi
+
+91
+00:08:03,100 --> 00:08:10,180
+l'IRD, l'INRA, Pasteur, CNRS, Ifremer 
+également qui publient.
+
+92
+00:08:10,300 --> 00:08:15,740
+Et on a aussi des universités comme Paris 6, 
+Strasbourg, Marseille, etc...
+
+93
+00:08:18,820 --> 00:08:23,160
+On a contacté beaucoup de type d'éditeur
+de données différents,
+
+94
+00:08:23,380 --> 00:08:27,820
+ben sûr, il manque encore, et on va
+continuer à travailler
+
+95
+00:08:28,060 --> 00:08:33,180
+et évidemment, il y a l'INPN qui est l'agrégateur
+qui est aussi en terme d'observation
+
+96
+00:08:33,340 --> 00:08:38,480
+le plus gros fournisseur de données
+du GBIF.
+
+97
+00:08:38,660 --> 00:08:46,040
+Bien sûr, on continue à aller voir les 
+personnes et essayer de connecter
+
+98
+00:08:46,200 --> 00:08:50,140
+encore plus de jeux de données
+notamment, on est en train de discuter avec
+
+99
+00:08:50,340 --> 00:08:55,620
+65Mo, avec e-Recolnat ; et c'est des données
+ qui rentreront un jour a priori
+
+100
+00:08:55,620 --> 00:08:58,940
+dans le GBIF aussi.
+
+101
+00:09:01,140 --> 00:09:05,000
+Et donc, inversement, il y a aussi les données
+que la France met sur le GBIF
+
+102
+00:09:05,520 --> 00:09:10,080
+mais le GBIF permet aussi de récupérer des 
+données provenant de l'étranger.
+
+103
+00:09:10,220 --> 00:09:14,500
+Par exemple, pour les données publiées sur la
+France et ses territoires français,
+
+104
+00:09:14,500 --> 00:09:18,620
+on s'aperçoit qu'il y a 39 pays qui contribuent
+a apporter des données sur la France,
+
+105
+00:09:18,740 --> 00:09:23,760
+c'est ce qu'on appelle la rapatriation des 
+données, et on s'aperçoit qu'il y a
+
+106
+00:09:23,920 --> 00:09:29,160
+sur le territoire français, plus de 34 millions de 
+ données qui sont actuellement
+
+107
+00:09:29,280 --> 00:09:32,840
+connecté sur la France et qui correspondent 
+plus de 1000 jeux de données différents.
+
+108
+00:09:34,200 --> 00:09:41,500
+Evidemment, quand on regarde le top 10 des pays 
+qui contribuent à ces données sur la France,
+
+109
+00:09:41,660 --> 00:09:46,460
+en premier vient la France, jusque là
+c'est assez logique,
+
+110
+00:09:46,700 --> 00:09:52,920
+mais on s'aperçoit qu'en deuxième, il y a les 
+Etats-Unis qui connecte presque 500 000 données.
+
+111
+00:09:53,300 --> 00:09:59,320
+Evidemment, sur la métropole française, 
+c'est la France qui en connecte le plus,
+
+112
+00:09:59,560 --> 00:10:03,640
+mais dès qu'on part, par exemple en Guadeloupe,
+on s'aperçoit que, finalement,
+
+113
+00:10:03,940 --> 00:10:10,700
+il y a beaucoup plus de données connecté par 
+les USA en Guadeloupe que la France en connecte.
+
+114
+00:10:11,260 --> 00:10:16,080
+On le voit très clairement ; pareil à Nouméa, 
+par exemple, en Nouvelle-Calédonie,
+
+115
+00:10:16,180 --> 00:10:19,540
+c'est pareil : il y a beaucoup l'Australie qui 
+connecte beaucoup de données
+
+116
+00:10:19,600 --> 00:10:23,240
+sur la Nouvelle-Calédonie, la France aussi 
+bien sûr.
+
+117
+00:10:26,240 --> 00:10:31,800
+On s'aperçoit qu'il y a 39 pays qui contribuent,
+c'est ça aussi qui est intéressant,
+
+118
+00:10:31,920 --> 00:10:36,800
+c'est que cela permet de récupérer quelque
+part, des données acquises par d'autre
+
+119
+00:10:36,820 --> 00:10:40,560
+et nous, du coup, on a plus d'information.
+
+120
+00:10:40,680 --> 00:10:44,580
+On voit qu'il y a les Etats-Unis, les Pays-Bas,
+le Royaume-Uni
+
+121
+00:10:44,720 --> 00:10:49,500
+après, il y a évidemment tous nos voisins :
+il y a la Belgique, le Luxembourg, l'Espagne
+
+122
+00:10:49,520 --> 00:10:52,180
+l'Allemagne, la Suisse, l'Autriche, etc...
+
+123
+00:10:52,280 --> 00:10:56,220
+c'est assez cohérent finalement, et logique.
+
+124
+00:10:59,080 --> 00:11:03,220
+Pourquoi mobilisé toutes ces données ?
+Toute cette après-midi, vous aurez
+
+125
+00:11:03,300 --> 00:11:06,420
+plein d'exemple d'utilisation de ces données
+dans différents domaines :
+
+126
+00:11:06,420 --> 00:11:08,880
+dans les niches écologiques, 
+en agro-biodiversité
+
+127
+00:11:09,040 --> 00:11:16,620
+Philippe Grandcolas vous fera aussi un sujet
+sur l'ensemble donc je n'en dit pas plus.
+
+128
+00:11:17,240 --> 00:11:22,860
+Restez avec nous cet après-midi pour avoir 
+beaucoup plus d'info sur l'utilisation de ces données.
+
+129
+00:11:24,300 --> 00:11:30,640
+Bien sûr, en terme d'informations, on a créé
+un site web qui est www.gbif.fr
+
+130
+00:11:30,780 --> 00:11:34,000
+sur lequel on met les actualités en cours, 
+par exemple, en ce moment,
+
+131
+00:11:34,320 --> 00:11:40,140
+je vous engage à répondre à une enquête 
+sur le GBIF et le GGBN sur les données
+
+132
+00:11:40,260 --> 00:11:42,480
+liée à la génétique.
+
+133
+00:11:42,540 --> 00:11:46,940
+On passe en général aussi les annonces,
+par exemple, il y a un prix pour les jeunes
+
+134
+00:11:47,040 --> 00:11:51,380
+chercheurs sur lequel vous pouvez postuler
+jusqu'au 15 juillet
+
+135
+00:11:51,460 --> 00:11:57,780
+On essaie de mettre toutes ces actualités en ligne
+et on vous encourage à répondre
+
+136
+00:11:57,860 --> 00:12:01,300
+quand il y a des enquêtes ; il y a aussi des
+informations sur les groupes de travail,
+
+137
+00:12:01,460 --> 00:12:06,440
+sur les rapports fournis.
+Il y a évidemment l'agenda aussi.
+
+138
+00:12:08,720 --> 00:12:12,260
+On a aussi développé le portail national 
+GBIF France
+
+139
+00:12:12,400 --> 00:12:16,220
+je vous le montre là mais Marie-Elise, notre informaticienne  va vous faire une présentation
+
+140
+00:12:16,360 --> 00:12:19,680
+et une démo juste après donc je n'en parlerai
+pas plus.
+
+141
+00:12:19,800 --> 00:12:24,280
+mais il vient de sortir et il a été fait en 
+collaboration avec Atlas of Living Australia (ALA)
+
+142
+00:12:24,540 --> 00:12:33,580
+on a fait un partenariat, on a partagé le code
+et on a décrit plus en détail
+
+143
+00:12:33,700 --> 00:12:38,040
+la documentation sur les codes,
+et c'est un grand travail qui a été
+
+144
+00:12:38,140 --> 00:12:43,220
+fait avec d'autre pays et cela crée comme ça 
+un réseau d'informaticien au sein du GBIF
+
+145
+00:12:43,340 --> 00:12:51,280
+qui est très positif car cela permet aussi,
+malgré tout un grand turn-over
+
+146
+00:12:51,420 --> 00:12:55,320
+des ingénieurs du fait que ce sont des postes 
+en CDD;
+
+147
+00:12:55,440 --> 00:12:59,340
+Cela permet d'avoir une continuité quand 
+un ingénieur informatique s'en va du GBIF France
+
+148
+00:12:59,500 --> 00:13:05,340
+il peux aller se former dans le pays d'à côté 
+et puis reprendre le travail.
+
+149
+00:13:05,680 --> 00:13:08,760
+On vous en reparlera tout à l'heure.
+
+150
+00:13:09,100 --> 00:13:13,260
+On a un compte twitter, je vous engage à
+le suivre.
+
+151
+00:13:13,500 --> 00:13:16,820
+Après on fait énormément de formation
+au niveau national,
+
+152
+00:13:16,980 --> 00:13:20,940
+depuis le début du GBIF, les premières année,
+on en faisait plutôt une par ans,
+
+153
+00:13:21,060 --> 00:13:25,080
+et puis là, les dernières années,  c'est plutôt
+3 par ans
+
+154
+00:13:25,240 --> 00:13:28,460
+alors vraiment, sur les outils du GBIF, 
+sur la qualité des données
+
+155
+00:13:28,500 --> 00:13:32,120
+sur comment publier des données,
+sur également publier des datapapers
+
+156
+00:13:32,140 --> 00:13:34,500
+on en fait généralement 
+(des formations) 3 par ans,
+
+157
+00:13:34,660 --> 00:13:40,800
+ce qui représente plus de 150 personnes 
+qui ont été formés au cours des 10 ans,
+
+158
+00:13:41,600 --> 00:13:47,540
+On essaye pour chaque formation que les 
+personnes viennent de différentes institutions
+
+159
+00:13:48,120 --> 00:13:56,560
+pour avoir des gens formé dans plusieurs 
+institutions comme l'IRD, le CNRS, les muséums, etc...
+
+160
+00:13:56,880 --> 00:14:05,440
+pour après que eux aussi , dans leurs organismes
+remontrent ces outils.
+
+161
+00:14:05,920 --> 00:14:10,300
+Voici les dernières réalisations en date,
+on avait des formations purement GBIF
+
+162
+00:14:10,420 --> 00:14:15,320
+et les dernières formations réalisées, 
+il y en a eu une, par exemple,
+
+163
+00:14:15,460 --> 00:14:19,720
+pour l'ECOSCOPE, que nous avons fait 
+en Septembre au muséum,
+
+164
+00:14:19,900 --> 00:14:25,220
+il y a un atelier sur Europeana-GBIF qui
+a été fait au CIRAD à Montpellier
+
+165
+00:14:25,360 --> 00:14:28,280
+je parlerai d'Europeana tout à l'heure,
+
+166
+00:14:28,360 --> 00:14:31,780
+et puis la dernière en date, date de cette semaine
+c'était un petit peu chargé cette semaine,
+
+167
+00:14:31,940 --> 00:14:36,820
+la formation était avec IndexMed à Marseille
+et à Aix-en-provence
+
+168
+00:14:36,940 --> 00:14:41,540
+Sophie Pamerlon, notre ingénieur en donnée y était
+et je crois que cela s'est bien passé aussi.
+
+169
+00:14:42,020 --> 00:14:48,940
+Donc on essaie de développer de plus en plus de
+formation avec les personnes intéressés,
+
+170
+00:14:49,040 --> 00:14:53,300
+elles peuvent nous contacter , et après
+on s'organise, on vient.
+
+171
+00:14:53,800 --> 00:14:58,420
+Au niveau international, on fait beaucoup 
+de formation,  on a participé au
+
+172
+00:14:58,540 --> 00:15:02,600
+programme SEP SEPDEC, j'en parlerai
+un peu après, qui est un programme
+
+173
+00:15:02,860 --> 00:15:08,280
+sur les pays francophone d'Afrique et d'Asie 
+du Sud-Est ; il y avait 22 pays
+
+174
+00:15:08,400 --> 00:15:13,600
+et on a organisé 3 formations au niveau
+régionales, donc au Sénegal, au Cameroun et
+
+175
+00:15:13,600 --> 00:15:14,720
+à Madagascar.
+
+176
+00:15:14,880 --> 00:15:22,160
+Et puis, on avait fait une formation globale avec 
+tout les participants des différents pays à Paris
+
+177
+00:15:22,340 --> 00:15:24,340
+en 2010.
+
+178
+00:15:25,240 --> 00:15:30,920
+Durant les nodes meetings, au moment du conseil d'administration du GBIF,
+
+179
+00:15:31,780 --> 00:15:37,420
+tout les 2 ans, il y a également une réunion 
+de tout les nodes du GBIF participants.
+
+180
+00:15:37,780 --> 00:15:41,100
+Et en général, on organise des formations 
+à ce moment là
+
+181
+00:15:41,640 --> 00:15:50,300
+la France a toujours participé, et j'ai fait partie des formateurs pour 2 de ces trainings,
+
+182
+00:15:50,460 --> 00:15:57,760
+on essaie de participer, d'être actif dans
+ ces formations, dans ces évènements.
+
+183
+00:15:58,000 --> 00:16:03,500
+Et puis récemment, on a fait une formation avec le 
+GBIF Benin l'année dernière,
+
+184
+00:16:03,720 --> 00:16:08,640
+on essaie de partager la connaissance
+au maximum, d'aller présenter les outils
+
+185
+00:16:08,700 --> 00:16:11,000
+le plus possible
+
+186
+00:16:12,400 --> 00:16:17,060
+On a donc, comme le disais Donald, on a traduit
+beaucoup de documents parce que
+
+187
+00:16:17,240 --> 00:16:22,220
+il y a des documents traduit en anglais, en espagnol
+en coréen, en toutes les langues
+
+188
+00:16:22,400 --> 00:16:27,800
+et nous on essaye de traduire ces documents 
+en français, d'en publier de temps en temps
+
+189
+00:16:27,900 --> 00:16:29,480
+pour les formations.
+
+190
+00:16:29,640 --> 00:16:33,000
+On a aussi un gros travail de partage de 
+ce document.
+
+191
+00:16:33,620 --> 00:16:39,120
+Et au niveau national, on ne travaille pas tout seul,
+on essaie de travailler avec tous ceux qui
+
+192
+00:16:39,220 --> 00:16:44,420
+travaillent sur la biodiversité et notamment avec 
+e-Recolnat, qui est une plateforme sur
+
+193
+00:16:44,520 --> 00:16:49,880
+les collections naturaliste et l'INPN,
+je reviendrait sur ces deux projets plus en détails.
+
+194
+00:16:50,020 --> 00:16:53,260
+On travaille également beaucoup avec 
+la FRB et ECOSCOPE,
+
+195
+00:16:53,380 --> 00:16:56,460
+notamment sur le portail de métadonnées 
+qui a été développé,
+
+196
+00:16:56,560 --> 00:17:01,540
+on a aidé, nos informaticiens ont fait plusieurs 
+réunions techniques pour
+
+197
+00:17:01,540 --> 00:17:04,340
+que cela correspondent 
+au standard internationaux.
+
+198
+00:17:06,240 --> 00:17:09,320
+On a organisé plusieurs formations notamment
+avec BioVEL sur des workflows
+
+199
+00:17:09,420 --> 00:17:11,840
+de BioVEL et du GBIF.
+
+200
+00:17:12,040 --> 00:17:17,520
+Au niveau du SINP, du ministère de l'environnement
+on participe à plusieurs groupe de travail,
+
+201
+00:17:17,740 --> 00:17:22,960
+notamment le groupe sur les standard, 
+sur l'architecture, sur les aspect juridique
+
+202
+00:17:23,060 --> 00:17:25,840
+et également, sur le groupe de validation.
+
+203
+00:17:26,140 --> 00:17:31,460
+On est donc assez actifs, on participe à tous
+ces groupes de travail
+
+204
+00:17:31,800 --> 00:17:36,020
+et aussi au niveau technique de 
+la plateforme SINP.
+
+205
+00:17:36,120 --> 00:17:38,780
+On travaille aussi avec le réseau des 
+bases de données du CNRS,
+
+206
+00:17:38,920 --> 00:17:46,120
+en général, quand ils font des sessions, 
+des journées, on contribue, on participe.
+
+207
+00:17:46,940 --> 00:17:52,740
+IndexMed également : on a fait une formation 
+très récemment,
+
+208
+00:17:52,900 --> 00:17:57,200
+mais on contribue aussi aux réflexions
+d'IndexMed sur le partage de données,
+
+209
+00:17:57,200 --> 00:18:02,020
+les archives ouvertes, 
+l'interopérabilité des
+bases.
+
+210
+00:18:02,380 --> 00:18:05,820
+L'UMS BBEES aussi, 
+qui est basé ici,  au Muséum.
+
+211
+00:18:06,240 --> 00:18:12,040
+Plus récemment avec le projet 65Mo, 
+on fait parti du comité de suivi
+
+212
+00:18:12,160 --> 00:18:17,740
+pour essayer aussi que les données soient 
+formatés, standardisés dans les bons procédés.
+
+213
+00:18:18,620 --> 00:18:27,900
+On essaie d'interagir avec tous les contributeurs
+de la biodiversité au niveau national.
+
+214
+00:18:28,420 --> 00:18:30,920
+Après, je vous rappelle que nous ne somme 
+que 4 à plein temps
+
+215
+00:18:31,060 --> 00:18:34,020
+et que c'est pas toujours facile
+d'être partout en même temps.
+
+216
+00:18:34,880 --> 00:18:39,420
+Et il ne faut pas hésiter à nous contacter
+car des fois, il peut arriver que nous
+
+217
+00:18:39,540 --> 00:18:44,580
+soyons déborder et que nous oublions des 
+choses. Donc il faut nous contacter.
+
+218
+00:18:44,960 --> 00:18:51,000
+Avec e-Recolnat, on travaille beaucoup sur 
+les outils de connexions,
+
+219
+00:18:51,000 --> 00:18:53,320
+l'interopérabilité des bases, 
+l'utilisations des standards,
+
+220
+00:18:53,460 --> 00:18:56,860
+et on a beaucoup contribué à 
+la communication du projet.
+
+221
+00:18:57,060 --> 00:19:02,000
+on est financé pour les 4 dernières années via
+l'ANR (Agence Nationale pour la Recherche)
+
+222
+00:19:02,000 --> 00:19:03,240
+d'e-Recolnat.
+
+223
+00:19:03,480 --> 00:19:07,500
+Et on a aussi également, notre ingénieur 
+informatique, qui a contribué au développement
+
+224
+00:19:07,700 --> 00:19:12,920
+des Herbonautes, herbiers numérique 
+collaboratifs mais je suppose qu'ici,
+
+225
+00:19:13,140 --> 00:19:15,140
+vous êtes nombreux à connaitre.
+
+226
+00:19:15,320 --> 00:19:20,180
+C'est en fait de la retranscription 
+d'étiquettes en lignes,
+
+227
+00:19:20,380 --> 00:19:24,640
+et donc notre informaticienne (Marie-Elise Lecoq)
+a également contribué au développement.
+
+228
+00:19:25,560 --> 00:19:29,660
+Au niveau de l'INPN, bien sûr, on travaille aussi
+beaucoup avec eux,
+
+229
+00:19:29,820 --> 00:19:33,320
+l'idée étant d'harmoniser les flux de données
+au niveau internationale de permettre
+
+230
+00:19:33,400 --> 00:19:36,880
+au gens de pas avoir à connecter plusieurs
+fois leurs données au même endroit
+
+231
+00:19:36,880 --> 00:19:40,680
+sachant qu'une fois que l'on a connecté
+quelque part, à l'INPN ou au GBIF
+
+232
+00:19:40,800 --> 00:19:44,820
+on peut le retrouver dans l'autre sans avoir
+à faire deux fois le travail,
+
+233
+00:19:44,880 --> 00:19:48,040
+l'idée étant que lorsqu'on a des données 
+international, il vaut mieux les mettre
+
+234
+00:19:48,240 --> 00:19:52,960
+au GBIF et puis la partie qui concerne les 
+territoires français on les remets dans l'INPN,
+
+235
+00:19:53,060 --> 00:19:57,280
+et à l'inverse quand on a des données national
+d'observations, on les met dans le INPN
+
+236
+00:19:57,280 --> 00:19:59,280
+et après, c'est transféré vers le GBIF.
+
+237
+00:19:59,360 --> 00:20:07,260
+On essaie de simplifier la vie des gens,
+des chercheurs, ceux qui ont des données.
+
+238
+00:20:07,780 --> 00:20:13,140
+Par exemple, avec l'INPN, on a fait des essais 
+pour faire en sorte que l'INPN récupère
+
+239
+00:20:13,220 --> 00:20:17,960
+les données justement étrangères, les données
+fournis par des pays étrangers
+
+240
+00:20:18,140 --> 00:20:21,240
+et essaie de les récupérer quand elle concerne les 
+territoires nationaux.
+
+241
+00:20:21,400 --> 00:20:26,300
+et de les intégrer du coup dans l'INPN,
+pour permettre les synthèses et analyses .
+
+242
+00:20:26,560 --> 00:20:29,640
+Au niveau européen, on fait aussi beaucoup
+de chose,
+
+243
+00:20:29,840 --> 00:20:36,320
+on essaie de faire une réunion annuelle des
+noeuds, et on en a accueilli 2 ici
+
+244
+00:20:36,340 --> 00:20:39,240
+à Paris en 2011 et 2015.
+
+245
+00:20:39,520 --> 00:20:46,220
+Moi j'ai été élu représentante Europe,
+et j'ai été Vice-présidente pendant
+
+246
+00:20:46,360 --> 00:20:49,080
+plusieurs année, et l'année dernière, j'ai été
+élue.
+
+247
+00:20:49,220 --> 00:20:56,140
+Donc je représente également l'Europe au 
+comité des nodes internationaux.
+
+248
+00:20:56,920 --> 00:21:03,520
+On contribue aussi, on n’est pas directement
+dans le projet EU-BON, mais on est associate-partern.
+
+249
+00:21:04,640 --> 00:21:11,860
+EUBON, c'est vraiment un projet qui a une 
+approche innovante pour intégrer
+
+250
+00:21:11,860 --> 00:21:16,300
+les systèmes d'informations sur la bio-diversité :
+du sol à la télédétection
+
+251
+00:21:16,440 --> 00:21:19,440
+pour vraiment répondre à des questions 
+scientifique et des besoins.
+
+252
+00:21:19,580 --> 00:21:23,800
+Nous ne sommes pas directement inclus dans 
+le projet mais on a contribué
+
+253
+00:21:23,960 --> 00:21:27,460
+et on suit activement ce qui font et si il y a
+une deuxième phase du projet,
+
+254
+00:21:27,660 --> 00:21:34,520
+on essaiera de contribuer, d'être vraiment dedans
+et ne plus être que associate-partern
+
+255
+00:21:34,600 --> 00:21:37,080
+mais vraiment partern.
+
+256
+00:21:37,160 --> 00:21:40,700
+Mais on suit tous ce qu'ils ont fait ; cela s'arrêtera
+l'année prochaine mais on continuera à suivre
+
+257
+00:21:40,800 --> 00:21:46,060
+j'ai participé à tous leurs congrès annuel
+et aux réflexions .
+
+258
+00:21:46,260 --> 00:21:52,400
+On a aussi parler du projet OpenUp et Europeana,
+c'est un projet dont l'idée est que,
+
+259
+00:21:52,520 --> 00:21:57,320
+je sais pas si vous connaissez Europeana,
+c'est un site web sur la culture sur tous les musées
+
+260
+00:21:57,420 --> 00:22:00,900
+qui partage les données, 
+par exemple, la BNF, le Louvre
+
+261
+00:22:01,160 --> 00:22:06,600
+C'est un site culturel européen, et on s'est aperçu 
+qu'il manquait beaucoup d'informations
+
+262
+00:22:06,760 --> 00:22:08,640
+sur les données naturalistes.
+
+263
+00:22:08,760 --> 00:22:12,720
+Les Allemands ont porté un projet qui s'appelle
+OpenUp, auquel on a participé
+
+264
+00:22:12,840 --> 00:22:18,260
+et donc l'idée était de rajouter des données de 
+photos, de sons, de vidéos naturalistes
+
+265
+00:22:18,260 --> 00:22:19,760
+dans ce site web Europeana.
+
+266
+00:22:19,940 --> 00:22:26,180
+C'est un projet qui s'est terminé en 2014
+mais qui continue maintenant
+
+267
+00:22:26,540 --> 00:22:34,400
+les solutions techniques sont en place,
+et le flux de données continue à être perpétué,
+
+268
+00:22:34,400 --> 00:22:37,100
+et nous aidons les gens à contribuer
+
+269
+00:22:37,420 --> 00:22:43,260
+A la fin de ce projet-là, en 2014, le muséum
+avait fourni plus de 500 000 images
+
+270
+00:22:43,400 --> 00:22:51,160
+à Europeana, et actuellement, on continue
+à connecter des muséum de provence
+
+271
+00:22:51,240 --> 00:22:55,560
+de province aussi d'ailleurs.
+
+272
+00:22:55,660 --> 00:22:59,000
+et on avait eu une très bonne évaluation
+du projet pour la commission européenne
+
+273
+00:22:59,380 --> 00:23:02,620
+et là, vous avez un exemple 
+provenant du muséum.
+
+274
+00:23:03,220 --> 00:23:07,680
+Ca, c'est quelque chose, si vous avez des images,
+des vidéos, du son,
+
+275
+00:23:07,700 --> 00:23:11,380
+c'est quelque chose que l'on continue à faire,
+on peux continuer à les connecter
+
+276
+00:23:11,480 --> 00:23:16,460
+et du coup après, elles vont dans le GBIF, 
+et elles vont également dans Europeana.
+
+277
+00:23:16,640 --> 00:23:24,400
+Tout l'aspect technique est en place, et nous 
+on continue juste à assurer le fonctionnement.
+
+278
+00:23:24,800 --> 00:23:30,480
+Au niveau européen, on a organisé plusieurs
+workshop, notamment celui de Living Europe
+
+279
+00:23:30,580 --> 00:23:34,440
+étant notre version française du portail 
+Atlas of Living Australia
+
+280
+00:23:34,440 --> 00:23:36,100
+qu'on va vous présenter tout à l'heure,
+
+281
+00:23:36,180 --> 00:23:40,820
+et donc, il y a vraiment eu en marge des réunions
+des nodes europe, on essaie de faire
+
+282
+00:23:40,820 --> 00:23:45,600
+des workshops plus technique et pratique, 
+et donc là, on en avait organisé un
+
+283
+00:23:45,680 --> 00:23:50,540
+sur Atlas of Living Australia, et la possibilité
+de l'implémenter au niveau européen,
+
+284
+00:23:50,540 --> 00:23:55,140
+plusieurs pays ont décidé de faire ce choix là ;
+comme je le disais tout à l'heure,
+
+285
+00:23:55,140 --> 00:23:59,380
+cela va nous permettre de créer un réseau 
+d'informaticiens au niveau technique
+
+286
+00:23:59,440 --> 00:24:05,460
+cela créer plus d'interaction, on peut répondre 
+à plus de chose, donc c'est assez intéressant.
+
+287
+00:24:05,480 --> 00:24:10,120
+On a également participé à un hackathon
+sur des check-lists : des listes taxonomique
+
+288
+00:24:10,120 --> 00:24:14,060
+organisé par la Hollande.
+
+289
+00:24:14,120 --> 00:24:19,700
+Et on a, très récemment, en 2016, en avril
+au Portugal,
+
+290
+00:24:19,700 --> 00:24:23,500
+en marge de la réunion des nodes europe,
+on a fait un workshop spécifique sur les
+
+291
+00:24:23,600 --> 00:24:29,080
+sample-base data, parce que c'est intéressant
+car comme la dit Donald tout à l'heure,
+
+292
+00:24:29,140 --> 00:24:34,720
+c'est une nouveauté depuis cette année, 
+le fait de pouvoir intégrer dans le GBIF
+
+293
+00:24:34,720 --> 00:24:38,080
+des données d’échantillonnages, 
+c'est quelque chose qui est très important
+
+294
+00:24:38,120 --> 00:24:40,300
+c'est quelque chose qui était très demandé
+par les chercheurs,
+
+295
+00:24:40,320 --> 00:24:45,560
+c'est un besoin vraiment qui s'était fait
+sentir depuis longtemps,
+
+296
+00:24:45,780 --> 00:24:50,280
+donc on a fait un workshop spécifique
+sur les sample-base data publications
+
+297
+00:24:50,500 --> 00:24:59,360
+c'était au sein des nodes mais l'idée 
+c'est de proposer ce même workshop
+
+298
+00:24:59,440 --> 00:25:03,840
+au niveau français, national, de comment publier
+plus facilement les données d'échantillonnage
+
+299
+00:25:03,840 --> 00:25:11,940
+je pense qu'on va organiser ça à priori 
+à l'automne , fin de cette année.
+
+300
+00:25:11,960 --> 00:25:16,880
+C'est quelque chose qu'on veut organiser 
+très vite, car il y a beaucoup de chercheurs
+
+301
+00:25:16,980 --> 00:25:20,500
+qui nous disent que c'est important,
+avec notamment les données qui ont
+
+302
+00:25:20,540 --> 00:25:27,760
+des protocoles, des méthodes de récoltes,
+c'est quelque chose qui va être très intéressant.
+
+303
+00:25:27,820 --> 00:25:31,820
+Cela nous a permis de créer un 
+Biodiveristy DataQuality Hub
+
+304
+00:25:31,920 --> 00:25:35,720
+qui est maintenu par l'Espagne,
+et c'est, en fait, un endroit où on a un peu
+
+305
+00:25:35,940 --> 00:25:39,920
+recensé tous les outils d'amélioration de 
+la qualité des données
+
+306
+00:25:39,920 --> 00:25:44,260
+tous les outils qui peuvent être pratique
+donc on a appelé ça DataQuality Hub
+
+307
+00:25:44,260 --> 00:25:47,880
+et il est hébergé par les espagnols
+et il faut savoir aussi que l'amélioration
+
+308
+00:25:47,940 --> 00:25:50,960
+de la qualité des données dans le GBIF,
+c'est quelque chose de très important
+
+309
+00:25:50,960 --> 00:25:54,040
+et c'est quelque chose qui depuis 10 ans
+a beaucoup changé
+
+310
+00:25:54,320 --> 00:26:00,660
+par rapport au 1er jeu de données connecté
+maintenant tous les jeux de données qui
+
+311
+00:26:00,800 --> 00:26:07,340
+sont connecté depuis 3-4 ans ; il y a,
+en terme de processus de qualité des données
+
+312
+00:26:07,460 --> 00:26:12,060
+il y a eu beaucoup d'effort de fait, 
+et quand on connecte les données au GBIF
+
+313
+00:26:12,180 --> 00:26:18,400
+on a déjà une première phase de vérification
+de la taxonomie
+
+314
+00:26:18,520 --> 00:26:23,560
+de vérification des données géo-référencées.
+
+315
+00:26:23,720 --> 00:26:28,200
+Il y a plein d'outils qui ont été développé qui 
+nous permettent , nous quand on vient vous aider
+
+316
+00:26:28,200 --> 00:26:30,760
+à publier vos jeux de données, il y a déjà eu un
+1er travail de fait
+
+317
+00:26:30,840 --> 00:26:33,540
+et au niveau du secrétariat de Copenhague
+lorsque c'est branché,
+
+318
+00:26:33,620 --> 00:26:37,700
+il y a encore, à nouveau, des processus 
+qui font que
+
+319
+00:26:37,700 --> 00:26:42,040
+la qualité à vraiment été améliorer.
+
+320
+00:26:42,140 --> 00:26:46,860
+Au niveau international, Donald en avait parlé,
+la France est bien représentée
+
+321
+00:26:46,920 --> 00:26:50,800
+parce qu'on a Eric Chenin qui est membre
+du comité du budget,
+
+322
+00:26:50,820 --> 00:26:53,480
+on a Philippe Grandcolas qui va faire une
+intervention tout à l'heure,
+
+323
+00:26:53,480 --> 00:26:55,540
+qui est vice-chair du science comity.
+
+324
+00:26:55,660 --> 00:26:59,960
+Moi-même je suis représentante europe
+pour les nodes.
+
+325
+00:27:00,080 --> 00:27:04,320
+Et on a également, de 2012 à 2015,
+Claudane Gauthier qui était
+
+326
+00:27:04,420 --> 00:27:06,780
+vice-chair du comité exécutif.
+
+327
+00:27:06,860 --> 00:27:12,900
+Donc la France est vraiment bien impliquée
+et participe vraiment à la stratégie,
+
+328
+00:27:13,040 --> 00:27:15,400
+au développement du GBIF.
+
+329
+00:27:16,100 --> 00:27:22,860
+On a aussi des projets à l'international : on a 
+un projet ERANet LAC (CoopBioPlat maintenant)
+
+330
+00:27:23,100 --> 00:27:30,000
+dont le but était aussi de participer à une
+implementation de Atlas of Living Australia
+
+331
+00:27:30,180 --> 00:27:35,560
+en Amérique Latine. Donc c'était un partenariat
+entre les pays d'Europe : Espagne, France
+
+332
+00:27:35,620 --> 00:27:41,160
+et Portugal ; et l'Argentine, le Brésil
+et le Costa Rica pour l'Amérique Latine,
+
+333
+00:27:41,260 --> 00:27:45,560
+pour essayer de mettre en place des portails
+nationaux dans tous ces nœuds-là.
+
+334
+00:27:45,880 --> 00:27:50,660
+C'est un projet qui a duré un an, mais qui 
+continue, en fait car la communication
+
+335
+00:27:50,720 --> 00:27:54,880
+est faite, on continue à travailler ensemble.
+
+336
+00:27:55,020 --> 00:28:01,440
+Et on a fait plein de mentoring, depuis 2010
+surtout car avant, il fallait que nous même,
+
+337
+00:28:01,440 --> 00:28:02,380
+on se mettre en place.
+
+338
+00:28:02,600 --> 00:28:07,760
+Avec beaucoup de pays d'Afrique francophone : 
+avec le Togo, la Centrafrique,
+
+339
+00:28:07,820 --> 00:28:13,440
+avec Madagascar cette année : on vient de 
+terminer et Félicité vous en parlera un peu plus,
+
+340
+00:28:13,720 --> 00:28:18,680
+et là on a un projet avec la Guinée 
+qui va démarrer,
+
+341
+00:28:19,000 --> 00:28:24,080
+tout ça, c'est aussi très intéressant 
+car on apprend des deux côtés,
+
+342
+00:28:24,320 --> 00:28:30,940
+on a des visions, 
+des choses qui sont différentes
+
+343
+00:28:31,020 --> 00:28:35,720
+il n'y a pas qu'un mentor et 
+quelqu'un qui est formé,
+
+344
+00:28:35,780 --> 00:28:38,580
+il y a vraiment des échanges 
+dans les deux sens.
+
+345
+00:28:39,400 --> 00:28:43,820
+Notamment, on avait fait un mentoring avec 
+la France, l'Espagne et le Portugal
+
+346
+00:28:43,840 --> 00:28:48,700
+et là, on avait profité de l'expérience
+espagnole sur la formation
+
+347
+00:28:48,800 --> 00:28:51,400
+et les plateformes de e-learning ;
+
+348
+00:28:51,480 --> 00:28:53,320
+et là on a vraiment travaillé avec eux
+
+349
+00:28:53,500 --> 00:28:58,220
+et on a  monté notre plateforme 
+d'e-learning française ;
+
+350
+00:28:58,300 --> 00:29:02,300
+on a les dernières formations qu'on
+a réalisées, on les as filmé
+
+351
+00:29:02,420 --> 00:29:06,720
+et on a commencé à les mettre en ligne,
+Fabien Caviere vous montrera cela,
+
+352
+00:29:06,800 --> 00:29:12,160
+c'est un travail qui va ouvrir,
+pour l'instant c'est un peu en test
+
+353
+00:29:12,160 --> 00:29:15,340
+mais maintenant, cela va être 
+vraiment applicable
+
+354
+00:29:15,380 --> 00:29:20,080
+Il y avait aussi tout un projet d'appuis 
+pour le sud, le projet SEP-CEPDEC
+
+355
+00:29:20,200 --> 00:29:23,180
+qui a eu une première phase en 2011
+
+356
+00:29:23,200 --> 00:29:30,300
+et qui a redémarré en 2015-2016, 
+où en général le GBIF France contribue
+
+357
+00:29:30,340 --> 00:29:35,880
+par des formations et aussi des échanges
+d'outils, de protocole, etc...
+
+358
+00:29:35,880 --> 00:29:39,340
+Donc là, cela a redémarré en 2016, 
+et on va participer.
+
+359
+00:29:39,440 --> 00:29:43,420
+Comme Donald en a parlé, 
+Biodiversity Information for Developpement
+
+360
+00:29:43,420 --> 00:29:46,880
+qui est un projet avec la commission européenne.
+
+361
+00:29:46,880 --> 00:29:50,880
+Il y avait eu un appel d'offre l'année dernière
+sur la région Afrique,
+
+362
+00:29:51,120 --> 00:29:57,320
+et normalement, en 2016, il va y avoir 
+un nouvel appel d'offre
+
+363
+00:29:57,360 --> 00:30:00,000
+sur la région Caraïbes-Pacifique ;
+
+364
+00:30:00,080 --> 00:30:04,940
+et il faut savoir quand même que comme
+la France a des territoires dans ces régions-là,
+
+365
+00:30:04,940 --> 00:30:08,200
+il serait intéressant d'explorer les 
+possibilités,
+
+366
+00:30:08,220 --> 00:30:13,280
+de toute façon, c'est une annonce que
+l'on fera suivre,
+
+367
+00:30:13,440 --> 00:30:16,400
+sur le site du GBIF France.
+
+368
+00:30:16,400 --> 00:30:19,620
+Et on a une newsletter toute neuve
+auquelle vous pouvez vous abonner
+
+369
+00:30:19,620 --> 00:30:23,840
+on vous en parlera plus tard aussi,
+ça peut être intéressant.
+
+370
+00:30:24,700 --> 00:30:30,140
+L'équipe du GBIF France actuelle, c'est nous,
+avec toutes les photos
+
+371
+00:30:30,140 --> 00:30:32,340
+et avec Christelle Robalo qui nous aide
+aussi pour l'administration
+
+372
+00:30:33,560 --> 00:30:36,840
+Cela fait 10 ans qu'on existe, donc
+il y a eu d'autres gens
+
+373
+00:30:36,840 --> 00:30:40,760
+il y a eu des gens qui ont travaillais sur 
+l'animation et la gestion des ressources
+
+374
+00:30:40,820 --> 00:30:43,120
+il y a eu certains informaticiens,
+un certain nombre,
+
+375
+00:30:43,600 --> 00:30:46,560
+le côté positif, c'est que :
+comme c'était des CDDs
+
+376
+00:30:46,560 --> 00:30:49,140
+ben forcément, au bout d'un moment,
+ils sont partis parce qu'il ont trouver des CDIs
+
+377
+00:30:49,140 --> 00:30:50,420
+ils ont passé des concours.
+
+378
+00:30:50,600 --> 00:30:52,920
+Donc le côté positif, c'est qu'ils ont tous
+du travail actuellement
+
+379
+00:30:52,920 --> 00:30:57,360
+ils sont tous bien placé donc on peut dire 
+que leur passage au GBIF
+
+380
+00:30:57,940 --> 00:31:01,840
+n'a pas été un frein dans leur carrière
+mais au contraire,
+
+381
+00:31:02,000 --> 00:31:08,600
+et puis, on a usé quelques administratrices,
+gentiment, qui travaillaient au Muséum
+
+382
+00:31:08,660 --> 00:31:11,860
+et qui nous ont toujours soutenues ;
+en ce moment, c'est Christelle Robalo
+
+383
+00:31:11,860 --> 00:31:13,100
+qui est à la direction des collections.
+
+384
+00:31:13,400 --> 00:31:16,380
+Je voulais faire un petit clin d'œil à
+tous ces gens là
+
+385
+00:31:16,400 --> 00:31:19,640
+et un grand merci à tous ces GBIFiens,
+comme on les appelles entre nous,
+
+386
+00:31:19,900 --> 00:31:23,680
+parce que, c'est aussi eux qui ont contribué
+à ce que, aujourd'hui, après 10 ans
+
+387
+00:31:23,680 --> 00:31:25,260
+on en soit là.
+
+388
+00:31:25,300 --> 00:31:28,520
+Un grand merci à eux,
+et puis à vous pour m'avoir écouté.
+
+389
+00:31:28,620 --> 00:31:31,020
+Et ce n'est pas fini ;)
+

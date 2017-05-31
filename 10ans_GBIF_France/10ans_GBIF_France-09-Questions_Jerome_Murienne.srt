@@ -1,0 +1,127 @@
+1
+00:00:00,280 --> 00:00:04,180
+Participant : Bonjour, Anna Cohen Nabeiro, fondation pour la recherche et la biodiversité,
+
+2
+00:00:04,300 --> 00:00:10,320
+j'ai une question pour Jérome Murienne : je voulais savoir si vous travaillez avec faune-guyane,
+
+3
+00:00:10,320 --> 00:00:15,340
+un réseau participatif d'observation de la biodiversité, notamment sur les oiseaux,
+
+4
+00:00:15,700 --> 00:00:21,520
+et ils ont un certain nombre de point d'observation,
+ils ont un portail
+
+5
+00:00:21,520 --> 00:00:25,940
+où les gens, lorsqu'ils ont observé une espèce, peuvent la décrire, rajouter une photo,
+
+6
+00:00:26,060 --> 00:00:32,220
+je voulais savoir si le GBIF compte collaborer avec cette plateforme.
+
+7
+00:00:33,200 --> 00:00:39,320
+Jérome Murienne : Effectivement, au niveau de la Guyane, il y a un écosystème de producteur de données assez variés,
+
+8
+00:00:39,320 --> 00:00:45,600
+mais je pense que c'est pas spécifique à la Guyane,  c'est vraiment quelque chose que l'on retrouve partout en France.
+
+9
+00:00:45,760 --> 00:00:55,740
+En l'occurrence, pour l'instant, on en est au stade où il y a des initiatives, diverses et variés qui émergent.
+
+10
+00:00:56,380 --> 00:01:04,860
+On a une réunion le 08 et le 09 septembre à Cayenne, avec tous les différents acteurs, porteurs d'enjeux.
+
+11
+00:01:05,580 --> 00:01:11,340
+Notamment faune-guyane, GEPOG (Groupe d'Etude de Protection des Oiseaux en Guyane) qui centralise faune-guyane,
+
+12
+00:01:11,380 --> 00:01:19,960
+et on va discuter de tous ces aspects-là, voir comment on essaye de mieux géré les flux d'informations entre les différentes initiatives,
+
+13
+00:01:20,180 --> 00:01:24,380
+qu'est-ce qu'on peut faire ensemble, comment on veut travailler ensemble.
+
+14
+00:01:25,960 --> 00:01:28,320
+Pour l'instant, c'est des initiatives séparées.
+
+15
+00:01:29,280 --> 00:01:33,440
+Mais clairement, on est au fait des enjeux qui sont liés à ça.
+
+16
+00:01:34,780 --> 00:01:39,060
+*bruit*
+Participant : Serge Muller, responsable scientifique de l'herbier du muséum.
+
+17
+00:01:39,660 --> 00:01:45,020
+Juste une question de précision pour Jérome Murienne,
+
+18
+00:01:45,340 --> 00:01:50,100
+Vous nous avez dit, si j'ai bien compris, que 30.000 données sur la Guyane française,
+
+19
+00:01:50,480 --> 00:01:58,460
+sont dans le GBIF, alors que ce matin, on nous as dit que le premier fournisseur avait été l'herbier de Cayenne avec 150.000 données.
+
+20
+00:01:58,840 --> 00:02:01,640
+Y-a t'il données et données ?
+
+21
+00:02:02,320 --> 00:02:09,040
+Anne-sophie Archambeau : Là, c'est juste que, effectivement, il y a un petit problème venant de l'herbier de Cayenne
+
+22
+00:02:11,680 --> 00:02:18,080
+il y a eu un problème technique sur la base, ils ont ....
+
+23
+00:02:18,540 --> 00:02:21,320
+je vais y arriver
+dans la ....
+
+24
+00:02:22,460 --> 00:02:32,560
+dans l'organisation technique de la base de données, et du coup, l'arrivé au GBIF a été coupé il y a juste un mois.
+
+25
+00:02:32,740 --> 00:02:35,100
+Mais on est en train de le réparer et cela va revenir.
+
+26
+00:02:35,780 --> 00:02:42,160
+Jérome Murienne : Pour préciser, le chiffre de 30.000, c'est sur les données qui avaient été produite entre 2000 et 2010.
+
+27
+00:02:42,760 --> 00:02:48,260
+L'herbier de Cayenne a fourni environ 150.000 données,
+
+28
+00:02:48,520 --> 00:02:52,380
+c'est essentiellement des données qui sont antérieures à cette date-là.
+
+29
+00:02:53,720 --> 00:03:00,760
+Après, pour préciser aussi, les données de l'herbier, ce n'est pas des données qui sont transmises en live,
+
+30
+00:03:01,200 --> 00:03:08,800
+il me semble que c'est une connexion unique qui a été faite de manière figé en 2005, et qui n'a pas été updaté depuis.
+
+31
+00:03:09,060 --> 00:03:14,180
+Donc il y a encore du travail à faire même par rapport aux données de l'herbier de Cayenne.
+

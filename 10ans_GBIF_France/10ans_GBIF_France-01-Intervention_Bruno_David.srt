@@ -1,0 +1,296 @@
+1
+00:00:00,000 --> 00:00:03,240
+Bonjour à toutes et à tous.
+
+2
+00:00:03,640 --> 00:00:11,460
+Ravi de vous voir ce matin pour parler du GBIF (Global Biodiversity Information Facility)
+
+3
+00:00:11,720 --> 00:00:14,080
+Système mondial d'information sur la biodiversité.
+
+4
+00:00:14,260 --> 00:00:18,480
+C'est un programme international crée par l'OCDE
+
+5
+00:00:18,660 --> 00:00:23,860
+pour partager et rendre accessible à tous les données sur la biodiversité
+
+6
+00:00:24,220 --> 00:00:27,420
+accessible évidemment de manière gratuite
+
+7
+00:00:27,620 --> 00:00:33,440
+La France, avec l'ensemble de ses territoires, ces territoires métropolitains et d'outre-mer
+
+8
+00:00:33,820 --> 00:00:36,040
+ces territoires marins notamment,
+
+9
+00:00:36,260 --> 00:00:40,160
+ces très grandes collections, notamment celles qui sont présentes ici,
+
+10
+00:00:40,360 --> 00:00:45,860
+mais il n'y a pas qu'au MNHN qu'il y a des collections, je n'oublie pas le reste du territoire, bien sûr,
+
+11
+00:00:46,240 --> 00:00:53,380
+La France se devais d'avoir un portail du GBIF donc le GBIF France.
+
+12
+00:00:54,300 --> 00:00:59,240
+Alors la France est membre du GBIF depuis la création du GBIF mais il n'y avait pas de portail.
+
+13
+00:00:59,520 --> 00:01:04,340
+Ce qui était un peu gênant pour les scientifiques français qui faisaient des bases de données,
+
+14
+00:01:04,540 --> 00:01:09,500
+qui accumulaient des données et qui se voyaient contraint de les confier à un autre portail,
+
+15
+00:01:09,740 --> 00:01:13,780
+j'ouvre une anecdote personnelle : c'est ce qui m'est arrivé en faisait une base de donnée
+
+16
+00:01:13,940 --> 00:01:16,280
+sur des invertébré célèbres de l'océan Astral.
+
+17
+00:01:16,740 --> 00:01:20,060
+Il y a Jean-Pierre Ferral qui est là et qui voie ce que je veux dire précisément.
+
+18
+00:01:20,580 --> 00:01:24,560
+Et quand on y eu fini cette base de donnée, tout au début des années 2000
+
+19
+00:01:24,900 --> 00:01:31,960
+je me suis tourné vers un pays frontalier de la France pour que ces données puisent être intégrées au GBIF.
+
+20
+00:01:32,560 --> 00:01:36,380
+Donc, c'était très important qu'on ait un portail, et depuis 2006,
+
+21
+00:01:37,060 --> 00:01:43,680
+nous somme aujourd'hui au 10ème anniversaires de ce GBIF France, de ce portail
+
+22
+00:01:43,920 --> 00:01:47,160
+et ce portail est hébergé au Muséum National d'Histoire Naturelle.
+
+23
+00:01:47,400 --> 00:01:51,280
+Et au passage, petite anecdote, petit clin d'œil :
+
+24
+00:01:51,440 --> 00:01:56,500
+Nous sommes le 10 juin et le Muséum National d'Histoire Naturelle a été créé le 10 juin 1793
+
+25
+00:01:56,820 --> 00:02:02,740
+donc c'est un anniversaire du Muséum également aujourd'hui, même si ça ne correspond pas à un chiffre rond.
+
+26
+00:02:03,500 --> 00:02:11,700
+Donc le portail du GBIF France, portail pour la France, hébergé ici, a deux missions principales :
+
+27
+00:02:11,920 --> 00:02:16,480
+-mettre à disposition des communautés scientifique et politique française
+
+28
+00:02:16,660 --> 00:02:20,880
+les outils et les services crée par le GBIF de manière plus large,
+
+29
+00:02:21,180 --> 00:02:27,500
+- c'est également représenter la France dans le contexte du GBIF à l'échelle internationale.
+
+30
+00:02:30,360 --> 00:02:35,200
+Ce que ce portail doit faire, c'est avant tout de faire le lien entre les données
+
+31
+00:02:35,360 --> 00:02:38,220
+qu'on peut avoir dans les collections, et c'est pour ça que c'est important
+
+32
+00:02:38,440 --> 00:02:41,560
+qu'on se trouve aussi dans ce lieu aujourd'hui,
+
+33
+00:02:41,980 --> 00:02:45,060
+la recherche et les observations.
+
+34
+00:02:45,140 --> 00:02:47,400
+Les observations ne prennent un sens que s’il y a de la recherche derrière.
+
+35
+00:02:47,540 --> 00:02:51,080
+s'il n'y a pas de recherche derrière, elles ont une valeur très relatives.
+
+36
+00:02:51,560 --> 00:02:55,340
+Elles sont en attente de recherche et d'un minimum d'éclairage par la recherche
+
+37
+00:02:56,040 --> 00:03:00,340
+d’ailleurs, au passage, la recherche doit également éclairé la manière dont on récolte ses informations.
+
+38
+00:03:00,760 --> 00:03:07,200
+Il y a des protocoles à suivre, à mettre en place et s'il n'y a pas de recherche derrière,
+
+39
+00:03:07,360 --> 00:03:11,400
+ces protocoles risquent d'être de peu de valeur ; on accumulent pas des données
+
+40
+00:03:11,640 --> 00:03:14,620
+au p'tit bonheur la chance comme on ramasseraient des champignons
+
+41
+00:03:14,760 --> 00:03:18,180
+par une matinée d'automne si vous me permettez d'être un peu poétique ce matin.
+
+42
+00:03:18,900 --> 00:03:25,960
+Quoi qu'il en soit, actuellement, on a pratiquement 40 millions de données françaises sur ce portail,
+
+43
+00:03:27,900 --> 00:03:33,100
+ce portail travaille en interaction avec des grands acteurs de la biodiversité,
+
+44
+00:03:33,180 --> 00:03:35,180
+dont plusieurs sont lié au Muséum, ce qui est naturel
+
+45
+00:03:35,500 --> 00:03:41,220
+le Service du Patrimoine Naturel (SPN),  e-Recolnat, la FRB (fondation de la Recherche pour la Biodiversité)
+
+46
+00:03:41,480 --> 00:03:47,040
+peut-être, dans un prochain avenir, l'Agence Française pour la Biodiversité (AFB),
+
+47
+00:03:48,260 --> 00:03:51,200
+et comme je vous le disais, son hébergement au Muséum prend tout son sens
+
+48
+00:03:51,460 --> 00:03:56,520
+et je pense que le portail du GBIF doit pouvoir rester au Muséum.
+
+49
+00:03:57,920 --> 00:04:05,040
+Actuellement, il est hébergé et trouve un financement dans le cadre du portail e-Recolnat
+
+50
+00:04:05,600 --> 00:04:11,780
+c-a-d, dans le cadre d'un portail de gestion et de mise à disposition des collections naturaliste en France,
+
+51
+00:04:11,960 --> 00:04:13,960
+qui est hébergé au Muséum.
+
+52
+00:04:15,220 --> 00:04:18,000
+On a des liens évidemment avec nos missions de diffusions
+
+53
+00:04:18,740 --> 00:04:23,800
+le GBIF a des liens, par exemple, très important avec l'Inventaire National du Patrimoine Naturel (INPN)
+
+54
+00:04:23,980 --> 00:04:26,800
+qui est également hébergé au Muséum .
+
+55
+00:04:26,980 --> 00:04:31,700
+C'est même avec cet Inventaire National du Patrimoine Naturel que les liens sont les plus fort.
+
+56
+00:04:32,260 --> 00:04:35,020
+Il y a également des liens avec les collections, comme je le disais,
+
+57
+00:04:35,280 --> 00:04:39,060
+pas seulement la numérisation des collections mais aussi les collections physique,.
+
+58
+00:04:40,120 --> 00:04:45,720
+et des liens avec les activités de recherche, de pas mal d'équipes de l'établissement.
+
+59
+00:04:47,060 --> 00:04:54,460
+Il touche à pas mal des missions du Muséum puisqu'il a vocation à servir aussi bien les décisions politique,
+
+60
+00:04:55,080 --> 00:04:59,220
+que d'aider les chercheurs ou au-delà, sensibilisé le grand public.
+
+61
+00:04:59,640 --> 00:05:02,560
+C'est d'ailleurs, une chose qui n'est pas suffisamment connu du grand public,
+
+62
+00:05:02,560 --> 00:05:05,460
+ce GBIF, à travers son portail GBIF France
+
+63
+00:05:05,820 --> 00:05:10,680
+qui a quand même une masse  très considérable de données qui sont accessible à tous.
+
+64
+00:05:13,280 --> 00:05:19,100
+Pour l'avenir, la question de la pérennité du GBIF France n'est pas encore résolu ;
+
+65
+00:05:19,300 --> 00:05:22,560
+et c'est un des sujets qui faut qu'on débatte avec nos tutelles,
+
+66
+00:05:22,740 --> 00:05:26,380
+notamment avec le Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche (MEER).
+
+67
+00:05:26,520 --> 00:05:30,700
+C'est un sujet très important, il faut trouver une solution pour assurer son avenir
+
+68
+00:05:30,920 --> 00:05:35,580
+parce que, pour le moment, le GBIF n'est pas un objet habituel
+
+69
+00:05:35,800 --> 00:05:38,660
+du paysage de la recherche de l'enseignement supérieur en France
+
+70
+00:05:38,820 --> 00:05:43,180
+et il faut lui trouver un point d'ancrage qui permettent sa pérennité
+
+71
+00:05:43,400 --> 00:05:48,240
+et, vous m'avez compris à travers mes propos, je verrais très bien ce point d'ancrage quelque part
+
+72
+00:05:48,340 --> 00:05:54,620
+pas très loin d'ici, au sein du jardin des plantes ou de l'ilot Buffon-Polivot si on accepte de traverser la rue.
+
+73
+00:05:55,200 --> 00:06:01,800
+Je vous remercie pour votre attention et je vous souhaite une journée fructueuse de ce 10éme anniversaire.
+
+74
+00:06:01,800 --> 00:06:05,500
+*applaudissements*
+

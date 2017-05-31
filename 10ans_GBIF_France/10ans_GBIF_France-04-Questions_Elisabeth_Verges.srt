@@ -1,0 +1,553 @@
+1
+00:00:00,140 --> 00:00:06,660
+Participant : Nicolas Bailly (HCMR), je viens de travailler un an pour Lifewatch Greece,
+
+2
+00:00:07,620 --> 00:00:15,900
+et effectivement, vu de Grèce, qui est dans un état économique subclaquant,
+
+3
+00:00:16,300 --> 00:00:22,080
+il y a de grosses interrogation vis à vis de la France, l'Allemagne, de l'Angleterre,
+
+4
+00:00:22,080 --> 00:00:23,740
+pourquoi, il n'y a rien ?
+
+5
+00:00:24,260 --> 00:00:29,940
+Moi, je pensais que c'était plutôt l'inverse : que c'était une approche top-down.
+
+6
+00:00:30,460 --> 00:00:39,660
+Parce que je pensais que Volterlos avait des marchés dans chacun des pays, à des niveaux ministériels.
+
+7
+00:00:39,960 --> 00:00:50,220
+Mais maintenant, je peux expliquer le manque d'intérêt par le fait que c'est quand même une nébuleuse encore.
+
+8
+00:00:50,240 --> 00:00:52,540
+L'ERIC (Education Resources Information Center) n'est toujours pas signé.
+
+9
+00:00:53,160 --> 00:01:00,020
+Les plans ne sont pas bien établis mais c'est une dynamique,
+
+10
+00:01:00,240 --> 00:01:04,520
+il n'y a pas de plan, pas de signature, etc.
+
+11
+00:01:04,800 --> 00:01:10,760
+Mais apparemment, cela va être solutionné dans peu de temps, et effectivement,
+
+12
+00:01:11,520 --> 00:01:20,380
+des projets comme IndexMed par exemple, serait tout à fait en position de proposer un virtual laboratory,
+
+13
+00:01:20,880 --> 00:01:25,180
+à intégrer dans Lifewatch sur une technique bien particulière
+
+14
+00:01:27,100 --> 00:01:32,020
+Elisabeth Vergès : Alors je n'étais pas au ministère quand Waterlos à démarrer,
+
+15
+00:01:32,760 --> 00:01:38,580
+je pense pas qu'il y a avait des marchés aux ministères, d'ailleurs ce n'était pas la bonne solution de démarcher les ministères,
+
+16
+00:01:38,660 --> 00:01:41,620
+moi je vous le dit : je veux bien allez défendre tout ce que l'on veut mais
+
+17
+00:01:41,940 --> 00:01:48,060
+Lifewatch, j'ai arrêté parce que, lorsque je me retourne, il n'y a personne, c'est gênant d'aller défendre quelque chose comme ça.
+
+18
+00:01:48,440 --> 00:01:52,380
+Moi je pense,
+vous allez me dire si je me trompe ou pas,
+
+19
+00:01:52,580 --> 00:01:56,720
+cette communauté-là, 
+waterlos, etc...
+
+20
+00:01:56,760 --> 00:01:58,620
+ils osnt allez trop vite,
+
+21
+00:01:58,980 --> 00:02:06,280
+parce qu'ils ont mis la partie supérieure de l'édifice, le pôle données, avant d'avoir stabilisé les infrastructures de bases,
+
+22
+00:02:08,280 --> 00:02:17,000
+comme les réseau d'observation de la biodiversité, les pôles sur les ressources génétiques, sur les collections,
+
+23
+00:02:17,020 --> 00:02:20,080
+vraiment des biodiversité au niveau des individus, sur les éco-systèmes.
+
+24
+00:02:20,160 --> 00:02:24,340
+Et moi je pense, que d'avoir commencé par le haut, c'est ça qui a fait que cela n'a pas marché.
+
+25
+00:02:24,340 --> 00:02:29,660
+La preuve, on en est là, à réfléchir au niveau national, sur ECOSCOPE :
+
+26
+00:02:30,200 --> 00:02:32,200
+Que fait ECOSCOPE ? Comment il va fonctionner ?
+
+27
+00:02:32,540 --> 00:02:38,540
+A priori, en toute rigueur, ECOSCOPE, dans un monde idéal aurait dû être un Lifewatch France.
+
+28
+00:02:38,880 --> 00:02:42,820
+Le mirroir français de Lifewatch ; pour moi, c'était ça,
+
+29
+00:02:43,200 --> 00:02:53,380
+mais voilà, on a pas assez avancé parce que il y a un manque de structuration autour d'outils commun de la communauté.
+
+30
+00:02:53,880 --> 00:02:58,320
+C'est-à-dire : l'infrastructure au sein réseau d'observation ou autre,
+
+31
+00:02:58,500 --> 00:03:05,220
+peut-être que les collections, cela ressemble à une infrastructure, cela est peut-être mieux,
+
+32
+00:03:05,380 --> 00:03:08,600
+mais peut-être que je me trompe mais pour moi, on est allez trop vite.
+
+33
+00:03:09,060 --> 00:03:15,380
+Typiquement, pour moi, cette montée en puissance, on est train de travailler sur l'ECOSCOPE,
+
+34
+00:03:15,540 --> 00:03:22,320
+évidemment, il va falloir clarifier la relation ECOSCOPE-GBIF, pour une partie.
+
+35
+00:03:22,700 --> 00:03:25,760
+Mais pour moi, c'était ça qui devait être Lifewatch France.
+
+36
+00:03:26,120 --> 00:03:32,400
+En ayant ça dans un coin de ma tête, j'ai bloqué la porte en disant : "Attendez, attendez, on arrive, on arrive",
+
+37
+00:03:32,500 --> 00:03:34,500
+mais on arrive pas.
+
+38
+00:03:35,280 --> 00:03:40,260
+Donc, c'est compliqué. Est-ce que vous, vous utilisez Lifewatch ? Les bases de données 
+de Lifewatch ?
+
+39
+00:03:42,100 --> 00:03:43,140
+Non ?
+
+40
+00:03:45,980 --> 00:03:47,980
+Au niveau de l'accès, je veux dire.
+
+41
+00:03:48,920 --> 00:03:50,920
+Je ne vous entend pas.
+
+42
+00:03:56,840 --> 00:03:58,840
+Participant : Pardon, Thierry Bourgoin (MNHN).
+
+43
+00:03:59,500 --> 00:04:05,760
+J'ai, comme Nicolas, participé à tout cela, j'ai même vu la naissance de l'ECOSCOPE dans une réunion à la FRB.
+
+44
+00:04:06,400 --> 00:04:10,840
+A Lifewatch, il n'y a pas de bases de données,
+Lifewatch, c'est vraiment la partie recherche,
+
+45
+00:04:11,020 --> 00:04:15,780
+c'est la partie outil pour traiter toutes les données qui ont été collecté ailleurs.
+
+46
+00:04:18,920 --> 00:04:22,040
+Mais effectivement, l'ECOSCOPE était prévu pour être le Lifewatch France.
+
+47
+00:04:22,240 --> 00:04:34,620
+Après, maintenant, après avoir vu ce que vous avez présenté, je vois un problème de positionnement entre le SINP et l'ECOSCOPE.
+
+48
+00:04:36,200 --> 00:04:43,240
+A l'origine, le SINP collectait des données qui était après, pour parti
+
+49
+00:04:43,560 --> 00:04:48,140
+re-traité dans l'ECOSCOPE, sous un chapeau recherche.
+
+50
+00:04:49,660 --> 00:04:53,800
+Elisabeth Vergès : Oui, on en avait déjà parlé
+Thierry Bourgoin : Cela a peut-être changé,
+
+51
+00:04:54,140 --> 00:04:59,300
+Elisabeth Vergès : Je trouve qu'en trois ans, cela n'a pas beaucoup
+Thierry Bourgoin : depuis trois ans, je ne vois plus rien.
+
+52
+00:04:59,580 --> 00:05:02,300
+Elisabeth Vergès : Cela n'a pas beaucoup évolué,
+
+53
+00:05:03,080 --> 00:05:11,120
+c'est le moment, les feuilles de routes sont révisés, la prochaine sera révisé en 2018,
+
+54
+00:05:11,140 --> 00:05:16,360
+à la fois nationale et européenne, donc on a en gros, un ans et demi devant nous
+
+55
+00:05:16,840 --> 00:05:21,480
+si on doit améliorer les choses et les requalifier.
+
+56
+00:05:21,820 --> 00:05:27,900
+Je pense qu'il faut le faire, il y a peut-être aussi un positionnement aux organismes, je pense.
+
+57
+00:05:28,640 --> 00:05:31,780
+Organismes au sens large du terme, les établissements on va dire.
+
+58
+00:05:35,480 --> 00:05:42,720
+Oui mais l'encouragement, il ne peut-être qu'intellectuel, vous savez que nous avons les poches vides, mais c'est déjà ça vous allez me dire *rires*
+
+59
+00:05:43,920 --> 00:05:48,180
+Participant : Jean-Philippe Siblet, directeur u Service du Patrimoine Naturel (SPN) au Muséum.
+
+60
+00:05:48,540 --> 00:05:52,780
+La vision de la biodiversité par le MESR (Ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche) ne manque pas d'intérêt,
+
+61
+00:05:53,220 --> 00:05:55,560
+en tout cas, elle est parfois assez décapante.
+
+62
+00:05:55,840 --> 00:06:06,380
+En tout cas, moi je voulais revenir sur votre dernier schéma, qui montre une dichotomie assez marquée entre la recherche et ce qui est appelé expertise,
+
+63
+00:06:06,760 --> 00:06:14,260
+je pense que même si il y avait des flèches transversales qui marquerez les liens, la réalité est quand mêmes assez différentes,
+
+64
+00:06:14,340 --> 00:06:18,380
+l'expertise est produite aussi largement par les chercheurs,
+
+65
+00:06:18,560 --> 00:06:21,980
+et puis la science participative : vous parliez de protocole et d'enjeu,
+
+66
+00:06:22,160 --> 00:06:27,740
+par rapport à la robustesse des données, il faut savoir que les protocoles de sciences participatives sont bâti par des chercheurs.
+
+67
+00:06:28,160 --> 00:06:32,060
+Du coup, finalement, la réponse à votre question est apportée.
+
+68
+00:06:32,340 --> 00:06:40,120
+Ensuite, quid des liens ECOSCOPE, SINP, plateforme nationale d'échange de l'INPN, etc.
+
+69
+00:06:40,220 --> 00:06:46,300
+Elle est à construire ; aujourd'hui, concrètement, on ne sait pas trop comment tout cela va fonctionner,
+
+70
+00:06:46,560 --> 00:06:49,860
+Il y a, en plus, comme vous ne l'ignorez pas,
+
+71
+00:06:50,020 --> 00:06:56,540
+des éléments nouveau dans le paysage comme l'Agence Française pour le Biodiversité (AFB) qui va  changer la donne.
+
+72
+00:06:56,740 --> 00:07:01,860
+Tout cela est à construire et à mettre en place, mais je pense aussi qu'il ne faut pas aussi oublier,
+
+73
+00:07:02,040 --> 00:07:06,560
+que d'ores et déjà, il y a des choses qui fonctionnent plutôt pas mal, et qui faut les pérenniser.
+
+74
+00:07:06,660 --> 00:07:11,900
+Là, c'est un message à destination des collègues du GBIF notamment,
+
+75
+00:07:12,080 --> 00:07:21,480
+aujourd'hui, le président du muséum à rappeler en introduction que le GBIF était menacé dans sa pérennité sur le plan financier.
+
+76
+00:07:21,740 --> 00:07:31,000
+Je pense que là, il va falloir au bout d'un moment que quelqu'un, même si les poches sont vides, finisse par trouver quelques euros pour pérenniser tout cela.
+
+77
+00:07:36,400 --> 00:07:43,200
+Participant : Jean-Denis Vignes, je suis, encore pour quelque temps, directeur du labex BCDiv qui est un labex de site au Muséum.
+
+78
+00:07:43,540 --> 00:07:50,260
+Je ne vais pas redire ce que Jean-Philippe à dit, parce que effectivement, l'un des objectifs ou lignes directrice de ce labex,
+
+79
+00:07:50,600 --> 00:07:57,100
+c'était également de potentialisé la réalité, au muséum.
+
+80
+00:07:57,260 --> 00:08:01,180
+Effectivement, recherche et expertise sont extrêmement lié, je pense que cela est un atout majeur
+
+81
+00:08:01,440 --> 00:08:04,360
+pour l'établissement et toute la communauté internationale et au-delà.
+
+82
+00:08:04,640 --> 00:08:08,660
+Mais je voudrais insister surtout, pour ne pas redire ce qu'a dit Jean-Philippe,
+
+83
+00:08:09,060 --> 00:08:13,300
+l'aspect temps long,
+
+84
+00:08:13,300 --> 00:08:15,540
+que vous avez évoqué dans l'exposé.
+
+85
+00:08:15,880 --> 00:08:17,880
+Je pense que cela est quelque chose de vraiment important,
+
+86
+00:08:18,540 --> 00:08:27,740
+moi-même et mes collaborateur travaillons sur ce temps-long, sur les interaction biodiversité-société, à différentes échelles de temps.
+
+87
+00:08:27,920 --> 00:08:32,420
+Je crois que là, il y a un atout que l'on pourrait vraiment développer ; je pense que cela a été un point fort de ce labex,
+
+88
+00:08:32,900 --> 00:08:39,180
+et là encore, je parlerai de pérennisation car en fait, on s’interroge tous sur le devenir
+
+89
+00:08:39,300 --> 00:08:43,960
+de ces directions de recherche originale au-delà de l'opération labex.
+
+90
+00:08:47,040 --> 00:08:51,920
+Elisabeth Vergès : Je suis d'accord, le temps long me parait essentiel.
+
+91
+00:08:52,480 --> 00:08:57,360
+Et en même temps, qui dit temps long dit soutenabilité, problème de budget derrière, donc c'est lié.
+
+92
+00:08:57,860 --> 00:09:03,780
+Juste pour le dernier point : ne vous laissez pas abuser par ma dernière figure,
+
+93
+00:09:03,880 --> 00:09:12,720
+pour moi, la figure important, c'était le volume, avec les deux faces éclairé de couleur, c'est un ensemble commun.
+
+94
+00:09:12,940 --> 00:09:16,540
+Je sais très bien que le Muséum est un établissement qui fait le lien,
+
+95
+00:09:16,720 --> 00:09:22,980
+et de par sa mission, et de par sa culture, de manière remarquable ; ce n'est pas le cas d'autres organismes.
+
+96
+00:09:25,380 --> 00:09:28,860
+Il n'y a pas que le muséum, il y a aussi le CNRS, les universités,
+
+97
+00:09:29,220 --> 00:09:34,420
+donc il faut prendre en compte tout cet ensemble-là,
+et quand je parle d'infrastructure nationale,
+
+98
+00:09:35,360 --> 00:09:38,800
+je pèse mes mots, notamment sur l'adjectif.
+
+99
+00:09:39,240 --> 00:09:46,440
+C'est-à-dire que l'on appelle aujourd'hui infrastructure internationale, il n'y en a pas une qui soit mono-organisme.
+
+100
+00:09:46,640 --> 00:09:49,600
+Sinon, c'est une infrastructure du muséum, du CNRS, du CEA.
+
+101
+00:09:49,960 --> 00:09:54,120
+Si c'est une infrastructure nationale, c’est un outil qui est pour tous.
+
+102
+00:09:54,240 --> 00:10:01,240
+C'est pour cela que la réflexion qui est en haut, qui interpelle le muséum aussi,
+
+103
+00:10:01,620 --> 00:10:03,020
+il faut l'apporter à tous.
+
+104
+00:10:03,440 --> 00:10:07,960
+Il y a la FRB pour porter cette discussion, encore faut-il que
+
+105
+00:10:08,680 --> 00:10:13,160
+les fondateurs et participants de la FRB l'utilisent comme tel,
+
+106
+00:10:13,160 --> 00:10:20,220
+sinon il y a d'autre lieu comme les alliances ; en tout cas, il va falloir se mettre autour de la table pour savoir ce qu'on veut faire avec cet ensemble.
+
+107
+00:10:20,380 --> 00:10:27,400
+Ce que je voulais surtout vous dire, c'est que
+pour moi l'ECOSCOPE n'est pas quelque chose qui est à part,
+
+108
+00:10:27,500 --> 00:10:36,860
+je souhaite le réfléchir complètement en lien avec cette vision appui au petit public, et cette vision 'services'.
+
+109
+00:10:42,840 --> 00:10:46,880
+Participant : Par ici, Pierre-Edouard Guillain, Fondation pour la Recherche de la Biodiversité.
+
+110
+00:10:46,900 --> 00:10:50,480
+Effectivement, on en a beaucoup parlé et
+Elisabeth Vergès : Vous étiez planqué *rires*
+
+111
+00:10:50,480 --> 00:10:51,840
+Pierre-Edouard Guillain : Juste caché en haut.
+
+112
+00:10:51,840 --> 00:10:55,620
+Effectivement, pour rassurer et explicité la démarche à la fois,
+
+113
+00:10:55,680 --> 00:11:04,820
+en réponse à la fois aux questionnements sur Lifewatch, que l'on a abordé à l'envie au GT infrastructure de recherche, il y a 3 semaines,
+
+114
+00:11:05,040 --> 00:11:12,320
+Ce qui nous manque, c'est bien la réflexion qui a eu lieu dans les pôles de données que vous avez présenté côté Terre, sur la notion de service.
+
+115
+00:11:12,680 --> 00:11:17,080
+Effectivement, lorsqu'on dit par rapport à Lifewatch, moi j'ai l'impression que l'offre n'a pas rencontré la demande.
+
+116
+00:11:17,380 --> 00:11:22,440
+Il faut que l'on reparte d'une analyse de la demande, et cette analyse de la demande part aussi sur
+
+117
+00:11:22,820 --> 00:11:28,820
+les parties de recherche, donc c'est aussi là-dessus qu'il faut que l'on travaille ; il y a eu beaucoup d'initiative sur les laboratoire virtuel qui ont
+
+118
+00:11:28,960 --> 00:11:31,440
+travaillé plus difficilement en France que dans d'autres pays.
+
+119
+00:11:31,520 --> 00:11:36,180
+Il y a d'autres besoins, mais on a plutôt développé des logiques de synthèse de données avec le CESAB (CEntre de Synthèse et d'Analyse sur la Biodiversité)
+
+120
+00:11:36,320 --> 00:11:42,860
+on a développé aussi d'autres aspects qui doivent être vu aussi comme des éléments d'utilisations de services au profil de la communauté scientifique.
+
+121
+00:11:43,260 --> 00:11:48,260
+Et comme on a aussi, avec le monde de l'expertise, qui était présenté à droite sur les graphiques,
+
+122
+00:11:48,400 --> 00:11:53,400
+des services qui vont utiliser des données de la recherche pour complémenté les éléments,
+
+123
+00:11:53,660 --> 00:11:59,040
+et opéré ces éléments, je pense qu'il faut vraiment, et c'est le but que l'on s'est donné sur l'année 2016
+
+124
+00:11:59,160 --> 00:12:03,640
+en terme de réflexion pour l'ECOSCOPE, travailler sur la notion de service : Quels services sont demandés ?
+
+125
+00:12:03,840 --> 00:12:11,360
+Et du coup, comment sont les structures et comment on s'organise pour peser sur l'offre qui va avoir lieu au niveau européen dans Lifewatch,
+
+126
+00:12:11,480 --> 00:12:15,740
+et donc on espère être au rendez-vous de Lifewatch ou d'autres structures, je pense qu'il y a aussi
+
+127
+00:12:15,740 --> 00:12:18,980
+d'autres initiatives qui se structurent pour répondre à ce besoin.
+
+128
+00:12:19,200 --> 00:12:26,140
+Et puis sur les données d'expertises et de recherche, effectivement, et on travaille bien sur cette notion de complémentarité,
+
+129
+00:12:26,260 --> 00:12:29,960
+on travaille sur des standards commun avec le SINP, c'est ce qui permet l'interopérabilité,
+
+130
+00:12:30,160 --> 00:12:37,140
+et je pense que l'on a vraiment besoin d'avoir des visions différentes,  et de donner aux acteurs, des portails d'entrés différents,
+
+131
+00:12:37,300 --> 00:12:42,900
+des portails tournés vers la recherche : c'est ECOSCOPE ; des portails qui sont à destination des gens qui travaillent dans des établissements,
+
+132
+00:12:43,040 --> 00:12:48,520
+dans le monde associatif, des données d'expertises, et donc d'avoir des entrées différentes
+
+133
+00:12:48,520 --> 00:12:53,080
+mais par contre, commun à cet ensemble de données, mais surtout à la qualification de ces données.
+
+134
+00:12:53,080 --> 00:12:57,740
+Comment sont-elles faites ? Avec quelles viabilités ? Quelle répétabilité ? Quelle gestion de données ? Etc.
+
+135
+00:12:57,820 --> 00:13:02,540
+C'est vraiment ce qu'on puisse continuer à travailler avec l’ensemble des acteurs ; et c'est pour cela que
+
+136
+00:13:02,840 --> 00:13:08,620
+nous sommes une fondation qui réunissons à la fois des chercheurs et des parties prenantes de la biodiversité et que cela a du sens de le faire à la FRB.
+

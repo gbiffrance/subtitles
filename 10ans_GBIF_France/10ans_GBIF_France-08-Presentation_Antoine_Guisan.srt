@@ -1,0 +1,1901 @@
+1
+00:00:00,000 --> 00:00:03,980
+Antoine Guissan : Bonjour.
+Tout d'abord, un grand merci à Anne-Sophie
+
+2
+00:00:04,120 --> 00:00:07,400
+et à tout le comité GBIF français de m'avoir
+invité à Paris
+
+3
+00:00:07,500 --> 00:00:12,740
+c'est un grand plaisir d'être là et d'avoir réussi
+à être là, c'était pas gagné d'avance.
+
+4
+00:00:13,440 --> 00:00:19,240
+Je vais vous présenter une première utilisation
+on a eu une bonne vue d'ensemble
+
+5
+00:00:19,260 --> 00:00:21,260
+de Philippe Grandcolas 
+sur ce qui était possible.
+
+6
+00:00:21,480 --> 00:00:24,380
+Et je vais aussi vous présenter 
+plus spécifiquement ce qui concerne
+
+7
+00:00:24,580 --> 00:00:28,180
+l'utilisation des données du GBIF 
+pour la modélisation.
+
+8
+00:00:28,540 --> 00:00:33,660
+Je m'excuse d'avance de deux choses :
+d'une part, les diapositives sont en anglais
+
+9
+00:00:33,720 --> 00:00:36,660
+je pense pas que cela pose 
+un trop gros problème.
+
+10
+00:00:36,680 --> 00:00:39,080
+D'autre part, je pense que 
+je vais aller relativement vite
+
+11
+00:00:39,200 --> 00:00:41,960
+je vais survoler les exemples 
+que je vais vous présenter
+
+12
+00:00:42,320 --> 00:00:45,640
+on pourra éventuellement revenir dessus
+lors des questions
+
+13
+00:00:45,640 --> 00:00:48,840
+car j'aimerai arriver à la partie finale 
+de ma présentation
+
+14
+00:00:48,940 --> 00:00:52,700
+où je présenterai justement quelques 
+recommandations de ce groupe de travail
+
+15
+00:00:52,940 --> 00:00:58,700
+sur la vitalité des données GBIF 
+pour la modélisation.
+
+16
+00:00:59,240 --> 00:01:02,560
+Alors, on a déjà vu, 
+je ne vais pas insister là-dessus,
+
+17
+00:01:02,620 --> 00:01:05,640
+les grand problèmes qui affectent 
+la biodiversité actuellement,
+
+18
+00:01:06,000 --> 00:01:11,480
+on a besoin de moyens de conservation
+de gestion de cette biodiversité,
+
+19
+00:01:11,700 --> 00:01:16,280
+et donc on a besoin de données qui soient
+géographiquement explicite,
+
+20
+00:01:16,280 --> 00:01:19,320
+donc qui sont des données spatiales.
+
+21
+00:01:22,640 --> 00:01:26,380
+On a un certain nombre de données à disposition
+
+22
+00:01:26,860 --> 00:01:31,580
+mais, là aussi,  on l'a vu dans plusieurs
+présentations,
+
+23
+00:01:31,960 --> 00:01:36,840
+les données : que ce soient celles du GBIF 
+ou d'autres grande base de données comme OBIS
+
+24
+00:01:37,760 --> 00:01:42,460
+sont entachés d'erreurs, ont des biais,
+ne sont pas complètent pour certains groupes
+
+25
+00:01:42,540 --> 00:01:44,280
+alors que pour d'autres groupes,
+elles le seront complètes.
+
+26
+00:01:44,760 --> 00:01:52,100
+Cela pose un certain nombre de problèmes
+pour les mesures qui peuvent en dérivé
+
+27
+00:01:52,200 --> 00:01:57,000
+par exemple : pour prendre des décisions
+pour essayer de conserver la biodiversité.
+
+28
+00:01:57,360 --> 00:02:01,960
+Typiquement, on sait que dans les approches 
+de planning systématique,
+
+29
+00:02:02,920 --> 00:02:08,500
+on a besoin de mesure comme la complémentarité
+et l'irremplaçabilité, si possible les combiner.
+
+30
+00:02:08,720 --> 00:02:15,200
+Mais typiquement, ce type de mesure nécessite 
+une bonne couverture géographique
+
+31
+00:02:15,360 --> 00:02:20,460
+ce qui n'est pas le cas des données GBIF,
+puisque on l'a vu, sur cette carte
+
+32
+00:02:20,460 --> 00:02:22,800
+et aussi dans la présentation de Philippe
+grandcolas,
+
+33
+00:02:22,900 --> 00:02:25,700
+on voit qu'il y a des régions du monde 
+qui n'ont pas
+
+34
+00:02:25,700 --> 00:02:28,440
+une couverture qui permet de prendre les bonnes décisions.
+
+35
+00:02:28,440 --> 00:02:31,480
+Alors qu'est-ce qu'on peut faire dans ces cas-là,
+on peut essayer d'utiliser les données
+
+36
+00:02:31,500 --> 00:02:34,940
+d'abord pour construire des modèles qui vont 
+nous permettre, dans la mesure du possible,
+
+37
+00:02:35,040 --> 00:02:39,500
+et là on va être prudent car vous allez voir qu'il
+y a une certaine prudence à avoir,
+
+38
+00:02:39,500 --> 00:02:44,040
+on va essayer de généraliser cette information dans 
+l'espace de manière à pouvoir ensuite éventuellement
+
+39
+00:02:44,280 --> 00:02:51,340
+permettre d'appliquer ces mesures de priorisation
+basé sur la complémentarité, etc.
+
+40
+00:02:51,920 --> 00:02:59,900
+Il y a un type d'outil qui est de plus en plus utilisez,
+vous le voyez sur cette courbe ascendante
+
+41
+00:03:01,980 --> 00:03:07,120
+c'est les modèles de niches ou de distribution
+qui portent aussi d'autres noms comme
+
+42
+00:03:07,140 --> 00:03:10,220
+habitat suitability modele en anglais, etc.
+
+43
+00:03:10,220 --> 00:03:14,640
+Tout ça, c'est un peu le même groupe de modèle
+et ils permettent en fait,
+
+44
+00:03:14,640 --> 00:03:17,620
+si on regarde d'un peu plus près le principe
+de ces modèles,
+
+45
+00:03:17,860 --> 00:03:22,400
+c'est de partir de données de terrains : 
+typiquement les données du GBIF
+
+46
+00:03:22,740 --> 00:03:27,080
+les combiner avec des données environnementales,
+des attributs qu'on a, par exemple,
+
+47
+00:03:27,080 --> 00:03:29,500
+à partir de carte dans un SIG 
+(Système d'Information Géographique) :
+
+48
+00:03:29,640 --> 00:03:35,460
+cela peut-être la topographie, le climat, les sols,
+l'influence humaine,
+
+49
+00:03:35,460 --> 00:03:38,240
+la distance à certaines caractéristique du paysage, etc.
+
+50
+00:03:38,460 --> 00:03:43,140
+Et puis, on va essayez, sur la base de cette relation
+qu'on va en général, jugée statistiquement
+
+51
+00:03:43,160 --> 00:03:47,800
+mais il y a aussi des approches expertes qui existent
+on va essayez de s'approcher le plus possible
+
+52
+00:03:48,080 --> 00:03:52,120
+des besoins écologique de l'espèce donc c'est 
+ce qu'on appelle la niche écologique des espèces.
+
+53
+00:03:52,260 --> 00:03:57,500
+Une fois que l'on a pu quantifié cette niche écologique, 
+dans l'espace environnementale en fait,
+
+54
+00:03:57,840 --> 00:04:03,020
+on va pouvoir revenir dans l'espace géographique
+et puis utiliser cette quantification à la niche
+
+55
+00:04:03,040 --> 00:04:08,240
+qui est un modèle, pour recombiner toutes les
+couches d'informations géographique qu'on avait
+
+56
+00:04:08,620 --> 00:04:13,780
+et obtenir de cette manière une prédiction qui
+soit vraiment explicite dans l'espace géographique.
+
+57
+00:04:13,780 --> 00:04:14,460
+*éternuement*
+
+58
+00:04:14,480 --> 00:04:19,420
+Donc on passe de données ponctuelles telle que
+on les as dans le GBIF,
+
+59
+00:04:20,000 --> 00:04:26,060
+à une distribution explicite, spatialisé de
+la variable qui vous intéresse.
+
+60
+00:04:27,500 --> 00:04:30,980
+Il y a vraiment, je ne vais pas insistez là-dessus,
+de technique qui existe,
+
+61
+00:04:31,080 --> 00:04:35,260
+beaucoup d'approche, beaucoup de méthode
+c'est un domaine qui est e pleine dynamique,
+
+62
+00:04:35,500 --> 00:04:41,400
+ce serait beaucoup trop long de vouloir
+présenter l'ensemble du domaine qui recouvre
+
+63
+00:04:41,400 --> 00:04:44,300
+des centaines et centaines de systèmes et
+des milliers d'articles,
+
+64
+00:04:44,520 --> 00:04:48,560
+mais on a aussi atteint une certaine maturation
+dans le domaine qui fait que
+
+65
+00:04:48,560 --> 00:04:52,080
+c'est une approche qui est de plus en plus utilisée
+sur les données du GBIF.
+
+66
+00:04:52,440 --> 00:04:55,880
+Notamment, ce qu'on peut faire et qui se fait
+de plus en plus
+
+67
+00:04:56,100 --> 00:05:02,180
+cela va amener encore le problème de l'importance
+de faire un bon travail avec ces modèles,
+
+68
+00:05:02,320 --> 00:05:06,860
+on peut les utiliser pour essayer de reconstruire
+les assemblage d'espèces
+
+69
+00:05:06,860 --> 00:05:09,120
+les communautés 
+et éventuellement les écosystèmes,
+
+70
+00:05:09,480 --> 00:05:13,300
+simplement en empilant les prédictions 
+individuelles d'espèces
+
+71
+00:05:13,460 --> 00:05:19,380
+et puis au final, on devrait être capable de
+prédire l'assemblage dans une communauté.
+
+72
+00:05:20,240 --> 00:05:22,520
+Alors, ça on peut le faire avec une approche
+une peu particulière
+
+73
+00:05:22,580 --> 00:05:25,880
+que l'on verra dans la suite de la présentation.
+
+74
+00:05:26,120 --> 00:05:29,760
+Et bien sûr que, les erreurs que l'on peut faire
+sur les modèle individuel d'espèces
+
+75
+00:05:29,860 --> 00:05:33,200
+vont se propager dans la communauté
+et si on arrive pas à faire un travail
+
+76
+00:05:33,200 --> 00:05:35,940
+au niveau des espèces, on va avoir des peines
+à prédire leurs communautés.
+
+77
+00:05:36,260 --> 00:05:40,540
+Donc typiquement, cela va nous amener aussi
+directement aux données
+
+78
+00:05:40,740 --> 00:05:44,200
+qui peuvent être une des principales sources
+d'erreur, en tout cas au départ.
+
+79
+00:05:44,260 --> 00:05:48,000
+Donc si on peut améliorer au maximum les 
+sources de données pour construire ces modèles
+
+80
+00:05:48,000 --> 00:05:52,540
+on arrivera, peut-être à terme, à bien prédire
+par exemple les communautés et les écosystèmes.
+
+81
+00:05:54,160 --> 00:05:57,560
+Alors, on sait que ces données sont biaisées
+
+82
+00:05:57,700 --> 00:06:01,660
+ça et pas mal d'articles qui montre les problèmes
+qui peut y avoir
+
+83
+00:06:01,700 --> 00:06:04,880
+dans les données de type GBIF ou autre, 
+beaucoup d'inventaire notamment.
+
+84
+00:06:05,360 --> 00:06:07,900
+Et puis, il y a des techniques ou des méthodes 
+qui ont été proposés
+
+85
+00:06:07,960 --> 00:06:11,460
+pour essayer en tout cas de minimiser 
+ces problèmes, de minimiser le biais
+
+86
+00:06:11,460 --> 00:06:14,380
+ou en tout cas de l'intégrer dans le modèle,
+
+87
+00:06:14,580 --> 00:06:18,540
+de ré-échantillonner éventuellement les données
+pour éviter ces problèmes aussi.
+
+88
+00:06:19,040 --> 00:06:21,540
+Mais on peut aller jusqu'à un certain point
+
+89
+00:06:21,540 --> 00:06:24,900
+on ne peut pas sauver des données qui 
+sont fortement biaisées par exemple.
+
+90
+00:06:26,420 --> 00:06:32,760
+Ce qu'on peut faire par contre, c'est essayer d'utiliser 
+ces premier modèles comme point de départ
+
+91
+00:06:33,100 --> 00:06:36,100
+pour essayer d'améliorer les données
+cela a aussi été dit précédemment
+
+92
+00:06:36,100 --> 00:06:38,860
+j'adhère complètement à cette vue.
+
+93
+00:06:39,280 --> 00:06:42,580
+C'est déjà un outil extraordinaire, le GBIF, en
+tout cas c'est un jeu de donnée incroyable
+
+94
+00:06:42,680 --> 00:06:46,580
+et on peut l'utiliser vraiment comme point 
+de départ pour essayer d'améliorer
+
+95
+00:06:46,580 --> 00:06:48,160
+les données dans le long terme.
+
+96
+00:06:48,300 --> 00:06:53,460
+Alors, cela nous amène à une idée de boucle
+interactive, modèle <-> données.
+
+97
+00:06:53,820 --> 00:06:57,200
+On partirait du GBIF avec 
+ce qui a été inventorié jusque-là,
+
+98
+00:06:57,260 --> 00:07:01,700
+très souvent il faut rappeler que beaucoup de 
+données dans le GBIF viennent de volontaire
+
+99
+00:07:01,700 --> 00:07:04,120
+qui ne sont pas forcément des scientifique, 
+qui n'ont pas forcément échantillonner
+
+100
+00:07:04,220 --> 00:07:07,700
+avec des objectifs scientifiques, 
+avec une méthodologie scientifique, etc.
+
+101
+00:07:07,820 --> 00:07:11,000
+Donc elles sont très hétérogènes 
+et par défaut biaisés
+
+102
+00:07:11,620 --> 00:07:15,060
+mais on peut essayer de les dé-biaiser en
+ré-échantillonnant aux bons endroits
+
+103
+00:07:15,340 --> 00:07:18,220
+pour progressivement essayer 
+de corriger l'échantillonnage.
+
+104
+00:07:18,480 --> 00:07:23,260
+On peut utiliser les premier modèles qui eux-mêmes seront biaisées car ils ont basés sur les données
+
+105
+00:07:23,380 --> 00:07:26,020
+mais qui vont nous permettre de généraliser l'information dans l'espace,
+
+106
+00:07:26,020 --> 00:07:29,800
+de stratifier par exemple un échantillonnage
+pour ensuite allez collecter des nouvelles données
+
+107
+00:07:30,060 --> 00:07:33,400
+dans les endroits qui sont les plus important
+du point de vue de ce modèle
+
+108
+00:07:33,780 --> 00:07:38,880
+et puis ensuite, on va améliorer 
+la couverture,  par exemple, des données
+
+109
+00:07:38,960 --> 00:07:43,280
+où on va enlever des biais dans les données et puis, 
+on peut continuer la boucle de manière itérative ;
+
+110
+00:07:43,340 --> 00:07:48,040
+on pourrait même imaginé que ce  type de  boucle 
+soit connecté aux bases de données directement
+
+111
+00:07:48,460 --> 00:07:54,380
+que les manageurs de différents pays puissent utiliser en temps réel, des cartes prédictives
+
+112
+00:07:54,440 --> 00:07:58,440
+qui leur montrent où aller échantillonner, 
+qu'ils y aillent, qu'ils réalimente la base de données
+
+113
+00:07:58,480 --> 00:08:01,780
+avec des nouvelles données qui peuvent corriger,
+par exemple, des erreurs, etc.
+
+114
+00:08:01,960 --> 00:08:03,380
+On y reviendra aussi.
+
+115
+00:08:03,460 --> 00:08:06,880
+Cela m'amène à une structuration 
+de la suite de mon talk :
+
+116
+00:08:06,880 --> 00:08:11,240
+qui va d'une part : montrer la première partie
+de la boucle
+
+117
+00:08:11,300 --> 00:08:16,280
+c'est-à-dire utiliser les données du GBIF pour
+construire des modèles
+
+118
+00:08:16,780 --> 00:08:21,180
+et puis, même si elles sont très biaisées,
+on peut déjà faire pas mal de chose intéressantes
+
+119
+00:08:21,340 --> 00:08:23,880
+avec ses données du GBIF déjà dans leur état actuel
+
+120
+00:08:23,880 --> 00:08:27,020
+l'important, c'est d'identifier ce qu'on peut faire.
+
+121
+00:08:27,280 --> 00:08:32,380
+Et puis ensuite, de voir comment, avec ses modèles
+on pourrait éventuellement corriger,
+
+122
+00:08:32,520 --> 00:08:37,420
+proposer des échantillonnages, et corriger
+ou améliorer les données dans la base de données.
+
+123
+00:08:38,040 --> 00:08:41,320
+Enfin, en troisième partie, je vous présenterai
+un petit peu ces recommandations
+
+124
+00:08:41,540 --> 00:08:47,300
+de ce groupe de travail, sur ces liens  entre
+GBIF et modèles
+
+125
+00:08:47,300 --> 00:08:50,900
+et surtout comment les modèles pourraient
+aider à améliorer les données du GBIF.
+
+126
+00:08:52,260 --> 00:08:55,940
+Alors, pour les exemples, je risque de passer
+rapidement, comme cela, vous avez
+
+127
+00:08:55,980 --> 00:09:00,300
+un grand éventail, vous en aurais déjà, je pense, 
+aussi dans les présentations suivantes.
+
+128
+00:09:00,620 --> 00:09:04,800
+Une première chose que l'on peut faire par exemple,
+j'ai dit qu'on pouvait empiler un peu
+
+129
+00:09:04,800 --> 00:09:07,640
+les modèles d'espèces pour essayer
+de reconstruire les communautés.
+
+130
+00:09:08,040 --> 00:09:13,280
+Et puis, lorsqu'on essaie de faire ça, souvent 
+on revient à un schéma assez classique
+
+131
+00:09:13,640 --> 00:09:19,960
+sur la hiérarchie des facteurs qui explique
+la manière dont les communautés s'assemble
+
+132
+00:09:20,340 --> 00:09:25,920
+avec des filtres de dispersion au départ, 
+de spéciation d'abord de l'outil
+
+133
+00:09:26,640 --> 00:09:33,580
+ensuite un filtre abiotique qui va être l'habitat,
+les interactions entre espèces qui vont faire que
+
+134
+00:09:33,700 --> 00:09:38,680
+peut-être tous les espèces vont pas se trouver 
+dans l'habitat car l’une va être exclue compétitivement
+
+135
+00:09:39,240 --> 00:09:44,020
+ou ne va pas avoir un intéracteur dont elle dépend.
+
+136
+00:09:44,500 --> 00:09:50,880
+Si on suit ces différents filtres, on voit que le GBIF peut
+vraiment fournir des données à différents niveau
+
+137
+00:09:50,880 --> 00:09:53,860
+de ce type de canevas.
+
+138
+00:09:54,040 --> 00:10:02,100
+J'ai mis les lettres du GBIF de taille différentes
+pour montrer l'importance de l'entrée.
+
+139
+00:10:02,440 --> 00:10:08,380
+Peut-être que les données GBIF qui sont souvent encore 
+imprécise, qui ont ces problèmes de couvertures,
+
+140
+00:10:08,480 --> 00:10:13,460
+peut en tout cas aider, par exemple, typiquement
+à définir ce qu'on appelle le "regional specie pool"
+
+141
+00:10:13,480 --> 00:10:18,640
+le pool régional d'espèce (en français), 
+dans une région qui constitue le pool d'espèce
+
+142
+00:10:18,640 --> 00:10:20,200
+que l'on peut modéliser pour une région
+
+143
+00:10:20,320 --> 00:10:25,160
+qui va permettre de limiter les problèmes 
+que l'on a, par exemple, de prédire une espèce
+
+144
+00:10:25,160 --> 00:10:27,900
+là où elle n'a pas pu allez pour des questions d'accessibilité.
+
+145
+00:10:28,120 --> 00:10:33,320
+Ensuite on peut quand même utiliser,
+bien sûr, le GBIF pour prédire,
+
+146
+00:10:33,580 --> 00:10:41,900
+construire ses modèles de niche et utiliser ça pour
+prédire le pool d'espèce adapté à un habitat
+
+147
+00:10:41,960 --> 00:10:46,740
+on peut ensuite continuer à utiliser les données du GBIF
+
+148
+00:10:46,860 --> 00:10:50,220
+mais par exemple, typiquement, pour commencer à 
+quantifier des interactions entre espèces
+
+149
+00:10:50,220 --> 00:10:54,420
+cela devient beaucoup plus difficile 
+car le biais va poser de gros problèmes.
+
+150
+00:10:54,640 --> 00:10:59,400
+Un autre exemple d'utilisation très utile
+déjà actuellement
+
+151
+00:10:59,540 --> 00:11:04,720
+sans forcément avoir besoin de corriger 
+massivement les données du GBIF
+
+152
+00:11:04,780 --> 00:11:07,600
+c'est par exemple d'essayer d'implémenter des
+approches multi-échelles
+
+153
+00:11:07,600 --> 00:11:11,260
+on a aussi entendu parler de problème d'échelle
+c'est un problème récurrent
+
+154
+00:11:11,260 --> 00:11:13,620
+en écologie spatiale et bio-géographie.
+
+155
+00:11:13,980 --> 00:11:19,160
+Un des problèmes d’échelle qui se pose
+avec la calibration de ces modèle, c'est que
+
+156
+00:11:19,160 --> 00:11:22,540
+quand on veut calibrer un modèle 
+à une trop petite échelle
+
+157
+00:11:22,860 --> 00:11:30,540
+une trop petite étendue qui ferais qu'on échantillonne 
+qu'une partie de l'aire de distribution d'une espèce
+
+158
+00:11:30,940 --> 00:11:35,280
+du coup, on va difficilement pouvoir quantifier
+l'ensemble de sa niche si
+
+159
+00:11:35,300 --> 00:11:38,340
+la partie géographique qu'on échantillonne
+ne couvre pas
+
+160
+00:11:38,340 --> 00:11:42,500
+l'ensemble des condition écologique qui correspondent 
+à l'espèce, qui conviennent à l'espèce
+
+161
+00:11:42,680 --> 00:11:46,520
+on va avoir ce qu'on appelle une niche tronquée ;
+et donc si on utilise par exemple
+
+162
+00:11:46,520 --> 00:11:48,360
+ce modèle comme projection dans le futur
+
+163
+00:11:48,360 --> 00:11:51,680
+on va peut-être manqué des conditions qui correspondent à l'espèce
+
+164
+00:11:51,680 --> 00:11:57,440
+Alors ce qu'on peut faire, c'est même si on travaille
+à l'échelle locale ou régionale
+
+165
+00:11:57,520 --> 00:12:00,140
+utiliser des modèle que l'on va calibrer 
+à l'échelle globale
+
+166
+00:12:00,140 --> 00:12:02,140
+en utilisant typiquement les données du GBIF
+
+167
+00:12:02,340 --> 00:12:06,080
+pour calibrer la niche purement climatique
+de l'espèce dans l'échelle globale
+
+168
+00:12:06,380 --> 00:12:12,200
+et ensuite combiner la prédiction basé sur 
+la niche climatique globale
+
+169
+00:12:12,200 --> 00:12:16,640
+avec un modèle local qui lui pourra 
+inclure d'autre variable
+
+170
+00:12:16,980 --> 00:12:20,340
+typiquement, on a la niche globale avec la niche climatique uniquement,
+
+171
+00:12:20,400 --> 00:12:25,580
+le local avec une niche plus large qui comprend 
+peut-être les sols, landuse (territoire utilisé), etc.
+
+172
+00:12:26,240 --> 00:12:29,760
+Et puis, utiliser une approche qui va permettre 
+de combiner les deux.
+
+173
+00:12:29,760 --> 00:12:33,500
+Alors un juste pour donner un exemple : 
+c'est des choses qui se font déjà
+
+174
+00:12:33,560 --> 00:12:38,080
+pour prédire des invasions ; en Suisse, on a eu
+recours à ce type d'approche
+
+175
+00:12:38,080 --> 00:12:41,720
+on construit d'abord un modèle 
+purement climatique global
+
+176
+00:12:41,960 --> 00:12:46,180
+on le combine avec un modèle local, qui lui 
+prends en compte pour les espèces envahissante
+
+177
+00:12:46,180 --> 00:12:49,900
+les zones urbaines, l'utilisation du sol, etc.
+
+178
+00:12:50,080 --> 00:12:53,520
+Après la question, c'est : comment on va 
+combiner les deux modèles ?
+
+179
+00:12:53,620 --> 00:12:57,140
+Il y a des approches qui ont été proposées :
+j'en montre deux ici
+
+180
+00:12:57,300 --> 00:13:02,040
+une proposé par Gallien et al.
+dans le groupe Efrud Tuvier, en France
+
+181
+00:13:02,040 --> 00:13:06,560
+et puis une autre approche de Parqué Ethan
+qui sont assez différentes
+
+182
+00:13:06,560 --> 00:13:10,440
+l'une se base sur une pondération des 
+pseudo-absence, c'est assez technique
+
+183
+00:13:10,440 --> 00:13:15,580
+l'autre utilise un canevas bayésien qui est peut-être un peu plus prometteur pour le long terme
+
+184
+00:13:15,980 --> 00:13:20,200
+mais on voit que c'est en tout cas typiquement 
+des approches qui ne serait pas possible
+
+185
+00:13:20,200 --> 00:13:22,460
+sans les données GBIF au départ.
+
+186
+00:13:22,620 --> 00:13:29,200
+c'est vraiment déjà une utilisation qui est extrêmement 
+utile et importante du GBIF dans l'état actuel.
+
+187
+00:13:29,780 --> 00:13:33,380
+Et puis, il y a un autre aspect dans les données 
+du GBIF, c'est que souvent, normalement
+
+188
+00:13:33,380 --> 00:13:38,140
+on a les données temporelle qui sont associés,
+on ne l'aura pas systématiquement mais
+
+189
+00:13:38,140 --> 00:13:43,640
+si on trie les données pour avoir, par exemple,
+la date d'observation précise à l'année,
+
+190
+00:13:43,700 --> 00:13:49,240
+on peux commencer quand on a aussi les données
+environnementales qui sont
+
+191
+00:13:49,520 --> 00:13:56,160
+préparées avec la même temporalité, 
+et c'est le cas pour des données océanographique,
+
+192
+00:13:56,160 --> 00:13:59,360
+on a rarement ce genre de données pour 
+les deposit interest (intérêt de dépôts).
+
+193
+00:13:59,720 --> 00:14:03,740
+Mais on avait pu, par exemple, calibrer 
+des modèles pour des espèces de poissons
+
+194
+00:14:03,740 --> 00:14:07,980
+et pour voir dans quelles mesures ils pourraient 
+y avoir des transferts de pool de poissons
+
+195
+00:14:07,980 --> 00:14:10,620
+entre les océans Pacifique et Atlantique
+dans le contexte des changements climatique
+
+196
+00:14:11,100 --> 00:14:16,660
+ce qui est vraiment intéressant là, c'est qu'on a put utiliser la précision temporelle des données du GBIF
+
+197
+00:14:16,660 --> 00:14:21,960
+et d'autre base de données comme OBIS,
+pour vraiment faire ce qu'on appelle
+
+198
+00:14:21,960 --> 00:14:26,800
+un "temporal matching" (correspondance temporelle), 
+d’associer l’observation d'une espèce
+
+199
+00:14:26,800 --> 00:14:30,020
+à la température ou à la précipitation 
+aux autres données climatique
+
+200
+00:14:30,020 --> 00:14:33,120
+qui correspondent exactement à l'année
+où cette espèce a été observée.
+
+201
+00:14:34,100 --> 00:14:37,180
+Cela permet de mieux prédire le futur, car on a
+vraiment ce matching
+
+202
+00:14:37,180 --> 00:14:40,220
+on sait qu'il peut y avoir des variations d'une année à l'autre et là, comme les poissons bouge
+
+203
+00:14:40,300 --> 00:14:45,540
+quand même beaucoup et vont très rapidement
+réagir à des variations climatiques
+
+204
+00:14:45,640 --> 00:14:50,400
+on peut vraiment avoir une relation 
+espèces-environnement qui est beaucoup plus précise
+
+205
+00:14:50,400 --> 00:14:52,260
+si on applique ce genre de méthode.
+
+206
+00:14:52,540 --> 00:14:55,580
+Ça aussi, cela aurai été difficile sans 
+ces données temporelles du GBIF
+
+207
+00:14:55,580 --> 00:14:57,160
+en plus, vu que c'est une échelle assez large,
+
+208
+00:14:57,160 --> 00:15:01,380
+donc dans le canevas général des applications de données GBIF.
+
+209
+00:15:01,540 --> 00:15:06,460
+Je ne vais pas détailler tous les graphique mais
+on voit juste l'augmentation
+
+210
+00:15:06,480 --> 00:15:10,900
+du nombre d'espèce qui arrive a passé de l'un
+à l'autre au cours du temps.
+
+211
+00:15:11,280 --> 00:15:16,480
+Et ce qui est intéressant dans cette étude, que l'on a publié en 2015, on a tout de suite eu une réponse
+
+212
+00:15:16,500 --> 00:15:22,220
+d'un groupe de scandinave qui travaillait 
+dans le domaine des bècheries
+
+213
+00:15:23,020 --> 00:15:28,380
+et qui nous dit : " vous prédisez" 
+vous le voyez sur la carte ici "pour la mer de Barents
+
+214
+00:15:28,440 --> 00:15:35,880
+seulement la morue dans le courant du 21ème siècle
+alors qu'en fait, elle y est déjà".
+
+215
+00:15:35,880 --> 00:15:39,860
+Et ils nous disent : "regardez, il y a la carte 
+qui nous le montre que la morue est déjà là-bas,
+
+216
+00:15:39,860 --> 00:15:41,460
+on l'as péché récemment".
+
+217
+00:15:41,460 --> 00:15:45,320
+Ce qui est intéressant, c'est que c'est une information 
+qui n'est pas dans les base de données mondiale
+
+218
+00:15:45,920 --> 00:15:48,540
+on leur a répondu : "si ces données avaient été dedans (ndlr : dans les bases de données)
+
+219
+00:15:48,540 --> 00:15:50,280
+on aurait pu calibrer le modèle correctement.
+
+220
+00:15:50,460 --> 00:15:53,380
+Effectivement, quand on re-calibre le modèle 
+avec les nouvelles données
+
+221
+00:15:53,640 --> 00:15:58,000
+sans trop de surprise, on arrive à prédire
+la morue actuellement dans la mer de Barents.
+
+222
+00:15:58,320 --> 00:16:02,260
+Cela montre aussi l'importance de vraiment
+encourager les gens à délivrer leurs données
+
+223
+00:16:02,360 --> 00:16:07,660
+à les remettre au GBIF, pour que tout le monde 
+puissent en profiter.
+
+224
+00:16:07,720 --> 00:16:12,280
+C'est un cas trivial mais cela montre à quel point
+ces modèles sont dépendant
+
+225
+00:16:12,400 --> 00:16:16,420
+d'une bonne couverture des données 
+dans ces bases de données.
+
+226
+00:16:17,020 --> 00:16:21,380
+C'étaient quelques exemples de l'utilisation
+des données GBIF sur les modèles
+
+227
+00:16:21,600 --> 00:16:26,520
+et puis je vous ai dit qu'on peut aussi utiliser
+ces modèles pour améliorer
+
+228
+00:16:26,540 --> 00:16:29,740
+les bases de données, alors cela aurait pu être un exemple :
+
+229
+00:16:29,740 --> 00:16:33,300
+"il y a un problème, il faut que 
+ces données intègre le GBIF".
+
+230
+00:16:34,500 --> 00:16:38,380
+Et ce qu'on peut essayer de faire, c'est vraiment
+par exemple, utiliser des approches de modélisation
+
+231
+00:16:38,440 --> 00:16:41,920
+là aussi, c'est une approche qui est un petit peu compliqué qui a été développé par des australiens
+
+232
+00:16:42,240 --> 00:16:46,520
+qui se base sur des notions de diversité alpha 
+et gamma qui contraint au départ les modèles
+
+233
+00:16:47,380 --> 00:16:54,100
+par certaines valeurs observés de diversité
+alpha, beta et gamma
+
+234
+00:16:54,540 --> 00:17:01,740
+et qui du coup arrive à identifier des endroits où 
+le nombre de d'espèces répertorié
+
+235
+00:17:01,860 --> 00:17:04,740
+ne correspondrait pas 
+à celui que le modèle prédirait.
+
+236
+00:17:04,860 --> 00:17:10,080
+Donc on peut, et c'est ce qui explique dans cet article, 
+utiliser des modélisations basées sur les données
+
+237
+00:17:10,100 --> 00:17:15,280
+pour identifier les endroits prioritaire dans le paysage
+où il faudrait aller compléter les inventaires.
+
+238
+00:17:15,280 --> 00:17:18,860
+Donc ça, c'est exactement ce qu'on pourrait faire
+dans le cadre du GBIF.
+
+239
+00:17:18,980 --> 00:17:22,700
+Et puis, ce qu'on peut faire d'autre, 
+c'est formaliser un petit peu.
+
+240
+00:17:22,740 --> 00:17:27,240
+l'approche que j'ai déjà décrite :
+cette boucle entre modèle et données
+
+241
+00:17:27,380 --> 00:17:32,220
+c'est à dire que, surtout dans les contexte de conservation, par exemple pour les espèces rares,
+
+242
+00:17:32,340 --> 00:17:40,020
+de vraiment, dans des boucles adaptives, 
+calibrer un modèle sur les données du GBIF
+
+243
+00:17:40,340 --> 00:17:46,600
+allez sur le terrain avec, par exemple, une approche qui soit bien conçu, comme "aléatoire starifié"'
+
+244
+00:17:46,680 --> 00:17:49,960
+où on stratifie l'échantillonnage par 
+les prédictions du modèle
+
+245
+00:17:50,160 --> 00:17:53,460
+et on va pas seulement visiter les endroits  qui sont favorables mais aussi ceux qui sont défavorable
+
+246
+00:17:53,460 --> 00:17:54,880
+parce qu'on peut avoir des surprises.
+
+247
+00:17:55,020 --> 00:17:58,980
+On peut montrer que, statistiquement, si on fait ça dans le temps de manière régulière
+
+248
+00:17:58,980 --> 00:18:02,560
+et qu'on peut utiliser les forces qui, de toute façon,
+ vont échantillonner comme les volontaires,
+
+249
+00:18:02,740 --> 00:18:07,320
+qui sont tout content d'avoir une suggestion 
+d'endroit à échantillonner
+
+250
+00:18:07,320 --> 00:18:11,000
+on pourrais, à terme, supprimer le biais 
+dans les modèles
+
+251
+00:18:11,120 --> 00:18:15,120
+ça, on peut le montrer par simulation,
+on voit que
+
+252
+00:18:15,240 --> 00:18:20,500
+au terme des itérations, 
+ce qui peut être des années d'échantillonnage
+
+253
+00:18:20,880 --> 00:18:25,060
+on peut augmenter le nombre de découverte de population d'une espèce dans le paysage.
+
+254
+00:18:25,400 --> 00:18:28,480
+Ou bien on va atteindre à un moment donné, 
+où le modèle va converger
+
+255
+00:18:28,620 --> 00:18:32,240
+vers un modèle stable qui correspond 
+à l'écologie de l'espèce.
+
+256
+00:18:32,500 --> 00:18:37,680
+C'est typiquement quelque chose que l'on pourrait déjà 
+implémenté en lien direct avec les bases de données.
+
+257
+00:18:38,440 --> 00:18:43,800
+C'était quelques exemples, cela m'amène un peu
+à la dernière partie de ma présentation
+
+258
+00:18:43,980 --> 00:18:48,660
+qui sont les recommandation 
+de ce groupe de travail
+
+259
+00:18:48,940 --> 00:18:53,740
+qui a été mandaté par le GBIF pour travaillé
+justement sur ces questions
+
+260
+00:18:53,760 --> 00:18:57,520
+de fitness de données pour la modélisation
+
+261
+00:18:57,640 --> 00:19:01,200
+qui était constitué vraiment
+ de modélisateur uniquement
+
+262
+00:19:01,200 --> 00:19:04,840
+de collègue de différentes régions du monde
+j'ai mis la liste ici
+
+263
+00:19:04,920 --> 00:19:11,820
+puisque j'utilise aussi un peu de matériel de notre 
+groupe de travail dans les diapositives qui suivent
+
+264
+00:19:11,980 --> 00:19:19,460
+et vous pouvez trouver le contenu intégral du 
+rapport qui a été soumis et publié en mars 2015
+
+265
+00:19:19,580 --> 00:19:21,580
+sur le site du GBIF.
+
+266
+00:19:22,520 --> 00:19:27,080
+Une des premières choses que l'on a identifiés, 
+qu'on a du formaliser pour pouvoir travailler
+
+267
+00:19:27,080 --> 00:19:33,320
+c'est quels sont les acteurs dans la dynamique du GBIF, en lien avec ces modèles.
+
+268
+00:19:33,600 --> 00:19:39,520
+On identifie trois groupes d'acteurs principaux,
+appelés aussi 'providers' :
+
+269
+00:19:39,520 --> 00:19:42,520
+qui sont des fournisseurs de données : cela peut être
+des bénévoles qui vont sur le terrain,
+
+270
+00:19:42,520 --> 00:19:46,620
+des conservateurs dans un musée, etc.
+
+271
+00:19:46,640 --> 00:19:49,460
+Les scientifiques qui font des études et qui 
+donnent leurs données ensuite.
+
+272
+00:19:49,760 --> 00:19:54,200
+Il y a les 'agregators', c'est vraiment le GBIF, 
+avec toutes ces bases de données
+
+273
+00:19:54,200 --> 00:19:57,540
+qui vont mettre à disposition, qui vont permettre
+l’accessibilité des données.
+
+274
+00:19:57,900 --> 00:20:02,160
+Et puis, il y a les utilisateurs de ces données,
+typiquement les modélisateurs
+
+275
+00:20:02,280 --> 00:20:06,320
+ou, j'imagine, tous les gens associés aux exemples
+que nous allons voir par la suite :
+
+276
+00:20:06,320 --> 00:20:09,360
+Toutes les utilisations que 
+l'on peut faire des données du GBIF.
+
+277
+00:20:09,980 --> 00:20:11,980
+Ce qui est important, c'est que nous nous sommes rendu compte que
+
+278
+00:20:12,120 --> 00:20:15,480
+il y a des liens très fort entre ces trois groupes,
+il faut qu'il y ait des liens,
+
+279
+00:20:15,480 --> 00:20:18,280
+il faut qu'il y ait une dynamique de discussion
+entre ces trois groupes.
+
+280
+00:20:18,620 --> 00:20:25,860
+Parce que les trois ont un rôle à jouer dans 
+l'amélioration des données du GBIF à terme.
+
+281
+00:20:31,800 --> 00:20:37,700
+On a identifié ces trois grands groupes d'acteurs, 
+et puis on a associés à ces 3 grands groupes d'acteurs
+
+282
+00:20:37,700 --> 00:20:42,060
+trois grand type de problématiques,
+liées aux données :
+
+283
+00:20:42,100 --> 00:20:47,280
+les données elles-mêmes : les erreurs, les biais, 
+l'incompletness (données partielles), etc.
+
+284
+00:20:47,640 --> 00:20:52,300
+Les problèmes d’accessibilité : certaines fois, 
+l'information existe mais elle n'est pas accessible
+
+285
+00:20:52,300 --> 00:20:53,360
+aux utilisateurs.
+
+286
+00:20:54,060 --> 00:20:57,500
+Et ce qui ne faut pas oublier : 
+la mauvaise utilisation
+
+287
+00:20:57,500 --> 00:21:00,100
+les problèmes qui sont liés à l'utilisation.
+
+288
+00:21:00,260 --> 00:21:05,260
+Et c'est là que les modélisateurs peuvent
+jouer un rôle pour aider les utilisateurs
+
+289
+00:21:05,440 --> 00:21:08,200
+à utiliser les données de manière approprié.
+
+290
+00:21:11,240 --> 00:21:14,600
+Si on passe sur quelques exemples :
+pour les données
+
+291
+00:21:14,680 --> 00:21:18,820
+on sait que quand on observe une espèce 
+en différents endroit, typiquement,
+
+292
+00:21:19,300 --> 00:21:24,400
+c'est que l'espèce est passé à travers 
+ces fameux filtres de dispersion, d'habitat favorable
+
+293
+00:21:24,400 --> 00:21:26,820
+d'interaction symbiotique favorable.
+
+294
+00:21:26,820 --> 00:21:31,820
+Mais ensuite, bien sûr, il peut y avoir les erreurs des observateurs : c'est ce que ce schéma montre.
+
+295
+00:21:31,820 --> 00:21:34,980
+Il m'a été fourni par Enrique Martinez-Meyer.
+
+296
+00:21:35,180 --> 00:21:41,700
+Il met en évidence les deux types classique d'erreur
+qui sont les fausses absence ou les fausses présence.
+
+297
+00:21:43,160 --> 00:21:51,860
+De manière plus générale, on peut voir différent groupe
+d'erreur ou de problème associés aux données du GBIF
+
+298
+00:21:52,540 --> 00:21:56,680
+c'est les problèmes de type taxonomique 
+ou de type géographique
+
+299
+00:21:56,680 --> 00:22:01,020
+ou éventuellement de type écologique si on
+parle de catégorie d'habitat.
+
+300
+00:22:01,460 --> 00:22:06,540
+On peut faire, dans les deux cas, des erreurs
+qui soient vraiment des erreurs de mesures
+
+301
+00:22:06,540 --> 00:22:12,400
+cela peut-être une erreur de localisation :
+à la recopie, on a mis la mauvaise coordonnée
+
+302
+00:22:12,400 --> 00:22:15,300
+ce qui fait que cela nous envoi 
+un caster au milieu du désert
+
+303
+00:22:16,980 --> 00:22:22,140
+ou bien des biais : par exemple, des régions ont été
+mal échantillonné ou bien certains observateurs
+
+304
+00:22:22,140 --> 00:22:26,400
+sont aller, de manière systématique, 
+dans certains endroits et pas dans d'autre.
+
+305
+00:22:26,800 --> 00:22:31,900
+Et puis on a le même type de bai ou d'erreur 
+qui sont associés à l'espace géographique.
+
+306
+00:22:32,000 --> 00:22:38,360
+Taxonomique : c'est souvent ce qu'on appelle 'lineant short fault' :
+
+307
+00:22:38,360 --> 00:22:43,540
+on a mal échantillonner certains groupe, par exemple,
+ou certains groupe intéressent pas les scientifiques
+
+308
+00:22:43,560 --> 00:22:46,720
+ou bien, ils sont dur à identifier, et donc 
+ils auront été mal inventoriés.
+
+309
+00:22:47,520 --> 00:22:52,220
+Il peut y avoir des problème d'identification d'espèces :
+c'est les vrai erreurs et biais taxonomique ;
+
+310
+00:22:52,280 --> 00:22:55,960
+Et ce que j'ai dit précédemment, 
+c'est les erreurs et les biais géographique.
+
+311
+00:22:57,540 --> 00:23:03,360
+Alors on sait que ce type d'erreur existe,
+et puis dans, par exemple,
+
+312
+00:23:03,420 --> 00:23:11,200
+les problèmes liés à l'utilisation ou à l'accessibilité
+c'est typiquement l'exemple, d'une part
+
+313
+00:23:11,360 --> 00:23:14,320
+avoir accès à des erreurs lié à la localisation.
+
+314
+00:23:14,380 --> 00:23:19,720
+Mais ne pas les utiliser et donc avoir des modèles 
+qui vont mal prédire ; on voit en rouge
+
+315
+00:23:19,920 --> 00:23:24,220
+les zones qui, si on ne les prenais pas en compte
+semblerait bien prédite par le modèle mais
+
+316
+00:23:24,220 --> 00:23:27,260
+correspondent à des zones de fortes incertitudes
+
+317
+00:23:28,160 --> 00:23:31,060
+parce que, pour les définir, on a pris en compte 
+ces cercles qui montrent, qu'en fait
+
+318
+00:23:31,060 --> 00:23:35,860
+pour certaines observations, on a une incertitude
+énorme autour du point de localisation.
+
+319
+00:23:36,440 --> 00:23:40,060
+Et puis, dans certains cas, on n’a pas accès
+à ces données : ça peut arriver que
+
+320
+00:23:40,120 --> 00:23:43,700
+elles soient dans une base de données locale
+mais qu'elles n'ai pas été transmisses au GBIF
+
+321
+00:23:43,960 --> 00:23:47,880
+et si on retourne au données initiales, on va pouvoir
+faire ce type d'exercices, mais
+
+322
+00:23:48,240 --> 00:23:52,740
+si les fournisseurs n'ont pas donné l'intégralités 
+des données, y compris d'incertitude au GBIF
+
+323
+00:23:53,480 --> 00:23:55,480
+ces données ne sont plus du tout accessible
+au niveau du GBIF.
+
+324
+00:23:55,480 --> 00:23:57,360
+Donc cela montre que
+
+325
+00:23:57,740 --> 00:24:02,400
+à un niveau d'utilisation ou d'accessibilité,
+l'information est là ;
+
+326
+00:24:02,680 --> 00:24:09,320
+ce n'est pas un problème des données, 
+c'est un problème de la fourniture des données
+
+327
+00:24:10,260 --> 00:24:12,360
+ou de leurs consultation.
+
+328
+00:24:12,500 --> 00:24:18,220
+Ce qui est intéressant, à cause de ces problèmes
+de biais, d'erreur que l'on peut avoir dans les données,
+
+329
+00:24:18,660 --> 00:24:23,140
+on voit souvent, en tout cas les scientifiques qui 
+cherchent à utiliser les bonnes données
+
+330
+00:24:23,260 --> 00:24:30,680
+et qu'ils font un effort de filtrage, qui doivent 
+considérer ou enlever certaines espèces
+
+331
+00:24:30,720 --> 00:24:35,080
+qui n'atteignent pas certains standards de
+précision ou de qualités.
+
+332
+00:24:35,700 --> 00:24:37,800
+Donc enlever des espèces ou des observations.
+
+333
+00:24:38,100 --> 00:24:42,500
+Vous voyez ici, juste un petit peu un 
+échantillonnage qui est venue d'un
+
+334
+00:24:42,920 --> 00:24:47,220
+questionnaire que l'on a mené auprès d'un
+certains nombre de scientifiques (136 experts)
+
+335
+00:24:47,220 --> 00:24:52,160
+qui ont été consultés, pour savoir si les gens
+utilisais toutes les données du GBIF
+
+336
+00:24:52,160 --> 00:24:56,120
+ou si ils enlevais à certaines espèces qui ne
+passaient pas leurs critères,
+
+337
+00:24:56,120 --> 00:25:00,580
+ou si ils enlevais leurs observations ; et vous voyez
+que pour les espèces,
+
+338
+00:25:06,360 --> 00:25:12,360
+les espèces qui sont enlevés, presque tout le monde
+va enlever des proportions jusqu'à 10% des espèces
+
+339
+00:25:12,360 --> 00:25:17,540
+mais dans certains cas, c'est beaucoup plus
+cela peut monter jusqu'à 50-75% des espèces
+
+340
+00:25:17,540 --> 00:25:21,660
+qui sont retirer des analyses car
+
+341
+00:25:22,180 --> 00:25:27,440
+les données qui correspondent n'atteigne pas les
+standard nécessaire pour faire l'étude.
+
+342
+00:25:28,540 --> 00:25:37,660
+Alors, j'ai quasiment fini, on va faire un petit survol : on a 
+identifier quelques challenges autour des données du GBIF
+
+343
+00:25:39,180 --> 00:25:44,640
+ces problèmes de biais, 
+de trou dans l'échantillonnage, de non complexion,
+
+344
+00:25:46,020 --> 00:25:50,360
+on a en parlé : on voit que c'est quelque chose
+très sérieusement pris en main par le GBIF
+
+345
+00:25:51,020 --> 00:25:54,720
+et qui va très probablement évolué assez rapidement.
+
+346
+00:25:55,360 --> 00:26:01,000
+Une chose aussi qui serait vraiment utile, c'est 
+que les utilisateurs puissent avoir des cartes
+
+347
+00:26:01,520 --> 00:26:06,500
+qui leur donne une idée de l'intensité de
+l'échantillonnage pour l'espèce qui les intéresse
+
+348
+00:26:06,580 --> 00:26:10,260
+donc typiquement, une personne qui s'intéresse
+qu'à une seule espèce ne pourrait
+
+349
+00:26:10,260 --> 00:26:13,980
+pas se rendre compte des biais qui affecte
+cette espèce car il faut regarder l'ensemble
+
+350
+00:26:14,180 --> 00:26:18,880
+des espèces du groupe pour se rendre compte que, 
+par exemple, ce groupe n'a jamais été échantillonné
+
+351
+00:26:18,880 --> 00:26:20,880
+dans certaines régions, ou alors beaucoup moins.
+
+352
+00:26:21,040 --> 00:26:27,460
+Donc on pourrait dériver des sortes de cartes
+d'intensité d'échantillonnage par groupe
+
+353
+00:26:28,080 --> 00:26:30,960
+de manière à ce que les gens, même si ils utilisent
+les données que pour une espèce
+
+354
+00:26:31,400 --> 00:26:34,820
+puissent toujours le mettre en perspective 
+dans l'effort d'échantillonnage, de biais, etc.
+
+355
+00:26:36,060 --> 00:26:41,480
+Et ce qui manque aussi, c'est ce qu'on a identifié, 
+dans le GBIF actuellement,
+
+356
+00:26:41,800 --> 00:26:47,680
+c'est la capacité pour les utilisateurs (les modélisateurs)
+de faire des suggestions ou de corriger des données.
+
+357
+00:26:47,960 --> 00:26:53,240
+Parce qu'un utilisateur qui tombe sur une erreur
+évidente : une plante terrestre au milieu d'un lac
+
+358
+00:26:53,360 --> 00:27:00,120
+ou un castor loin d'une rivière ou ce genre d'erreur,
+
+359
+00:27:00,400 --> 00:27:04,080
+on a pas de moyens, actuellement, de pouvoir
+les corriger directement
+
+360
+00:27:04,080 --> 00:27:08,620
+ou d'associer une note à une observation ;
+ce serait quelque chose d'utile.
+
+361
+00:27:10,500 --> 00:27:15,800
+Cela a aussi été mentionné par Donald dans 
+sa présentation,
+
+362
+00:27:16,420 --> 00:27:21,700
+bien sûr que toutes les données annexes, 
+que l'on pourrait associer à ces observations
+
+363
+00:27:21,880 --> 00:27:26,660
+que cela soit d'autres traits des espèces, ou bien
+de la physiologie, morphologie ou dispersion
+
+364
+00:27:26,920 --> 00:27:31,340
+serait le bienvenu et dans ce sens,
+
+365
+00:27:32,420 --> 00:27:35,320
+dans les recommandations qu'on avait fait 
+en mars à l'époque,
+
+366
+00:27:35,320 --> 00:27:37,860
+vous avez entendu dans les autres présentations
+qu'elles sont déjà en train d'être implémentés
+
+367
+00:27:38,040 --> 00:27:42,340
+dans le GBIF ; c'était par exemple d'avoir 
+un outil identifieur unique pour les observations
+
+368
+00:27:42,340 --> 00:27:47,000
+de manière à ce que précisément, on puisse ensuite 
+les liés à d'autre base de données
+
+369
+00:27:47,000 --> 00:27:50,640
+comme les bases de données Trais ou ce genre 
+de chose, de manière beaucoup plus facile.
+
+370
+00:27:51,620 --> 00:27:56,580
+Pour conclure, les recommandations que l'on peut faire
+
+371
+00:27:56,580 --> 00:28:01,440
+que l'on avait fait dans ce rapport, et qui sont déjà
+en train d'être prise en compte par le GBIF,
+
+372
+00:28:02,660 --> 00:28:07,060
+c'est de vraiment améliorer les indicateurs 
+associés aux observations
+
+373
+00:28:08,800 --> 00:28:11,500
+de précision, de qualité, d'incertitudes, etc.
+
+374
+00:28:11,960 --> 00:28:15,460
+vraiment insister auprès de certains 
+fournisseurs de données
+
+375
+00:28:15,480 --> 00:28:18,620
+pour que ces données soient aussi fourni 
+systématiquement ; c'est pas toujours le cas.
+
+376
+00:28:19,760 --> 00:28:25,440
+L'identifiant unique, on vient d'en parler, c'est en route
+c'est vraiment une très bonne nouvelle.
+
+377
+00:28:26,840 --> 00:28:30,360
+La question des annotations d'erreur
+c'est aussi quelque chose qu'ils ont
+
+378
+00:28:30,360 --> 00:28:33,900
+retenu et qui va peut-être être développé.
+
+379
+00:28:34,840 --> 00:28:42,300
+Bien sûr, on a aussi entendu parler de 
+tous les aspects formations
+
+380
+00:28:42,480 --> 00:28:45,760
+des utilisateurs des données du GBIF,
+par exemple : si c'est pour la modélisation
+
+381
+00:28:45,880 --> 00:28:52,020
+ce sera par des cours données par des 
+modélisateurs en lien avec le GBIF.
+
+382
+00:28:53,200 --> 00:28:58,040
+Juste pour conclure, j'aime bien finir avec ce
+schéma qui
+
+383
+00:28:58,060 --> 00:29:01,040
+montre qu'il y a d'un côté la science 
+avec  les modélisateurs,
+
+384
+00:29:01,100 --> 00:29:06,840
+de l'autre côté, les besoins de la société, 
+des décideurs pour utiliser ces données
+
+385
+00:29:07,020 --> 00:29:10,740
+pour prendre des décisions : 
+c'est des choses que l'on a déjà entendu
+
+386
+00:29:10,860 --> 00:29:13,800
+et il manque souvent un petit peu cette case,
+qui contient
+
+387
+00:29:13,880 --> 00:29:18,360
+les traducteurs entre la science et la société
+entre la science et les décideurs :
+
+388
+00:29:19,300 --> 00:29:25,280
+pouvoir lire la littérature scientifique, pas seulement 
+car cela est quelque fois compliqué
+
+389
+00:29:25,280 --> 00:29:27,920
+mais parce qu'on a beaucoup trop d'articles à lire
+souvent pour les décideurs.
+
+390
+00:29:28,480 --> 00:29:35,860
+Et le GBIF, peut-être, se positionne de plus en plus comme 
+cette boite de traduction entre science et société
+
+391
+00:29:36,080 --> 00:29:40,220
+puisqu'en fait, quand il mandate ces groupes de travail,
+pour essayer de délivrer un rapport
+
+392
+00:29:40,400 --> 00:29:44,260
+de synthèse sur une problématique, 
+ils font en fait le travail de traduction
+
+393
+00:29:44,260 --> 00:29:51,880
+qui va ensuite permettre aux utilisateurs,
+aux fournisseurs de mieux travailler avec les données.
+
+394
+00:29:52,000 --> 00:29:54,780
+Voilà, je vous remercie.
+j'espère que je n'ai pas été trop long.
+
+395
+00:29:54,780 --> 00:29:55,900
+*Applaudissement*
+

@@ -1,0 +1,86 @@
+1
+00:00:00,000 --> 00:00:07,500
+Participant : Donc, vous avez mentionné que vous utilisez certains filtres pour tenter de détecter des erreurs dans l'espace géographique
+
+2
+00:00:08,240 --> 00:00:16,560
+mais vous n'utilisez pas n espace au hasard afin que vous puissiez également rechercher une certaine plausibilité de certains des nouveaux échantillons
+
+3
+00:00:17,320 --> 00:00:21,900
+avec une sorte de test écologique en regardant l'habitat, la niche
+
+4
+00:00:22,340 --> 00:00:25,800
+en Suisse au moins avec la base de données floristiques
+
+5
+00:00:26,600 --> 00:00:31,440
+qui fournit ensuite les données à GBIF, ils sont, en ce moment, sur l'implémentation d'une procédure
+
+6
+00:00:31,800 --> 00:00:36,060
+pour l'utiliser comme test de plausibilité en plus du test géographique
+Leen Vandepitte :  okay
+
+7
+00:00:37,960 --> 00:00:43,980
+Ce dont j'ai parlé, des procédures de contrôle de la qualité, celles-ci sont maintenant dans la base de données OBIS.
+
+8
+00:00:44,380 --> 00:00:46,820
+Elles ne sont pas encore disponibles dans le portail
+
+9
+00:00:46,820 --> 00:00:53,940
+Il n'y a aucun moyen de prendre en compte les résultats de ces requêtes sur le portail ; ils sont en train de travailler la-dessus.
+
+10
+00:00:54,460 --> 00:00:59,140
+Pour les aberations,
+
+11
+00:00:59,640 --> 00:01:08,280
+ils utilisent des bases de données existantes sur la salinité
+
+12
+00:01:08,660 --> 00:01:11,600
+et la profondeur et d'autres critères.
+
+13
+00:01:11,600 --> 00:01:18,040
+Ils regardent cela, en combinaison avec d'autres critère pour décider : décider selon
+
+14
+00:01:18,140 --> 00:01:21,040
+l'analyse des valeurs aberrantes si elle est anormale ou non.
+
+15
+00:01:21,540 --> 00:01:26,800
+À la fin de la présentation, j'ai donné deux références de publications.
+
+16
+00:01:27,040 --> 00:01:31,000
+L'un d'entre eux a une description complète des procédures de contrôle de la qualité
+
+17
+00:01:31,080 --> 00:01:34,700
+que nous avons implémenté et toutes les informations seront là.
+
+18
+00:01:34,880 --> 00:01:40,480
+Participant : C'est généralement un exemple où je pense que nous pourrions améliorer beaucoup de procédures avec certains
+
+19
+00:01:41,020 --> 00:01:50,600
+de ces filtres utilisant l'environnement et cherchez à trouver un échantillon pour une espèce dans un environnement très peu probable
+
+20
+00:01:50,800 --> 00:01:54,360
+Leen Vandepitte :  Yeah 
+Participant : Vous pouvez également avertir la personne en lui demandant de vérifier
+
+21
+00:01:54,700 --> 00:01:55,340
+Leen Vandepitte :  Oui.
+

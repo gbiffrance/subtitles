@@ -1,0 +1,168 @@
+1
+00:00:00,000 --> 00:00:07,120
+Participant : Donald, you have staring the meeting with BHL, Catalogue of life, can you said a world on that ?
+
+2
+00:00:07,600 --> 00:00:14,980
+Donald Auburn : A couple of things there : first and foremost I think our one of our biggest needs
+
+3
+00:00:15,420 --> 00:00:23,780
+is to finish the long long long task of compiling first a global
+
+4
+00:00:25,620 --> 00:00:32,140
+effectively complete, it will never be
+fully complete, catalog of the names that loan organisms.
+
+5
+00:00:32,560 --> 00:00:39,900
+And secondly to work in a way that is achievable and credible to
+
+6
+00:00:39,900 --> 00:00:48,920
+construct and maintain a complete classification of life on Earth at the species level a working one, there will
+be disagreements.
+
+7
+00:00:50,280 --> 00:00:57,440
+Catalog of life and activities such as Iply and zoobank and index fundgorom have been working
+
+8
+00:00:57,680 --> 00:01:03,600
+on parts of this and we've had umbrella activities where we've talked about the global names architecture etc.
+
+9
+00:01:04,740 --> 00:01:09,860
+I am in closed discussion with Catalogue of Life
+
+10
+00:01:10,520 --> 00:01:17,960
+about, as you're aware, about how we merge our activities better we treated this is something where
+
+11
+00:01:18,160 --> 00:01:24,260
+we're going to build all of these things separately and and hopefully all will come out of it with benefit.
+
+12
+00:01:24,580 --> 00:01:29,880
+GBIF shouldn't be doing anything to stitch
+together names and classifications
+
+13
+00:01:30,060 --> 00:01:35,040
+that is separate from what the catalog of
+life is doing or IOL is doing, we need to
+
+14
+00:01:35,900 --> 00:01:45,500
+combine those activities and we need to do so in a way that ensures that those who have put decades of effort into building their own databases
+
+15
+00:01:45,920 --> 00:01:49,600
+feel comfortable and feel that they get the credit they need
+
+16
+00:01:50,400 --> 00:01:56,660
+but we're nevertheless those datasets can be things that the global community can maintain the take forward
+
+17
+00:01:57,140 --> 00:02:05,280
+so I try to work through a workshop, organizing a workshop in the next few months with catalog of life and with others
+
+18
+00:02:05,520 --> 00:02:09,120
+looking at the sociology of how we do that,
+
+19
+00:02:09,260 --> 00:02:12,360
+and I think sociology is the
+real issue technically it's easy and
+
+20
+00:02:12,500 --> 00:02:17,780
+then I think GBIF can provide a lot of
+these supports for Catalog of Life to accelerate what we're doing.
+
+21
+00:02:18,380 --> 00:02:27,140
+More broadly, we have had discussions with BHL, Encyclopedia of life, Catalog of life, The bar code of life database and others
+
+22
+00:02:27,480 --> 00:02:32,240
+about how we start making real linkages
+between out our data.
+
+23
+00:02:32,780 --> 00:02:37,280
+And again, part of the trouble is that we're all trying to duplicate bits of each other's activity
+
+24
+00:02:37,800 --> 00:02:41,920
+and I wanted to move towards an ecosystem where we have a shared understanding
+
+25
+00:02:42,400 --> 00:02:47,840
+of the graph of connections between specimens and collections
+
+26
+00:02:48,100 --> 00:02:51,720
+and tax on concepts and tax on names and publications and sequences and traits
+
+27
+00:02:51,980 --> 00:02:57,480
+at the very highest level and that instead of duplicating bits of that
+
+28
+00:02:58,120 --> 00:03:03,340
+we actually have interconnected infrastructure's so that there is one place
+
+29
+00:03:03,800 --> 00:03:10,560
+for finding all of the names of organisms so that we work together to populate BHL to the fullest extent possible.
+
+30
+00:03:10,860 --> 00:03:18,180
+So that GBIF can provide a service that locates the type specimen it's been digitized
+
+31
+00:03:18,480 --> 00:03:23,600
+and connect it up with the intellectual record and with the publication.
+
+32
+00:03:24,960 --> 00:03:27,040
+That's what we've got to go.
+
+33
+00:03:27,040 --> 00:03:31,060
+We're still with
+infrastructure's that are offering value
+
+34
+00:03:31,940 --> 00:03:36,740
+but aren't part of the globally connected knowledge space I would like to see.
+
+35
+00:03:39,340 --> 00:03:45,020
+Anyone who can throw their weight into finding ways to make this happen and it's all about
+
+36
+00:03:45,540 --> 00:03:52,300
+solving project timelines and the sociology of how we give credit,
+
+37
+00:03:52,540 --> 00:03:56,200
+and how we recognize the expertise of contributors.
+
+38
+00:03:56,440 --> 00:03:59,600
+It's a complicated issue because about people
+
+39
+00:04:00,060 --> 00:04:04,620
+but if we get it right then I think we can provide a much better service
+
+40
+00:04:04,900 --> 00:04:09,400
+to the research community to text on the miss and others. Not in short time.
+
