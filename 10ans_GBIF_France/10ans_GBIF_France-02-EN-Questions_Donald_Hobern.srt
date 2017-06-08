@@ -1,10 +1,10 @@
 1
 00:00:00,000 --> 00:00:07,120
-Participant : Donald, you have staring the meeting with BHL, Catalogue of life, can you said a world on that ?
+Participant: Donald, you have started the meeting with BHL, Catalogue of life, can you said a word on that?
 
 2
 00:00:07,600 --> 00:00:14,980
-Donald Auburn : A couple of things there : first and foremost I think our one of our biggest needs
+Donald Hobern: a couple of things there: first and foremost I think our one of our biggest needs
 
 3
 00:00:15,420 --> 00:00:23,780
@@ -26,7 +26,7 @@ be disagreements.
 
 7
 00:00:50,280 --> 00:00:57,440
-Catalog of life and activities such as Iply and zoobank and index fundgorom have been working
+Catalog of life and activities such as Iply and Zoobank and Index Fungorum have been working
 
 8
 00:00:57,680 --> 00:01:03,600
@@ -34,11 +34,11 @@ on parts of this and we've had umbrella activities where we've talked about the 
 
 9
 00:01:04,740 --> 00:01:09,860
-I am in closed discussion with Catalogue of Life
+I am in close discussion with Catalogue of Life
 
 10
 00:01:10,520 --> 00:01:17,960
-about, as you're aware, about how we merge our activities better we treated this is something where
+about, as you're aware, about how we merge our activities better. We treated this is something where
 
 11
 00:01:18,160 --> 00:01:24,260
@@ -64,9 +64,9 @@ feel comfortable and feel that they get the credit they need
 
 16
 00:01:50,400 --> 00:01:56,660
-but we're nevertheless those datasets can be things that the global community can maintain the take forward
+but nevertheless those datasets can be things that the global community can maintain the take forward
 
-17
+17 
 00:01:57,140 --> 00:02:05,280
 so I try to work through a workshop, organizing a workshop in the next few months with catalog of life and with others
 
@@ -115,7 +115,7 @@ at the very highest level and that instead of duplicating bits of that
 
 28
 00:02:58,120 --> 00:03:03,340
-we actually have interconnected infrastructure's so that there is one place
+we actually have interconnected infrastructures so that there is one place
 
 29
 00:03:03,800 --> 00:03:10,560
@@ -123,7 +123,7 @@ for finding all of the names of organisms so that we work together to populate B
 
 30
 00:03:10,860 --> 00:03:18,180
-So that GBIF can provide a service that locates the type specimen it's been digitized
+So that GBIF can provide a service that locates the type specimen that's been digitized
 
 31
 00:03:18,480 --> 00:03:23,600
