@@ -1,22 +1,22 @@
 1
 00:00:00,440 --> 00:00:03,500
-Donald Auburn : It's a great pleasure to be here today
+Donald Hobern : It's a great pleasure to be here today
 
 2
 00:00:03,800 --> 00:00:12,340
-France has always being one of the Core-stone participants in GBIF
+France has always been one of the core-stone participants in GBIF
 
 3
 00:00:12,560 --> 00:00:19,540
-a significant contributor to every part of our work and i'm very excited
+a significant contributor to every part of our work and I'm very excited
 
 4
 00:00:19,740 --> 00:00:27,220
-to see that this event today and so many here to celebrate 10 years of GBIF France.
+to see this event today and so many here to celebrate 10 years of GBIF France.
 
 5
 00:00:27,660 --> 00:00:35,880
-This presentation will touch on a few subjects there are many more things that could be talked about and I believe
+This presentation will touch on a few subjects, there are many more things that could be talked about and I believe
 
 6
 00:00:36,080 --> 00:00:41,700
@@ -53,7 +53,7 @@ countries particularly french-speaking countries in Africa and elsewhere.
 
 14
 00:01:36,860 --> 00:01:44,660
-After 15 years of GBIF existence as a an  international collaborative activity
+After 15 years of GBIF existence as a an international collaborative activity
 
 15
 00:01:45,220 --> 00:01:49,320
@@ -69,7 +69,7 @@ we have much more work still to do.
 
 18
 00:01:58,780 --> 00:02:07,560
-If we think about Western Europe, North America, parts of Latin America, South Africa and australasia,
+If we think about Western Europe, North America, parts of Latin America, South Africa and Australasia,
 
 19
 00:02:08,180 --> 00:02:13,560
@@ -148,7 +148,7 @@ contributor to GBIF,
 
 37
 00:04:05,160 --> 00:04:13,700
-financially and through the government structures ; a very large number of data points have been mobilized
+financially and through the government structures; a very large number of data points have been mobilized
 
 38
 00:04:14,220 --> 00:04:21,460
@@ -189,7 +189,7 @@ by providing much of the assistance for translation of key materials information
 
 47
 00:05:22,080 --> 00:05:30,380
-And right now, within this room, Anne-Sophie and Philippe GrandColas are two of the the members of
+And right now, within this room, Anne-Sophie and Philippe Grandcolas are two of the the members of
 
 48
 00:05:31,020 --> 00:05:35,740
@@ -226,7 +226,7 @@ global picture
 
 56
 00:06:25,840 --> 00:06:29,840
-and what I think we're all trying to do together ;
+and what I think we're all trying to do together;
 
 57
 00:06:30,260 --> 00:06:36,620
@@ -322,7 +322,7 @@ All of these are sources, all with their own bases, all with their own weaknesse
 
 79
 00:08:55,900 --> 00:09:00,020
-but we're together they can help us to understand these critical patterns.
+but together they can help us to understand these critical patterns.
 
 80
 00:09:00,900 --> 00:09:07,080
@@ -375,12 +375,12 @@ being able to find those materials and to be able to interact with them as far a
 
 92
 00:10:24,960 --> 00:10:31,500
-as they would if they were in the institution's concerned ; they're always going to be limits on this but
+as they would if they were in the institutions concerned; there is always going to be limits on this but
 
 93
 00:10:31,620 --> 00:10:40,620
 I believe that a global infrastructure for
-biodiversity and collections data should be focusing on how we achieve this more effective.
+biodiversity and collections data should be focusing on how we achieve this more effectively.
 
 94
 00:10:43,160 --> 00:10:47,840
@@ -393,11 +393,11 @@ GBIF has a critical role in underpinning
 
 96
 00:10:54,100 --> 00:10:58,020
-some of the work of the conventional biological diversity
+some of the work of the Convention on Biological Diversity (CBD)
 
 97
 00:10:58,760 --> 00:11:02,740
-ipbes and the Group on Earth
+IPBES and the Group on Earth
 Observations (GEO)
 
 98
@@ -407,7 +407,7 @@ activity globally
 
 99
 00:11:11,200 --> 00:11:19,320
-and through that, the kind of outcome seen in the IE targets and the sustainable development goals.
+and through that, the kind of outcome seen in the Aichi targets and the sustainable development goals.
 
 100
 00:11:19,640 --> 00:11:28,380
@@ -425,20 +425,20 @@ and therefore providing genuine evidence to underpin biodiversity just assessmen
 103
 00:11:44,680 --> 00:11:49,880
 So a few things
-that have been relatively recent advances in our network :
+that have been relatively recent advances in our network:
 
 104
 00:11:50,280 --> 00:11:57,260
-some of these seen incredibly dull but are actually much more significant
+some of these seem incredibly dull but are actually much more significant
 
 105
 00:11:57,660 --> 00:12:00,480
 It's the dullest of
-the all : data licenses.
+them all: data licenses.
 
 106
 00:12:01,140 --> 00:12:09,420
-At the time when GBIF was started 15 years ago, we didn't have creative commons licenses,
+At the time when GBIF was started 15 years ago, we didn't have Creative Commons licenses,
 
 107
 00:12:09,560 --> 00:12:20,100
@@ -447,7 +447,7 @@ agreements with individual data publishers,
 
 108
 00:12:20,320 --> 00:12:26,980
-we left it open for any institution to include whatever terms he believed were necessary,
+we left it open for any institution to include whatever terms it believed were necessary,
 
 109
 00:12:27,460 --> 00:12:34,440
@@ -519,11 +519,11 @@ we increase the visibility of the efforts of all of those who have contributed.
 
 125
 00:14:09,700 --> 00:14:14,320
-All datasets within GBIF are now associated with digital object identifier and
+All datasets within GBIF are now associated with a digital object identifier and
 
 126
 00:14:14,320 --> 00:14:17,000
-every time anybody download data from
+every time anybody downloads data from
 GBIF,
 
 127
@@ -690,7 +690,7 @@ Those are just a few of the things that I'm excited about as as recent changes a
 165
 00:18:36,800 --> 00:18:44,400
 I just want to look very
-briefly forward, GFIF operates in a five-year cycle
+briefly forward, GBIF operates in a five-year cycle
 
 166
 00:18:44,860 --> 00:18:48,680
@@ -769,7 +769,7 @@ Through this also to understand the kind of data products, data services that ar
 
 184
 00:20:41,060 --> 00:20:44,360
-First and foremost : one of our priorities,
+First and foremost: one of our priorities,
 
 185
 00:20:45,200 --> 00:20:49,640
@@ -781,7 +781,7 @@ is to deliver relevant data.
 
 187
 00:20:54,480 --> 00:21:03,300
-But under pending that, we need to be thinking about the ways in which our data need further attention.
+But underpending that, we need to be thinking about the ways in which our data need further attention.
 
 188
 00:21:03,940 --> 00:21:07,820
@@ -789,7 +789,7 @@ One of the most critical of these is around data quality.
 
 189
 00:21:08,700 --> 00:21:19,720
-We have always taken the position that data quality is not an absolutely fitness for use for different users will vary widely
+We have always taken the position that data quality is not an absolute: fitness for use for different users will vary widely
 
 190
 00:21:20,320 --> 00:21:29,260
@@ -818,15 +818,15 @@ that we understand and communicate
 
 196
 00:22:06,900 --> 00:22:14,480
-exactly what it is : that is an offer and that we can work together to find ways to  improve it over time.
+exactly what it is: that is an offer and that we can work together to find ways to  improve it over time.
 
 197
 00:22:16,660 --> 00:22:20,080
-GBIF needs to address data gaps the most visible of these
+GBIF needs to address data gaps, the most visible of these
 
 198
 00:22:20,100 --> 00:22:25,320
-are obviously the special ones because  we like to put points on maps
+are obviously the special ones because we like to put points on maps
 
 199
 00:22:25,320 --> 00:22:29,540
@@ -851,7 +851,7 @@ Right now, I would say that
 
 204
 00:22:51,060 --> 00:22:55,680
-GFIF has three priority areas that we have to focus on
+GBIF has three priority areas that we have to focus on
 
 205
 00:22:55,740 --> 00:23:02,400
@@ -925,7 +925,7 @@ more regional activities in organizing the names and classifications of species
 
 222
 00:24:58,340 --> 00:25:04,340
-we want to do a better job of linking to the literature through the biodiversity heritage library and elsewhere
+we want to do a better job of linking to the literature through the Biodiversity Heritage Library and elsewhere
 
 223
 00:25:04,880 --> 00:25:11,240
@@ -945,11 +945,11 @@ and the digital object identifier a key to us taking a lead in these areas.
 
 227
 00:25:38,400 --> 00:25:46,120
-And lastly, I'm bring this right back full circle : we do need to continue to work to empower our global network
+And lastly, I'm bring this right back full circle: we do need to continue to work to empower our global network
 
 228
 00:25:48,060 --> 00:25:54,640
-the curious diagrams are put up represent some of the models we've been trying to put in place to help
+these curious diagrams are put up to represent some of the models we've been trying to put in place to help
 
 229
 00:25:54,840 --> 00:26:00,780
