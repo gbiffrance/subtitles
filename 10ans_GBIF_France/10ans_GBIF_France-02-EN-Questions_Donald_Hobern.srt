@@ -107,7 +107,7 @@ of the graph of connections between specimens and collections
 
 26
 00:02:48,100 --> 00:02:51,720
-and tax on concepts and tax on names and publications and sequences and traits
+and taxon concepts and taxon names and publications and sequences and traits
 
 27
 00:02:51,980 --> 00:02:57,480
