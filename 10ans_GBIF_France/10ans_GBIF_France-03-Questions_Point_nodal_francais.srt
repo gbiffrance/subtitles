@@ -5,7 +5,7 @@ il faudra m'excuser si elle n'est pas pertinente,
 
 2
 00:00:06,300 --> 00:00:12,040
-C'est sur les aspect rapatriement des données
+C'est sur l'aspect rapatriement des données
 
 3
 00:00:12,040 --> 00:00:14,860
@@ -14,12 +14,12 @@ analyse, synthèse etc...
 
 4
 00:00:15,000 --> 00:00:23,300
-Qu'elle est la valeur ajoutée d'avoir 
+Quelle est la valeur ajoutée d'avoir 
 les données sur une base physique France
 
 5
 00:00:23,360 --> 00:00:28,780
-plutôt que utiliser ces données 
+plutôt que d'utiliser ces données 
 qui sont ailleurs
 
 6
@@ -29,16 +29,16 @@ C'est quoi la valeur ajoutée du rapatriement ?
 7
 00:00:31,600 --> 00:00:35,840
 R : C'est pas vraiment rapatrier,
-ça veux dire qu'elles sont disponible,
+ça veux dire qu'elles sont disponibles,
 
 8
 00:00:35,840 --> 00:00:37,700
-elles sont rendues disponible surtout.
+elles sont rendues disponibles surtout.
 
 9
 00:00:37,800 --> 00:00:41,340
 En général, c'est des données dont on n’a pas
- forcément connaissance,
+forcément connaissance,
 
 10
 00:00:41,800 --> 00:00:43,320
@@ -57,7 +57,7 @@ qui sont présentes sur
 13
 00:00:52,700 --> 00:00:57,200
 d'autre bases de données accessibles dans 
-le cadre du GBIF dans les pays étrangers .
+le cadre du GBIF dans les pays étrangers.
 
 14
 00:00:57,800 --> 00:01:01,940
@@ -71,8 +71,8 @@ pas chez eux.
 
 16
 00:01:04,440 --> 00:01:06,440
-R : C'est des données qui ont 
-mis sur le GBIF
+R : C'est des données qu'ils ont 
+mises sur le GBIF
 
 17
 00:01:07,020 --> 00:01:09,300
@@ -100,7 +100,7 @@ et on verra cet après-midi
 
 22
 00:01:24,180 --> 00:01:29,460
-les exemples d'utilisations montre 
+les exemples d'utilisations montrent
 aussi que pour les chercheurs
 
 23
@@ -111,12 +111,12 @@ point unique d'accès à ces données
 24
 00:01:33,280 --> 00:01:37,800
 plutôt que d'avoir à chercher, à droite,
-à gauche, où les données existes.
+à gauche, où les données existent.
 
 25
 00:01:38,380 --> 00:01:41,680
-Q : Et pourquoi eux préfère nous les donner
-qu'on les mettent chez nous
+Q : Et pourquoi eux préfèrent nous les donner
+qu'on les mette chez nous
 
 26
 00:01:41,780 --> 00:01:44,960
@@ -184,7 +184,7 @@ puisqu'on y a accès
 
 39
 00:02:40,040 --> 00:02:42,040
-alors que sinon, on ne serait pas
+alors que sinon, on ne saurait pas
 où elles sont
 
 40
@@ -199,7 +199,7 @@ je me demandais comment vous le situez
 
 42
 00:02:52,060 --> 00:02:57,260
-dans la liste de partenaire : 
+dans la liste de partenaires : 
 est-ce une association ? un outil de l'INRA ?
 
 43
@@ -231,7 +231,7 @@ On a de plus en plus de science participative
 
 49
 00:03:22,100 --> 00:03:26,260
-Clairement, en voie en 10 ans l'évolution
+Clairement, on voit en 10 ans l'évolution
 
 50
 00:03:26,380 --> 00:03:30,800
@@ -250,7 +250,7 @@ qui dans le monde anglo-saxon
 
 53
 00:03:36,660 --> 00:03:38,660
-tout ce qui est science participatives
+tout ce qui est sciences participatives
 notamment,
 
 54
@@ -270,11 +270,11 @@ ces dernières années.
 57
 00:03:48,160 --> 00:03:53,100
 Et effectivement, on connecte de plus en plus
-de données science participatives
+de données de science participative
 
 58
 00:03:53,240 --> 00:03:56,860
-et notamment, récemment, une des plus grosse
+et notamment, récemment, une des plus grosses
 base de données est rentrée au GBIF
 
 59
@@ -355,7 +355,7 @@ il y avait le choix des pays membres du GBIF
 74
 00:05:15,920 --> 00:05:19,360
 où il y avait des pays qui, dès le début,
-mettait leurs données de science participatives
+mettaient leurs données de science participative
 
 75
 00:05:19,360 --> 00:05:21,200
@@ -363,22 +363,22 @@ en ligne dans le GBIF
 
 76
 00:05:21,300 --> 00:05:25,560
-et d'autre qui ne voulais pas le faire car ils 
+et d'autre qui ne voulaient pas le faire car ils 
 considéraient que la qualité n'était pas bonne
 
 77
 00:05:25,800 --> 00:05:30,900
 maintenant, avec tous les nouveaux outils
-qui existe, au niveau qualité des données
+qui existent, au niveau qualité des données
 
 78
 00:05:31,100 --> 00:05:35,440
-cela a tendance à maintenant beaucoup
+cela a tendance à être maintenant beaucoup
 plus facile finalement de vérifier la qualité
 
 79
 00:05:35,440 --> 00:05:36,920
-et de les mettre en lignes.
+et de les mettre en ligne.
 
 80
 00:05:37,820 --> 00:05:42,480
@@ -393,7 +393,7 @@ on collabore avec le GBIF.
 82
 00:05:45,540 --> 00:05:52,320
 J'avais une question sur une diapo avec les
-fillomes et les taxons plantes et  animaux
+phylums et les taxons plantes et animaux
 
 83
 00:05:52,460 --> 00:05:55,960
@@ -421,16 +421,16 @@ mais c'est fini maintenant
 
 88
 00:06:14,160 --> 00:06:20,320
-on a plus le droit de rentrer une donnée inconnu
+on a plus le droit de rentrer une donnée inconnue
 cela va donc disparaître incessamment sous peu.
 
 89
 00:06:20,480 --> 00:06:25,460
-J'ai hésitez à l'enlever car effectivement
+J'ai hésité à l'enlever car effectivement
 cela ne va plus exister
 
 90
 00:06:25,720 --> 00:06:28,460
 donc autant l'enlever mais
-j'ai laisser malgré tout.
+j'ai laissé malgré tout.
 
