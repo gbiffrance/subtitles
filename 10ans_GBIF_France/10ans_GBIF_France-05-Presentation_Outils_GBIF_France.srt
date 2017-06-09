@@ -16,11 +16,11 @@ en place pour améliorer la visibilité du GBIF France
 4
 00:00:20,160 --> 00:00:25,880
 mais aussi améliorer la visibilité de vos données
-que vous avez connectez au GBIF.
+que vous avez connecté au GBIF.
 
 5
 00:00:26,020 --> 00:00:30,200
-Je vais commencez par faire 
+Je vais commencer par faire 
 la liste des outils principaux
 
 6
@@ -60,7 +60,7 @@ nous avons fait durant les présentations.
 13
 00:01:07,600 --> 00:01:13,160
 Bonjour à tous,
-je vais vous montrez la démonstration live du site
+je vais vous montrer la démonstration live du site
 
 14
 00:01:16,120 --> 00:01:20,060
@@ -74,17 +74,17 @@ connaissiez l'ancienne version du site,
 
 16
 00:01:24,160 --> 00:01:30,760
-l'interface graphique a été remanier pour
-correspondre au couleur du logo du GBIF France.
+l'interface graphique a été remaniée pour
+correspondre aux couleurs du logo du GBIF France.
 
 17
 00:01:31,220 --> 00:01:34,620
-Je vais vous présentez essentiellement 
+Je vais vous présenter essentiellement 
 4 nouvelles fonctionnalités
 
 18
 00:01:34,840 --> 00:01:36,840
-qui ont été implémentés 
+qui ont été implémentées 
 dans cette nouvelle version.
 
 19
@@ -99,7 +99,7 @@ que l'interface.
 
 21
 00:01:49,220 --> 00:01:54,940
-Je vais vous montrez une page d'un
+Je vais vous montrer une page d'un
 partenaire, disons le Muséum (MNHN).
 
 22
@@ -110,12 +110,12 @@ qui sont issues du GBIF.org
 23
 00:02:02,660 --> 00:02:08,780
 Avec la carte issue du GBIF.org, les données 
-étant représentés sous forme de points.
+étant représentées sous forme de points.
 
 24
 00:02:13,240 --> 00:02:18,480
 Nous avons également des liens qui nous
-amène sur le site du GBIF.org
+amènent sur le site du GBIF.org
 
 25
 00:02:18,740 --> 00:02:25,340
@@ -124,7 +124,7 @@ sur le portail du GBIF France
 
 26
 00:02:25,560 --> 00:02:28,160
-dont Marie vous montrera tout à l'heure.
+que Marie vous montrera tout à l'heure.
 
 27
 00:02:28,540 --> 00:02:33,940
@@ -137,7 +137,7 @@ pour cette institution.
 
 29
 00:02:35,840 --> 00:02:39,400
-C'était la 1ère fonctionnalité qui a été implémenté
+C'était la 1ère fonctionnalité qui a été implémentée
 
 30
 00:02:41,520 --> 00:02:45,100
@@ -146,7 +146,7 @@ que nous récupérons du GBIF.org
 
 31
 00:02:45,220 --> 00:02:48,920
-il y a aussi les publications qui ont été récupérés.
+il y a aussi les publications qui ont été récupérées.
 
 32
 00:02:52,620 --> 00:02:55,420
@@ -161,7 +161,7 @@ en anglais évidemment, qui ont
 34
 00:02:59,880 --> 00:03:03,960
 Je ne vous les montre pas toutes car
-il y a beaucoup de présentation
+il y a beaucoup de présentations
 
 35
 00:03:03,960 --> 00:03:05,620
