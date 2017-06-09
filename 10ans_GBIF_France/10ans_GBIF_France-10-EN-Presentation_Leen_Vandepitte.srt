@@ -8,15 +8,15 @@ and I'm the data manager for the European node of OBIS which is the Ocean Biogeo
 
 3
 00:00:12,840 --> 00:00:17,680
-and link to that I'm also involved in the world register of marine species.
+and linked to that I'm also involved in the World Register of Marine Species.
 
 4
 00:00:18,400 --> 00:00:23,940
-Okay, what i will do is ; Anne-sophie has asked me me to talk about EurOBIS
+Okay, what I will do is; Anne-sophie has asked me to talk about EurOBIS
 
 5
 00:00:24,180 --> 00:00:27,119
-and how is links to GBIF, so that's what I'll do.
+and how it is linked to GBIF, so that's what I'll do.
 
 6
 00:00:27,120 --> 00:00:30,880
@@ -37,7 +37,7 @@ About 15 to 20 years ago if we would look in Belgium to a biological data, then 
 
 10
 00:00:51,260 --> 00:00:56,160
-Everyone has a little data set somewhere but there's no way everything gets together
+Everyone has a little dataset somewhere but there's no way everything gets together
 
 11
 00:00:56,380 --> 00:01:01,140
@@ -45,7 +45,7 @@ and biological data were also collected with very confined boundaries
 
 12
 00:01:01,580 --> 00:01:06,020
-and you're sense that if you would have or if you would do research on a project or PhD
+and if you had or if you would do research on a project or PhD
 
 13
 00:01:06,320 --> 00:01:10,920
@@ -69,7 +69,7 @@ What happens is this isn't only the case in Belgium but it's all over Europe and
 
 18
 00:01:38,320 --> 00:01:45,880
-and the similar thing that happens everywhere is that data get collected data get analized people publish on their data
+and the similar thing that happens everywhere is that data get collected, data get analyzed, people publish on their data
 
 19
 00:01:46,120 --> 00:01:50,380
@@ -77,15 +77,15 @@ and then they classify their data somewhere which is mostly on a CD
 
 20
 00:01:50,520 --> 00:01:55,540
-and a closet somewhere and after a while you just forget about the fact that you have them
+in a closet somewhere and after a while you just forget about the fact that you have them
 
 21
 00:01:55,760 --> 00:02:00,600
-and on top of that everybody is working on its own specific dematic group
+and on top of that everybody is working on its own specific thematic group
 
 22
 00:02:00,660 --> 00:02:04,840
-people are working on male bentos you have people working on fish on macro bentos,
+people are working on benthos, you have people working on fish, on macro benthos,
 
 23
 00:02:04,940 --> 00:02:06,600
@@ -97,7 +97,7 @@ So if you look at all that then you kinda cannot help but wondering
 
 25
 00:02:12,260 --> 00:02:18,500
-how can we see the large-scale global patterns and all this if the data is so scattered everywhere ?
+how can we see the large-scale global patterns and all this if the data is so scattered everywhere?
 
 26
 00:02:20,040 --> 00:02:24,320
@@ -105,11 +105,11 @@ And the answer to that basically lies in bringing your data together.
 
 27
 00:02:24,460 --> 00:02:33,920
-GBIF does that but with in Belgium we have EurObus European Obus node,  which brought European marine data together.
+GBIF does that but within Belgium we have EurObis European Obis node, which brought European marine data together.
 
 28
 00:02:34,060 --> 00:02:41,080
-And this all started with in the malabif project with which was a project on biodiversity and ecosystem functioning
+And this all started with in the MarBEF project with which was a project on biodiversity and ecosystem functioning
 
 29
 00:02:41,320 --> 00:02:43,700
@@ -125,7 +125,7 @@ and, I'm not sure how many people here are familiar with marine research or the 
 
 32
 00:02:56,180 --> 00:03:00,880
-but two very important projects here are imminent biology which
+but two very important projects here are EMODnet Biology which
 
 33
 00:03:01,080 --> 00:03:06,280
@@ -133,7 +133,7 @@ is funded by the European government and also Lifewatch which has been mentioned
 
 34
 00:03:06,520 --> 00:03:14,520
-So if we look at EurOBIS, the original focus there was to have your taxons  distribution information in space and time.
+So if we look at EurOBIS, the original focus there was to have your taxons distribution information in space and time.
 
 35
 00:03:14,760 --> 00:03:19,180
@@ -145,7 +145,7 @@ It started in 2004 so it's more than 10 years already that we're working on it
 
 37
 00:03:25,180 --> 00:03:28,220
-and in that time it has evolved in a sense that we're now
+and in that time it has evolved in a sense that we've now
 
 38
 00:03:28,360 --> 00:03:33,280
@@ -165,7 +165,7 @@ And also a link with abiotic information because mostly when you collect biologi
 
 42
 00:03:50,900 --> 00:03:57,160
-you also measure sediments,  the composition of the sediment temperature salinity and so on.
+you also measure sediments, the composition of the sediment temperature, salinity and so on.
 
 43
 00:03:57,420 --> 00:04:01,100
@@ -189,7 +189,7 @@ No passwords, no limitations on getting access to the data.
 
 48
 00:04:17,400 --> 00:04:23,800
-And the second aim, of course, is if you bring together all that scattered information is to be able to
+And the second aim, of course, if you bring together all that scattered information, is to be able to
 
 49
 00:04:24,060 --> 00:04:31,460
@@ -225,11 +225,11 @@ which is completely compatible with Darwin Core which is used by GBIF and IPT al
 
 57
 00:05:09,960 --> 00:05:15,940
-It has metadata information we also have a system where we can assign DOIs on a data set level.
+It has metadata information, we also have a system where we can assign DOIs on a dataset level.
 
 58
 00:05:16,200 --> 00:05:25,340
-So DOI basically gives you an easy way of citing a data set when it is used and you can also keep track of the citations.
+So DOI basically gives you an easy way of citing a dataset when it is used and you can also keep track of the citations.
 
 59
 00:05:25,660 --> 00:05:30,020
@@ -277,7 +277,7 @@ so that's why we have a large number of species names.
 
 70
 00:06:19,820 --> 00:06:26,560
-Just to give you an ID on the growth :  so we have the distribution records and the number of data sets.
+Just to give you an ID on the growth:  so we have the distribution records and the number of datasets.
 
 71
 00:06:27,020 --> 00:06:33,700
@@ -285,7 +285,7 @@ It all started in early 2000s and it keeps on growing basically.
 
 72
 00:06:35,280 --> 00:06:44,260
-Now, EurOBIS as a database is really nice for us the European level we've been able to do a lot of work with European projects and so on.
+Now, EurOBIS as a database is really nice for us the European level, we've been able to do a lot of work with European projects and so on.
 
 73
 00:06:44,600 --> 00:06:54,020
@@ -305,11 +305,11 @@ I'm listing a few of them there but the most important one right now are
 
 77
 00:07:09,940 --> 00:07:17,680
-the small scale and the short term data sets that people collect in the framework of PhD small research projects
+the small scale and the short term datasets that people collect in the framework of PhD small research projects
 
 78
 00:07:18,120 --> 00:07:26,100
-And secondly the national monitoring data : each country has normally a monitoring program and what we've tried to do over the last year's
+And secondly the national monitoring data: each country has normally a monitoring program and what we've tried to do over the last year's
 
 79
 00:07:26,160 --> 00:07:29,920
@@ -317,7 +317,7 @@ is to get access to those marine monitoring data to make them available.
 
 80
 00:07:33,340 --> 00:07:40,280
-We're takin data in several ways we're not picky on how people provide their data to us.
+We're taking data in several ways, we're not picky on how people provide their data to us.
 
 81
 00:07:41,300 --> 00:07:43,860
@@ -341,7 +341,7 @@ we are willing to deal with that and format it so it fits into the database.
 
 86
 00:08:11,700 --> 00:08:20,420
-What we do : the data collection happens continuously but once a month we do an upload into the database and then data become available.
+What we do: the data collection happens continuously but once a month we do an upload into the database and then data become available.
 
 87
 00:08:22,180 --> 00:08:29,360
@@ -349,11 +349,11 @@ Data available within EurOBIS can be consulted through several ways the one on t
 
 88
 00:08:29,560 --> 00:08:39,120
-the EurOBIS data portal so that basically gives you an overview of data sets that we have and you can query it based on a species name for example.
+the EurOBIS data portal so that basically gives you an overview of datasets that we have and you can query it based on a species name for example.
 
 89
 00:08:39,320 --> 00:08:44,000
-The second one is the amount net biology portal is more sophisticated
+The second one is the EMODnet Biology portal, it's more sophisticated
 
 90
 00:08:44,080 --> 00:08:52,180
@@ -381,7 +381,7 @@ it would take me too much time to go through them.
 
 96
 00:09:19,840 --> 00:09:23,820
-So EurOBIS, part of the bigger picture : it gets his information bottom up.
+So EurOBIS, part of the bigger picture: it gets his information bottom up.
 
 97
 00:09:24,220 --> 00:09:30,680
@@ -401,11 +401,11 @@ Those can either be regional like the
 
 101
 00:09:50,720 --> 00:09:53,280
-Does that work ? Okay.
+Does that work? Okay.
 
 102
 00:09:54,000 --> 00:10:00,220
-So it can be reached now basically, for example USA, the African ones ;  it can be thematic;
+So it can be reached now basically, for example USA, the African ones;  it can be thematic;
 
 103
 00:10:00,420 --> 00:10:09,720
@@ -425,7 +425,7 @@ Each of those nodes is, again, depending on the whole network of local providers
 
 107
 00:10:30,180 --> 00:10:37,860
-so just the same as EurOBIS like, we gather data from european institutes and researchers ; the same goes for all the other nodes
+so just the same as EurOBIS like, we gather data from european institutes and researchers; the same goes for all the other nodes
 
 108
 00:10:38,800 --> 00:10:50,240
@@ -461,15 +461,15 @@ to query the data and to get to statistics so you can group or you can look for 
 
 116
 00:11:29,080 --> 00:11:35,220
-per marine, world heritage site for example and based on what you ask for, you get
+per marine world heritage site for example and based on what you ask for, you get
 
 117
 00:11:35,440 --> 00:11:42,520
-different results if you look for example at the data sets you get an overview of where is it coming, from how can you cite it,
+different results if you look for example at the datasets you get an overview of where is it coming, from how can you cite it,
 
 118
 00:11:42,820 --> 00:11:47,180
-what's the background on the data set what kind of data is in there  and so on.
+what's the background on the dataset, what kind of data is in there and so on.
 
 119
 00:11:50,680 --> 00:11:58,540
@@ -477,7 +477,7 @@ Nice to know or good to know is that OBIS and EurOBIS are basically in the same 
 
 120
 00:11:58,720 --> 00:12:03,660
-It's two different Institute's that host OBIS and EurOBIS but we're in the same building ;
+It's two different Institutes that host OBIS and EurOBIS but we're in the same building;
 
 121
 00:12:04,080 --> 00:12:08,600
@@ -529,7 +529,7 @@ By assigning those flags, we are helping people to filter out specific records w
 
 133
 00:13:14,760 --> 00:13:22,760
-I'll just give an example : one record could be "abra alba" which is  a tiny shell I have a picture there
+I'll just give an example: one record could be "Abra alba" which is a tiny shell I have a picture there
 
 134
 00:13:23,120 --> 00:13:27,380
@@ -537,7 +537,7 @@ and you know the latitude and longitude and you know what year and has been coll
 
 135
 00:13:27,880 --> 00:13:30,040
-What can you do with that record ?
+What can you do with that record?
 
 136
 00:13:30,160 --> 00:13:36,740
@@ -577,11 +577,11 @@ Okay.
 
 145
 00:14:11,880 --> 00:14:14,000
-How are we doing this ?
+How are we doing this?
 
 146
 00:14:14,500 --> 00:14:17,600
-These quality control procedures in two ways :
+These quality control procedures in two ways:
 
 147
 00:14:17,960 --> 00:14:22,220
@@ -597,7 +597,7 @@ Just to give you some background : it involves 28 different checks
 
 150
 00:14:36,940 --> 00:14:47,160
-subdivided in five big degrees being : taxonomy, geography, completeness of the records, the format of the data and information on outliers.
+subdivided in five big degrees being: taxonomy, geography, completeness of the records, the format of the data and information on outliers.
 
 151
 00:14:47,500 --> 00:14:53,880
@@ -621,7 +621,7 @@ so it's on www.lifewatch.be and there's a section on data services (www.lifewatc
 
 156
 00:15:16,840 --> 00:15:21,980
-and there's two that might be very relevant for some of you :
+and there's two that might be very relevant for some of you:
 
 157
 00:15:22,220 --> 00:15:25,200
@@ -649,11 +649,11 @@ so you check your name against the world which there are marine species
 
 163
 00:15:53,700 --> 00:15:58,680
-but we're also offering non-marine registers ;  for example catalog of life is in there.
+but we're also offering non-marine registers;  for example catalog of life is in there.
 
 164
 00:15:58,840 --> 00:16:06,160
-PESI is in there, which is a pan-european infrastructure that has marine and murmuring names.
+PESI is in there, which is a pan-european infrastructure that has marine and non-marine names.
 
 165
 00:16:06,660 --> 00:16:09,040
@@ -669,7 +669,7 @@ so what you see on the left, is the number of species names and the number of ra
 
 168
 00:16:25,460 --> 00:16:30,180
-that were counted when several data sets were combined into one.
+that were counted when several datasets were combined into one.
 
 169
 00:16:31,480 --> 00:16:39,320
@@ -697,7 +697,7 @@ because if you don't do a check on your taxonomy and you have a spelling mistake
 
 175
 00:17:16,600 --> 00:17:23,900
-then you still see that as a specious and you get a higher biodiversity range in the area that you're looking at
+then you still see that as a species and you get a higher biodiversity range in the area that you're looking at
 
 176
 00:17:24,280 --> 00:17:26,520
@@ -741,7 +741,7 @@ because the system knows this is basically the same so it brings things together
 
 186
 00:18:04,600 --> 00:18:09,160
-A second check like I mentioned : the geographic quality check,
+A second check like I mentioned: the geographic quality check,
 
 187
 00:18:09,440 --> 00:18:15,500
@@ -793,11 +793,11 @@ tag the coastal ones as being possibly incorrect.
 
 199
 00:19:14,900 --> 00:19:16,080
-Just an example :
+Just an example:
 
 200
 00:19:17,020 --> 00:19:24,700
-this is an actual data set that we received so sightings and strandings of marine turtles, the UK and Ireland
+this is an actual dataset that we received of sightings and strandings of marine turtles in the UK and Ireland
 
 201
 00:19:25,460 --> 00:19:29,900
@@ -825,7 +825,7 @@ very fastly identify errors like this and very easily correct them .
 
 207
 00:19:57,900 --> 00:20:09,280
-What we do specifically on OBIS,  and this might relate a little bit to the to the previous talk on outliers or records that get  thrown out of specific analysis,
+What we do specifically on OBIS,  and this might relate a little bit to the to the previous talk on outliers or records that get thrown out of specific analysis,
 
 208
 00:20:09,900 --> 00:20:14,020
@@ -833,7 +833,7 @@ so what we do on the level of OBIS is we look for geographic outliers.
 
 209
 00:20:14,540 --> 00:20:17,660
-Geographic outliers within a data set.
+Geographic outliers within a dataset.
 
 210
 00:20:19,660 --> 00:20:22,460
@@ -865,7 +865,7 @@ it might be okay but you're not quite sure.
 
 217
 00:20:47,820 --> 00:20:52,160
-First back to the dots on on lands : those are picked up
+First back to the dots on on lands: those are picked up
 
 218
 00:20:52,580 --> 00:20:59,640
@@ -901,7 +901,7 @@ those still come out as possibly being incorrect because it doesn't quite match 
 
 226
 00:21:32,960 --> 00:21:36,260
-What we do in cases like this is we go back to our provider .
+What we do in cases like this is we go back to our provider.
 
 227
 00:21:37,160 --> 00:21:41,260
@@ -921,11 +921,11 @@ while the ones in the north are correct and they just showed up in the outlier a
 
 231
 00:21:58,640 --> 00:22:01,880
-because it's a bit of a sampling bias that happened within that data set.
+because it's a bit of a sampling bias that happened within that dataset.
 
 232
 00:22:02,400 --> 00:22:09,060
-These out Larry analysis can really help you getting a good feel of the data that you have available
+This outliers analysis can really help you getting a good feel of the data that you have available
 
 233
 00:22:09,380 --> 00:22:13,400
@@ -937,7 +937,7 @@ certain records or whether you should discard them if you're doing an analysis.
 
 235
 00:22:19,480 --> 00:22:26,900
-Just the last example on the outliers : so the previous one was really within a data set just looking at the sampling locations.
+Just the last example on the outliers: so the previous one was really within a data set just looking at the sampling locations.
 
 236
 00:22:27,480 --> 00:22:34,160
@@ -957,11 +957,11 @@ and it combines all the observations of all the different data sets for one part
 
 240
 00:22:47,060 --> 00:22:49,480
-and then it doesn't outlier analysis on that.
+and then it does an outlier analysis on that.
 
 241
 00:22:49,820 --> 00:22:51,320
-It takes several things into account :
+It takes several things into account:
 
 242
 00:22:51,320 --> 00:22:56,180
@@ -969,7 +969,7 @@ it takes into account geography depth, salinity and temperature.
 
 243
 00:22:56,620 --> 00:22:59,260
-And again the same thing as on the previous map :
+And again the same thing as on the previous map:
 
 244
 00:22:59,900 --> 00:23:02,660
@@ -1041,7 +1041,7 @@ and here, on the right you also get an indication of the data quality, very basi
 
 261
 00:24:28,600 --> 00:24:33,380
-Are we talking species or not ? Is a time indication there ? And so on.
+Are we talking species or not? Is a time indication there? And so on.
 
 262
 00:24:34,540 --> 00:24:39,860
@@ -1049,7 +1049,7 @@ So again an invitation to go to the portal yourself and see what it can do.
 
 263
 00:24:40,660 --> 00:24:43,620
-Now OBIS and GBIF : how do they relate ?
+Now OBIS and GBIF: how do they relate ?
 
 264
 00:24:43,800 --> 00:24:45,640
@@ -1057,7 +1057,7 @@ Because this is basically where we want to get to.
 
 265
 00:24:47,700 --> 00:24:56,000
-Just a summary again : so we have OBIS which is fed data through its different nodes : regional and thematic.
+Just a summary again: so we have OBIS which is fed data through its different nodes: regional and thematic.
 
 266
 00:24:56,540 --> 00:24:59,860
@@ -1065,11 +1065,11 @@ Basically GBIF has a very similar approach,
 
 267
 00:25:00,060 --> 00:25:07,500
-of how it works : with the bi-level biodiversity information facilities : the GBIF and the nodes. It's the same way.
+of how it works: with the bi-level biodiversity information facilities: the GBIF and the nodes. It's the same way.
 
 268
 00:25:08,580 --> 00:25:16,080
-So what happens in 2014 : an agreement was signed between OBIS and GBIF.
+So what happens in 2014: an agreement was signed between OBIS and GBIF.
 
 269
 00:25:16,580 --> 00:25:24,640
@@ -1085,7 +1085,7 @@ And what they try to do or what we will try to do is work towards a maximizing o
 
 272
 00:25:36,420 --> 00:25:41,280
-of all those marine biodiversity datasets that are accessible through both initiatives
+of all those marine biodiversity datasets that are accessible through both initiatives.
 
 273
 00:25:42,180 --> 00:25:47,960
@@ -1093,7 +1093,7 @@ Now this is on the,  what I like to call the fuzzy above us, OBIS and GBIF level
 
 274
 00:25:48,180 --> 00:25:57,080
-but how does this translate to actually the nodes and what we can really do to share data is like this :
+but how does this translate to actually the nodes and what we can really do to share data is like this:
 
 275
 00:25:58,360 --> 00:26:00,060
@@ -1109,7 +1109,7 @@ GBIF has given OBIS a list of all it's available datasets, per country,
 
 278
 00:26:12,300 --> 00:26:16,460
-with an indication of the number  of species that are marine.
+with an indication of the number of species that are marine.
 
 279
 00:26:16,720 --> 00:26:21,800
@@ -1133,11 +1133,11 @@ at that level OBIS's nodes will start contacting GBIF nodes to see if
 
 284
 00:26:46,240 --> 00:26:51,860
-marine data sets from GBIF's nodes can feed into the OBIS node's
+marine data sets from GBIF's nodes can feed into the OBIS nodes
 
 285
 00:26:52,720 --> 00:27:02,480
-Then from the different OBIS nodes,  it will fit to OBIS ; so OBIS aiming for a complete overview of all marine datasets worldwide.
+Then from the different OBIS nodes, it will fit to OBIS; so OBIS aiming for a complete overview of all marine datasets worldwide.
 
 286
 00:27:04,180 --> 00:27:09,400
@@ -1145,7 +1145,7 @@ The whole thing or that the whole setup is to really encourage collaboration bet
 
 287
 00:27:09,400 --> 00:27:13,420
-the OBIS nodes and the GBIF nodes because again we have the same goal :
+the OBIS nodes and the GBIF nodes because again we have the same goal:
 
 288
 00:27:13,680 --> 00:27:18,280
@@ -1157,7 +1157,7 @@ but there can really still be in exchange because I'm betting that GBIF France h
 
 290
 00:27:23,640 --> 00:27:25,820
-within the country then we have from
+within the country than we have from
 
 291
 00:27:25,820 --> 00:27:30,520
@@ -1173,7 +1173,7 @@ so we really should see who does what and how we can divide work and go from the
 
 294
 00:27:50,400 --> 00:27:53,700
-Final slides : where to go to from now ?
+Final slides: where to go to from now ?
 
 295
 00:27:53,960 --> 00:28:03,100
@@ -1185,7 +1185,7 @@ There more than the ones that I've listed here but those were the ones that real
 
 297
 00:28:08,700 --> 00:28:16,800
-my eye so we already have data from Ifremer, from IRD, from the museum here, from Observatoire océanologique.
+my eye so we already have data from Ifremer, from IRD, from the Museum here, from Observatoire océanologique.
 
 298
 00:28:17,200 --> 00:28:23,500
