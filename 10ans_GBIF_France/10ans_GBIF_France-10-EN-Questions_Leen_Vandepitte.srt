@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:07,500
-Participant : So you mentioned that you use some filters for to try to detect errors in geographical space somewhat
+Participant: So you mentioned that you use some filters to try to detect errors in geographical space somewhat
 
 2
 00:00:08,240 --> 00:00:16,560
@@ -8,20 +8,20 @@ but you don't use somewhat the n random space so you could also look for some pl
 
 3
 00:00:17,320 --> 00:00:21,900
-with a kind of ecological test looking at the habitat the niche
+with a kind of ecological test looking at the habitat niche
 
 4
 00:00:22,340 --> 00:00:25,800
-in Switzerland in at least with the floristic database
+in Switzerland at least with the floristic database
 
 5
 00:00:26,600 --> 00:00:31,440
-which is then providing the data to GBIF, they are at the moment that implementing a procedure
+which is then providing the data to GBIF, they are at the moment implementing a procedure
 
 6
 00:00:31,800 --> 00:00:36,060
 to use this as a plausibility test in addition to the geographic test
-Leen Vandepitte :  okay
+Leen Vandepitte : okay
 
 7
 00:00:37,960 --> 00:00:43,980
@@ -33,7 +33,7 @@ They're not yet available through the portal so
 
 9
 00:00:46,820 --> 00:00:53,940
-there's no way yet of taking into account the results of those queries on the portal they're working on that.
+there's no way yet of taking into account the results of those queries on the portal, they're working on that.
 
 10
 00:00:54,460 --> 00:00:59,140
@@ -49,7 +49,7 @@ and depth and some other things.
 
 13
 00:01:11,600 --> 00:01:18,040
-They're looking at that, in combination with other things to decide :  decide according to
+They're looking at that, in combination with other things to decide:  decide according to
 
 14
 00:01:18,140 --> 00:01:21,040
@@ -69,7 +69,7 @@ that we have implemented and all the information will be there.
 
 18
 00:01:34,880 --> 00:01:40,480
-Participant : that's typically an example where I think we could improve a lot of procedures with some
+Participant: that's typically an example where I think we could improve a lot of procedures with some
 
 19
 00:01:41,020 --> 00:01:50,600
@@ -77,10 +77,10 @@ of these filters using the environment and look at find a sample for a species i
 
 20
 00:01:50,800 --> 00:01:54,360
-Leen Vandepitte :  Yeah 
-Participant : you can also just warn the person say can you check
+Leen Vandepitte: Yeah 
+Participant: you can also just warn the person say can you check
 
 21
 00:01:54,700 --> 00:01:55,340
-Leen Vandepitte :  Yes.
+Leen Vandepitte:  Yes.
 
