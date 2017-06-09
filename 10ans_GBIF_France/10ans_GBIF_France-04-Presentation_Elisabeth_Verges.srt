@@ -14,7 +14,7 @@ Je suis contente d'être ici
 
 4
 00:00:11,360 --> 00:00:14,440
-notamment vu par le GBIF.
+notamment vue par le GBIF.
 
 5
 00:00:16,180 --> 00:00:17,720
@@ -22,19 +22,19 @@ Anne-Sophie Archambeau m'a demandé d'intervenir
 
 6
 00:00:18,080 --> 00:00:21,200
-je suis, pour ce qui ne me connaisse pas, je ne vous vois pas donc
+je suis, pour ce qui ne me connaissent pas, je ne vous vois pas donc
 
 7
 00:00:21,400 --> 00:00:25,800
-je ne sais pas qui vous êtes, je suis au ministère de la recherche
+je ne sais pas qui vous êtes, je suis au Ministère de la Recherche
 
 8
 00:00:25,920 --> 00:00:31,040
-et je suis à la direction recherche et innovation en charge du secteur
+et je suis à la Direction Recherche et Innovation en charge du secteur
 
 9
 00:00:31,500 --> 00:00:36,940
-qui s'intitule : Agronomie écologie système Terre et Univers.
+qui s'intitule : Agronomie Ecologie Système Terre et Univers.
 
 10
 00:00:37,220 --> 00:00:42,180
@@ -42,7 +42,7 @@ Donc vous voyez que, à la fois dans l'agronomie, dans l'écologie bien sûr
 
 11
 00:00:42,260 --> 00:00:46,060
-mais aussi dans le système Terre,  la biodiversité a largement sa place
+mais aussi dans le système Terre, la biodiversité a largement sa place
 
 12
 00:00:46,060 --> 00:00:47,820
@@ -58,7 +58,7 @@ pour structurer l'ensemble des infrastructures de recherche en environnement
 
 15
 00:01:01,380 --> 00:01:05,580
-ainsi que les pôles de données qui leurs sont associés
+ainsi que les pôles de données qui leur sont associés
 
 16
 00:01:05,680 --> 00:01:08,120
@@ -70,7 +70,7 @@ et vous montrer la place des outils sur la biodiversité dans ce panorama géné
 
 18
 00:01:18,920 --> 00:01:22,120
-En rappel : cela n'a peut-être pas échapper à certains,
+En rappel : cela n'a peut-être pas échappé à certains,
 
 19
 00:01:22,160 --> 00:01:28,160
@@ -82,7 +82,7 @@ Qui est une stratégie interministérielle pour l'ensemble du pays.
 
 21
 00:01:32,920 --> 00:01:38,660
-Qui a permit de mettre en avant plus d'une quarantaine d'orientation qui sont reprises dans la programmation de l'ANR,
+Qui a permis de mettre en avant plus d'une quarantaine d'orientations qui sont reprises dans la programmation de l'ANR,
 
 22
 00:01:38,660 --> 00:01:43,100
@@ -90,7 +90,7 @@ qui sont reprises dans les contrats d'objectifs des organismes, et des universit
 
 23
 00:01:43,500 --> 00:01:51,620
-Mais également des priorités fortes, parmi lesquelles cinq ont été soutenus, dès 2016, dont une qui s'intitule :
+Mais également des priorités fortes, parmi lesquelles cinq ont été soutenues, dès 2016, dont une qui s'intitule :
 
 24
 00:01:52,080 --> 00:01:56,700
@@ -98,7 +98,7 @@ Système Terre observation, prévision et adaptation,
 
 25
 00:01:56,700 --> 00:02:01,580
-dans lequel tous les aspects liés à la biodiversité sont mis en exergue.
+dans laquelle tous les aspects liés à la biodiversité sont mis en exergue.
 
 26
 00:02:02,080 --> 00:02:05,280
@@ -106,7 +106,7 @@ Il ne vous a pas échappé aussi que l'on est dans une période post-COP21,
 
 27
 00:02:05,340 --> 00:02:09,440
-avec des prises en comptes des grand changements globaux, changements climatiques
+avec des prises en compte des grands changements globaux, changements climatiques
 
 28
 00:02:09,780 --> 00:02:16,060
@@ -123,11 +123,11 @@ une feuille de route, c'est quoi ?
 
 31
 00:02:31,700 --> 00:02:38,540
-C'est que l'on reconnait une infrastructure au niveau nationale, avec une gouvernance bien identifié,
+C'est que l'on reconnait une infrastructure au niveau nationale, avec une gouvernance bien identifiée,
 
 32
 00:02:38,540 --> 00:02:46,400
-cette infrastructure, elle est, et vous le verrez, intégré dans une logique européenne, voire internationale.
+cette infrastructure, elle est, et vous le verrez, intégrée dans une logique européenne, voire internationale.
 
 33
 00:02:47,180 --> 00:02:55,760
@@ -135,11 +135,11 @@ En science de l'environnement, on s'aperçoit qu'il y a une grande majorité (14
 
 34
 00:02:55,780 --> 00:02:58,180
-ce sont en fait des infrastructure de recherche d'observation.
+ce sont en fait des infrastructures de recherche d'observation.
 
 35
 00:03:01,240 --> 00:03:07,580
-Bien entendu, on fait face à des enjeux qui sont reconnu aujourd'hui comme globaux.
+Bien entendu, on fait face à des enjeux qui sont reconnus aujourd'hui comme globaux.
 
 36
 00:03:08,100 --> 00:03:14,160
@@ -151,7 +151,7 @@ qu'il s'agisse de la Terre profonde, des océans, des surfaces continentales ou 
 
 38
 00:03:19,320 --> 00:03:28,040
-Bien entendu, maintenant, on essaye de travailler de plus en plus de manière intégré, d’arrêter de travailler en silo sur ces compartiments.
+Bien entendu, maintenant, on essaye de travailler de plus en plus de manière intégrée, d’arrêter de travailler en solo sur ces compartiments.
 
 39
 00:03:29,420 --> 00:03:36,140
@@ -164,7 +164,7 @@ Et c'est cette démarche-là, du système Terre, qui va jusqu'au vivant que l'on
 
 41
 00:03:44,560 --> 00:03:50,720
-Bien entendu, tout cela est impacté par l'activité humaine et ce que l'on appelle les entrepôt-système,
+Bien entendu, tout cela est impacté par l'activité humaine et ce que l'on appelle les entrepôts-systèmes,
 
 42
 00:03:51,000 --> 00:04:01,820
@@ -172,7 +172,7 @@ qui viennent changer la donne en mettant en avant des questions sur la sécurit�
 
 43
 00:04:02,660 --> 00:04:08,840
-sur les risques naturel et les problèmes d'aujourd'hui, on voit qu'ils sont liés à la sécurité, mais  aux migrations.
+sur les risques naturels et les problèmes d'aujourd'hui, on voit qu'ils sont liés à la sécurité, mais aussi aux migrations.
 
 44
 00:04:09,140 --> 00:04:14,400
@@ -180,7 +180,7 @@ En parallèle à ces grandes questions sociétales, il y a des questions scienti
 
 45
 00:04:14,560 --> 00:04:18,780
-qui sont maintenant reprise par les politiques publiques, c'est d'ailleurs très bien,
+qui sont maintenant reprises par les politiques publiques, c'est d'ailleurs très bien,
 
 46
 00:04:19,300 --> 00:04:21,920
@@ -204,7 +204,7 @@ la qualité de l'eau, la dégradation des sols, etc.
 
 51
 00:04:40,660 --> 00:04:46,740
-Vous voyez que l'on a des questions scientifiques aujourd'hui qui sont adressés, qui sont des questions d'ordre 1,
+Vous voyez que l'on a des questions scientifiques aujourd'hui qui sont adressées, qui sont des questions d'ordre 1,
 
 52
 00:04:46,960 --> 00:04:52,500
@@ -216,11 +216,11 @@ Les infrastructures de recherche en environnement, elles sont assez caractérist
 
 54
 00:05:01,220 --> 00:05:08,400
-alors, vous, vous le savez mais lorsqu'on parle a quelqu'un du CENR, ou quelqu'un qui est dans un Contro,
+alors, vous, vous le savez mais lorsqu'on parle a quelqu'un du CERN, ou quelqu'un qui est dans un synchrotron,
 
 55
 00:05:08,460 --> 00:05:12,880
-qui sont aussi des infrastructure de recherche, il faut aussi montrer notre spécificité.
+qui sont aussi des infrastructures de recherche, il faut aussi montrer notre spécificité.
 
 56
 00:05:13,280 --> 00:05:21,580
@@ -228,7 +228,7 @@ Donc, évidemment, elles sont incontournables car on va vers l'extérieur, c'est
 
 57
 00:05:22,260 --> 00:05:27,580
-La biodiversité n'est pas sur notre palliasse, il faut aller à l'extérieur pour aller travailler.
+La biodiversité n'est pas sur notre paillasse, il faut aller à l'extérieur pour aller travailler.
 
 58
 00:05:27,880 --> 00:05:32,260
@@ -240,7 +240,7 @@ On appelle infrastructure de recherche des choses très variés, par exemple la 
 
 60
 00:05:41,800 --> 00:05:49,300
-des grand télescopes aussi, les réseaux de sites d'observation, par exemple ICOS.
+des grands télescopes aussi, les réseaux de sites d'observation, par exemple ICOS.
 
 61
 00:05:49,620 --> 00:05:55,980
@@ -248,15 +248,15 @@ Des sites d'expérimentations comme ANAé, les collections,
 
 62
 00:05:56,180 --> 00:06:00,240
-les collections d'échantillons, les collections du muséum aujourd'hui sont une infrastructure de recherche.
+les collections d'échantillons, les collections du Muséum aujourd'hui sont une infrastructure de recherche.
 
 63
 00:06:00,340 --> 00:06:01,540
-Des choses très variés.
+Des choses très variées.
 
 64
 00:06:02,040 --> 00:06:07,300
-On a aussi des plateforme d'analyse, par exemple metabolomique et autre.
+On a aussi des plateforme d'analyse, par exemple métabolomique et autres.
 
 65
 00:06:07,480 --> 00:06:15,160
@@ -264,7 +264,7 @@ Et puis, aujourd'hui, on est allé au-delà, c'est à dire que des infrastructur
 
 66
 00:06:15,760 --> 00:06:24,780
-Dans cet exercice, on a tenté de mettre sur un même diagramme l'ensemble des infrastructures de domaine de l'environnement, au sens large.
+Dans cet exercice, on a tenté de mettre sur un même diagramme l'ensemble des infrastructures du domaine de l'environnement, au sens large.
 
 67
 00:06:26,100 --> 00:06:29,000
@@ -272,7 +272,7 @@ Vous voyez ici, de droite à gauche,
 
 68
 00:06:29,200 --> 00:06:31,200
-j'appui, ça marche,
+j'appuie, ça marche,
 
 69
 00:06:31,280 --> 00:06:37,820
@@ -288,15 +288,15 @@ Sur la terre interne avec EPOS (European Plate Observing System), EMSO (European
 
 72
 00:06:48,260 --> 00:06:52,220
-sur l'océan avec Argo ; maintenant, on a une nouvelle infrastructure littérale de côtière,
+sur l'océan avec Argo ; maintenant, on a une nouvelle infrastructure littorale côtière,
 
 73
 00:06:52,300 --> 00:06:56,600
-et puis on a une infrastructure sur la zone critique des zone continentale.
+et puis on a une infrastructure sur la zone critique des zones continentales.
 
 74
 00:06:57,100 --> 00:07:03,900
-Sur le vivant, on est plutôt sur de l'expérimentation, avec ANNAé et les ECO-Tronc,
+Sur le vivant, on est plutôt sur de l'expérimentation, avec ANAé et les ECO-Tron,
 
 75
 00:07:04,440 --> 00:07:16,260
@@ -308,11 +308,11 @@ de monter une véritable infrastructure, un réseau des observatoires de recherc
 
 77
 00:07:24,480 --> 00:07:28,120
-vous avez retrouvé ici les collections, les centres de ressources biologique
+vous avez retrouvé ici les collections, les centres de ressources biologiques
 
 78
 00:07:28,220 --> 00:07:36,460
-et ici, des plateformes analytique, que l'on partage avec l'alliance sur la santé AVIS.
+et ici, des plateformes analytiques, que l'on partage avec l'alliance sur la santé AVIS.
 
 79
 00:07:36,640 --> 00:07:47,100
@@ -340,7 +340,7 @@ les bases polaire de Concordia, etc.
 
 85
 00:08:10,840 --> 00:08:19,240
-Une particularité des grands pôles qui sont donné sur la terre solide et fluide, c'est assez historique,
+Une particularité des grands pôles qui sont donnés sur la terre solide et fluide, c'est assez historique,
 
 86
 00:08:19,240 --> 00:08:23,700
@@ -348,7 +348,7 @@ c'est que ces pôles permettent d'avoir, non seulement les données de ces infra
 
 87
 00:08:23,760 --> 00:08:29,860
-toutes les données de campagne  qui viennent des campagnes et des missions , qui sont accessibles  par ces pôles,
+toutes les données de campagne qui viennent des campagnes et des missions, qui sont accessibles  par ces pôles,
 
 88
 00:08:30,000 --> 00:08:33,320
@@ -392,11 +392,11 @@ qui ambitionne d'être un portail qui permet d'avoir les données d'expérimenta
 
 98
 00:09:34,440 --> 00:09:38,000
-les données des collections ainsi que les données des ressources génétique.
+les données des collections ainsi que les données des ressources génétiques.
 
 99
 00:09:38,140 --> 00:09:44,780
-L'idée, c'est d'avoir ici, une vision de la biodiversité, absolument très large : du gène à l'éco-système.
+L'idée, c'est d'avoir ici, une vision de la biodiversité, absolument très large : du gène à l'écosystème.
 
 100
 00:09:47,900 --> 00:09:58,760
@@ -428,11 +428,11 @@ Vous voyez qu'il y a une forte logique, que l'on capitalise tous l'ensemble de n
 
 107
 00:10:33,160 --> 00:10:37,840
-Sur la partie du vivant, vous voyez que c'est le cas pour ANNAé,
+Sur la partie du vivant, vous voyez que c'est le cas pour ANAé,
 
 108
 00:10:37,840 --> 00:10:43,780
-qui permet de monter, au niveau européen, ce que l'on appelle un ANNAé France mais également des éco-troncs.
+qui permet de monter, au niveau européen, ce que l'on appelle un ANAé France mais également des écotrons.
 
 109
 00:10:43,920 --> 00:10:52,120
@@ -452,7 +452,7 @@ pour essayer d'avoir ces collections au niveau européen, dans lequel la France 
 
 113
 00:11:14,100 --> 00:11:20,720
-On a la même chose au niveau de ces infrastructures partagées avec AVIS 100.
+On a la même chose au niveau de ces infrastructures partagées avec Avicenne.
 
 114
 00:11:21,620 --> 00:11:29,960
@@ -460,7 +460,7 @@ Sur la biodiversité, on voit que c'est un petit peu plus flou, il y a des relat
 
 115
 00:11:30,120 --> 00:11:32,120
-Alors vous allez me dire : Et le GBIF ?
+Alors vous allez me dire : et le GBIF ?
 
 116
 00:11:32,320 --> 00:11:34,740
@@ -508,7 +508,7 @@ On en est là aujourd'hui.
 
 127
 00:12:25,520 --> 00:12:34,620
-Au niveau international, vous reconnaissait beaucoup d'actions ici, et vous avez le GBIF, que j'aurais pu décliner dans le bleu ciel en GBIF Europe bien entendu,
+Au niveau international, vous reconnaissez beaucoup d'actions ici, et vous avez le GBIF, que j'aurais pu décliner dans le bleu ciel en GBIF Europe bien entendu,
 
 128
 00:12:34,840 --> 00:12:42,980
@@ -524,7 +524,7 @@ des observateurs, de la biodiversité, en tout cas, plutôt ici, puisque on est 
 
 131
 00:12:52,280 --> 00:12:57,900
-qui est quelque chose de numérique ou de virtuel, je dirais : c'est pas les échantillons dur.
+qui est quelque chose de numérique ou de virtuel, je dirais : c'est pas les échantillons durs.
 
 132
 00:12:58,540 --> 00:13:02,140
@@ -544,7 +544,7 @@ il y a quand même la FRB, qui est présente.
 
 136
 00:13:18,520 --> 00:13:23,200
-La FRB, normalement, il y a tous les acteurs qui sont présent, c'est quand même un lieu de réflexion
+La FRB, normalement, il y a tous les acteurs qui sont présents, c'est quand même un lieu de réflexion
 
 137
 00:13:23,500 --> 00:13:28,200
@@ -556,7 +556,7 @@ Il y a un groupe de biodiversité à AllEnvi, qui est aussi un lieu de réflexio
 
 139
 00:13:36,180 --> 00:13:43,640
-Alors moi, j'aime bien les boites, il y en a qui me disent que j'aurais dû faire des cercles ou des ovales pour être moins sharps (pointu)
+Alors moi, j'aime bien les boîtes, il y en a qui me disent que j'aurais dû faire des cercles ou des ovales pour être moins sharps (pointu)
 
 140
 00:13:43,640 --> 00:13:45,640
@@ -600,7 +600,7 @@ le tout est de savoir si, scientifiquement, cela a du sens et si cela apporte qu
 
 150
 00:14:31,480 --> 00:14:36,220
-Par on ne va pas s'amuser à faire des boîtes et des structures si scientifiquement, il n'y a pas d'intérêt derrière.
+Car on ne va pas s'amuser à faire des boîtes et des structures si scientifiquement, il n'y a pas d'intérêt derrière.
 
 151
 00:14:37,980 --> 00:14:43,880
@@ -620,15 +620,15 @@ Que je qualifierai d'un plan recherche, celui pour lequel je suis responsable au
 
 155
 00:15:00,580 --> 00:15:07,220
-Et je mettrai ici, sur un autre plan, la partie que j'allai nommer services, appui aux utilité publique en général,
+Et je mettrai ici, sur un autre plan, la partie que j'allais nommer services, appui aux utilités publiques en général,
 
 156
 00:15:07,280 --> 00:15:14,000
-qui sont des structures, des dispositifs, des observatoires ;  car le mot observatoires est utilisé par tout un chacun,
+qui sont des structures, des dispositifs, des observatoires ; car le mot observatoires est utilisé par tout un chacun,
 
 157
 00:15:14,060 --> 00:15:18,980
-qui sont, en général, porté par le ministère de l'environnement.
+qui sont, en général, portés par le ministère de l'environnement.
 
 158
 00:15:19,520 --> 00:15:25,340
@@ -649,11 +649,11 @@ J'ai fait une coupe
 
 162
 00:15:43,340 --> 00:15:47,280
-mais vous voyez que mes plans sont courbes lorsque je les courbe, je suis désolé * rire*
+mais vous voyez que mes plans sont courbes lorsque je les courbe, je suis désolée *rire*
 
 163
 00:15:47,280 --> 00:15:49,660
-c'était juste pour vous le montrez.
+c'était juste pour vous le montrer.
 
 164
 00:15:50,620 --> 00:15:55,180
@@ -661,7 +661,7 @@ Ceci est le plan des données de la recherche, des infrastructures de recherche 
 
 165
 00:15:56,560 --> 00:16:04,300
-Vous avez ici, le plan qui est plus études, expertise, science participatives ; on est plus dans la gélogique que le ministère de l'environnement,
+Vous avez ici, le plan qui est plus études, expertise, science participative ; on est plus dans la logique que le ministère de l'environnement,
 
 166
 00:16:04,300 --> 00:16:06,220
@@ -673,7 +673,7 @@ Les données de la recherche, généralement, on a des données de base avec ses
 
 168
 00:16:11,800 --> 00:16:19,100
-et puis, c'est ça l'intérêt d'avoir des données de recherche : c'est que ce sont des scientifiques derrières qui valident, qui interprètent et qui mettent en forme.
+et puis, c'est ça l'intérêt d'avoir des données de recherche : c'est que ce sont des scientifiques derrière qui valident, qui interprètent et qui mettent en forme.
 
 169
 00:16:19,400 --> 00:16:25,600
@@ -681,15 +681,15 @@ On a quand même une robustesse de la donnée qui est supérieure, à priori, qu
 
 170
 00:16:25,700 --> 00:16:32,720
-et qui sont plus généralement traité selon le big data : c'est-à-dire que l'on prend tout et voilà ce qu'il en sort.
+et qui sont plus généralement traitées selon le big data : c'est-à-dire que l'on prend tout et voilà ce qu'il en sort.
 
 171
 00:16:32,980 --> 00:16:39,000
-Nous ici, scientifique, on traite la donnée et on en fait un produit avec une valeur ajoutée.
+Nous ici, scientifiques, on traite la donnée et on en fait un produit avec une valeur ajoutée.
 
 172
 00:16:39,480 --> 00:16:43,740
-Ces données, in fine, permette d'avoir des modèles,
+Ces données, in fine, permettent d'avoir des modèles,
 
 173
 00:16:44,300 --> 00:16:49,800
@@ -702,11 +702,11 @@ On a nos données, les pôles de données services,
 
 175
 00:16:54,780 --> 00:16:57,580
-que je vous montrez sur l'océan, l'atmosphère, etc.
+que je vous montrais sur l'océan, l'atmosphère, etc.
 
 176
 00:16:58,080 --> 00:17:06,360
-Ils ont des fonctions ici, qui sont très proche de ce que peuvent apporter les services Copernicus : observation par les satellites.
+Ils ont des fonctions ici, qui sont très proches de ce que peuvent apporter les services Copernicus : observation par les satellites.
 
 177
 00:17:06,540 --> 00:17:16,900
@@ -714,11 +714,11 @@ Il y a du lien qui se fait, les données satellites qui sont quand même des don
 
 178
 00:17:17,160 --> 00:17:23,040
-peuvent être utilisé par la recherche, et elles peuvent, mélangés à la recherche donner des produits ,
+peuvent être utilisé par la recherche, et elles peuvent, mélangées à la recherche donner des produits ,
 
 179
 00:17:23,220 --> 00:17:25,220
-je prend un exemple en Océanographie.
+je prends un exemple en Océanographie.
 
 180
 00:17:25,700 --> 00:17:29,380
@@ -730,11 +730,11 @@ ici, on a quelque chose qui est Coriolis, qui permet d'avoir, en temps réel, de
 
 182
 00:17:35,420 --> 00:17:45,060
-et associé avec des satellites, on est arrivés à avoir une société civile, société de services, qui nous fait de l'océanographie opérationnelle.
+et associés avec des satellites, on est arrivés à avoir une société civile, société de services, qui nous fait de l'océanographie opérationnelle.
 
 183
 00:17:45,320 --> 00:17:52,260
-Et l'océanographie opérationnelle aujourd'hui, elle est en grande partie basé sur la données recherche aussi, donc ça c'est important.
+Et l'océanographie opérationnelle aujourd'hui, elle est en grande partie basé sur la donnée recherche aussi, donc ça c'est important.
 
 184
 00:17:52,320 --> 00:17:54,780
@@ -746,7 +746,7 @@ j'ai essayé de faire un parallèle,
 
 186
 00:17:59,880 --> 00:18:06,300
-pour moi, jusqu'à présent, j'entends quand même beaucoup parlé de ce côté-là.
+pour moi, jusqu'à présent, j'entends quand même beaucoup parler de ce côté-là.
 
 187
 00:18:07,020 --> 00:18:13,540
@@ -770,11 +770,11 @@ tout ceci doit être calibré par des échange de protocoles, et avec les cherch
 
 192
 00:18:39,400 --> 00:18:45,920
-En tout cas, quelque soit la voie, in fine, tout ceci se retrouve avec un ECOSCOPE de ce côté-là,
+En tout cas, quelle que soit la voie, in fine, tout ceci se retrouve avec un ECOSCOPE de ce côté-là,
 
 193
 00:18:46,120 --> 00:18:50,780
-ici, porté par le muséum, le SINP,
+ici, porté par le Muséum, le SINP,
 
 194
 00:18:51,120 --> 00:18:55,000
@@ -799,7 +799,7 @@ Comment faire que chacun ne développe pas son propre protocole ? Sa propre base
 
 199
 00:19:19,560 --> 00:19:31,640
-Que l'on ne multiplie pas par trois des actions faite, in fine, le même objectif : fournir du service à la recherche, du service aux politiques publiques.
+Que l'on ne multiplie pas par trois des actions faites, in fine, avec le même objectif : fournir du service à la recherche, du service aux politiques publiques.
 
 200
 00:19:31,760 --> 00:19:35,660
@@ -815,11 +815,11 @@ Vous, vous êtes chercheurs,
 
 203
 00:19:50,800 --> 00:19:58,280
-je pense, je ne sais pas qui est là ; disons que ce que je reconnait sont chercheurs mais peut-être que vous n'êtes pas tous chercheurs,
+je pense, je ne sais pas qui est là ; disons que ceux que je reconnais sont chercheurs mais peut-être que vous n'êtes pas tous chercheurs,
 
 204
 00:19:58,500 --> 00:20:03,120
-vous êtes peut-être, comme on le dit si bien à Bruxelles,  stakeholder (ndlr : intervenant),
+vous êtes peut-être, comme on le dit si bien à Bruxelles,  stakeholder (ndlt : intervenant),
 
 205
 00:20:03,440 --> 00:20:09,480
@@ -843,11 +843,11 @@ Donc que l'on reste rigoureux ou pour arriver à des modèles,
 
 210
 00:20:29,380 --> 00:20:37,160
-par exemple : l'érosion de la biodiversité, le suivi de la biodiversité, du gène à la population d'un eco-système.
+par exemple : l'érosion de la biodiversité, le suivi de la biodiversité, du gène à la population d'un écosystème.
 
 211
 00:20:39,120 --> 00:20:46,500
-Je pense que, pour la biodiversité, il faut, se mettre dans une démarche d'observation à long terme.
+Je pense que, pour la biodiversité, il faut se mettre dans une démarche d'observation à long terme.
 
 212
 00:20:46,640 --> 00:20:52,500
@@ -871,15 +871,15 @@ Mais c'est le travail du chercheur, de mettre tous ces paramètres dans ces mod�
 
 217
 00:21:18,000 --> 00:21:26,280
-Ici, ce sont les données qui arrivent, qui heureusement, il y a des chercheurs qui s'implique là-dessus et donc il y a des échanges.
+Ici, ce sont les données qui arrivent, qui heureusement, il y a des chercheurs qui s'impliquent là-dessus et donc il y a des échanges.
 
 218
 00:21:26,460 --> 00:21:34,320
-Mais, in fine, il faut que, ce que l'on produit ici soit plus consistant, pour parler franglais,
+Mais, in fine, il faut que ce que l'on produit ici soit plus consistant, pour parler franglais,
 
 219
 00:21:34,460 --> 00:21:41,940
-possible pour le chercheur ; et moi je reste convaincu que, pour l'appui aux politiques publiques,
+possible pour le chercheur ; et moi je reste convaincue que, pour l'appui aux politiques publiques,
 
 220
 00:21:42,300 --> 00:21:46,440
@@ -895,7 +895,7 @@ le GIEC a fait ce travail-là, l'IPBS est en train de le faire,
 
 223
 00:21:53,720 --> 00:22:04,520
-et on arrivera, d'autant plus à faire entendre raison aux politiques publiques, que si les données et les modèles sont  proposés et validé par la recherche.
+et on arrivera, d'autant plus à faire entendre raison aux politiques publiques, que si les données et les modèles sont proposés et validés par la recherche.
 
 224
 00:22:05,380 --> 00:22:11,480
@@ -903,5 +903,5 @@ Merci à vous, c'est tout ce que je voulais vous dire ce matin.
 
 225
 00:22:12,960 --> 00:22:18,500
-*applaudissement*
+*applaudissements*
 
