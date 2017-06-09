@@ -1,10 +1,10 @@
 1
 00:00:00,000 --> 00:00:07,120
-Participant : Donald, vous avez commencé la réunion avec BHL, Catalogue de la vie, pouvez-vous nous en dire plus?
+Participant : Donald, vous avez commencé la réunion avec BHL, Catalogue of Life, pouvez-vous nous en dire plus ?
 
 2
 00:00:07,600 --> 00:00:14,980
-Donald Hobern : Plusieurs choses : d'abord et avant tout, je pense que l'un de nos plus gros besoins
+Donald Hobern : plusieurs choses : d'abord et avant tout, je pense que l'un de nos plus gros besoins
 
 3
 00:00:15,420 --> 00:00:23,780
@@ -12,7 +12,7 @@ est de terminer la longue, longue tâche de compiler d'abord une version globale
 
 4
 00:00:25,620 --> 00:00:32,140
-efficace, elle ne sera jamais réellement complète, Catalogue of Name emprunte des organismes.
+efficace, elle ne sera jamais réellement complète, du catalogue des noms des organismes.
 
 5
 00:00:32,560 --> 00:00:39,900
@@ -20,19 +20,19 @@ Et d'autre part, travailler d'une manière réalisable et crédible à
 
 6
 00:00:39,900 --> 00:00:48,920
-construction et maintenance d'une classification complète de la vie sur terre au niveau de l'espèce, il y aura des désaccords.
+la construction et maintenance d'une classification complète de la vie sur terre au niveau de l'espèce, il y aura des désaccords.
 
 7
 00:00:50,280 --> 00:00:57,440
-Catalogue of Life et les activités telles que Iply et zoobank et index fungorum travaillent sur
+Catalogue of Life et les activités telles que Zoobank et Index Fungorum travaillent sur
 
 8
 00:00:57,680 --> 00:01:03,600
-sur certaines parties et nous avons eu des activités englobante où nous avons parlé de l'architecture des noms globaux, etc.
+sur certaines parties et nous avons eu des activités englobantes où nous avons parlé de l'architecture des noms globaux, etc.
 
 9
 00:01:04,740 --> 00:01:09,860
-Je suis en discussion étroite avec Catalogue de la vie
+Je suis en discussion étroite avec Catalogue of Life
 
 10
 00:01:10,520 --> 00:01:17,960
@@ -44,11 +44,11 @@ nous allons construire toutes ces choses séparément et, j'espère, que cela se
 
 12
 00:01:24,580 --> 00:01:29,880
-Le GBIF ne devrait rien faire pour attacher les noms et classifications ensemble
+Le GBIF ne devrait faire aucun rattachement de noms et classifications
 
 13
 00:01:30,060 --> 00:01:35,040
-qui sont séparé par ce que fait Catalogue Of Life ou IOL, nous avons besoin de
+qui ne corresponde pas à ce que fait Catalogue Of Life ou IOL, nous avons besoin de
 
 14
 00:01:35,900 --> 00:01:45,500
@@ -56,11 +56,11 @@ combiner ces activités et nous devons le faire de manière à ce que ceux qui o
 
 15
 00:01:45,920 --> 00:01:49,600
-se sentent à l'aise et ressente qu'ils obtiennent le crédit dont ils ont besoin
+se sentent à l'aise et obtiennent le crédit qu'ils méritent
 
 16
 00:01:50,400 --> 00:01:56,660
-mais néanmoins, ces jeux de données peuvent être des choses que la communauté mondiale peut maintenir pour avancer
+mais néanmoins, ces jeux de données peuvent être des choses que la communauté mondiale peut maintenir pour avancer ;
 
 17
 00:01:57,140 --> 00:02:05,280
@@ -68,19 +68,19 @@ pour cela, j'essaie d'organiser un atelier dans les prochains mois avec Catalogu
 
 18
 00:02:05,520 --> 00:02:09,120
-en regardant la sociologie de la façon dont nous faisons cela,
+à propos de la sociologie de ces actions,
 
 19
 00:02:09,260 --> 00:02:12,360
-et je pense que la sociologie est le véritable problème techniquement, c'est facile et
+et je pense que la sociologie est le véritable problème : techniquement, c'est facile et
 
 20
 00:02:12,500 --> 00:02:17,780
-je pense que le GBIF peut fournir beaucoup de ces supports pour Catalogue of Life pour accélérer ce que nous faisons.
+je pense que le GBIF peut fournir beaucoup de soutien à Catalogue of Life pour accélérer ce que nous faisons.
 
 21
 00:02:18,380 --> 00:02:27,140
-Plus largement, nous avons eu des discussions avecBHL, Encyclopedia of life, Catalog of life, The bar code of life database et d'autres
+Plus largement, nous avons eu des discussions avec BHL, Encyclopedia of life, Catalog of life, The Bar Code of Life Database et d'autres
 
 22
 00:02:27,480 --> 00:02:32,240
@@ -100,7 +100,7 @@ du graphique des connexions entre spécimens et collections
 
 26
 00:02:48,100 --> 00:02:51,720
-et les taxes sur les concepts et les taxes sur les noms et les publications, les séquences et les traits
+et les concepts taxonomiques ou liés aux noms, les publications, les séquences et les traits
 
 27
 00:02:51,980 --> 00:02:57,480
@@ -116,11 +116,11 @@ pour trouver tous les noms des organismes afin que nous travaillions ensemble po
 
 30
 00:03:10,860 --> 00:03:18,180
-Pour que GBIF puisse fournir un service qui localise le spécimen de type qu'il a été numérisé
+Pour que le GBIF puisse fournir un service qui localise le spécimen type qui a été numérisé
 
 31
 00:03:18,480 --> 00:03:23,600
-et le connecter avec le dossier intellectuel et avec la publication.
+et le connecter avec l'enregistrement et avec la publication.
 
 32
 00:03:24,960 --> 00:03:27,040
@@ -128,7 +128,7 @@ C'est ce que nous devons faire.
 
 33
 00:03:27,040 --> 00:03:31,060
-Nous sommes encore avec des infrastructures qui offrent de la valeur
+Nous avons des infrastructures qui offrent de la valeur
 
 34
 00:03:31,940 --> 00:03:36,740
@@ -136,11 +136,11 @@ mais ne font pas partie de l'espace de connaissances globalement connecté que j
 
 35
 00:03:39,340 --> 00:03:45,020
-Quiconque peut jeter son influence pour trouver des façons de faire en sorte que l'on puisse avoir
+Nous devons faire en sorte que l'on puisse
 
 36
 00:03:45,540 --> 00:03:52,300
-la résolution des échéanciers des projets et la sociologie de la façon dont nous accordons des crédits,
+gérer les échéanciers des projets et la sociologie de la façon dont nous citons les sources,
 
 37
 00:03:52,540 --> 00:03:56,200
