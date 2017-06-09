@@ -4,7 +4,7 @@ Donald Hobern : C'est un grand plaisir d'être ici aujourd'hui
 
 2
 00:00:03,800 --> 00:00:12,340
-La France a toujours été l'un des participants de la clé du GBIF
+La France a toujours été l'un des participants clés du GBIF
 
 3
 00:00:12,560 --> 00:00:19,540
@@ -20,11 +20,11 @@ Cette présentation traitera de quelques sujets. Il y a beaucoup d'autres choses
 
 6
 00:00:36,080 --> 00:00:41,700
-beaucoup d'entre eux seront abordé à différents moments plus tard dans la journée.
+que beaucoup d'entre elles seront abordées à différents moments plus tard dans la journée.
 
 7
 00:00:42,860 --> 00:00:48,780
-Donc, GBIF est un partenariat international intergouvernemental
+Donc, le GBIF est un partenariat international intergouvernemental
 
 8
 00:00:49,440 --> 00:00:54,960
@@ -32,7 +32,7 @@ dont le but est de mobiliser l'information sur la biodiversité pour le plus gra
 
 9
 00:00:55,060 --> 00:01:00,440
-principalement pour la recherche, mais ultimement, au travers de la recherche,
+principalement pour la recherche, mais aussi, au travers de la recherche,
 
 10
 00:01:00,760 --> 00:01:08,320
@@ -48,7 +48,7 @@ la France a été dans le GBIF dès le début et est un contributeur clé
 
 13
 00:01:24,760 --> 00:01:34,120
-dans la mission d'engagement avec d'autres Pays en particulier les pays francophones en Afrique et ailleurs.
+dans la mission d'engagement avec d'autres pays, en particulier les pays francophones en Afrique et ailleurs.
 
 14
 00:01:36,860 --> 00:01:44,660
@@ -56,15 +56,15 @@ Après 15 ans d'existence du GBIF en tant qu'activité collaborative internation
 
 15
 00:01:45,220 --> 00:01:49,320
-on peut constater qu'un nombre significatif de
+on peut constater qu'un nombre significatif
 
 16
 00:01:49,380 --> 00:01:55,000
-enregistrements de données ont été mobilisés, mais peut-être encore plus clairement, nous pouvons voir que, ensemble,
+d'enregistrements de données ont été mobilisés, mais peut-être encore plus clairement, nous pouvons voir que, ensemble,
 
 17
 00:01:55,280 --> 00:01:57,820
-nous avons encore beaucoup à faire encore.
+nous avons beaucoup à faire encore.
 
 18
 00:01:58,780 --> 00:02:07,560
@@ -84,7 +84,7 @@ de nombreuses institutions, de nombreuses agences et
 
 22
 00:02:24,340 --> 00:02:33,340
-de nombreux groupes publics qui partagent leurs données et nous aide à dresser une image plus complète.
+de nombreux groupes publics qui partagent leurs données et nous aident à dresser une image plus complète.
 
 23
 00:02:34,280 --> 00:02:40,660
@@ -120,7 +120,7 @@ et d'autres données enregistrées sur la répartition de ces espèces.
 
 31
 00:03:20,440 --> 00:03:28,520
-Mais aussi pour beaucoup d'autres qui essayent d'appliquer des modèles certifié authentique de biodiversité
+Mais aussi pour beaucoup d'autres qui essayent d'appliquer des modèles certifiés authentiques de biodiversité
 
 32
 00:03:28,900 --> 00:03:35,160
@@ -128,7 +128,7 @@ dans le cadre de leurs décisions concernant l'agro-biodiversité, la santé hum
 
 33
 00:03:35,740 --> 00:03:40,740
-aménagement du territoire et des réponses au changement climatique.
+l'aménagement du territoire et des réponses au changement climatique.
 
 34
 00:03:43,320 --> 00:03:50,420
@@ -148,7 +148,7 @@ financièrement et par les structures gouvernementales. Un très grand nombre de
 
 38
 00:04:14,220 --> 00:04:21,460
-par les institutions françaises, un soutien a été accordé à d'autres pays dans l'hébergement de leurs données
+par les institutions françaises, un soutien a été fourni à d'autres pays dans l'hébergement de leurs données
 
 39
 00:04:21,840 --> 00:04:29,940
@@ -156,7 +156,7 @@ grâce à l'infrastructure physique, mais aussi une énorme activité a été me
 
 40
 00:04:30,600 --> 00:04:36,520
-en soutenant le développement de capacités et de compétences,
+dans le soutien du développement de capacités et de compétences,
 
 41
 00:04:36,980 --> 00:04:39,920
@@ -172,7 +172,7 @@ le développement d'installations d'information sur la biodiversité dans d'autr
 
 44
 00:04:53,360 --> 00:05:00,300
-cela a été fait grâce au financement du programme Sud Expert Plants
+cela a été fait grâce au financement du programme Sud Expert Plantes
 
 45
 00:05:01,200 --> 00:05:11,680
@@ -184,7 +184,7 @@ en fournissant une grande partie de l'assistance pour la traduction de ressource
 
 47
 00:05:22,080 --> 00:05:30,380
-Et, dans cette salle, Anne-Sophie et Philippe GrandColas sont deux des membres de
+Et, dans cette salle, Anne-Sophie et Philippe GrandColas sont deux de
 
 48
 00:05:31,020 --> 00:05:35,740
@@ -192,7 +192,7 @@ nos membres actifs dans notre comité et nos structures de gouvernance
 
 49
 00:05:35,860 --> 00:05:47,480
-et d'autres ont été très actifs dans les groupes de travail et ont contribués de manière significative aux idées qui sous-tendent le GBIF.
+et d'autres ont été très actifs dans les groupes de travail et ont contribué de manière significative aux idées qui sous-tendent le GBIF.
 
 50
 00:05:48,940 --> 00:05:53,360
@@ -200,15 +200,15 @@ Comme pour tous nos participants, le résultat est que
 
 51
 00:05:54,060 --> 00:06:00,240
-le travail qui a été porté ici au Musée et à travers vos agences et universités
+le travail qui a été porté ici au Muséum et à travers vos agences et universités
 
 52
 00:06:00,420 --> 00:06:05,700
-et d'autres collections et groupes publics partout dans la France ont aidé
+et d'autres collections et groupes publics partout en France ont aidé
 
 53
 00:06:06,160 --> 00:06:12,740
-a contribuer à l'image globale de nombreux types de biodiversité de nombreux pays.
+à contribuer à l'image globale de nombreux types de biodiversité de nombreux pays.
 
 54
 00:06:14,800 --> 00:06:19,300
@@ -216,7 +216,7 @@ Je voulais donc revenir sur
 
 55
 00:06:19,520 --> 00:06:25,500
-juste à partir de certaines des choses dont nous parlerons aujourd'hui, juste pour dire quelques éléments sur l'image globale
+certaines des choses dont nous parlerons aujourd'hui, juste pour dire quelques éléments sur l'image globale
 
 56
 00:06:25,840 --> 00:06:29,840
@@ -256,7 +256,7 @@ les chercheurs, le gouvernement, les agents et d'autres cherchent à accéder et
 
 65
 00:07:15,060 --> 00:07:20,900
-des informations relatives à la biodiversité et qui les aide dans leur travail ou leurs études.
+des informations relatives à la biodiversité et qui les aident dans leur travail ou leurs études.
 
 66
 00:07:22,320 --> 00:07:30,020
@@ -276,11 +276,11 @@ et que les obstacles qui empêchent les individus d'accéder et de comprendre,
 
 70
 00:07:49,100 --> 00:07:53,920
-les limitations et le prix pour cette information sont supprimées.
+les limitations et le prix pour cette information soient supprimés.
 
 71
 00:07:54,640 --> 00:08:04,840
-L'amélioration de la capacité, la formation et les améliorations de base aux outils et logiciels sous-jacents sont essentiels.
+L'amélioration des capacités, la formation et les améliorations de base aux outils et logiciels sous-jacents sont essentiels.
 
 72
 00:08:05,960 --> 00:08:14,040
@@ -288,19 +288,19 @@ Deuxièmement, et la raison pour laquelle je pense que la plupart des gens conna
 
 73
 00:08:14,700 --> 00:08:22,300
-est une base de preuves organisée pour leur apparition récente d'espèces dans le temps et dans l'espace.
+c'est en tant que base organisée pour les enregistrements d'occurrences d'espèces dans le temps et dans l'espace.
 
 74
 00:08:23,440 --> 00:08:30,660
-C'est un rôle important pour essayer de veiller à ce que quel que soit le degré d'information que nous avons
+C'est un rôle important que d'essayer de veiller à ce que, quel que soit le degré d'information que nous avons
 
 75
 00:08:31,300 --> 00:08:38,600
-qui nous aide à comprendre où les espèces ont été échantillonné dans le passé, où elles sont échantillonné maintenant,
+qui nous aide à comprendre où les espèces ont été échantillonnées dans le passé, où elles sont échantillonnées maintenant,
 
 76
 00:08:39,660 --> 00:08:46,340
-et cela peut être réuni ensemble, que cela provienne de la littérature, des collections, du travail moléculaire,
+cela puisse être rassemblé au même endroit, que cela provienne de la littérature, des collections, du travail moléculaire,
 
 77
 00:08:46,660 --> 00:08:49,920
@@ -312,11 +312,11 @@ Toutes ces sources sont des sources, toutes avec leurs propres bases, toutes ave
 
 79
 00:08:55,900 --> 00:09:00,020
-mais nous sommes ensemble, ils peuvent nous aider à comprendre ces modèles critiques.
+mais réunies, elles peuvent nous aider à comprendre des questions essentielles.
 
 80
 00:09:00,900 --> 00:09:07,080
-Et l'exploit marquant du GBIF a ce jour a été de mettre tout cela en commun
+Et l'exploit marquant du GBIF à ce jour a été de mettre tout cela en commun
 
 81
 00:09:07,280 --> 00:09:16,420
@@ -328,7 +328,7 @@ Mais troisièmement et dans mon esprit
 
 83
 00:09:20,020 --> 00:09:30,440
-Il y a encore quelque chose, une tâche incomplète, mais venant du GBIF a été mis sur pied
+il y a encore quelque chose, une tâche incomplète, mais venant du GBIF, qui a été mise en place
 
 84
 00:09:30,800 --> 00:09:39,180
@@ -344,19 +344,19 @@ Ma vision ici est que nous avançons plus loin que
 
 87
 00:09:49,920 --> 00:09:55,440
-la caractérisation des spécimens par les lieux d'espèces et les dates
+la caractérisation des spécimens par les lieux d'occurrences d'espèces et les dates
 
 88
 00:09:56,100 --> 00:10:00,140
-et essayez d'apporter l'information plus riche qui est
+et nous essayons d'apporter l'information plus riche qui soit
 
 89
 00:10:00,600 --> 00:10:09,980
-numérisé et géré par de nombreuses collections, y compris des images incluant des liens vers des séquences et des échantillons de tissus, etc.
+numérisée et gérée par de nombreuses collections, y compris des images incluant des liens vers des séquences et des échantillons de tissus, etc.
 
 90
 00:10:10,780 --> 00:10:18,040
-Pour faire, ceci d'une manière qui facilite un chercheur taxonomique ou quelqu'un d'autre partout dans le monde
+Pour faire ceci d'une manière qui facilite le travail d'un chercheur en taxonomie ou de quelqu'un d'autre ailleurs dans le monde,
 
 91
 00:10:18,500 --> 00:10:24,460
@@ -368,23 +368,23 @@ comme ils le feraient s'ils étaient dans l'institution concernée ; il y aura d
 
 93
 00:10:31,620 --> 00:10:40,620
-Je crois qu'une infrastructure mondiale pour la biodiversité et les données de collecte devrait se concentrer sur la façon dont nous l'atteignons plus efficace.
+Je crois qu'une infrastructure mondiale pour la biodiversité et les données de collecte devrait se concentrer sur la façon la plus efficace d'atteindre cet objectif.
 
 94
 00:10:43,160 --> 00:10:47,840
-Et tourner cela autour du paysage intergouvernemental
+Et pour revenir au paysage intergouvernemental
 
 95
 00:10:48,540 --> 00:10:53,800
-le GBIF joue un rôle essentiel dans le fondement
+le GBIF joue un rôle essentiel dans l'étayage
 
 96
 00:10:54,100 --> 00:10:58,020
-d'une partie du travail de la diversité biologique conventionnelle
+d'une partie du travail de la Convention sur la Diversité Biologique
 
 97
 00:10:58,760 --> 00:11:02,740
-ipbes et Group on Earth Observations (GEO)
+l'IPBES et Group on Earth Observations (GEO)
 
 98
 00:11:03,360 --> 00:11:10,820
@@ -392,7 +392,7 @@ comme une série de couches empilées essayant de soutenir l'activité gouvernem
 
 99
 00:11:11,200 --> 00:11:19,320
-et à travers cela, cela a donné le type de résultat vu dans les objectifs de l'UE et les objectifs de développement durable.
+et à travers cela, cela a donné le type de résultat vu dans les objectifs d'Aichi et les objectifs de développement durable.
 
 100
 00:11:19,640 --> 00:11:28,380
@@ -408,7 +408,7 @@ et fournissent donc des preuves véritables pour étayer des évaluations justes
 
 103
 00:11:44,680 --> 00:11:49,880
-Donc, quelques éléments ont été des progrès relativement récents dans notre réseau:
+Donc, quelques éléments ont été des progrès relativement récents dans notre réseau :
 
 104
 00:11:50,280 --> 00:11:57,260
@@ -420,7 +420,7 @@ Voici le plus ennuyeux  de tous : les licences pour les données
 
 106
 00:12:01,140 --> 00:12:09,420
-Au moment où le GBIF a été lancé il y a 15 ans, nous n'avions pas de licences creative commons,
+Au moment où le GBIF a été lancé il y a 15 ans, nous n'avions pas de licences Creative Commons,
 
 107
 00:12:09,560 --> 00:12:20,100
@@ -428,7 +428,7 @@ nous nous sommes appuyés sur des accords de données très spécialisés avec d
 
 108
 00:12:20,320 --> 00:12:26,980
-nous l'avions laissé ouvert pour que toute institution comprenne les termes qu'il croit nécessaires,
+nous avons laissé chaque institution définir les termes nécessaires,
 
 109
 00:12:27,460 --> 00:12:34,440
@@ -440,11 +440,11 @@ Cela signifiait qu'un chercheur était techniquement obligé de lire de nombreus
 
 111
 00:12:41,660 --> 00:12:47,100
-pour décider si oui ou non il était autorisés à utiliser les données pour ce qu'il voulais faire.
+pour décider si oui ou non il était autorisé à utiliser les données pour ce qu'il voulait faire.
 
 112
 00:12:47,460 --> 00:12:50,800
-Cela n'interagit pas bien avec le nombre de données que nous avons maintenant
+Cela n'est plus compatible avec le nombre de données que nous avons maintenant
 
 113
 00:12:51,140 --> 00:12:59,380
@@ -456,7 +456,7 @@ est associé à une licence de données aussi libre et ouverte que possible.
 
 115
 00:13:05,820 --> 00:13:11,560
-Je suis heureux de dire qu'après environ un an de travail avec nos publicateurs de données, nous sommes maintenant au stade où
+Je suis heureux de dire qu'après environ un an de travail avec nos éditeurs de données, nous sommes maintenant au stade où
 
 116
 00:13:11,880 --> 00:13:16,860
@@ -472,11 +472,11 @@ l'attribution des données lorsque nous fournissons des mécanismes pour la rend
 
 119
 00:13:31,740 --> 00:13:38,120
-Ceci est ennuyeux mais c'est un signe d'un grand mouvement
+Ceci est ennuyeux mais c'est le signe d'un grand mouvement
 
 120
 00:13:38,760 --> 00:13:43,800
-Pour faire de ces données une partie d'un espace public de données où nous pouvons
+pour faire de ces données une partie d'un espace public de données où nous pouvons
 
 121
 00:13:44,080 --> 00:13:47,200
@@ -488,11 +488,11 @@ Je pense que cette approche va vraiment faciliter beaucoup plus l'exploration et
 
 123
 00:14:00,000 --> 00:14:03,760
-Relié à cela, nous avons beaucoup travaillé pour faire en sorte que
+En lien avec cela, nous avons beaucoup travaillé pour faire en sorte 
 
 124
 00:14:04,260 --> 00:14:09,140
-nous augmentons la visibilité des efforts de tous ceux qui ont contribué.
+d'augmenter la visibilité des efforts de tous ceux qui ont contribué.
 
 125
 00:14:09,700 --> 00:14:14,320
@@ -512,11 +512,11 @@ ils reçoivent un identifiant d'objet numérique pour ce téléchargement qui se
 
 129
 00:14:31,980 --> 00:14:35,980
-basé sur les données dont ils ont eu l'accès via le réseau GFIF
+basé sur les données dont il a eu l'accès via le réseau GFIF
 
 130
 00:14:36,420 --> 00:14:40,320
-ils ont juste à citer cet identifiant d'objet numérique
+il ait juste à citer cet identifiant d'objet numérique
 
 131
 00:14:40,660 --> 00:14:45,120
@@ -540,7 +540,7 @@ les données de présence, la preuve qu'une espèce
 
 136
 00:15:06,060 --> 00:15:13,500
-a été enregistré à un lieu donné et les liens vers les propriétés supplémentaires de l'échantillon ou de l'observation.
+a été enregistrée à un lieu donné et les liens vers les propriétés supplémentaires de l'échantillon ou de l'observation.
 
 137
 00:15:14,660 --> 00:15:17,800
@@ -548,11 +548,11 @@ Nous sommes maintenant en mesure d'intégrer
 
 138
 00:15:18,220 --> 00:15:25,720
-un sous-ensemble plus riche des données provenant de nombreuses activités d'échantillonnage de surveillance écologique
+un sous-ensemble plus riche des données provenant de nombreuses activités d'échantillonnage et de surveillance écologique
 
 139
 00:15:26,080 --> 00:15:33,300
-y compris des limites et des sciences où nous obtenons une meilleure mesure de
+y compris ses limites et des études scientifiques où nous obtenons une meilleure mesure de
 
 140
 00:15:33,360 --> 00:15:43,200
@@ -560,7 +560,7 @@ la méthodologie de la co-occurrence d'espèces et, dans la mesure du possible, 
 
 141
 00:15:44,400 --> 00:15:50,280
-C'est encore quelque chose pour lequel le GBIF débute.
+C'est encore quelque chose pour lequel le GBIF débute
 
 142
 00:15:51,140 --> 00:15:57,080
@@ -568,11 +568,11 @@ et je ne m'attends pas à ce qu'il nous soit facile de regrouper toutes ces donn
 
 143
 00:15:57,720 --> 00:16:05,040
-mais c'est d'une grande importance pour nous d'avoir l'accès intégré à ces types de propriétés
+mais c'est d'une grande importance pour nous d'avoir l'accès intégré à ces types d'informations
 
 144
 00:16:05,380 --> 00:16:10,620
-parce cela nous aide à étalonner la signification de toutes les autres données
+parce que cela nous aide à étalonner la signification de toutes les autres données
 
 145
 00:16:11,100 --> 00:16:16,300
@@ -588,7 +588,7 @@ pour promouvoir la mobilisation du contenu et le renforcement des capacités, en
 
 148
 00:16:34,860 --> 00:16:41,940
-Et nous sommes maintenant, dans la première étape de l'exécution des projets 
+et nous sommes maintenant, dans la première étape de l'exécution des projets 
 qui y sont associés
 
 149
@@ -597,11 +597,11 @@ avec environ 970 000 € dépensés au cours des deux prochaines années sur des
 
 150
 00:16:52,480 --> 00:17:02,340
-dont beaucoup ont été soutenus par le GBIF France grâce à leurs activités d'amélioration de la capacité.
+dont beaucoup ont été soutenus par le GBIF France grâce à leurs activités d'amélioration des capacités.
 
 151
 00:17:02,640 --> 00:17:14,220
-Nous attendons avec impatience cette manière de renforcer les liens, en particulier avec le programme Sud Expert Plant.
+Nous attendons avec impatience cette manière de renforcer les liens, en particulier avec le programme Sud Expert Plantes.
 
 152
 00:17:16,520 --> 00:17:18,880
@@ -609,11 +609,11 @@ Une dernière chose.
 
 153
 00:17:19,720 --> 00:17:25,840
-Cela se poursuit et la France a été impliquée car
+Ce qui se poursuit et dans quoi la France a été impliquée,
 
 154
 00:17:25,840 --> 00:17:31,100
-cela est une collaboration internationale autour d'outils et de logiciels.
+c'est une collaboration internationale autour d'outils et de logiciels.
 
 155
 00:17:33,580 --> 00:17:38,720
@@ -649,15 +649,15 @@ et j'espère, à l'avenir, des régions comme le Pacifique et les Caraïbes
 
 163
 00:18:19,580 --> 00:18:28,140
-peuvent avoir des outils qui permettent vraiment à leurs chercheurs d'explorer les données qui se rapportent à leur biodiversité de manière efficace.
+puissent avoir des outils qui permettent vraiment à leurs chercheurs d'explorer les données qui se rapportent à leur biodiversité de manière efficace.
 
 164
 00:18:29,460 --> 00:18:36,440
-Ce ne sont que quelques-unes des choses dont je suis impatient comme les changements récents et les améliorations apportées à notre activité.
+Ce ne sont que quelques-unes des choses que je voulais aborder, qui sont des changements récents et des améliorations apportées à notre activité.
 
 165
 00:18:36,800 --> 00:18:44,400
-Je veux juste regarder très brièvement dans le futur,  le GBIF opère dans un cycle de cinq ans
+Je veux juste regarder très brièvement dans le futur,  le GBIF fonctionne par cycles de cinq ans
 
 166
 00:18:44,860 --> 00:18:48,680
@@ -665,11 +665,11 @@ nous arrivons juste à la fin de l'un de ces cycles et
 
 167
 00:18:49,080 --> 00:18:54,960
-à partir de 2017 entrera en jeu un nouveau plan stratégique, un nouveau modèle de financement
+à partir de 2017 entrera en jeu un nouveau plan stratégique, un nouveau modèle de financement.
 
 168
 00:18:57,500 --> 00:19:01,420
-et essaye vraiment d'amener le GBIF à l'étape suivante
+Nous essayons vraiment d'amener le GBIF à l'étape suivante
 
 169
 00:19:01,620 --> 00:19:09,060
@@ -677,7 +677,7 @@ et nous avons identifié cinq priorités stratégiques pour cette période et je
 
 170
 00:19:09,460 --> 00:19:18,420
-nous avons vraiment besoin de soutient et de promotion et de bénéficier de la coopération partout dans le réseau mondial.
+nous avons vraiment besoin de soutien, de promotion, et de bénéficier de la coopération partout dans le réseau mondial.
 
 171
 00:19:19,040 --> 00:19:23,200
@@ -689,11 +689,11 @@ Le GBIF existe pour assurer l'accès gratuit aux données partout, ce que nous f
 
 173
 00:19:29,960 --> 00:19:37,820
-est de s'assurer que nous fournissons le bon type de données pour répondre aux besoins des utilisateurs réels
+c'est de s'assurer que nous fournissons le bon type de données pour répondre aux vrais besoins des utilisateurs
 
 174
 00:19:38,380 --> 00:19:44,020
-nous nous sommes engagés dans beaucoup de renforcement des capacités,  activement engagés dans de nombreuses activités informatiques
+nous nous sommes engagés dans beaucoup de renforcement des capacités, activement engagés dans de nombreuses activités informatiques
 
 175
 00:19:44,480 --> 00:19:47,120
@@ -705,11 +705,11 @@ nous sommes là pour vous assurer que les données sont fournies dans le bon for
 
 177
 00:19:51,360 --> 00:20:00,120
-Donc, une partie croissante de nos activités pour communiquer aussi clairement que possible avec les chercheurs
+Donc, une partie croissante de nos activités est de communiquer aussi clairement que possible avec les chercheurs
 
 178
 00:20:00,460 --> 00:20:06,500
-dans différents aire, domaines et points de discussion thématiques
+dans différents aires, domaines et points de discussion thématiques
 
 179
 00:20:07,180 --> 00:20:11,700
@@ -717,7 +717,7 @@ pour comprendre exactement ce qu'ils recherchent dans les données sur la biodiv
 
 180
 00:20:12,020 --> 00:20:17,040
-pour comprendre s'il existe des propriétés supplémentaires que nous devons tenter de mobiliser,
+pour comprendre s'il existe des informations supplémentaires que nous devons tenter de mobiliser,
 
 181
 00:20:17,240 --> 00:20:24,360
@@ -725,7 +725,7 @@ la façon dont les métadonnées peuvent être améliorées, qui constituent les
 
 182
 00:20:24,840 --> 00:20:29,080
-Cela devrait être  ce que l'on doit cibler si nous voulons soutenir leurs besoins.
+Cela devrait être ce que l'on doit cibler si nous voulons soutenir leurs besoins.
 
 183
 00:20:29,600 --> 00:20:39,420
@@ -737,7 +737,7 @@ D'abord et avant tout : une de nos priorités,
 
 185
 00:20:45,200 --> 00:20:49,640
-et certains gens dans cette salle ont été impliqués dans certains de nos groupes de travail en ce qui concerne les différents domaines,
+et certaines personnes dans cette salle ont été impliqués dans certains de nos groupes de travail en ce qui concerne les différents domaines,
 
 186
 00:20:50,960 --> 00:20:53,260
@@ -781,11 +781,11 @@ et l'ensemble de données globales afin que nous comprenions et communiquions
 
 196
 00:22:06,900 --> 00:22:14,480
-exactement ce que c'est: c'est une offre et nous pouvons travailler ensemble pour trouver des façons de l'améliorer au fil du temps.
+exactement ce que c'est : c'est une offre et nous pouvons travailler ensemble pour trouver des façons de l'améliorer au fil du temps.
 
 197
 00:22:16,660 --> 00:22:20,080
-Le GBIF doit traiter les lacunes dans les données, les plus visible sont
+Le GBIF doit traiter les lacunes dans les données, les plus visibles sont
 
 198
 00:22:20,100 --> 00:22:25,320
@@ -817,11 +817,11 @@ le GFIF a trois domaines prioritaires sur lesquels nous devons nous concentrer
 
 205
 00:22:55,740 --> 00:23:02,400
-l'une d'entre elle concerne les parties du globe où nous n'avons plus de données, clairement
+l'un d'entre eux concerne les parties du globe où nous n'avons plus de données, clairement
 
 206
 00:23:02,660 --> 00:23:07,480
-la Russie, une grande partie de l'Europe de l'Est, l'Asie,  l'Afrique du Nord et le Moyen-Orient,
+la Russie, une grande partie de l'Europe de l'Est, l'Asie, l'Afrique du Nord et le Moyen-Orient,
 
 207
 00:23:08,160 --> 00:23:18,480
@@ -829,7 +829,7 @@ nous travaillons et sommes très enthousiastes à l'idée d'améliorer les liens
 
 208
 00:23:19,820 --> 00:23:24,140
-le meilleur moyen pour nous de penser aux lacunes géographiques.
+le meilleur moyen pour nous de traiter les lacunes géographiques.
 
 209
 00:23:24,380 --> 00:23:29,240
@@ -841,7 +841,7 @@ de travailler encore plus étroitement avec les collections d'histoire naturelle
 
 211
 00:23:33,380 --> 00:23:43,720
-Ils resteront notre meilleure source d'information sur de nombreuses espèces qui sont peu susceptibles d'être enregistrées par d'autre moyens.
+Elles resteront notre meilleure source d'information sur de nombreuses espèces qui sont peu susceptibles d'être enregistrées par d'autre moyens.
 
 212
 00:23:44,080 --> 00:23:50,700
@@ -849,7 +849,7 @@ Nous devons nous assurer que les collections sont bien protégées dans la tâch
 
 213
 00:23:51,340 --> 00:23:59,700
-Et troisièmement, nous devons être mieux axés sur l'apport à certains événements d'échantillonnage d'informations chronologiques et d'abondance
+Et troisièmement, nous devons être mieux axés sur l'apport à certains événements d'échantillonnage, d'informations chronologiques et d'abondance
 
 214
 00:24:00,000 --> 00:24:07,660
@@ -869,11 +869,11 @@ pour réduire la précision et l'efficacité de l'analyse en fonction des donné
 
 218
 00:24:33,140 --> 00:24:36,960
-Deux autres priorités qui sous-entendent tout cela,
+Deux autres priorités qui sous-tendent tout cela,
 
 219
 00:24:37,420 --> 00:24:44,640
-nous devons faire un meilleur travail que ce que nous avons fait à ce point de liaison par les meilleures infrastructures d'information.
+nous devons faire un meilleur travail que ce que nous avons fait jusqu'à présent, pour relier les meilleures infrastructures d'information.
 
 220
 00:24:44,880 --> 00:24:53,020
@@ -881,7 +881,7 @@ Nous dépendons fortement du travail de Species 2000 et de Catalogue of Life et
 
 221
 00:24:53,020 --> 00:24:58,080
-plus d'activités régionales dans l'organisation des noms et des classifications des espèces
+d'autres d'activités régionales dans l'organisation des noms et des classifications des espèces
 
 222
 00:24:58,340 --> 00:25:04,340
@@ -889,7 +889,7 @@ nous voulons faire un meilleur travail de liaison avec la littérature à traver
 
 223
 00:25:04,880 --> 00:25:11,240
-et aux jeux de données sur les traits et les séquences et autres attributs environnementaux.
+et aux jeux de données sur les traits, les séquences et autres attributs environnementaux.
 
 224
 00:25:11,660 --> 00:25:20,660
@@ -901,11 +901,11 @@ Cela reste un défi majeur et important, et des choses comme les licences de don
 
 226
 00:25:30,460 --> 00:25:36,320
-et l'identifiant d'objet numérique (DOI) est une clé pour nous en étant précurseur dans ces domaines.
+et l'identifiant d'objet numérique (DOI) sont primordiaux pour nous, qui sommes précurseurs dans ces domaines.
 
 227
 00:25:38,400 --> 00:25:46,120
-Et enfin, je reviens sur le cercle complet:  nous devons continuer à travailler pour renforcer notre réseau mondial
+Et enfin, je reviens au début : nous devons continuer à travailler pour renforcer notre réseau mondial
 
 228
 00:25:48,060 --> 00:25:54,640
@@ -933,11 +933,11 @@ La plupart de nos activités, d'une manière ou d'une autre, visent à soutenir 
 
 234
 00:26:32,680 --> 00:26:39,500
-et faire cela n'est pas quelque chose que nous pouvons faire uniquement en tant qu'entité financée centralement.
+et nous pouvons pas faire cela uniquement en tant qu'entité financée centralement.
 
 235
 00:26:40,000 --> 00:26:49,580
-Cela dépend vraiment des gens présent dans cette salle, et dans des situations similaires dans le monde ou de la collaboration avec une vision partagée.
+Cela dépend vraiment des gens présent dans cette salle, et dans des situations similaires dans le monde ou qui collaborent avec une vision partagée.
 
 236
 00:26:50,420 --> 00:26:53,860
@@ -953,5 +953,5 @@ Je suis très heureux d'avoir la France en tant que membre clé dans notre rése
 
 239
 00:27:06,980 --> 00:27:09,460
-Je vous remercie. *applaudissement*
+Je vous remercie. *applaudissements*
 
