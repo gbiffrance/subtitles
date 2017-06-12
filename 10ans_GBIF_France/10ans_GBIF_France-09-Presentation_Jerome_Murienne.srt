@@ -8,7 +8,7 @@ au laboratoire "évolution et biodiversité" à Toulouse, France, et je travaill
 
 3
 00:00:13,340 --> 00:00:21,820
-et je vais principalement vous parler de ce sujet-là, et notamment les travaux que l'on a fait sur les bases de données et sur les datapapers.
+et je vais principalement vous parler de ce sujet-là, et notamment les travaux que l'on a fait sur les bases de données et sur les data papers.
 
 4
 00:00:22,780 --> 00:00:27,480
@@ -28,7 +28,7 @@ Et on avait démontré que la Guyane était la première zone d'étude en régio
 
 8
 00:00:47,580 --> 00:00:53,160
-En premier lieu, car c'est l'endroit où l'on retrouve le plus d'unité de recherche, qui y travaille.
+En premier lieu, car c'est l'endroit où l'on retrouve le plus d'unité de recherche qui y travaillent.
 
 9
 00:00:53,760 --> 00:01:00,740
@@ -44,7 +44,7 @@ Parmi tous les territoires d'outre-mer, notamment les territoires tropicaux, c'e
 
 12
 00:01:13,080 --> 00:01:16,800
-produit le plus de données, visible sur le GBIF.
+produisant le plus de données, visibles sur le GBIF.
 
 13
 00:01:17,840 --> 00:01:25,320
@@ -52,20 +52,20 @@ Cependant, un point qui est important à noter, et je suis désolé de devoir le
 
 14
 00:01:25,480 --> 00:01:36,200
-quand on regarde la quantité de données produite,  là c'est les données produite visible à travers le GBIF entre  2000 et 2010,
+quand on regarde la quantité de données produites,  là c'est les données produites visibles à travers le GBIF entre 2000 et 2010,
 
 15
 00:01:36,660 --> 00:01:44,280
-on voit qu'il y a un problème de quantité : en Guyane,  il y a environ 30 000 données produite entre 2000 et 2010,
+on voit qu'il y a un problème de quantité : en Guyane,  il y a environ 30 000 données produites entre 2000 et 2010,
 
 16
 00:01:44,660 --> 00:01:51,640
-si on compare à d'autre pays comme le Costa Rica,  qui a 1.500.000 données,
+si on compare à d'autre pays comme le Costa Rica, qui a 1.500.000 données,
 
 17
 00:01:52,040 --> 00:01:59,480
 on voit de suite qu'il y a un problème d'échelle ; 
-bien sûr, on pourra dire : 'c'est pas les mêmes pays, ce n'est pas comparable',
+bien sûr, on pourra dire : "c'est pas les mêmes pays, ce n'est pas comparable",
 
 18
 00:01:59,680 --> 00:02:08,800
@@ -77,7 +77,7 @@ En termes d'interprétation, ce n'est pas évident d'en trouver une qui soit cla
 
 20
 00:02:15,140 --> 00:02:21,500
-mon interprétation personnelle est que ce n'est pas forcément un déficit de données, mais plutôt un problème de bonne pratique,
+mon interprétation personnelle est que ce n'est pas forcément un déficit de données, mais plutôt un problème de bonnes pratiques,
 
 21
 00:02:21,640 --> 00:02:29,460
@@ -85,7 +85,7 @@ c'est-à-dire que les laboratoires français, la communauté française en gén�
 
 22
 00:02:30,460 --> 00:02:38,340
-Il y a un autre problème qui se rajoute à cela : quand les données sont partagés, elles ne le sont pas avec tout le monde.
+Il y a un autre problème qui se rajoute à cela : quand les données sont partagées, elles ne le sont pas avec tout le monde.
 
 23
 00:02:39,720 --> 00:02:48,640
@@ -93,7 +93,7 @@ Les deux problèmes combinés font qu'il y a beaucoup de données, des territoir
 
 24
 00:02:48,960 --> 00:02:54,860
-Il y a vraiment un fort besoin de développement de bonne pratique, au sein de la Guyane déjà,
+Il y a vraiment un fort besoin de développement de bonnes pratiques, au sein de la Guyane déjà,
 
 25
 00:02:54,860 --> 00:02:59,680
@@ -101,23 +101,23 @@ et la communauté française, de manière plus générale.
 
 26
 00:03:00,800 --> 00:03:09,220
-Un cadre qui s'est développé autour de la Guyane, dans lequel pourrait se développer ces bonnes pratiques d'enregistrement des données de biodiversité,
+Un cadre qui s'est développé autour de la Guyane, dans lequel pourraient se développer ces bonnes pratiques d'enregistrement des données de biodiversité,
 
 27
 00:03:09,540 --> 00:03:18,140
-C'était la création d'un labex sur l’Amazonie qui s'appelle CEBA : Centre d'Etude de la Biodiversité Amazonienne.
+C'était la création d'un LabEx sur l’Amazonie qui s'appelle CEBA : Centre d'Etude de la Biodiversité Amazonienne.
 
 28
 00:03:18,780 --> 00:03:25,280
-Comme les autres labex, il s'est étendu des années 2010 aux années 2019.
+Comme les autres LabEx, il s'est étendu des années 2010 aux années 2019.
 
 29
 00:03:25,560 --> 00:03:30,400
-Ici, je vous ai replacé les différents objectifs de ce labex :
+Ici, je vous ai replacé les différents objectifs de ce LabEx :
 
 30
 00:03:30,560 --> 00:03:35,140
-étude de la biodiversité amazonienne, focalisé sur la Guyane.
+étude de la biodiversité amazonienne, focalisée sur la Guyane.
 
 31
 00:03:35,500 --> 00:03:43,000
@@ -129,11 +129,11 @@ la description de pattern (schéma) de biodiversité en Guyane française.
 
 33
 00:03:47,780 --> 00:03:59,120
-Un challenge dans ce contexte a été que cela regroupe des unités qui sont diverses et variés avec des institutions différentes.
+Un challenge dans ce contexte a été que cela regroupe des unités qui sont diverses et variées avec des institutions différentes.
 
 34
 00:03:59,260 --> 00:04:05,640
-Au centre du labex, il y a 6 unités en Guyane française, 
+Au centre du LabEx, il y a 6 unités en Guyane française, 
 7 unités en métropole.
 
 35
@@ -146,7 +146,7 @@ elles ont développé des pratiques et utilisé des outils qui sont différents.
 
 37
 00:04:15,300 --> 00:04:26,500
-L'un des enjeux est d'essayer de mettre en commun ces données, toutes les données qui ont été produite par ces différentes unités, dans des contextes différents.
+L'un des enjeux est d'essayer de mettre en commun ces données, toutes les données qui ont été produites par ces différentes unités, dans des contextes différents.
 
 38
 00:04:27,500 --> 00:04:31,140
@@ -202,7 +202,7 @@ par exemple, ici l'université de Montréal qui fournit un peu plus de 5000 occu
 
 51
 00:05:45,820 --> 00:05:52,660
-C'est vraiment une plateforme d'interconnexion des bases de données qui sont fourni par différents fournisseurs.
+C'est vraiment une plateforme d'interconnexion des bases de données qui sont fournies par différents fournisseurs.
 
 52
 00:05:53,600 --> 00:05:59,860
@@ -210,7 +210,7 @@ Donc on s'en est plus que largement inspirés, puisqu'on a directement copié à
 
 53
 00:06:00,020 --> 00:06:06,380
-puisqu'on a créé une plateforme qui s'appelle Guyanensys, on a pas été très originaux là-dessus mais je trouve que cela collé bien.
+puisqu'on a créé une plateforme qui s'appelle Guyanensys, on a pas été très originaux là-dessus mais je trouve que cela collait bien.
 
 54
 00:06:06,500 --> 00:06:14,460
@@ -226,7 +226,7 @@ Il y a ici une visualisation en tables, avec une interface de requête relativem
 
 57
 00:06:31,760 --> 00:06:40,660
-Ici, j'ai recherché les opinions qui ont été collecté à Saül, sur une mission de collecte en 2013, on voit la liste.
+Ici, j'ai recherché les opilions qui ont été collectés à Saül, sur une mission de collecte en 2013, on voit la liste.
 
 58
 00:06:41,360 --> 00:06:47,400
@@ -250,11 +250,11 @@ Sur les aspects techniques, derrière, c'est vraiment la même philosophie, les 
 
 63
 00:07:18,140 --> 00:07:26,500
-L'idée est que l'on a des bases de données qui sont diverses et variées, qui peuvent être hébergé par un ou des laboratoires différents.
+L'idée est que l'on a des bases de données qui sont diverses et variées, qui peuvent être hébergées par un ou des laboratoires différents.
 
 64
 00:07:26,960 --> 00:07:32,880
-Et donc, tout l'enjeu est d'arrivé à formater les données de manière standard.
+Et donc, tout l'enjeu est d'arriver à formater les données de manière standard.
 
 65
 00:07:33,080 --> 00:07:37,700
@@ -262,7 +262,7 @@ Pour ce faire, on utilise les outils du GBIF qui sont l’Integrated Publishing 
 
 66
 00:07:38,320 --> 00:07:42,120
-Ils vont formater les données au format DarwinCore.
+Ils vont formater les données au format Darwin Core.
 
 67
 00:07:42,380 --> 00:07:51,620
@@ -278,11 +278,11 @@ Bien sûr, une fois que l'on a fait ce travail de standardisation des données,
 
 70
 00:08:08,960 --> 00:08:13,820
-au niveau du flux d'informations, c'est juste une question de comment on connecte les différents 'tuyaux'.
+au niveau du flux d'informations, c'est juste une question de comment on connecte les différents "tuyaux".
 
 71
 00:08:14,100 --> 00:08:22,520
-Nous, par rapport à notre propre cahier des charges, au sein du labex, on a créé un portail qui est Guyanensis.
+Nous, par rapport à notre propre cahier des charges, au sein du LabEx, on a créé un portail qui est Guyanensis.
 
 72
 00:08:22,740 --> 00:08:28,120
@@ -291,7 +291,7 @@ Bien évidemment, ces jeux de données, comme ils sont déjà formatés et déj�
 73
 00:08:28,400 --> 00:08:31,960
 on peut les fournir au niveau du GBIF 
-Ou
+ou
 
 74
 00:08:32,160 --> 00:08:39,320
@@ -303,7 +303,7 @@ On pourrait aussi imaginer que la connexion avec le GBIF se fasse à travers l'I
 
 76
 00:08:46,280 --> 00:08:54,580
-C'est vraiment une question de comment on connecte les 'tuyaux' à partir du moment où on a formaté les données et que l'on mise disponible.
+C'est vraiment une question de comment on connecte les "tuyaux" à partir du moment où on a formaté les données et qu'on les a rendues disponible.
 
 77
 00:08:56,400 --> 00:09:05,080
@@ -315,23 +315,23 @@ Une deuxième chose qui a été mis en place, afin de stimuler la connexion des 
 
 79
 00:09:19,600 --> 00:09:23,540
-cela été la question des datapapers, d'essayer de valoriser
+cela était la question des data papers, d'essayer de valoriser
 
 80
 00:09:23,620 --> 00:09:28,900
-toutes les connaissances qui était déjà disponible,  mais qui n'était pas forcément partagés.
+toutes les connaissances qui étaient déjà disponibles, mais qui n'étaient pas forcément partagées.
 
 81
 00:09:29,040 --> 00:09:32,200
-Ça, c'est vraiment quelque chose sur lequel on a vraiment travaillé ces dernières années,
+Ça, c'est vraiment quelque chose sur laquelle on a vraiment travaillé ces dernières années,
 
 82
 00:09:32,240 --> 00:09:37,700
-en essayant de stimuler la communauté à mettre à disposition  ces données.
+en essayant de stimuler la communauté à mettre à disposition ces données.
 
 83
 00:09:38,080 --> 00:09:45,540
-Dans un premier temps, on va travailler sur les checklists d'espèces, avec des papiers qui décrivaient relativement simplement,
+Dans un premier temps, on a travaillé sur les checklists d'espèces, avec des papiers qui décrivaient relativement simplement,
 
 84
 00:09:45,540 --> 00:09:49,280
@@ -359,15 +359,15 @@ quand bien même les listes n'étaient pas forcément complètes.
 
 90
 00:10:13,340 --> 00:10:20,260
-Par exemple, sur les données d'araignée, il y a une proportion non négligeable d'espèces qui ne sont pas décrite.
+Par exemple, sur les données d'araignées, il y a une proportion non négligeable d'espèces qui ne sont pas décrites.
 
 91
 00:10:20,400 --> 00:10:23,180
-Il y a un certain nombre desp 1, desp2, desp3, etc...
+Il y a un certain nombre d'esp 1, d'esp2, d'esp3, etc...
 
 92
 00:10:23,360 --> 00:10:27,360
-Mais on considére que c'était quand même important, déjà de faire les papiers,
+Mais on considère que c'était quand même important, déjà de faire les papiers,
 
 93
 00:10:27,440 --> 00:10:33,180
@@ -379,15 +379,15 @@ Donc on voulait vraiment stimuler cet échange d'information, même si l'informa
 
 95
 00:10:43,640 --> 00:10:50,560
-Cela provient directement des datapapers, car ce que l'on montre, c'est les données ; ici les checklists.
+Cela provient directement des data papers, car ce que l'on montre, c'est les données ; ici les checklists.
 
 96
 00:10:50,700 --> 00:10:59,180
-On a essayé aussi de stimuler cette transmission d'information en publiant des listes d'espèces, pas directement dans des datapapers,
+On a essayé aussi de stimuler cette transmission d'informations en publiant des listes d'espèces, pas directement dans des datapapers,
 
 97
 00:10:59,200 --> 00:11:01,680
-mais dans d'autre papier scientifique.
+mais dans d'autres papiers scientifiques.
 
 98
 00:11:01,940 --> 00:11:10,040
@@ -431,7 +431,7 @@ La encore, l'idée est de stimuler la transition des données le plus tôt possi
 
 108
 00:12:13,880 --> 00:12:22,320
-quand bien même, il y a beaucoup d'espèces qui sont  ici pas identifié, pas encore décrites.
+quand bien même, il y a beaucoup d'espèces qui ne sont ici pas identifiées, pas encore décrites.
 
 109
 00:12:22,440 --> 00:12:29,940
@@ -479,7 +479,7 @@ On recherche activement un post-doc pour travailler sur ce type de données,
 
 120
 00:13:23,700 --> 00:13:28,660
-si il y a des gens qui sont intéressé pour travailler sur la  modélisation de la biodiversité en Guyane française,
+s'il y a des gens qui sont intéressés pour travailler sur la  modélisation de la biodiversité en Guyane française,
 
 121
 00:13:28,720 --> 00:13:31,500
@@ -491,11 +491,11 @@ Avec ça, je voudrais juste par remercier tous les gens qui ont été impliqué 
 
 123
 00:13:39,660 --> 00:13:46,440
-qui a développé la plateforme Canadensys,  qui maintenant travaille au GBIF et qui nous a aider à implémenté la version locale pour la Guyane,
+qui a développé la plateforme Canadensys,  qui maintenant travaille au GBIF et qui nous a aidés à implémenter la version locale pour la Guyane,
 
 124
 00:13:46,600 --> 00:13:49,620
-Pierre Solbes qui a fait le travail au niveau données,
+Pierre Solbès qui a fait le travail au niveau données,
 
 125
 00:13:49,740 --> 00:13:57,220
