@@ -5,7 +5,7 @@ Bonjour à tous.
 2
 00:00:06,020 --> 00:00:13,500
 Je dirais tout d'abord :
-je remercie GBIF France de m'avoir invité
+je remercie GBIF France de m'avoir invitée
 
 3
 00:00:13,620 --> 00:00:18,160
@@ -42,7 +42,7 @@ GBIF Mada
 
 10
 00:01:03,920 --> 00:01:12,980
-et membre votant du GBIF International
+est membre votant du GBIF International
 appartient au groupe région africaine.
 
 11
@@ -57,8 +57,8 @@ Centre National de Recherche sur l'Environnement,
 
 13
 00:01:24,580 --> 00:01:32,440
-rattaché au ministère de la recherche 
-scientifique et de l'enseignement supérieur
+rattaché au Ministère de la Recherche 
+Scientifique et de l'Enseignement Supérieur
 
 14
 00:01:32,920 --> 00:01:40,620
@@ -76,7 +76,7 @@ mais en fin de compte, le GBIF Mada
 
 17
 00:01:51,700 --> 00:01:58,360
-a été crée aussi par rapport 
+a été créé aussi par rapport 
 à cet objectif international
 
 18
@@ -86,7 +86,7 @@ Madagascar est classé parmi
 
 19
 00:02:04,840 --> 00:02:09,260
-les pays à méga-biodiversité mondial,
+les pays à méga-biodiversité mondiale,
 
 20
 00:02:10,300 --> 00:02:15,060
@@ -115,7 +115,7 @@ de la biodiversité,
 25
 00:02:38,640 --> 00:02:43,660
 ne sont pas documentées, 
-elles sont inaccessible,
+elles sont inaccessibles,
 
 26
 00:02:44,020 --> 00:02:48,940
@@ -147,7 +147,7 @@ politique des données,
 
 32
 00:03:15,460 --> 00:03:19,180
-au sein même des institutions malgache.
+au sein même des institutions malgaches.
 
 33
 00:03:19,800 --> 00:03:26,280
@@ -162,7 +162,7 @@ un objectif de large diffusion.
 35
 00:03:32,460 --> 00:03:37,740
 MadBIF donc, ou GBIF Madagascar
-visais à la promotion
+visait à la promotion
 
 36
 00:03:37,820 --> 00:03:44,980
@@ -213,7 +213,7 @@ il y a 36 pays qui fournissent
 
 46
 00:04:30,560 --> 00:04:38,500
-ou qui ont fournis des données sur le 
+ou qui ont fourni des données sur le 
 panier du GBIF Mada.
 
 47
@@ -244,7 +244,7 @@ GBIF Belgium et GBIF Canada,
 52
 00:05:11,840 --> 00:05:16,220
 une formation sur 
-les interface d'échange web
+les interfaces d'échange web
 
 53
 00:05:16,480 --> 00:05:26,120
