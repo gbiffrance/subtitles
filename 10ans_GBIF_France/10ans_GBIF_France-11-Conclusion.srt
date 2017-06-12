@@ -15,7 +15,7 @@ très intéressantes présentations
 
 4
 00:00:12,440 --> 00:00:16,900
-et leurs participations à cette journée
+et leur participation à cette journée
 et remercier tout le monde.
 
 5
@@ -36,7 +36,7 @@ un peu pour faire un condensé
 8
 00:00:30,820 --> 00:00:37,600
 une synthèse des éléments qui paraissent
-indispensable à avoir bien compris sur le GBIF
+indispensables à avoir bien compris sur le GBIF
 
 9
 00:00:37,660 --> 00:00:43,200
@@ -64,20 +64,20 @@ il n'y a pas de limite taxonomique,
 14
 00:01:00,740 --> 00:01:06,280
 pas de limite temporelle : il peut y avoir des
-données également archéologique,
+données également archéologiques,
 
 15
 00:01:06,280 --> 00:01:08,860
-des données paléontologique
+des données paléontologiques
 
 16
 00:01:08,920 --> 00:01:12,160
-les données peuvent avoir été informatisé 
+les données peuvent avoir été informatisées 
 à tout moment mais surtout
 
 17
 00:01:12,160 --> 00:01:15,800
-d'être daté de temps extrêmement anciens.
+être datées de temps extrêmement anciens.
 
 18
 00:01:16,320 --> 00:01:20,200
@@ -110,7 +110,7 @@ un peu plus tard
 24
 00:01:35,760 --> 00:01:39,640
 mais cela veut dire que, dans un temps
-d'une quinzaine d'année,
+d'une quinzaine d'années,
 
 25
 00:01:39,780 --> 00:01:45,620
@@ -130,7 +130,7 @@ un réseau d'acteurs qui est mondial,
 28
 00:01:54,480 --> 00:01:58,020
 avec 54 pays 
-sans compté les autres participants
+sans compter les autres participants
 
 29
 00:01:58,200 --> 00:02:02,440
@@ -157,17 +157,17 @@ et tout ça est en open-source.
 34
 00:02:13,780 --> 00:02:18,500
 Cela permet que le GBIF participe 
-à de nombreux projet
+à de nombreux projets
 
 35
 00:02:18,680 --> 00:02:23,900
 et dispositifs qui se mettent en place
-et y apporte ces compétences
+et y apporte ses compétences
 
 36
 00:02:23,900 --> 00:02:26,720
-ces formations, 
-ces guides de bonnes pratiques.
+ses formations, 
+ses guides de bonnes pratiques.
 
 37
 00:02:26,860 --> 00:02:31,880
@@ -181,22 +181,22 @@ même si le personnel
 
 39
 00:02:35,800 --> 00:02:40,120
-c'est renouveler de temps en temps,
+s'est renouvelé de temps en temps,
 a acquis les compétences sur ces différents
 
 40
 00:02:40,120 --> 00:02:45,860
 développement des outils GBIF
-et e retrouve être un acteur que l'on sollicite
+et se retrouve être un acteur que l'on sollicite
 
 41
 00:02:45,860 --> 00:02:49,040
 pour cette expertise,
- dans la mise en place de nombreux
+dans la mise en place de nombreux
 
 42
 00:02:49,040 --> 00:02:52,280
-autre dispositif, donc on a vu 
+autres dispositifs, donc on a vu 
 que le GBIF France interagit
 
 43
@@ -217,7 +217,7 @@ ReColNat et également avec l'ECOSCOPE,
 46
 00:03:09,440 --> 00:03:14,440
 mais il a également des interactions au Sud
-et avec les autres partenaires Européen.
+et avec les autres partenaires européens.
 
 47
 00:03:16,980 --> 00:03:20,560
@@ -240,7 +240,7 @@ du GBIF France dans le paysage national
 
 51
 00:03:31,500 --> 00:03:34,260
-comme la évoquer Elisabeth Vergès,
+comme l'a évoqué Elisabeth Vergès,
 
 52
 00:03:34,260 --> 00:03:37,580
@@ -255,7 +255,7 @@ intimement liés,
 54
 00:03:42,020 --> 00:03:45,040
 donc je vais essayer de les passer 
-en revu rapidement :
+en revue rapidement :
 
 55
 00:03:45,620 --> 00:03:48,460
@@ -312,7 +312,7 @@ de présence mais il y a aussi
 66
 00:04:31,840 --> 00:04:35,720
 des données d'échantillonnage, le moyen
-d'avoir des données d'abondances,
+d'avoir des données d'abondance,
 
 67
 00:04:35,720 --> 00:04:39,440
@@ -326,12 +326,12 @@ d'analyse scientifique,
 
 69
 00:04:44,360 --> 00:04:47,840
-de questions scientifique qui vont pouvoir
+de questions scientifiques qui vont pouvoir
 utiliser les données du GBIF.
 
 70
 00:04:48,220 --> 00:04:51,180
-Il y a également des évolutions quand
+Il y a également des évolutions quant
 à la qualité des données
 
 71
@@ -350,7 +350,7 @@ Malgré tout,
 74
 00:05:00,420 --> 00:05:04,900
 différents intervenants en ont parlé,
-ils y a un biais, il y a des biais
+il y a un biais, il y a des biais
 
 75
 00:05:04,960 --> 00:05:08,580
@@ -412,12 +412,12 @@ d'au moins 20 occurrences dans le GBIF.
 87
 00:05:58,680 --> 00:06:01,440
 Donc il peut y avoir 
-beaucoup d'espèce représenté
+beaucoup d'espèce représentées
 
 88
 00:06:01,600 --> 00:06:07,220
 on nous l'a indiqué, mais elles ne sont pas
-du tout représenté de façon équivalente
+du tout représentées de façon équivalente
 
 89
 00:06:07,220 --> 00:06:12,180
@@ -432,12 +432,12 @@ il y a aussi un biais temporel
 91
 00:06:19,840 --> 00:06:24,120
 ce qui est représenté ici,  vous avez toujours 
-sur ces grands groupes taxonomique
+sur ces grands groupes taxonomiques
 
 92
 00:06:24,260 --> 00:06:28,620
 vous avez les données qui ont été des données
-collectés avant 1950,
+collectées avant 1950,
 
 93
 00:06:28,620 --> 00:06:32,040
@@ -490,7 +490,7 @@ vers les pays d'origine
 103
 00:07:13,660 --> 00:07:17,080
 mais on peut aussi retransmettre 
-complètement des collections virtuelle
+complètement des collections virtuelles
 
 104
 00:07:17,080 --> 00:07:20,660
@@ -527,7 +527,7 @@ travailler sur ces nouvelles données virtuelles
 
 111
 00:07:48,480 --> 00:07:53,580
-donc on passe de laboratoire réel 
+donc on passe de laboratoire réels 
 à des laboratoires virtuels
 
 112
@@ -557,12 +557,12 @@ directement sur des échantillons numérisés.
 117
 00:08:19,960 --> 00:08:25,320
 Les données évoluent, mais c'est aussi que 
-les fournisseurs de ces données ont évolués
+les fournisseurs de ces données ont évolué
 
 118
 00:08:25,420 --> 00:08:29,600
 au début du GBIF, à l'époque des premières
-données qui ont été connectés,
+données qui ont été connectées,
 
 119
 00:08:29,600 --> 00:08:32,420
@@ -619,7 +619,7 @@ pour acquérir des données,
 130
 00:09:10,820 --> 00:09:13,240
 que ce soit des enregistrements 
-visuel et sonore
+visuels et sonores
 
 131
 00:09:13,240 --> 00:09:16,860
@@ -629,7 +629,7 @@ particulier.
 132
 00:09:18,760 --> 00:09:24,840
 Cette figure vous présente,
-pour quatre grand groupe,
+pour quatre grands groupes,
 
 133
 00:09:25,000 --> 00:09:28,360
@@ -639,7 +639,7 @@ entre les données
 134
 00:09:28,360 --> 00:09:33,180
 qui sont des données de spécimens,
-des spécimens vivant
+des spécimens vivants
 
 135
 00:09:35,000 --> 00:09:38,200
@@ -676,7 +676,7 @@ au niveau de l'ensemble du GBIF
 
 142
 00:09:57,440 --> 00:10:00,340
-et sur les différents groupe taxonomique.
+et sur les différents groupe taxonomiques.
 
 143
 00:10:00,400 --> 00:10:05,140
@@ -686,11 +686,11 @@ s’interroger sur le pourquoi de
 144
 00:10:05,140 --> 00:10:08,760
 il y a ces diminutions des données
-qui sont mises en connections
+qui sont mises en connexions
 
 145
 00:10:09,060 --> 00:10:12,400
-comment évolue les pratiques scientifique,
+comment évoluent les pratiques scientifiques,
 
 146
 00:10:12,760 --> 00:10:16,060
@@ -704,7 +704,7 @@ d'avoir des points de références,
 
 148
 00:10:19,220 --> 00:10:21,500
-d'avoir des objets auquel on puisse revenir,
+d'avoir des objets auxquels on puisse revenir,
 
 149
 00:10:21,500 --> 00:10:25,620
@@ -713,7 +713,7 @@ ces données, de type collection,
 
 150
 00:10:25,620 --> 00:10:28,260
-puisse continuer d'exister.
+puissent continuer d'exister.
 
 151
 00:10:30,100 --> 00:10:34,060
@@ -761,17 +761,17 @@ vis-à-vis de ce grand public et de mise
 
 160
 00:11:07,180 --> 00:11:09,300
-Je ne reviendrais pas sur 
+Je ne reviendrai pas sur 
 la recherche scientifique
 
 161
 00:11:09,300 --> 00:11:14,700
 ce schéma, vous l'avez vu plusieurs fois,
-c'est l'évolution du nombre de publication
+c'est l'évolution du nombre de publications
 
 162
 00:11:14,700 --> 00:11:18,860
-qui utilise directement des données du GBIF.
+qui utilisent directement des données du GBIF.
 
 163
 00:11:19,220 --> 00:11:22,920
@@ -802,7 +802,7 @@ des datapapers
 
 169
 00:11:44,200 --> 00:11:46,080
-dont à parler Jérôme Murienne
+dont a parlé Jérôme Murienne
 
 170
 00:11:46,120 --> 00:11:50,620
@@ -816,7 +816,7 @@ de présenter aussi leur protocoles
 172
 00:11:55,640 --> 00:11:59,100
 les contextes dans lesquels 
-ils peuvent être utilisé ou non.
+ils peuvent être utilisés ou non.
 
 173
 00:11:59,320 --> 00:12:03,700
@@ -845,11 +845,11 @@ du GBIF elles-mêmes
 178
 00:12:19,360 --> 00:12:22,480
 puisque ces datapapers amènent 
-à mieux comprendre à
+à mieux comprendre
 
 179
 00:12:22,480 --> 00:12:26,800
-ce qu'un jeux de données permet ou non
+ce qu'un jeu de données permet ou non
 de faire avec.
 
 180
@@ -865,7 +865,7 @@ la politique environnementale
 182
 00:12:38,060 --> 00:12:42,460
 et répond à un certain nombre 
-d'objectif concernant
+d'objectifs concernant
 
 183
 00:12:42,460 --> 00:12:47,700
@@ -895,7 +895,7 @@ qui est faite.
 188
 00:13:13,820 --> 00:13:17,720
 Les données des sciences participatives
-sont amenés à termes
+sont amenées à terme
 
 189
 00:13:17,780 --> 00:13:22,160
@@ -922,7 +922,7 @@ Les outils du GBIF :
 
 194
 00:13:39,240 --> 00:13:42,560
-les outils sont fait évidemment
+les outils sont faits évidemment
 pour les utilisateurs,
 
 195
@@ -972,17 +972,17 @@ et à une échelle taxonomique
 204
 00:14:21,500 --> 00:14:27,220
 cela veut dire aussi que, il faut des outils
-adapté à ces traitements à large échelle.
+adaptés à ces traitements à large échelle.
 
 205
 00:14:27,540 --> 00:14:33,180
-Aujourd'hui, il y a des évolutions très forte,
-grâce aux capacités de calculs,
+Aujourd'hui, il y a des évolutions très fortes,
+grâce aux capacités de calcul,
 
 206
 00:14:33,360 --> 00:14:38,940
 pour pouvoir faire des outils, beaucoup
-plus performant, d'analyse de données.
+plus performants, d'analyse de données.
 
 207
 00:14:39,900 --> 00:14:44,500
@@ -991,7 +991,7 @@ autour d'une base de données
 
 208
 00:14:44,960 --> 00:14:48,420
-des termes différents qui ont évolués,
+des termes différents qui ont évolué,
 au fil du temps,
 
 209
@@ -1010,7 +1010,7 @@ et on en parle toujours,
 
 212
 00:14:55,220 --> 00:14:59,180
-après on a plus parler d'analyse des données
+après on a plus parlé d'analyse des données
 pour tout ce qui est statistique
 
 213
@@ -1020,7 +1020,7 @@ de synthétiser les données
 
 214
 00:15:04,440 --> 00:15:09,180
-qu'elles soient numérique ou symbolique
+qu'elles soient numériques ou symboliques
 des données beaucoup plus diverses.
 
 215
@@ -1050,7 +1050,7 @@ des regroupements, des corrélations
 
 220
 00:15:26,820 --> 00:15:28,820
-au sein de grand ensemble de données.
+au sein de grands ensembles de données.
 
 221
 00:15:28,820 --> 00:15:30,780
@@ -1136,7 +1136,7 @@ par exemple.
 238
 00:16:26,400 --> 00:16:29,600
 Simplement, ce sont des méthodes qui,
-aujourd'hui, ne sont capable que
+aujourd'hui, ne sont capables que
 
 239
 00:16:29,600 --> 00:16:33,640
@@ -1160,8 +1160,8 @@ l'apprentissage profond
 
 243
 00:16:43,400 --> 00:16:46,060
-ce sera dans de très grand
-ensemble de données
+ce sera dans de très grands
+ensembles de données
 
 244
 00:16:46,060 --> 00:16:51,240
@@ -1195,7 +1195,7 @@ pour étudier des données de biodiversité :
 250
 00:17:11,340 --> 00:17:14,140
 cela peut-être des données 
-d'imagerie satellitaires,
+d'imagerie satellitaire,
 
 251
 00:17:14,140 --> 00:17:21,960
@@ -1224,8 +1224,8 @@ longues du GBIF,
 
 256
 00:17:38,520 --> 00:17:44,260
-il faut qu'il y ai un lien fort
-avec les évolutions informatique
+il faut qu'il y ait un lien fort
+avec les évolutions informatiques
 
 257
 00:17:44,260 --> 00:17:46,220
@@ -1259,7 +1259,7 @@ des universités,
 263
 00:18:13,060 --> 00:18:17,220
 vous avez des bases de données
-'périphériques' distribués un peu partout.
+'périphériques' distribuées un peu partout.
 
 264
 00:18:17,440 --> 00:18:21,760
@@ -1273,13 +1273,13 @@ remonter les données
 
 266
 00:18:24,640 --> 00:18:27,160
-et c'est ce qu'a expliquer 
+et c'est ce qu'a expliqué 
 Jérôme Murienne,
 
 267
 00:18:27,160 --> 00:18:29,220
 une fois qu'on sait comment
-les données sont structurés
+les données sont structurées
 
 268
 00:18:29,220 --> 00:18:32,420
@@ -1293,12 +1293,12 @@ par des agrégateurs,
 
 270
 00:18:35,000 --> 00:18:39,520
-par exemple, Sonera va être un agrégateur
+par exemple, Sonnerat va être un agrégateur
 pour des données d'herbiers,
 
 271
 00:18:39,520 --> 00:18:43,880
-où on va passer par l'INPN pour
+ou on va passer par l'INPN pour
 l'Inventaire National du Patrimoine Naturel,
 
 272
@@ -1363,7 +1363,7 @@ des données de type primaire
 284
 00:19:25,080 --> 00:19:29,680
 qui peuvent être des données
-hautement, déjà analysés
+hautement, déjà analysées
 
 285
 00:19:29,680 --> 00:19:31,680
@@ -1435,7 +1435,7 @@ sur la Nature et les Paysages (SINP)
 299
 00:20:18,560 --> 00:20:23,040
 pour coordonner, au niveau national,
-la remonté des observations
+la remontée des observations
 
 300
 00:20:23,260 --> 00:20:27,820
@@ -1623,7 +1623,7 @@ monde des données, qui est
 
 339
 00:23:02,140 --> 00:23:06,680
-absolue essentiel, on a besoin 
+absolument essentiel, on a besoin 
 de développer des laboratoires virtuels
 
 340
@@ -1633,7 +1633,7 @@ du point de vue qualité,
 
 341
 00:23:11,320 --> 00:23:14,280
-l'informatique est arrivé comme 
+l'informatique est arrivée comme 
 un raz de marée,
 
 342
@@ -1676,7 +1676,7 @@ et votre participation
 
 350
 00:23:57,140 --> 00:24:03,500
-et j'espère que vous continuerai d'utiliser le GBIF,
+et j'espère que vous continuerez d'utiliser le GBIF,
 de participer au GBIF
 
 351
