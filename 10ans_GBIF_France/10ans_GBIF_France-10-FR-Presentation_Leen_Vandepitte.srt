@@ -4,15 +4,15 @@ Leen Vandepitte : Je m'appelle Leen Vandepitte, je travaille au Flanders Marine 
 
 2
 00:00:06,100 --> 00:00:12,660
-Et je suis le gestionnaire de données pour le nœud européen de l'OBIS qui est le système d'information biogéographique de l'océan
+Et je suis la gestionnaire de données pour le nœud européen de l'OBIS qui est le système d'information biogéographique de l'océan
 
 3
 00:00:12,840 --> 00:00:17,680
-et je suis impliqué dans le registre mondial des espèces marines.
+et je suis impliquée dans le registre mondial des espèces marines.
 
 4
 00:00:18,400 --> 00:00:23,940
-D'accord, Anne-sophie m'a demandé de parler d'EurOBIS
+Anne-sophie m'a demandé de parler d'EurOBIS
 
 5
 00:00:24,180 --> 00:00:27,119
@@ -33,35 +33,35 @@ et ensuite comment OBIS et GBIF s'intègrent.
 
 9
 00:00:42,380 --> 00:00:50,520
-Il y a environ 15 ou 20 ans si nous regardions en Belgique à une donnée biologique, alors nous saurions qu'il est très dispersé
+Il y a environ 15 ou 20 ans si nous regardions en Belgique des données biologiques, nous nous apercevions qu'elles étaient très dispersées
 
 10
 00:00:51,260 --> 00:00:56,160
-Tout le monde a un petit jeu de données quelque part, mais il n'y a aucun moyen de les rassembler
+Tout le monde avait un petit jeu de données quelque part, mais il n'y avait aucun moyen de les rassembler
 
 11
 00:00:56,380 --> 00:01:01,140
-et des données biologiques ont également été collectées avec des barrières très limitées
+et des données biologiques ont également été collectées dans des zones très limitées
 
 12
 00:01:01,580 --> 00:01:06,020
-et vous avez l'impression que si vousaviez fait ou si vous souhaitez faites des recherches sur un projet ou un doctorat
+et si vous faisiez ou souhaitiez faire des recherches pour un projet ou un doctorat
 
 13
 00:01:06,320 --> 00:01:10,920
-vous avez un délai de trois à cinq ans donc vos données sont limitées dans le temps
+vous aviez un délai de trois à cinq ans donc vos données étaient limitées dans le temps
 
 14
 00:01:11,360 --> 00:01:19,120
-ellles seront également limitées dans l'espace surtout si vous restez sur une région pour votre doctorat ou votre échantillon
+elles étaient également limitées dans l'espace surtout si vous restiez sur une région pour votre doctorat ou votre échantillonnage
 
 15
 00:01:19,720 --> 00:01:22,680
-et vous auriez aussi
+et vous aviez aussi
 
 16
 00:01:23,020 --> 00:01:28,560
-des limites financières, car il faut prendre en compte le budget pour faire votre échantillonnage.
+des limites financières, car il fallait prendre en compte le budget pour faire votre échantillonnage.
 
 17
 00:01:31,320 --> 00:01:38,320
@@ -69,7 +69,7 @@ Ce qui se passe, c'est que ce n'est pas seulement le cas en Belgique mais c'est 
 
 18
 00:01:38,320 --> 00:01:45,880
-Et la chose similaire qui se passe partout est que les données sont collectées, les données sont analysés, les personnes publient leurs données
+Et ce qui se passe partout est que les données sont collectées, les données sont analysées, les personnes publient leurs données
 
 19
 00:01:46,120 --> 00:01:50,380
@@ -77,7 +77,7 @@ et ensuite ils classent leurs données quelque part, essentiellement sur un CD,
 
 20
 00:01:50,520 --> 00:01:55,540
-dans un placard quelque part ,et après un moment, vous oubliez simplement le fait que vous les avez
+dans un placard quelque part, et après un moment, vous oubliez simplement que vous les avez
 
 21
 00:01:55,760 --> 00:02:00,600
@@ -85,7 +85,7 @@ et en plus, tout le monde travaille sur son propre groupe thématique spécifiqu
 
 22
 00:02:00,660 --> 00:02:04,840
-les gens travaillent sur les bentos mâles, vous avez des gens qui travaillent sur les poisson, sur les macro bentos,
+vous avez des gens qui travaillent sur les poissons, sur le macro benthos,
 
 23
 00:02:04,940 --> 00:02:06,600
@@ -97,19 +97,19 @@ Donc, si vous regardez tout cela, alors vous ne pouvez vous empêcher de penser 
 
 25
 00:02:12,260 --> 00:02:18,500
-comment pouvons-nous voir les modèles globaux à grande échelle et tout cela si les données sont tellement dispersées partout ?
+comment pouvons-nous voir les modèles globaux à grande échelle, etc. si les données sont tellement dispersées partout ?
 
 26
 00:02:20,040 --> 00:02:24,320
-Et la réponse à cela réside essentiellement à rassembler vos données ensemble.
+Et la réponse à cela réside essentiellement dans le fait de rassembler vos données.
 
 27
 00:02:24,460 --> 00:02:33,920
-GBIF fait cela, mais en Belgique, nous avons EurObus, noeud européen d'OBIS, qui a rassemblé les données maritimes européennes.
+Le GBIF fait cela, mais en Belgique, nous avons EurObis, noeud européen d'OBIS, qui a rassemblé les données maritimes européennes.
 
 28
 00:02:34,060 --> 00:02:41,080
-Et tout cela a commencé dans le projet malabif avec lequel était un projet sur la biodiversité et le fonctionnement de l'écosystème
+Et tout cela a commencé dans le projet MarBEF, qui était un projet sur la biodiversité et le fonctionnement des écosystèmes
 
 29
 00:02:41,320 --> 00:02:43,700
@@ -117,7 +117,7 @@ spécifiquement pour le milieu marin.
 
 30
 00:02:43,920 --> 00:02:49,580
-Et après cela, EuroBIS  poursuivi dans plusieurs autres projets
+Et après cela, EuroBIS s'est poursuivi dans plusieurs autres projets
 
 31
 00:02:49,860 --> 00:02:55,880
@@ -125,27 +125,27 @@ et, je ne sais pas combien de personnes connaissent la recherche marine ou le pa
 
 32
 00:02:56,180 --> 00:03:00,880
-mais deux projets très importants sont une biologie imminente qui
+mais deux projets très importants sont EMODnet Biology, qui
 
 33
 00:03:01,080 --> 00:03:06,280
-est financé par le gouvernement européen et Lifewatch, qui a été mentionné plus tôt aujourd'hui.
+est financé par le gouvernement européen, et Lifewatch, qui a été mentionné plus tôt aujourd'hui.
 
 34
 00:03:06,520 --> 00:03:14,520
-Donc, si nous regardons EurOBIS, l'objectif initial était d'avoir vos informations de distribution de taxons dans l'espace et le temps.
+Donc, si nous regardons EurOBIS, l'objectif initial était d'avoir les informations de répartition de taxons dans l'espace et le temps.
 
 35
 00:03:14,760 --> 00:03:19,180
-Donc, fondamentalement, qu'est ce que c'est, où c'est, et quand est-ce que c'est.
+Donc, fondamentalement, qu'est-ce que c'est, où c'est, et quand est-ce que c'est.
 
 36
 00:03:19,660 --> 00:03:24,980
-Cela commença en 2004, donc déjà plus de 10 ans maintenant que nous travaillons dessu
+Cela a commencé en 2004, donc cela fait déjà plus de 10 ans maintenant que nous travaillons dessus
 
 37
 00:03:25,180 --> 00:03:28,220
-et durant ce temps, il a évolué dans ce qu'il est aujourd'hui
+et durant ce temps, cela a évolué dans le sens où
 
 38
 00:03:28,360 --> 00:03:33,280
@@ -165,7 +165,7 @@ Et aussi un lien avec les informations abiotiques car lorsque vous collectez un 
 
 42
 00:03:50,900 --> 00:03:57,160
-vous mesurez également les sédiments, la composition de la salinité de la température des sédiments, etc.
+vous mesurez également les sédiments, la composition de la salinité, la température des sédiments, etc.
 
 43
 00:03:57,420 --> 00:04:01,100
@@ -177,7 +177,7 @@ Maintenant, les objectifs d'EurOBIS sont assez simples,
 
 45
 00:04:05,280 --> 00:04:09,640
-Il sera destiné à être un point d'accès pour toutes ces données.
+Il est destiné à être un point d'accès pour toutes ces données.
 
 46
 00:04:09,780 --> 00:04:12,860
@@ -189,7 +189,7 @@ Pas de mots de passe, pas de restrictions sur l'accès aux données.
 
 48
 00:04:17,400 --> 00:04:23,800
-Et le deuxième but, bien sûr, est que si vous rassemblez toutes ces informations dispersées, c'est de pouvoir
+Et le deuxième but, bien sûr, si vous rassemblez toutes ces informations dispersées, c'est de pouvoir
 
 49
 00:04:24,060 --> 00:04:31,460
@@ -197,19 +197,19 @@ aider les scientifiques à mieux comprendre la répartition et la biodiversité 
 
 50
 00:04:31,760 --> 00:04:36,140
-À côté de cela, il aide et identifie les lacunes dans nos connaissances.
+À côté de cela, [EurOBIS] aide et identifie les lacunes dans nos connaissances.
 
 51
 00:04:36,400 --> 00:04:43,280
-Si nous aurions une région spécifique qui n'est pas couverte dans les données, nous savons que nous avons une lacune et nous devrions examiner cela.
+Si nous avons une région spécifique qui n'est pas couverte dans les données, nous savons que nous avons une lacune et nous devrions examiner cela.
 
 52
 00:04:43,600 --> 00:04:47,660
-Et enfin, et c'est très important pour nous, c'est
+Et enfin, et c'est très important pour nous,
 
 53
 00:04:48,140 --> 00:04:54,440
-Nous essayons de donner une indication de la condition d'utilisation des données, une indication sur la qualité
+nous essayons de donner une indication des conditions d'utilisation des données, une indication sur la qualité
 
 54
 00:04:54,600 --> 00:04:58,420
@@ -217,11 +217,11 @@ et l'exhaustivité des données, j'y reviendrai plus tard.
 
 55
 00:05:00,020 --> 00:05:04,000
-D'abord la base de données elle-même: c'est une base de données SQL,
+D'abord la base de données elle-même : c'est une base de données SQL,
 
 56
 00:05:04,220 --> 00:05:09,780
-qui est complètement compatible avec Darwin Core, utilisé par le GBIF et les IPT.
+qui est complètement compatible avec le Darwin Core, utilisé par le GBIF et les IPT.
 
 57
 00:05:09,960 --> 00:05:15,940
@@ -229,11 +229,11 @@ Il a des informations sur les métadonnées, nous avons également un système s
 
 58
 00:05:16,200 --> 00:05:25,340
-Ainsi, les DOI vous donne un moyen simple de citer un jeu de données lorsqu'il est utilisé et vous pouvez également suivre les citations.
+Ainsi, le DOI vous donne un moyen simple de citer un jeu de données lorsqu'il est utilisé et vous pouvez également suivre les citations.
 
 59
 00:05:25,660 --> 00:05:30,020
-Il contient des informations et des informations actuelles sur les mesures ou les faits.
+Il contient des informations et des informations récentes sur les mesures ou les faits.
 
 60
 00:05:30,280 --> 00:05:33,720
@@ -245,7 +245,7 @@ nous avons presque 700 jeux de données venant d'un peu plus de 150 instituts en
 
 62
 00:05:41,180 --> 00:05:44,280
-Il y a vingt-sept millions d'enregistrement de distribution là-bas
+Il y a vingt-sept millions d'enregistrement de distribution là-dedans
 
 63
 00:05:44,420 --> 00:05:47,920
@@ -257,7 +257,7 @@ qui sont principalement des informations sur la biomasse et l'abondance.
 
 65
 00:05:52,780 --> 00:06:00,360
-Et si vous regardez les noms d'espèces là-bas, il y a plus de 63 000 noms d'espèces qui ont été documentés jusqu'à présent.
+Et si vous regardez les noms d'espèces dans la base, il y a plus de 63 000 noms d'espèces qui ont été documentés jusqu'à présent.
 
 66
 00:06:01,020 --> 00:06:04,360
@@ -277,11 +277,11 @@ c'est pourquoi nous avons un grand nombre de noms d'espèces.
 
 70
 00:06:19,820 --> 00:06:26,560
-Juste pour vous donner une idée sur la croissance: nous avons donc les enregistrements de distribution et le nombre de jeux de données.
+Juste pour vous donner une idée sur la croissance : nous avons donc les enregistrements de distribution et le nombre de jeux de données.
 
 71
 00:06:27,020 --> 00:06:33,700
-Tout a commencé au début des années 2000 et il continue de croître essentiellement.
+Tout a commencé au début des années 2000 et il continue de croître.
 
 72
 00:06:35,280 --> 00:06:44,260
@@ -301,7 +301,7 @@ Ainsi, EurOBIS reçoit ses données auprès de plusieurs fournisseurs,
 
 76
 00:07:05,020 --> 00:07:09,680
-j'en liste quelques-uns d'entre eux, mais les plus important en ce moment sont
+j'en liste quelques-uns d'entre eux, mais les plus importants en ce moment sont
 
 77
 00:07:09,940 --> 00:07:17,680
@@ -309,7 +309,7 @@ les jeux de données à petite échelle et à court terme que les gens collecten
 
 78
 00:07:18,120 --> 00:07:26,100
-Deuxièmement, les données nationales de suivi: chaque pays a normalement un programme de surveillance et ce que nous avons essayé de faire au cours de l'année dernière
+Deuxièmement, les données nationales de suivi : chaque pays a normalement un programme de surveillance et ce que nous avons essayé de faire au cours de l'année dernière
 
 79
 00:07:26,160 --> 00:07:29,920
@@ -341,7 +341,7 @@ nous sommes prêts à traiter avec ces formats et à les formater afin qu'ils co
 
 86
 00:08:11,700 --> 00:08:20,420
-Ce que nous faisons: la collecte de données se produit en permanence, mais une fois par mois, nous effectuons un téléversement dans la base de données, puis les données sont disponibles.
+Ce que nous faisons : la collecte de données se produit en permanence, mais une fois par mois, nous effectuons un téléversement dans la base de données, puis les données sont disponibles.
 
 87
 00:08:22,180 --> 00:08:29,360
@@ -373,7 +373,7 @@ Il existe donc des moyens de combiner plusieurs services Web pour obtenir des in
 
 94
 00:09:08,780 --> 00:09:14,620
-Je vous invite donc vraiment à allez voir ces portails et à voir ce qui est disponible, voir ce qui est accessible,
+Je vous invite donc vraiment à aller voir ces portails et à voir ce qui est disponible, voir ce qui est accessible,
 
 95
 00:09:14,920 --> 00:09:17,840
@@ -405,11 +405,11 @@ Est-ce que cela marche ? Okay.
 
 102
 00:09:54,000 --> 00:10:00,220
-Ainsi, on peut être atteint maintenant, par exemple les États-Unis, les africains; Il peut être thématique;
+Ainsi, on peut consulter, par exemple les États-Unis, les noeuds africains ; il peut être thématique ;
 
 103
 00:10:00,420 --> 00:10:09,720
-La carte OBIS, par exemple, se concentre sur les information de distribution des mammifères marins et des tortues marines afin que vous puissiez trouver des informations.
+La carte OBIS, par exemple, se concentre sur les informations de distribution des mammifères marins et des tortues marines afin que vous puissiez trouver des informations.
 
 104
 00:10:09,960 --> 00:10:16,080
@@ -425,7 +425,7 @@ Chacun de ces nœuds est dépendant de l'ensemble du réseau des fournisseurs lo
 
 107
 00:10:30,180 --> 00:10:37,860
-tout comme EurOBIS, nous recueillons des données auprès d'instituts et de chercheurs européens; Il en va de même pour tous les autres nœuds
+tout comme EurOBIS, nous recueillons des données auprès d'instituts et de chercheurs européens ; il en va de même pour tous les autres nœuds
 
 108
 00:10:38,800 --> 00:10:50,240
@@ -441,15 +441,15 @@ OBIS lui-même possède également un portail de données,
 
 111
 00:11:00,040 --> 00:11:06,040
-c'est le lien qu'ils ont récemment lancé vers un portail renouvelé, donc c'est toujours en version bêta
+c'est le lien qu'ils ont récemment lancé vers un portail mis à jour, donc c'est toujours en version bêta
 
 112
 00:11:06,500 --> 00:11:14,100
-ais encore une fois, nous invitons tout le monde à regarder et même si vous avez des retours ou des commentaires sur le site Web lui-même,
+mais encore une fois, nous invitons tout le monde à regarder et même si vous avez des retours ou des commentaires sur le site Web lui-même,
 
 113
 00:11:14,460 --> 00:11:16,980
-s'il vous plait, faite-le.
+s'il vous plait, faites-en nous part.
 
 114
 00:11:17,120 --> 00:11:21,940
@@ -469,19 +469,19 @@ différents résultats : si vous cherchez un exemple dans les jeux de données, 
 
 118
 00:11:42,820 --> 00:11:47,180
-quel est le contexte de la donnée définie, son type de données etc.
+quel est le contexte du jeu de données, le type de données qu'il contient, etc.
 
 119
 00:11:50,680 --> 00:11:58,540
-Il est agréable de savoir que OBIS et EurOBIS sont essentiellement dans le même bâtiment à Oostende.
+Il est bon de savoir que OBIS et EurOBIS sont dans le même bâtiment à Oostende.
 
 120
 00:11:58,720 --> 00:12:03,660
-Ce sont deux instituts différents qui accueillent OBIS et EurOBIS, mais nous sommes dans le même bâtiment;
+Ce sont deux instituts différents qui accueillent OBIS et EurOBIS, mais nous sommes dans le même bâtiment ;
 
 121
 00:12:04,080 --> 00:12:08,600
-donc être à côté l'un de l'autre nous donne vraiment des occasions de travailler en étroite collaboration;
+donc être à côté l'un de l'autre nous donne vraiment des occasions de travailler en étroite collaboration ;
 
 122
 00:12:08,960 --> 00:12:12,280
@@ -489,7 +489,7 @@ Une de ces occasions que nous avons saisie est de commencer
 
 123
 00:12:12,480 --> 00:12:21,080
-développer des outils de contrôle de qualité pour pouvoir évaluer à la fois la qualité et l'adéquation des données que nous avons dans les systèmes de données.
+à développer des outils de contrôle de qualité pour pouvoir évaluer à la fois la qualité et l'adéquation des données que nous avons dans les systèmes de données.
 
 124
 00:12:21,880 --> 00:12:24,340
@@ -505,7 +505,7 @@ Parce que nous vérifions la qualité, nous vérifions l'intégralité, nous ess
 
 127
 00:12:38,160 --> 00:12:43,160
-et sur tous ces niveaux, nous donnons des commentaires à nos fournisseurs source, afin qu'ils puissent
+et sur tous ces niveaux, nous donnons des commentaires à nos fournisseurs sources, afin qu'ils puissent dire
 
 128
 00:12:43,520 --> 00:12:47,680
@@ -517,7 +517,7 @@ Ce que nous faisons, c'est que nous attribuons essentiellement un signal de qual
 
 130
 00:12:54,360 --> 00:13:00,540
-Mais il est important de constater que nous ne disons pas que le record est bon ou mauvais,
+Mais il est important de constater que nous ne disons pas que l'enregistrement est bon ou mauvais,
 
 131
 00:13:00,980 --> 00:13:06,400
@@ -529,11 +529,11 @@ En attribuant ces signaux, nous aidons les gens à filtrer des enregistrements s
 
 133
 00:13:14,760 --> 00:13:22,760
-Je vais simplement donner un exemple: un enregistrement pourrait être "abra alba", qui est une minuscule coquille, on a une photo ici
+Je vais simplement donner un exemple : un enregistrement pourrait être "Abra alba", qui est un minuscule coquillage, on a une photo ici
 
 134
 00:13:23,120 --> 00:13:27,380
-t vous connaissez la latitude et la longitude et vous savez l'année où elle a été recueillie.
+et vous connaissez la latitude et la longitude et vous savez l'année où elle a été recueillie.
 
 135
 00:13:27,880 --> 00:13:30,040
@@ -549,7 +549,7 @@ Il convient également à une analyse temporelle si vous ne regardez que l'anné
 
 138
 00:13:42,300 --> 00:13:44,760
-parce que vous savez en quelle année il a été échantillon mais
+parce que vous savez en quelle année il a été échantillonné mais
 
 139
 00:13:45,120 --> 00:13:49,240
@@ -569,7 +569,7 @@ c'est pour vous donner une indication de ce qu'il peut et ne peut pas être util
 
 143
 00:14:01,320 --> 00:14:09,800
-Il ne sera pas non plus adapté à l'analyse de l'abondance parce que vous savez seulement qu'il est présent, vous ne savez pas combien ont été trouvé dans quelle région.
+Il ne sera pas non plus adapté à l'analyse de l'abondance parce que vous savez seulement qu'il est présent, vous ne savez pas combien ont été trouvés dans quelle région.
 
 144
 00:14:10,540 --> 00:14:11,600
@@ -581,7 +581,7 @@ Comment faisons-nous cela?
 
 146
 00:14:14,500 --> 00:14:17,600
-Nous faisons ces procédures de contrôle de la qualité de deux façons:
+Nous faisons ces procédures de contrôle de la qualité de deux façons :
 
 147
 00:14:17,960 --> 00:14:22,220
@@ -601,7 +601,7 @@ subdivisé en cinq grands degrés: la taxonomie, la géographie, l'exhaustivité
 
 151
 00:14:47,500 --> 00:14:53,880
-La deuxième chose que nous faisons, c'est que nous offrons un certain nombre de ces contrôle de qualité en tant que services Web en ligne,
+La deuxième chose que nous faisons, c'est que nous offrons un certain nombre de ces contrôles de qualité en tant que services Web en ligne,
 
 152
 00:14:54,260 --> 00:14:58,880
@@ -609,11 +609,11 @@ ce qui signifie que vous, en tant que chercheur, pouvez mettre vos données dans
 
 153
 00:14:59,080 --> 00:15:06,740
-lancez le procéssus et obtenir les résultats, puis s'il y avait des incohérences ou des erreurs, vous pouvez immédiatement corriger vos propres données.
+lancer le processus et obtenir les résultats, puis s'il y avait des incohérences ou des erreurs, vous pouvez immédiatement corriger vos propres données.
 
 154
 00:15:08,380 --> 00:15:12,260
-Pour LifeWatch, ce serait par l'URL que vous souhaiteriez empruntée,
+Pour LifeWatch, ce serait par l'URL que vous souhaiteriez emprunter,
 
 155
 00:15:12,460 --> 00:15:16,600
@@ -625,15 +625,15 @@ et il y en a deux qui pourraient être très pertinents pour certains d'entre vo
 
 157
 00:15:22,220 --> 00:15:25,200
-omme le premier,  vu qu'il est très basique, est montré sur la carte,
+comme le premier, vu qu'il est très basique, est montré sur la carte,
 
 158
 00:15:25,600 --> 00:15:28,920
-vous téléverser simplement la latitude et la longitude et vous les placez sur une carte pour
+vous téléversez simplement la latitude et la longitude et vous les placez sur une carte pour
 
 159
 00:15:29,280 --> 00:15:35,200
-vérifiez immédiatement si toutes les coordonnées ou tous les lieux d'échantillonnage sont là où vous vous attendez à ce qu'ils soient.
+vérifier immédiatement si toutes les coordonnées ou tous les lieux d'échantillonnage sont là où vous vous attendez à ce qu'ils soient.
 
 160
 00:15:35,560 --> 00:15:45,700
@@ -641,7 +641,7 @@ Le second est un comparateur de taxon qui signifie que vous comparez vos noms de
 
 161
 00:15:46,200 --> 00:15:49,740
-Par exemple: parce que nous sommes dans les instituts maritimes, nous avons WoRMS,
+Par exemple : parce que nous sommes dans les instituts maritimes, nous avons WoRMS,
 
 162
 00:15:49,780 --> 00:15:53,400
@@ -669,7 +669,7 @@ ce que vous voyez à gauche, c'est le nombre de noms d'espèces et le nombre d'e
 
 168
 00:16:25,460 --> 00:16:30,180
-qui ont été comptés lorsque plusieurs jeux de données ont été combinés en un seul.
+qui ont été comptées lorsque plusieurs jeux de données ont été combinés en un seul.
 
 169
 00:16:31,480 --> 00:16:39,320
@@ -677,7 +677,7 @@ si on regarde un exemple, pour la Méditerranée,  vant le contrôle de la quali
 
 170
 00:16:40,060 --> 00:16:47,160
-maintenant, après un contrôle de qualité, la vérification vérifie que chaque nom est correctement orthographié et est bien le nom synonyme déjà accepté.
+maintenant, après un contrôle de qualité, la procédure vérifie que chaque nom est correctement orthographié et est bien le nom synonyme déjà accepté.
 
 171
 00:16:47,480 --> 00:16:51,560
@@ -685,7 +685,7 @@ Nous avons réduit le nombre d'espèces à un peu plus de huit cents.
 
 172
 00:16:52,300 --> 00:16:58,920
-Donc, cela montre vraiment que le contrôle de qualité sur votre taxonomie ou sur votre taxonomie est vraiment important.
+Donc, cela montre vraiment que le contrôle de qualité sur votre concept ou votre taxonomie est vraiment important.
 
 173
 00:17:01,440 --> 00:17:09,900
@@ -697,7 +697,7 @@ parce que si vous ne vérifiez pas votre taxonomie et que vous avez une erreur d
 
 175
 00:17:16,600 --> 00:17:23,900
-alors vous voyez toujours cela comme important ; vous obtenez alors une gamme de biodiversité plus élevée dans le domaine que vous regardez
+alors vous voyez toujours cela comme une espèce différente ; vous obtenez alors une gamme de biodiversité plus élevée dans le domaine que vous regardez
 
 176
 00:17:24,280 --> 00:17:26,520
@@ -737,7 +737,7 @@ grâce au lien avec WoRMS si vous interrogez l'un de ces noms, vous obtenez les 
 
 185
 00:17:59,140 --> 00:18:03,120
-parce que le système sait que c'est fondamentalement le même, donc il les rassemble ensemble.
+parce que le système sait que c'est fondamentalement le même, donc il les rassemble.
 
 186
 00:18:04,600 --> 00:18:09,160
@@ -745,15 +745,15 @@ Une deuxième vérification comme je l'ai précédemment mentionné : la vérifi
 
 187
 00:18:09,440 --> 00:18:15,500
-nous examinons aussi des choses très simple : que la longitude et la latitude soit différente de 0; 0.
+nous examinons aussi des choses très simples : que la longitude et la latitude soit différente de 0;0.
 
 188
 00:18:15,900 --> 00:18:21,360
-si vous mettez cet évenement dans OBIS avec comme coorodnnées 0;0 ; cela reste un point chaud sur la biodiversité de la carte,
+si vous mettez cet évenement dans OBIS avec comme coordonnées 0;0 ; cela en fait un point chaud sur la biodiversité de la carte,
 
 189
 00:18:21,600 --> 00:18:29,340
-car Il est juste au large de la côte ouest de  l'Afrique, donc c'est un lieu marin, mais qui est incorrect dans la plupart des cas que nous connaissons.
+car il est juste au large de la côte ouest de l'Afrique, donc c'est un lieu marin, mais qui est incorrect dans la plupart des cas que nous connaissons.
 
 190
 00:18:29,600 --> 00:18:35,020
@@ -789,7 +789,7 @@ Nous avons également des jeux de données côtières, donc nous voulons éviter
 
 198
 00:19:10,360 --> 00:19:14,740
-signalé les côtiers comme étant éventuellement incorrectes.
+signaler les données côtières comme étant éventuellement incorrectes.
 
 199
 00:19:14,900 --> 00:19:16,080
@@ -797,7 +797,7 @@ Juste un exemple :
 
 200
 00:19:17,020 --> 00:19:24,700
-Il s'agit d'un ensemble de données réelles que nous avons reçu sur les observations et les échouages de tortues marines au Royaume-Uni et len rlande.
+Il s'agit d'un ensemble de données réelles que nous avons reçu sur les observations et les échouages de tortues marines au Royaume-Uni et en Irlande.
 
 201
 00:19:25,460 --> 00:19:29,900
@@ -821,7 +821,7 @@ Donc, la cartographie ou l'utilisation d'une visualisation de vos coordonnées p
 
 206
 00:19:52,440 --> 00:19:56,500
-identifiez très rapidement ces erreurs et corrigez-les très facilement.
+identifier très rapidement ces erreurs et à les corriger très facilement.
 
 207
 00:19:57,900 --> 00:20:09,280
@@ -841,7 +841,7 @@ Je vais juste vous montrer un exemple.
 
 211
 00:20:23,760 --> 00:20:26,700
-Il s'agit d'un jeu de données CIEM que nous avons reçu
+Il s'agit d'un jeu de données ICES que nous avons reçu
 
 212
 00:20:27,440 --> 00:20:31,500
@@ -857,7 +857,7 @@ C'est comme cela.
 
 215
 00:20:37,420 --> 00:20:42,600
-Mais la deuxième chose que vous voyez, c'est que vous avez beaucoup de points dans le nord et que vous avez beaucoup de points dans le sud,
+Mais la deuxième chose que vous voyez, c'est que vous avez beaucoup de points dans le Nord et que vous avez beaucoup de points dans le Sud,
 
 216
 00:20:42,880 --> 00:20:45,440
@@ -865,7 +865,7 @@ c'est peut-être bon, mais vous n'êtes pas tout à fait sûr.
 
 217
 00:20:47,820 --> 00:20:52,160
-D'abord revenons aux points qui sont sur les terres: ils sont ramassés
+D'abord revenons aux points qui sont sur les terres : ils sont repérés
 
 218
 00:20:52,580 --> 00:20:59,640
@@ -885,7 +885,7 @@ Mais pour le deuxième groupe, ceux en orange,
 
 222
 00:21:13,560 --> 00:21:15,860
-ils sont bon parce qu'ils sont dans la mer.
+ils sont bons parce qu'ils sont dans la mer.
 
 223
 00:21:16,400 --> 00:21:19,160
@@ -897,7 +897,7 @@ mais si nous faisons cette analyse des aberrations, alors
 
 225
 00:21:24,380 --> 00:21:32,540
-ceux-là sortent toujours comme potentiellement incorrect car cela ne correspond pas tout à fait à la philosophie derrière l'analyse des anomalies.
+ceux-là sortent toujours comme potentiellement incorrects car cela ne correspond pas tout à fait à la philosophie derrière l'analyse des anomalies.
 
 226
 00:21:32,960 --> 00:21:36,260
@@ -913,11 +913,11 @@ Les points sur la terre étaient définitivement une erreur, donc ceux-ci ont é
 
 229
 00:21:45,920 --> 00:21:52,480
-et les localisation en Antarctique étaient également incorrects ; quelque chose a dysfonctionner lors du relevé de la latitude et longitude
+et les localisations en Antarctique étaient également incorrectes ; quelque chose a dysfonctionné lors du relevé de la latitude et longitude
 
 230
 00:21:52,720 --> 00:21:58,340
-tandis que ceux du nord sont corrects et sont apparus lors de l'analyse des aberrations
+tandis que ceux du Nord sont corrects et sont apparus lors de l'analyse des aberrations
 
 231
 00:21:58,640 --> 00:22:01,880
@@ -937,7 +937,7 @@ certains enregistrements ou si vous devez les jeter lorsque vous faites une anal
 
 235
 00:22:19,480 --> 00:22:26,900
-Juste le dernier exemple sur les valeurs aberrantes: de sorte que le précédent était dans un jeu de données ; on ne regardait que les sites d'échantillonnage.
+Juste le dernier exemple sur les valeurs aberrantes : l'exemple précédent était dans un jeu de données ; on ne regardait que les sites d'échantillonnage.
 
 236
 00:22:27,480 --> 00:22:34,160
@@ -945,7 +945,7 @@ Ce que nous faisons également au niveau de l'OBIS, c'est que l'on examine les v
 
 237
 00:22:34,580 --> 00:22:38,660
-OBIS a donc toutes ces bases de données ou tous ces jeux de données qui sont mis ensembles
+OBIS a donc toutes ces bases de données ou tous ces jeux de données qui sont mis ensemble
 
 238
 00:22:38,860 --> 00:22:41,440
@@ -969,7 +969,7 @@ il tient compte de la profondeur géographique, de la salinité et de la tempér
 
 243
 00:22:56,620 --> 00:22:59,260
-Et encore la même chose que sur la carte précédente:
+Et encore la même chose que sur la carte précédente :
 
 244
 00:22:59,900 --> 00:23:02,660
@@ -993,15 +993,15 @@ Nous avons déjà fait cela, nous avons consulté
 
 249
 00:23:22,820 --> 00:23:29,560
-avec de la documentation, avec des experts et avec des informations écologiques disponibles
+de la documentation, des experts et des informations écologiques disponibles
 
 250
 00:23:29,960 --> 00:23:33,760
-et cela a montré que les points au nord sont corrects
+et cela a montré que les points au Nord sont corrects
 
 251
 00:23:34,040 --> 00:23:40,240
-tandis que les points dans la mer Méditerranée étaient en fait une mauvaise identification de cette espèce spécifique.
+tandis que les points dans la mer Méditerranée étaient en fait une mauvaise identification de cette espèce en particulier.
 
 252
 00:23:40,840 --> 00:23:47,840
@@ -1029,7 +1029,7 @@ Par exemple, pour la France, vous pouvez simplement accéder au portail et
 
 258
 00:24:09,600 --> 00:24:14,940
-obtenir un aperçu de tous les ensembles de données maritimes de France actuellement disponibles dans le système.
+obtenir un aperçu de tous les jeux de données maritimes de France actuellement disponibles dans le système.
 
 259
 00:24:15,260 --> 00:24:21,800
@@ -1049,15 +1049,15 @@ Encore une fois, je vous invite à aller sur le portail et voir par vous-même c
 
 263
 00:24:40,660 --> 00:24:43,620
-Maintenant, OBIS et GBIF : qu'elles sont leurs relations ?
+Maintenant, OBIS et GBIF : quelles sont leurs relations ?
 
 264
 00:24:43,800 --> 00:24:45,640
-Parce que c'est basiquement là où nous voulons aller.
+Parce que c'est essentiellement là où nous voulons aller.
 
 265
 00:24:47,700 --> 00:24:56,000
-Juste un résumé à nouveau: nous avons OBIS qui fournit des données via ses différents nœuds: régional et thématique.
+Juste un résumé à nouveau : nous avons OBIS qui fournit des données via ses différents nœuds : régionaux et thématiques.
 
 266
 00:24:56,540 --> 00:24:59,860
@@ -1065,11 +1065,11 @@ Fondamentalement, GBIF a une approche très similaire,
 
 267
 00:25:00,060 --> 00:25:07,500
-de la façon dont cela fonctionne : avec les installations bi-niveau d'information sur la biodiversité ; le GBIF et les nœuds. C'est la même chose.
+dans la façon dont cela fonctionne : avec les installations bi-niveau d'information sur la biodiversité ; le GBIF et les nœuds. C'est la même chose.
 
 268
 00:25:08,580 --> 00:25:16,080
-Alors, que c'est-il passé en 2014 ? Un accord a été signé entre OBIS et GBIF.
+Alors, que s'est-il passé en 2014 ? Un accord a été signé entre OBIS et GBIF.
 
 269
 00:25:16,580 --> 00:25:24,640
@@ -1081,7 +1081,7 @@ Il est logique de travailler ensemble.
 
 271
 00:25:27,620 --> 00:25:36,080
-Et ce qu'il doit être fait et que nous essaierons de faire, c'est de maximiser la qualité des données pour l'utilisation
+Et ce qui doit être fait et que nous essaierons de faire, c'est de maximiser la qualité des données pour l'utilisation
 
 272
 00:25:36,420 --> 00:25:41,280
@@ -1089,7 +1089,7 @@ de tous les jeux de données sur la biodiversité marine accessibles par les deu
 
 273
 00:25:42,180 --> 00:25:47,960
-Ceci est sur le, ce que j'aime appeler le flou au-dessus de nous, niveau de OBIS et du GBIF,
+Ceci est sur le, ce que j'aime appeler le flou au-dessus de nous, au niveau de OBIS et du GBIF,
 
 274
 00:25:48,180 --> 00:25:57,080
@@ -1101,7 +1101,7 @@ C'est ce que je vais expliquer.
 
 276
 00:26:01,400 --> 00:26:05,480
-Ce qui s'est passé l'année dernière, se situe au niveau de l'OBIS et du GBIF.
+Ce qui s'est passé l'année dernière, se situe au niveau de OBIS et du GBIF.
 
 277
 00:26:05,960 --> 00:26:11,720
@@ -1133,7 +1133,7 @@ Donc, ce qui se passera dans la pratique, c'est que les noeuds OBIS,
 
 284
 00:26:46,240 --> 00:26:51,860
-les jeux de données maritimes des noeuds de GBIF peuvent alimenter les noeuds OBIS
+les jeux de données maritimes des noeuds GBIF peuvent alimenter les noeuds OBIS
 
 285
 00:26:52,680 --> 00:26:56,740
@@ -1145,7 +1145,7 @@ de sorte que OBIS vise un aperçu complet de tous les jeux de données marines d
 
 287
 00:27:04,180 --> 00:27:09,400
-L'ensemble ou la configuration générale a pour but d'encourager la collaboration entre
+L'ensemble, la configuration générale a pour but d'encourager la collaboration entre
 
 288
 00:27:09,400 --> 00:27:13,420
@@ -1181,7 +1181,7 @@ Diapositive finale : où nous dirigeons nous à présent ?
 
 296
 00:27:53,960 --> 00:28:03,100
-J'ai très rapidement, examinez EurOBIS cette semaine et voyez quels jeuxde données de France sont déjà disponibles, sur la marine.
+J'ai très rapidement examiné EurOBIS cette semaine et voyez quels jeux de données de France sont déjà disponibles, sur le milieu marin.
 
 297
 00:28:03,740 --> 00:28:08,360
@@ -1189,7 +1189,7 @@ Il y en a plus que ceux que j'ai énumérés ici, mais ce sont ceux qui ont vrai
 
 298
 00:28:08,700 --> 00:28:16,800
-nous avons déjà des données de l'Ifremer, de l'IRD, du musée (où nous sommes) , de l'Observatoire océanologique.
+nous avons déjà des données de l'Ifremer, de l'IRD, du Muséum (où nous sommes), de l'Observatoire océanologique.
 
 299
 00:28:17,200 --> 00:28:23,500
@@ -1229,17 +1229,17 @@ discuter avec le GBIF France et voir comment nous pouvons commencer cette collab
 
 308
 00:29:02,640 --> 00:29:09,240
-C'est un long processus, qui sera toujours continue, mais il pourrait être bon d'établir un premier contact ici et
+C'est un long processus, qui sera toujours continu, mais il pourrait être bon d'établir un premier contact ici et
 
 309
 00:29:09,480 --> 00:29:12,040
-voir où on peut aller de là.
+voir où on peut aller à partir de là.
 
 310
 00:29:12,220 --> 00:29:16,540
-Je vous remercie beaucoup et je ne sais pas s'ils ont le temps de poser des questions.
+Je vous remercie beaucoup et je ne sais pas s'il reste du temps pour poser des questions.
 
 311
 00:29:16,540 --> 00:29:18,120
-*applaudissement*
+*applaudissements*
 
