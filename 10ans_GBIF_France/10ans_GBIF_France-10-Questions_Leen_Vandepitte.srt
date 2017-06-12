@@ -4,7 +4,7 @@ Participant : Donc, vous avez mentionné que vous utilisez certains filtres pour
 
 2
 00:00:08,240 --> 00:00:16,560
-mais vous n'utilisez pas n espace au hasard afin que vous puissiez également rechercher une certaine plausibilité de certains des nouveaux échantillons
+mais vous n'utilisez pas l'espace au hasard afin que vous puissiez également rechercher une certaine plausibilité de certains des nouveaux échantillons
 
 3
 00:00:17,320 --> 00:00:21,900
@@ -16,7 +16,7 @@ en Suisse au moins avec la base de données floristiques
 
 5
 00:00:26,600 --> 00:00:31,440
-qui fournit ensuite les données à GBIF, ils sont, en ce moment, sur l'implémentation d'une procédure
+qui fournit ensuite les données au GBIF, ils sont, en ce moment, sur l'implémentation d'une procédure
 
 6
 00:00:31,800 --> 00:00:36,060
@@ -37,7 +37,7 @@ Il n'y a aucun moyen de prendre en compte les résultats de ces requêtes sur le
 
 10
 00:00:54,460 --> 00:00:59,140
-Pour les aberations,
+Pour les aberrations,
 
 11
 00:00:59,640 --> 00:01:08,280
@@ -49,7 +49,7 @@ et la profondeur et d'autres critères.
 
 13
 00:01:11,600 --> 00:01:18,040
-Ils regardent cela, en combinaison avec d'autres critère pour décider : décider selon
+Ils regardent cela, en combinaison avec d'autres critères pour décider : décider selon
 
 14
 00:01:18,140 --> 00:01:21,040
@@ -61,7 +61,7 @@ l'analyse des valeurs aberrantes si elle est anormale ou non.
 
 16
 00:01:27,040 --> 00:01:31,000
-L'un d'entre eux a une description complète des procédures de contrôle de la qualité
+L'une d'entre elles a une description complète des procédures de contrôle de la qualité
 
 17
 00:01:31,080 --> 00:01:34,700
@@ -73,7 +73,7 @@ Participant : C'est généralement un exemple où je pense que nous pourrions am
 
 19
 00:01:41,020 --> 00:01:50,600
-de ces filtres utilisant l'environnement et cherchez à trouver un échantillon pour une espèce dans un environnement très peu probable
+de ces filtres utilisant l'environnement et chercher à trouver un échantillon pour une espèce dans un environnement très peu probable
 
 20
 00:01:50,800 --> 00:01:54,360
